@@ -1,0 +1,5 @@
+﻿++ Joke Or Slang Spelling
+
+  - language interpreter
+    - attribute.
+      - possiblly jestful, ironic word choice by user if (not a typo).

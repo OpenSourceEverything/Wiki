@@ -1,0 +1,23 @@
+﻿++ Object Device Amplifier Electronic Pre Amplifier
+
+
++++ SUMMARY
+
+ObjectDeviceAmplifierElectronic
+
+converts weak signal into output signal strong enough for:
+  noise tolerance
+  "readability" for further processing
+  
+Without a pre-amplifier, audio output would be distored, noisy.
+
+Typically placed close to the input source to avoid noise, interference.
+
+
+
++++ RELATED
+OSEObjectDeviceAmplifierElectronicPreAmplifier
+
++++ PARENT
+ObjectDeviceAmplifierElectronic
+

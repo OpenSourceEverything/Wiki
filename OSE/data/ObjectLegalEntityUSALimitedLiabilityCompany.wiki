@@ -1,0 +1,15 @@
+﻿++ Object Legal Entity USA Limited Liability Company
+
+
++++ SUMMARY
+
+* [Attributes]
+  * pass-through taxation of a partnership or sole proprietorship 
+  * limited liability legal protection of a [corporation].
+
++++ CHILDREN
+
+ObjectLegalEntityUSALimitedLiabilityCompanyIndiana
+
++++ PARENT
+ObjectLegalEntityUSA

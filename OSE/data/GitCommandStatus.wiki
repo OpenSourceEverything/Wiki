@@ -1,0 +1,19 @@
+﻿++ Git Command Status
+
+
++++ SUMMARY
+
+  *  
+  
+  
++++ DETAILS
+
+  * Displays paths that have differences between the GitIndex and the current HEAD commi
+  
++++ RELATED
+ 
+  * GitHowToSeeAllFileDifferencesSinceLastCommit
+
++++ PARENT
+
+  * GitCommands

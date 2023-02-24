@@ -1,0 +1,41 @@
+﻿++ Roofing Drip Edge
+
++++ SUMMARY
+
+
+  * Drip over underlayment on rakes as said above and under I&W on eaves. 
+  * I*W, then drip, then I&W would be superior.
+  * We’ve had inspectors make us pull up the bottom 3 rows if our underlayment doesn’t run at least even with the drip on the eaves.
+  * Space the drip edge away from the roof fascia: I like to install the drip edge so that the inner surface of the vertical lip of the drip edge is about 1/4" proud (away from) the surface of the fascia board.
+  * Even though the outwards-bend of the lower edge of the vertical lip of the drip edge is intended to send water away from the building, this added 1/4" space improves that performance, avoiding the travel of water back up under the drip edge by capillary action where it then wants to drivel down the fascia.
+
+
+
++++ CHILDREN
+
+  * HowToCutDripEdge
+
+
+++++ INDIANA STATE CODE FOR DRIP EDGE AND ICE BARRIERS
+  * RoofingDripEdgeIndianaStateCodeForDripEdgeAndIceBarriers
+
+++++ HOW TO CUT DRIP EDGE
+  * 
+
+
++++ RELATED
+
+  * TypesOfDripEdge
+  * [rel://files/Berger-Roof-Edge-Trim.pdf]
+
+
+
++++ EXTERNAL LINKS
+  * Very useful information in forum
+    * https://talk.roofing.com/t/underlayment-first-or-drip-edge/6494/7 
+
+
+
++++ PARENT
+
+  [GK]

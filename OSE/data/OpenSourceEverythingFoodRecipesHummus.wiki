@@ -1,0 +1,36 @@
+﻿++ Open Source Everything Food Recipes Hummus
+
+
++++ TOOLS
+ 
+  * Bread pan (to shape as desired)
+  
+  *  
+
+
++++ INGREDIENTS
+
+  * (3/4 cup)         olive or canola oil
+  * (2 cups)          canned chickpeas, rinsed and drained
+  * (1/4-1/2 cup)     tahini (optional)
+  * (3 tablespoons)   lemon juice
+  * (2 teaspoons)     minced garlic
+  * (1/2 teaspoon)    salt
+
++++ DIRECTIONS
+
+  * 1)
+  * 2)
+  * 3)
+  * 4)
+  * 5)
+
++++ NOTES
+
+  *
+
++++ PARENT
+
+  OpenSourceEverythingFoodRecipeTemplate
+  OpenSourceEverythingFoodRecipes
+  

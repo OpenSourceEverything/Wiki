@@ -1,0 +1,18 @@
+﻿++ Computer ProcessScience Curriculum
+
+  * based on https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
+  
+  * AlgorithmsAndDataStructures
+  * AtrificialIntelligence
+  * ComputerDesignAndEngineering
+  * ComputerNetworks
+  * Cryptography]
+  * DataMining
+  * GraphicsAndVisualization
+  * HumanComputerInterfaces
+  * OperatingSystems
+  * ComputerScienceProgrammingLanguages
+  * SoftwareDesignAndEngineering
+  * TheoryOfComputation
+  * 
+  

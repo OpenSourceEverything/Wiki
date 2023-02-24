@@ -1,0 +1,26 @@
+﻿++ Automotive Maintenance Belt Tensioner
+
++++ SEARCH
+  Serpentine Belt Tensioner Pulley
+  
+  
++++ SUMMARY
+
+++++ TYPES OF BELT TENSIONER SYSTEMS
+  * Cars either have
+    * manually adjusted
+    * automatically adjusting tension systems
+      * Cannot be adjusted, must be replaced or fixed (possible? how?)
+      * Honda Odyssey 2002 has automatic belt tensioner pulley
+
+++++ 
+
+      
++++ DIAGNOSING AND FIXING BAD BELT TENSION
+  * Clicking, Squeeking noises near belt tensioner may be sign of looose, tight
+  
+  
++++ PARENT
+
+  ProcessVehicleMaintenance
+  

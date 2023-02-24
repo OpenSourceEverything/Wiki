@@ -1,0 +1,34 @@
+﻿++ Residential Home Ownership
+
+
+
+
++++ Summary
+
+  Intended scope is all knowledge necessary to maintan an advanced dwelling.
+  
+
+
+
++++ Children
+
+  HowToFixALeakyFaucet
+
+
+
++++ External Links
+  
+  ResidentialHomeMaintenanceChecklist
+  
++++ Related
+
+  GKResidentialProperties
+
+  ResidentialHomeConstruction
+
++++ Parent
+
+  ResidentialHomeOwnership
+
+  [Construction]
+  

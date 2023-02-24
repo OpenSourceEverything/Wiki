@@ -1,0 +1,20 @@
+﻿++ Computers Clone Drive
+
++++ SUMMARY
+  * Windows
+    * Just use imagew.exe, and do "copy"
+    
+
++++ CHILDREN
+
++++ RELATED
+
+  * 
+
++++ SEARCH
+
+  * how to clone drive format drive format partition. copy harddrive copy hard drive clnoe hard drive clone harddrive
+ 
++++ PARENT
+
+  * [Computers]

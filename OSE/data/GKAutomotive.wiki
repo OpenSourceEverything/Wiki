@@ -1,0 +1,26 @@
+﻿++ GK Automotive
+
++++ SUMMARY
+
+  * GKAutomotiveHondaOdysseyLX2002
+    
+    
+    MAINTENANCE
+    * 278500 - maintenance
+      * Tensioner pulley on serpentine
+      * serpentine belt
+      * high pressure power steering line from pump to rack and pinion or whatever
+      * alternator bracket replacement
+      
+    KNOWN ISSUES
+      * cracked some electrical connector when doing high pressure power steering line,
+        check videos you took for details.
+        
+      * 
+        
+    
+
+
++++ PARENT
+
+  [GKPersonal]

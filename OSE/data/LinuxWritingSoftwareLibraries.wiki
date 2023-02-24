@@ -1,0 +1,8 @@
+﻿++ Linux Writing Software Libraries
+
++++ External Links
+  http://tldp.org/HOWTO/Program-Library-HOWTO/
+
+
++++ Parent
+  [Linux]

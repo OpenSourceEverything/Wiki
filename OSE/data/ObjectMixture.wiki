@@ -1,0 +1,16 @@
+﻿++ Object Mixture
+
+
++++ SUMMARY
+
+* Mixtures can be 
+  * heterogenous (unevenly distributed)
+  * homogeneous (uniform throughout)
+
++++ CHILDREN
+
+ObjectMixtureSolution
+
++++ PARENT
+
+[Object]

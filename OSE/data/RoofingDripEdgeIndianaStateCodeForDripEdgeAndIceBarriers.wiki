@@ -1,0 +1,34 @@
+﻿++ Roofing Drip Edge Indiana State Code For Drip Edge And Ice Barriers
+
+
++++ SUMMARY
+
+  * 
+
+
++++ DETAILS
+
+  * R905.1.2 
+  *Ice barriers.* 
+  
+  In areas where there has been a history of ice forming along the eaves causing a backup of water as designated in Table R301.2(1), 
+    - ice barrier shall be installed for asphalt shingles, metal roof shingles, mineral-surfaced roll roofing, slate and slate-type shingles, wood shingles and wood shakes. 
+    - The ice barrier shall consist of not fewer than two layers of underlayment cemented together, or a self-adhering polymer-modified bitumen sheet shall be used in place of normal underlayment and extend from the lowest edges of all roof surfaces to a point not less than 24 inches (610 mm) inside the exterior wall line of the building. 
+  
+  On roofs with slope equal to or greater than eight units vertical in 12 units horizontal ( 67-percent slope), the ice barrier shall also be applied not less than 36 inches (914 mm) measured along the roof slope from the eave edge of the building. Exception: Detached accessory structures not containing conditioned floor area.
+
+
+  R905.2.8.5 
+  *Drip edge.* 
+  A drip edge shall be provided at eaves and rake edges of shingle roofs. 
+  Adjacent segments of drip edge shall be overlapped not less than 2 inches (51 mm). 
+  Drip edges shall extend not less than ¼ inch (6.4 mm) below the roof sheathing and extend up back onto the roof deck not less than 2 inches (51 mm). 
+  Drip edgesshall be mechanically fastened to the rood deck at not more than 12 inches (305 mm) o.c. with fasteners asspecified in Section R905.2.5 
+  Underlayment shall be installed over the drip edge along eaves and under the dripedge along rake edges.
+
+
+
+
++++ PARENT
+
+  RoofingDripEdge

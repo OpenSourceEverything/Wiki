@@ -1,0 +1,28 @@
+﻿++ Hydroponics Drip System
+
+
+  Very similar to Hydroponics
+  
+  between each grow you have to flush the hoses with a cleaning solution to avoid buildup
+
+
+  - constatnly feeds small stream, dont have to worry about overwatering.
+    - this provides constant aeration, or supply of oxygen to plant as well.
+
+  - plants are above resevoir
+  
+  - great for large number of plants
+  
+  - least water use
+  
+  - has more components, more plastic, more installation time.
+  
+  
+  
++++ Related
+
+  HydroponicsDWC
+
++++ Parent
+
+  [Hydroponics]

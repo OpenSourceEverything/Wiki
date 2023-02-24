@@ -1,0 +1,15 @@
+﻿++ Personal Finance Filing State Taxes Indiana
+
++++ SUMMARY
+
+  * ATTACHED:
+    IT-40
+    SCHEDULES 1-7
+    CT-40
+    W-2	
+    1099-SA (FOR IRA THIS YEAR)
+
+
++++ PARENT
+
+  PersonalFinance

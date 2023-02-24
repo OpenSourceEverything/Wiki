@@ -1,0 +1,11 @@
+﻿++ Home Security System Using Old Android Phones
+
++++ SUMMARY
+
+  - Using old android phones,
+    - http://robwillis.info/2013/10/android-ip-security-cam-with-motion-detection-and-recording/
+
+
++++ PARENT
+
+  ResidentialHomeSecurity

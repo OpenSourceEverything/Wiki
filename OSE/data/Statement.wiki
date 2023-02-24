@@ -1,0 +1,11 @@
+﻿++ Statement
+
+
++++ SUMMARY
+
+One of two possible definitions:
+* 1) Declarative [Sentence] that is either true or false
+  * OSE: Arbitrarily call SentenceDeclarative 
+* 2) PhilosophyLogicProposition 
++++ RELATED
+[Sentence]

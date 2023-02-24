@@ -1,0 +1,7 @@
+﻿++ Parallel Programming
+
+
+
++++ Redirect
+  * ParallelComputing
+  * ParalllelProcessing

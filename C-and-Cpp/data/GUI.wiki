@@ -1,0 +1,20 @@
+﻿++ GUI
+[UI]
+
+
++++ SUMMARY
+
+
+GUI libraries for C++
+
+* three most notable are:
+  GTK+
+  QT
+  wxWidgets
+
+GTK+ and QT are two API's that come with their own widget sets (buttons, lists, etc.), whilst wxWidgets is more of a wrapper API to the currently running platforms native widget set. This means that the two former might look a bit differently compared to the rest of the system whilst the latter one will look just like a native program.
+
+
++++ PARENT
+
+[C++]

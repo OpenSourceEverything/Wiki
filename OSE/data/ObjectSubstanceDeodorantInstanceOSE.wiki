@@ -1,0 +1,11 @@
+﻿++ Object Substance Deodorant Instance OSE
+
++++ Ingredients
+  * CornStarch
+  * CoconutOil
+  * ArrowrootPowder
+  * EssentialOils
+  * BakingSoda (very little)
+  
++++ PARENT
+  * ObjectSubstanceDeodorantInstance

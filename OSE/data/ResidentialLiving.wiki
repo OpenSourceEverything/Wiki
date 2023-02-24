@@ -1,0 +1,40 @@
+﻿++ Residential Living
+
+ResidentialHomeConstructionRepairAndLiving
+
+
++++ SUMMARY
+
+  Scope is related skills, knowledge et cetera necessary to live in a 
+  residence.  
+  
++++ Maintenance
+  
+    ResidentialHomeMaintenance
+  
++++ FOOD
+
++++ CHILDREN
+
+    ResidentialHomeConstruction
+
+
++++ RELATED
+
+  OSEResidentialLivingGarage
+
+  ResidentialHomeSumpPump
+    
+  GrowingAPrivacyFenceMadeOfTrees
+
+  ResidentialHomeConstruction
+    
+  OwningAResidentialWellWaterSystem
+  
+  WaterFiltrationAndTesting
+  
+  HowToRepairDrywall
+  
++++ Parent
+  [GK]
+  

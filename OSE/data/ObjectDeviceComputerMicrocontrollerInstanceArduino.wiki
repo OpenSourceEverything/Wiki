@@ -1,0 +1,23 @@
+﻿++ Object Device Computer Microcontroller Instance Arduino
+
+
++++ SUMMARY
+
++++ DETAILS
+
+which can do wifi?
+  A: ESP8266 12V 1-CH WeMos D1 Mini Wifi Relay Shield Development Board for Arduino
+
+two components from programming perspective: 
+  * 1) microcontroller that stores your program (usu ATmega328P) 
+  * 2) an IntegratedCircuit 
+    * acts as bridge between the computers USB and microcontroller
+[ESP8266]
++++ CHILDREN
+DifferenceBetweenArduinoCH340GAndATmega328P
+
++++ INSTANCES
+ObjectDeviceComputerMicrocontrollerInstanceArduinoUNO
+
++++ PARENT
+ObjectDeviceComputerMicrocontrollerInstance

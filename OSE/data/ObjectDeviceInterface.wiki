@@ -1,0 +1,16 @@
+﻿++ Object Device Interface
+
++++ SUMMARY
+
+  * Note that ObjectInterface is not always a device, but sometimes an [Object].
+    * This page is for interfaces that are devices.
+
+
++++ CHILDREN
+
+
+ObjectDeviceInterfaceAudio
+
++++ PARENT
+
+ObjectDevice

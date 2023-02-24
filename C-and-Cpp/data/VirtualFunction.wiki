@@ -1,0 +1,7 @@
+﻿++ Virtual Function
+
+
+
+
+
+There are cases where you don't want the overhead of having a [vtable] pointer included in every object, so you take pains to make sure there are no virtual methods in the class. Take for example a class that represents a point and has two members, x and y - you might have a very large collection of these points, and a vtable pointer would increase the size of the object by at least 50%.

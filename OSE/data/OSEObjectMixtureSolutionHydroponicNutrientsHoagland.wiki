@@ -1,0 +1,49 @@
+﻿++ OSE Object Mixture Solution Hydroponic Nutrients Hoagland
+
++++ SUMMARY
+
+  * 
+    N 210 ppm
+    P 31 ppm
+    K 235 ppm
+
+    Ca 200 ppm
+    S 64 ppm
+    Mg 48 ppm
+    B 0.5 ppm
+
+    Fe 1 to 5 ppm
+    Mn 0.5 ppm
+    Zn 0.05 ppm
+    Cu 0.02 ppm
+    Mo 0.01 ppm
+
+
++++ INGREDIENTS
+
+
+    PotassiumNitrate, [KNO3]
+    CalciumNitrateTetrahydrate, [Ca(NO3)2*4H2O]
+    Magnesium sulfate heptahydrate, MgSO4•7H2O
+    Potassium dihydrogen phosphate, KH2PO4 or
+    Ammonium dihydrogen phosphate, (NH4)H2PO4
+    Boric acid, H3BO3
+    Manganese chloride tetrahydrate, MnCl2•4H2O
+    Zinc sulfate heptahydrate, ZnSO4•7H2O
+    Copper sulfate pentahydrate, CuSO4•5H2O
+    Molybdic acid monohydrate, H2MoO4•H2O or
+    Sodium molybdate dihydrate, Na2MoO4•2H2O
+    Ferric tartrate or Iron(III)-EDTA− or Iron chelate (Fe-EDDHA−)
+
+
+
++++ CHILDREN
+  * 
+
++++ EXTERNAL REFERENCE
+  * https://en.wikipedia.org/wiki/Mixture#Homogeneous_and_heterogeneous_mixtures
+  * https://en.wikipedia.org/wiki/Hoagland_solution
+
++++ PARENT
+
+  * OSEObjectMixtureSolutionHydroponicNutrients

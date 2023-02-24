@@ -1,0 +1,63 @@
+﻿++ OSE Object Device Isolator Signal Audio
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
++++ SUMMARY
+
+ObjectDeviceIsolatorSignalAudio
+  
+  
+  * Design exists for both 1 input and 2 input modules. 
+  * Supports mono TRS or XLR inputs.
+  * A single input has
+    * 1/4 TRS input: rel://files/_QTWE56S0AQR69DHQPO7E.png 
+    * XLR Input 
+    * 1/4 TRS Output 
+    * XLR Output.
+
+      
+  * Main high level components/sub-systems ()
+    * 1:1 audio Transformer
+    * pull down 20k resistors on all lines to reduce "pops"
+    * RC "Zobel network"
+      * prevent self-resonance effects/shunts frequencies above ~20kHz to ground
+  
+
+  * Tip is +, sleeve -. 
+  
+  * 1 pair of input jacks, 1 pairs of output jacks. 
+    * 4 connectors total 
+
+
++++ INGREDIENTS
+OSEObjectDeviceSignalAudioIsolatorIngredients
+
+
++++ INSTRUCTIONS 
+OSEObjectDeviceIsolatorSignalAudioCreationInstructions
+
++++ VERIFICATION/QUALITY CONTROL 
+
++++ COST AND BOM
+
+[rel://files/OSE/Object/Device/Isolator/Signal/Audio/BillOfMaterials] 
+[rel://files/OSE/Object/Device/Isolator/Signal/Audio/Cost]
+
++++ NOTES
+OSEObjectDeviceSignalAudioIsolatorNotes
+
++++ RELATED 
+
+ProcessStudyMathematicsFunctionSignalAudio
+ObjectDeviceTransformerIsolation
+OSEObjectDeviceTemplate
+
++++ EXTERNAL REFERENCES
+
+  (1) Forum post regarding component selection for guitar signal isolation
+  https://www.thegearpage.net/board/index.php?threads/guitar-signal-isolation-transformer-component.2046292/
+  (2) more great info
+  https://www.diystompboxes.com/smfforum/index.php?topic=40603.0
++++ PARENT
+ObjectDevice
+ObjectDeviceIsolatorSignalAudio
+
+OSEObjectDeviceIsolator

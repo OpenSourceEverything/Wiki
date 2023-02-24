@@ -1,0 +1,10 @@
+﻿++ Raspberry Pi Schematics
+
++++ SUMMARY
+
+  * https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/README.md
+  * 
+
++++ PARENT
+
+  RaspberryPi

@@ -1,0 +1,42 @@
+﻿++ Open Source Everything Solar Cell
+
+
+
+
+
+++++ Silicon and Solar Cells
+  (taken from https://www.addisonengineering.com/about-solar-wafers)
+About Silicon
+Various materials display varying efficiencies and have varying costs. Materials for efficient solar cells must have characteristics matched to the spectrum of available light. Some cells are designed to efficiently convert wavelengths of solar light that reach the Earth surface. However, some solar cells are optimized for light absorption beyond Earth's atmosphere as well. Light absorbing materials can often be used in multiple physical configurations to take advantage of different light absorption and charge separation mechanisms.
+
+Materials presently used for photovoltaic solar cells include monocrystalline silicon, polycrystalline silicon, amorphous silicon, cadmium telluride, and copper indium selenide/sulfide.
+
+Many currently available solar cells are made from bulk materials that are cut into wafers between 180 to 240 micrometers thick that are then processed like other semiconductors.
+
+Other materials are made as thin-films layers, organic dyes, and organic polymers that are deposited on supporting substrates. A third group are made from nanocrystals and used as quantum dots (electron-confined nanoparticles). Silicon remains the only material that is well-researched in both bulk and thin-film forms.
+
+    By far, the most prevalent bulk material for solar cells is crystalline silicon (abbreviated as a group as c-Si), also known as "solar grade silicon". Bulk silicon is separated into multiple categories according to crystallinity and crystal size in the resulting ingot, ribbon, or wafer.
+    monocrystalline silicon (c-Si): often made using the Czochralski process. Single-crystal wafer cells tend to be expensive, and because they are cut from cylindrical ingots, do not completely cover a square solar cell module without a substantial waste of refined silicon. Hence most c-Si panels have uncovered gaps at the four corners of the cells.
+    polycrystalline silicon, or multicrystalline silicon, (poly-Si or mc-Si): made from cast square ingots — large blocks of molten silicon carefully cooled and solidified. Poly-Si cells are less expensive to produce than single crystal silicon cells, but are less efficient
+    ribbon silicon[30] is a type of polycrystalline silicon: it is formed by drawing flat thin films from molten silicon and results in a polycrystalline structure. These cells have lower efficiencies than poly-Si, but save on production costs due to a great reduction in silicon waste, as this approach does not require sawing from ingots.
+    mono-like-multi silicon: Developed in the 2000s and introduced commercially around 2009, mono-like-multi, or cast-mono, uses existing polycrystalline casting chambers with small "seeds" of mono material. The result is a bulk mono-like material with poly around the outsides. When sawn apart for processing, the inner sections are high-efficiency mono-like cells (but square instead of "clipped"), while the outer edges are sold off as conventional poly. The result is line that produces mono-like cells at poly-like prices.
+
+Manufacture
+Because solar cells are semiconductor devices, they share some of the same processing and manufacturing techniques as other semiconductor devices such as computer and memory chips. However, the stringent requirements for cleanliness and quality control of semiconductor fabrication are more relaxed for solar cells. Most large-scale commercial solar cell factories today make screen printed poly-crystalline or single crystalline silicon solar cells.
+
+Poly-crystalline silicon wafers are made by wire-sawing block-cast silicon ingots into very thin (180 to 350 micrometer) slices or wafers. The wafers are usually lightly p-type doped. To make a solar cell from the wafer, a surface diffusion of n-type dopants is performed on the front side of the wafer. This forms a p–n junction a few hundred nanometers below the surface.
+
+Anti-reflection coatings, to increase the amount of light coupled into the solar cell, are typically next applied. Silicon nitride has gradually replaced titanium dioxide as the anti-reflection coating, because of its excellent surface passivation qualities. It prevents carrier recombination at the surface of the solar cell. It is typically applied in a layer several hundred nanometers thick using plasma-enhanced chemical vapor deposition (PECVD). Some solar cells have textured front surfaces that, like anti-reflection coatings, serve to increase the amount of light coupled into the cell. Such surfaces can usually only be formed on single-crystal silicon, though in recent years methods of forming them on multicrystalline silicon have been developed.
+
+The wafer then has a full area metal contact made on the back surface, and a grid-like metal contact made up of fine "fingers" and larger "bus bars" are screen-printed onto the front surface using a silver paste. The rear contact is also formed by screen-printing a metal paste, typically aluminium. Usually this contact covers the entire rear side of the cell, though in some cell designs it is printed in a grid pattern. The paste is then fired at several hundred degrees Celsius to form metal electrodes in ohmic contact with the silicon. Some companies use an additional electro-plating step to increase the cell efficiency. After the metal contacts are made, the solar cells are interconnected by flat wires or metal ribbons, and assembled into modules or "solar panels". Solar panels have a sheet of tempered glass on the front, and a polymer encapsulation on the back.
+
+Solar cell. (2013, September 26). In Wikipedia, The Free Encyclopedia. Retrieved 16:59, September 28, 2013, from http://en.wikipedia.org/w/index.php?title=Solar_cell&oldid=574532806
+
+
+
++++ Related
+
++++ Parent
+  
+  OpenSourceEverything
+  

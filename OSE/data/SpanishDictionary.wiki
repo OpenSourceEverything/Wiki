@@ -1,0 +1,16 @@
+﻿++ Spanish Dictionary
+
+  you can use this to add words to that you are learning,
+  
+  For Atri ultimately it should hopefully be able to "build" its dictionary
+  
+  CreateAnApplicationToRipAnEntireSpanishDictionaryFromTheInternet
+  
+  
+  
+  
+  [almohadón]
+  SpanishDictionaryA
+  SpanishDictionaryD
+  SpanishDictionaryM
+  SpanishDictionaryP

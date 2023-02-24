@@ -1,0 +1,16 @@
+﻿++ Object Device Computer
+
++++ SUMMARY
+
+* physical part of a ObjectSystemComputerSystem
+
+* ObjectDevice  
+  * [Attributes]
+    * programmable 
+    * can carry out sequences of arithmetic or logical operations automatically.
+
++++ CHILDREN
+ObjectDeviceComputerMicrocontroller
+ 
++++ PARENT
+ObjectDevice

@@ -1,0 +1,12 @@
+﻿++ Device Electric Battery Pure Iron
+
+
++++ SUMMARY
+
+  * https://www.youtube.com/watch?v=WZkqgj1J_WE
+
+
+
++++ PARENT
+
+  * DeviceElectricBattery

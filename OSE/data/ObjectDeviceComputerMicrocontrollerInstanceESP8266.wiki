@@ -1,0 +1,24 @@
+﻿++ Object Device Computer Microcontroller Instance ESP8266
+
+
+
+
++++ DETAILS
+* Development boards:
+  * Wemos D1 Mini* ($2.50 delivered!!)
+  * Adafruit Feather Huzzah.  
+  * These boards have all the usable pins broken out, are easily programmable via their micro USB connector and have a built in 3.3V regulator.
+
+D1 Mini NodeMcu 4M bytes Lua WIFI Development Board ESP8266 by WeMos 
+https://www.ebay.com/itm/224207727199
+https://www.youtube.com/watch?v=_iX67plFeLs
+
+* ESP12 module is best equivalent if you want the ESP8266 on a custom PCB Board.
+
+
++++ HOw to program
+https://www.instructables.com/3-Simple-Ways-of-Programming-an-ESP8266-12X-Module/
+
++++ PARENT
+
+ObjectDeviceComputerMicrocontrollerInstance

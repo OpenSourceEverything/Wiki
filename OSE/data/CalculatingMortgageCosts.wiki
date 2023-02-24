@@ -1,0 +1,47 @@
+﻿++ Calculating Mortgage Costs
+
+
++++ SUMMARY
+
+  * Calculate your monthly payments, and from that determine how much interest you
+    pay on top of the actual principal loan amount you are given.
+
++++ EXAMPLE
+
+* 1) parameters established
+
+Morgage @ 3.875 % for 200,000
+P = Principal (200,000)
+I = interest rate percent (0.03875)
+M = number of monthly payments (12)
+Y = number of years of loan (15 or 30 usually)
+
+* 2) Calculate Payment per month
+Payment Per Month = 
+
+  P*[I/M] / [1 - ((1+I/M)^(-(M)*(Y))) ]
+  
+  200000*[0.03875/12] / [1 - ((1+0.03875/12)^(-(12)*(30))) ]
+  
+  = 933.66$ / month 
+
+3) calculate interest paid
+  12months * 30years = 360 payments until done.
+  933.66 * 360 = 336117.60
+  336117.60-200000 = 136117.60
+  
+  136117.60$ interest paid on a 30 year 3.875% mortgage loan
+  
+  
+CalculatingMortgageCostsExample
+  
++++ External Links
+
+* Contains information on how to 
+  * [rel://files/PersonalFinance/mortgage-calculation-info.docx]
+  
+  
+  
++++ PARENT
+
+MortgageLoan

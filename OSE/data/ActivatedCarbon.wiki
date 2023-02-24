@@ -1,0 +1,29 @@
+﻿++ Activated Carbon
++++ REDIRECT
+  ActivatedCharcoal
+
+
+
++++ SUMMARY
+
+  * "Activation" involves further heating or chemically treaitng to increase 
+
+
++++ PARAMETERS
+PARAMETER                   VALUE
+US Standard Sieve
+Mesh Size:                  20X50
+Greater than 20	            5% maximum
+Less than 50	              4% maximum
+Iodine Number (mg/g)	      1100 minimum
+Carbon Tetrachloride Number	60% minimum
+Hardness number	            97 minimum
+Moisture	                  5% maximum as packed
+Apparent Density (g/cc)	    0.49 typical
+Total Ash	                  4% maximum
+pH	                        8.5 - 9 typical
+
+
++++ PARENT
+
+  [GK]

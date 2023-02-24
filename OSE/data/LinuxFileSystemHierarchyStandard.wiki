@@ -1,0 +1,8 @@
+﻿++ Linux File System Hierarchy Standard
+
+
++++ External Links
+  https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+
++++ Parent
+  [Linux]

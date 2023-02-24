@@ -1,0 +1,18 @@
+﻿++ Git Working Tree
+
+
++++ SUMMARY  
+ 
+  * Location where your repository has been GitCheckout.
+  
+  * a set of files for a branch that is linked to the GitRepository. 
+
+
++++ RELATED
+
+  GitStaging
+
+
++++ PARENT
+
+  GitVocabulary

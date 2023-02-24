@@ -1,0 +1,14 @@
+﻿++ Average Electricity Use Of Single Home
+
+Appliance                               Wattage per hour of use
+	
+Annual cost (at average use)
+Television (>40”, HD TV) 	                234 	$41.00
+Refrigerator 	                            225 	$78.84
+Washing Machine 	                        255 	$9.55
+Dryer 	                                    2790 	$104.46
+Air Conditioner (3-Ton) 	                3500 	$460
+
++++ Related
+
+

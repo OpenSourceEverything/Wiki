@@ -1,0 +1,25 @@
+﻿++ Table Of Multiple Data Types
+
++++ SUMMARY
+
+* C/C++ Arrays do not support multiple data types.
+
+* An example of a mixed data type table mapping integers to string
+  1, "I"
+  2, "II"
+  3, "III"
+  4, "IV"
+
+
+
+* options to implement a table of mixed data types:
+  * std::map is an option
+  * alternatively you can make a class or structure
+
+
++++ EXAMPLE
+  TableOfMultipleDataTypesAsStruct
+
++++ PARENT
+
+[C++]

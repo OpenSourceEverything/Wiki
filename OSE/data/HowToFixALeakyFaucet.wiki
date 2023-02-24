@@ -1,0 +1,30 @@
+﻿++ How To Fix A Leaky Faucet
+
+
+
+
++++ Summary
+
+
+  You must first identify the type of faucet you have to determine the specifics
+  of your solution.
+  
+  TypesOfFaucets
+  
+  1. Under sink, there will be a hot water valve, cold water valve. Turn each off one by one and see which one is responsible for the leak.
+  rel://files/HowToFixALeakyFaucet.png
+  
+  2. Remove handle. Under handle there will be 
+  3.
+  4.
+  5.
+  6.
+
+
+
+
++++ Related
+
++++ Parent
+
+  ResidentialHomeMaintenance

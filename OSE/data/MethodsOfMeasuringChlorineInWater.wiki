@@ -1,0 +1,17 @@
+﻿++ Methods Of Measuring Chlorine In Water
+
+
+  * Closed, membrane covered measuring cell, 
+  * Reduction of free chlorine at the cathode
+  * Closed amperometric 2-electrode measuring cell with PVDF membrane
+  * Diameter: 25 mm (0.98 in)
+  * Length: 161 mm (6.34 in)
+  * https://www.us.endress.com/en/field-instruments-overview/liquid-analysis-product-overview/free-chlorine-digital-sensor-ccs51d
+    * Measurement Range
+      * Trace: 0 to 5 mg/l HOCl
+
+      * Standard: 0 to 20 mg/l HOCl
+      * High: 0 to 200 mg/l HOCl
+    
+    * Measuring method
+

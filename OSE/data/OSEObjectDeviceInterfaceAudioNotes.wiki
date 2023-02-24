@@ -1,0 +1,76 @@
+﻿++ OSE Object Device Interface Audio Notes
+
+
++++ SUMMARY
+
+* Clarify block diagram:
+  * HowWillObjectDeviceInterfaceAudioWorkWithLinuxOnAHighLevel
+  * Libra.Chat, HexChat. for windows, chatzilla,mirc didnt work. issues.
+  * #alsa, #alsa-soc
+
+
+IS this correcT:
+1) We need a an AdvancedLinuxSoundArchitecture([ALSA]) Driver for our device,
+   which will probably have audio codec chip(s) that spit out [PCM] audio to the linux computer.
+
+2) Our device will 
+
+
+
+  FireBox
+
+understand what software, operating system, if any my chip will be running.
+  A:
+
+understand the ALSA API and if thats what im using, if so how?
+
++++ NOTES
+
+
+[Wed 2021-11-03]
+
+one channel usb audio interface. 
+ADC chip recommended, need to learn from it.
+www.yoyodyneconsulting.ca/pages/
+https://www.avrfreaks.net/forum/open-source-usb-audio-interface-audio-widge
+
+
+existing audio interfaces that work witih linux
+https://discourse.ardour.org/t/multichannel-audio-interface-for-linux/89706
+
+
+[Tue 2021-11-02]
+  * Work on OSEObjectDeviceInterfaceAudioDesignDetail
+    * 
+
+
+[Mon 2021-11-01]
+  I think we should go usb-c and as a starting point, lets make this one
+    * Add Pre-Amplifier Circuit. Add multiple inputs, figure out a better
+      resolution and quality chip (better sample rate, bit depth?) 
+        * Per OSEObjectDeviceAudioInterfaceRequirements
+  OSEObjectDeviceInterfaceAudioPCM2902First
+  
+  
+
+=======
+OLDER:
+
+https://github.com/erichVK5/PCM290x-USB-audio-interface
+
+  - plan right now is arduino + AB&T Technologie Information easyCAT rev C which is an etherCAT slave,
+    - or research using something called like "Jack" or audio jack for linux.
+  - EasyCATShieldforArduino 
+  
+  * Right now I am investigating using a raspberry pi, with ethernet port as the hub through which up to 48 inputs could communicate
+through netjack/netjack2.
+
+2. what is the "best"/easiest/best documented open source real time audio data
+   protocol for this device to use? (AES##?)
+   
+https://www.youtube.com/watch?v=lI_ghofJKqg
+
+
++++ PARENT
+
+OSEObjectDeviceAudioInterface

@@ -1,0 +1,7 @@
+﻿++ Specification Language
+
++++ SUMMARY
+
+ describes the appearance of a printed page in a higher level than an actual output bitmap
++++ PARENT
+ObjectSystemLanguageFormalComputer 

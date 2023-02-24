@@ -1,0 +1,20 @@
+﻿++ Process Vehicle Maintenance Ignition System Fuel Pump Replacement Honda Odyssey2002
+
+
++++ SUMMARY
+
+  * Torque of Fuel Pump Ring:
+    * 69 ft lbs
+
+  * Fuel pump requires removing back two seats, getting under carpet,
+  *   
+
+
+
+
++++ RELATED
+
+FoodRecipeTemplate
+
++++ PARENT
+ProcessVehicleMaintenanceIgnitionSystemFuelPumpReplacement

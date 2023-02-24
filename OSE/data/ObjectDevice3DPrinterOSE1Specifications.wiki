@@ -1,0 +1,39 @@
+﻿++ Object Device3D Printer OSE1Specifications
+
+https://www.creality.com/goods-detail/3d-printer-cr-10-v3
+
+Creality CR-10V3 3D Printer New Version Titan Direct Drive Silent Board MeanWell
+Product Description
+ 
+Creality CR-10 V3 3D Printer New Version with Titan Direct Drive, Silent Motherboard Installed and MeanWell Power Supply Large Build Volume 300x300x400mm
+ 
+Description:
+
+    Titan Direct Drive: The direct extruder is right above the hot end with little space in between, which enables the extruder to push the filament directly into the nozzle. Since it minimizes the distance for filament traveling to the hot end, the direct extruder is more helpful and reliable when producing 3D prints with flexible soft filaments like TPU and ABS and can help to avoid filament stringing and oozing during printing.
+    Dual Part Cooling Fans Extruder: Two-part cooling fans are installed on the two sides of the hotend. This can promote dissipating heat and cool down immediately, thus reducing jamming and poor spillage.
+    Upgraded Silent Motherboard: CR-10 V3 has adopted an industrial self-developed motherboard backed by a TMC2208 ultra-silent driver. It demonstrates firm properties as well as reduces noise. 1.1.6 Version firmware, thermal runaway protection, and resume printing function are pre-installed in the motherboard.
+    All Metal Frame and Triangle Stable Structure: It adopts all-metal frames and the high-quality V-profile structure, forms a firm golden triangle that effectively reduces errors caused by vibrations, and makes CR-10 V3 more Likely to print out with high accuracy prints.
+    24V/350W Meanwell Power Supply: Equipped with solid 24V/350W Meanwell power supply pairs with thermally efficient bed heater. It allows for rapid heating to 100; BL-Touch Frame Reserved.
+
+ 
+ 
+Specifications:
+Molding tech: FDM
+Printing size: 300*300*400mm
+N.W.: 11.5kg
+Printing speed: ≤180mm/s, normal 30-60mm/s
+Precision: ±0.1mm
+Layer thickness: 0.1-0.4mm
+Nozzle diameter: Standard 0.4mm
+Nozzle number: 1
+Hotbed temperature: ≤100℃
+File Transfer: USB/SD card
+File formate: STL/OBJ/AMF
+Slicing software: Cura/Repetier-Host/Simplify 3D
+Operation system: MAC/Linux/WindowsXP/Vista/7/8/10
+Power supply: AC Input 115V/230V Output:24V
+Power rating: 350W
+Auto-leveling: Optional
+Filament: PLA/ABS/PETG/TPU
+Filament diameter: 1.75mm
+ 

@@ -1,0 +1,24 @@
+﻿++ Git How To Undo Changes To A File
+
+  GitHowToUndoChangesToASingleFile
+
++++ SEARCH
+  Git undo file undo file git git revert file revert file in git
+  
++++ SUMMARY
+
+  * Revert (reset) *uncomitted*/*local* changes:
+
+        $ git checkout -- <file>
+
+  * Revert (reset) a single file to a specific revision:
+
+        $ git checkout <commit_hash> -- <file>
+  
++++ RELATED
+
+  GitHowToRemoveAFileAddedByAPreviousCommit  
+
++++ PARENT
+
+  GitHowTo

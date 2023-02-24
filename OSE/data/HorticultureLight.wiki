@@ -1,0 +1,22 @@
+﻿++ Horticulture Light
+
+
+  lumens are measure of light relative to human perception, whereas plants use PPF,PPFD.
+  
+  
+
+  DLI = ((Average intensity over a 24-hour period, in μmol·/m2/second)*(3600*24)) / 1,000,000
+
+
+
++++ EXTERNAL RESOURCES
+  * https://support.agi32.com/support/solutions/articles/22000221499-calculate-ppfd-for-horticulture
+
+
+  * https://smartgrow.systems/plant-light-dli-calculator/
+
+
+
++++ PARENT
+
+  * [Horticulture]

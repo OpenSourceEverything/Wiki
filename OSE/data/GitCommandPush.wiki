@@ -1,0 +1,24 @@
+﻿++ Git Command Push
+
++++ SUMMARY
+
+  * publishes new changes (commits on your local server)
+    * publishes to a remote branch that has tracking relationship with whatever branch youre on when you push. 
+
+  * Can also publish new local branches to the remote
+    * -u argument to GitCommandPush can be helpful: Ensures GitTrackingConnection
+    
+
++++ EXAMPLES
+
+  * 
+
++++ RELATED
+
+  * GitCommandPull
+  
+  * GitCommandFetch
+
++++ PARENT
+
+  GitCommands

@@ -1,0 +1,38 @@
+﻿++ Computer ProcessScience Library
+
++++ Summary
+
+  * Static libraries are compiled with your application
+  
+  * Dynamic libraries are loaded dynamically, at runtime.
+    * as an example, I started Window.exe which relied on wxWidgets dll files. Starting the application causes an exception, missing a dll on windows.  
+
+
++++ Linux Library
+
+  * ".so" is how linux like to name their dynamic library
+  
+  * ".a" 
+  
+  * Linux uses ELF binary format. 
+
++++ Windows Library
+
+  * ".dll" is how windows like to name their dynamic library
+
+  * ".lib" is how windows names their static library files.
+
+  * Windows uses PE binary format
+
+ 
+
+
++++ Related
+
++++ External Links
+  * http://tldp.org/HOWTO/Program-Library-HOWTO/
+  
+  * http://www.mingw.org/wiki/sampledll
+  
+  * 
+  

@@ -1,0 +1,16 @@
+﻿++ Food Sesame Seed
+
+
+  PlantSesame
+
++++ HORTICULTURE
+
+  * HorticultureSesame
+
++++ COST
+
+
+
++++ PARENT
+
+  [Food]

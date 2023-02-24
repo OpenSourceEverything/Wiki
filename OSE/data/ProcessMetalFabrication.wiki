@@ -1,0 +1,27 @@
+﻿++ Process Metal Fabrication
+
++++ SUMMARY
+
+++++ DETAILS
++++++ STEPS
+1 Processes
+2 Raw materials
+3 ProcessMetalFabricationCuttingAndBurning
+4 Forming
+5 ProcessMetalFabricationMachining
+6 ProcessMetalFabricationWelding
+7 Final assembly
+
+
++++ CHILDREN
+
+
+
++++ NOTES
+tapping  not usually carbide
+
+reamers not usually carbide. high speed steel
+
++++ PARENT
+
+  [Process]

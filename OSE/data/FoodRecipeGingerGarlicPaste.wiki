@@ -1,0 +1,21 @@
+﻿++ Food Recipe Ginger Garlic Paste
+
+
++++ INGREDIENTS
+
+  8 Tbspn garlic
+  4 tbspn ginger
+  ? Olive oil
+
+
++++ INTSTRUCTION
+  
+  Blend ingredients with olive oil as needed until a paste.
+  freeze or refrigerate.
+  
+  
++++ PARENT
+
+  GKRecipes
+  
+  

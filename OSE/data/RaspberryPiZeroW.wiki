@@ -1,0 +1,15 @@
+﻿++ Raspberry Pi Zero W
++++ REDIRECT
+  RaspberryPiZeroWireless
+  
+  
+  
+  
++++ GPIO PINOUT AND HEADER DESCRIPTIONS
+
+  rel://files/_JUKCXRKFTARUGMGMFQAF.png
+  
++++ PARENT
+
+  ???
+  RaspberryPi

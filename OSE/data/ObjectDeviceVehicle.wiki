@@ -1,0 +1,18 @@
+﻿++ Object Device Vehicle
+
+
++++ SUMMARY
+
+  ObjectDevice that transports people or cargo.
+  
++++ CHILDREN
+
+  ObjectDeviceVehicleMotorized
+  
++++ RELATED
+
+  ProcessVehicleMaintenance
+
++++ PARENT
+
+  ObjectDevice

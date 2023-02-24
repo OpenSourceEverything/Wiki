@@ -1,0 +1,7 @@
+﻿++ Simulation Language
+
++++ SUMMARY
+ a language used to describe simulations
+
++++ PARENT
+ObjectSystemLanguageFormalComputer 

@@ -1,0 +1,11 @@
+﻿++ Object Algorithm
+
++++ SUMMARY
+
+
++++ CHILDREN
+
++++ PARENT
+
+[Object]
+  [OSE]

@@ -1,0 +1,11 @@
+﻿++ Object Information Binary Digit
+
++++ SUMMARY
+
+Fundamental Unit of ObjectInformation in
+  * ProcessComputing 
+  * ObjectSystemCompute
+
+
++++ PARENT
+ObjectInformation

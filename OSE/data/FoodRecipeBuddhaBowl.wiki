@@ -1,0 +1,43 @@
+﻿++ Food Recipe Buddha Bowl
+
+
++++ SUMMARY
+
+  Modifiable Salad of sorts. With Sauce.
+
++++ INGREDIENTS
+
+
+  * Grains: (Quinoa, Rice, )
+  * Sweet Potatos
+  * Leafy: (Red Cabbage,)
+  * Chic Peas (Seasoned, cooked on pan: Chili Powder Curry Powder Paprika Salt Pepper)
+  * Sauce
+    * Sesame Seed White
+    *  
+
+
++++ PREPARATION
+
+  * Soaked Chic Peas for cooking
+  * Soaked Rice for cooking (30 min)
+  * Peel Potatos, Cut
+  * 
+
+
++++ TOOLS
+
+  * 
+
+
++++ RELATED
+
+  OpenSourceEverythingFoodRecipesBuddhaBowlSauce
+  OpenSourceEverythingFoodRecipesTahini
+  GKRecipes
+
+
++++ PARENT
+
+
+  * FoodRecipes

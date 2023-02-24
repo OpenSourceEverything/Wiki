@@ -1,0 +1,17 @@
+﻿++ exceptions
+[exception]
+
+So how do people do without exceptions mechanism when programming microcontrollers? Is there a trick or lightweight library one can use to do error handling, or should I do it C-style with no error handling?
+1
+Continue this thread 
+User avatar
+level 1
+gfsgregresgr
+·
+4 yr. ago
+
+Check the .map file. You can probably get away with moving c++ runtime functions to ROM using linker script directives like libstdc++.a:(.literal .text .literal. .text.*) in the .irom0.text section.
+My two cents, though, is that it's not a great idea to use C++ exceptions on embedded micro controller with no OS and memory protection.
+
++++ PARENT
+[C++]

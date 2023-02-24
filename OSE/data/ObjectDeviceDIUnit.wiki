@@ -1,0 +1,37 @@
+﻿++ Object Device DI Unit
+
++++ SUMMARY
+
+* ObjectDevice, 
+  * AttributeElectrical, either:
+    * Passive (no power required for DIUnit operation)
+    * Active (DIUnit requires power from some source)
+  
+  * Used for Signal impedance and level matching/balancing
+    * (usualy via XLR Cable/Connector):
+    * input:  low-impedance,  MicrophoneLevel, balanced, 
+    * output: high-impedance, LineLevel,      unbalanced 
+
+  * Used to [record] an audio signal
+
++++ DETAILS
+
+  * typically use:
+    * with electric musical devices that only contain an unbalanced 1/4" phone output which needs to be connected to an XLR input of a mixing board. 
+    
+  * typically location of use: 
+    * recording studios 
+    * sound reinforcement systems 
+
++++ CHILDREN
+ObjectDeviceDIUnitPassive
+ObjectDeviceDIUnitPassiveInstanceOSE1
+ObjectDeviceDIUnitActiveInstanceOSE1
+
+
++++ RELATED
+ObjectDeviceTransformer
++++ EXTERNAL RESOURCES
+ObjectDeviceDIUnitExternalResources
++++ PARENT
+ObjectDevice

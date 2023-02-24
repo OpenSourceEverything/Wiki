@@ -1,0 +1,15 @@
+﻿++ OSE Object Device Amplifier Electronic Audio
+
+
++++ SUMMARY
+
++++ CHILDREN
+
+OSEObjectDeviceAmplifierElectronicAudioGuitar
+
+
++++ RELATED
+ObjectDeviceAmplifierElectronicAudio
+
++++ PARENT
+OSEObjectDeviceAmplifierElectronic

@@ -1,0 +1,6 @@
+﻿++ Abstract Class Examples
+
++++ EXAMPLE 1
+AbstractClassExample1
+
+

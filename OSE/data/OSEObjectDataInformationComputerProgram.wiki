@@ -1,0 +1,15 @@
+﻿++ OSE Object Data Information Computer Program
+
++++ SUMMARY
+  
+  * List of [Recipes]/[Instructions] for ObjectDataInformationComputerProgram(s)
+    * plural: ObjectDataInformationSoftware\
+
+
++++ INSTANCES
+
+ObjectDataInformationComputerProgramInstanceOSE1
+
++++ PARENT
+
+OSEObjectDataInformation

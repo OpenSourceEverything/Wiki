@@ -1,0 +1,27 @@
+﻿++ Settuping Up A Local Repository To Link With An Existing Remote Repository
+
+Add the remote repository using the git remote add command with a name for the remote and the SSH URL of the remote repository:
+
+
+git remote add <remote_name> git@github.com:OpenSourceEverything/Wiki.git
+For example, if you want to name your remote "origin", the command will be:
+
+git remote add origin git@github.com:OpenSourceEverything/Wiki.git
+Verify that the remote repository is added successfully using the git remote -v command. You should see the remote URL and its name listed:
+
+
+origin  git@github.com:OpenSourceEverything/Wiki.git (fetch)
+origin  git@github.com:OpenSourceEverything/Wiki.git (push)
+Pull the code from the remote repository using the git pull command:
+
+git pull <remote_name> <branch_name>
+For example, if you want to pull the code from the main branch of the remote repository, the command will be:
+
+git pull origin main
+After executing these commands, your local repository should be synced with the remote repository.
+
++++ RELATED
+[GitRemote]
+
++++ PARENT
+[Git]

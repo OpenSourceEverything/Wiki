@@ -1,0 +1,22 @@
+﻿++ Object System Heating
+
+
++++ SUMMARY
+
+ObjectSystem 
+  * purpose: maintaining acceptable temperature
+
+* Example: 
+  * Heat house with ObjectSystemHeating using 
+    * ObjectDeviceHeater(s)
+    * ObjectDeviceSensorThermal feedback
+    * ObjectDeviceComputerMicrocontrollerInstanceESP8266
+      * microcontroller can turn on heaters when cold, off when hot.
+    
++++ RELATED
+
+OSEObjectSystemHeating
+
++++ PARENT
+
+ObjectSystem

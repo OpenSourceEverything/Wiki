@@ -1,0 +1,12 @@
+﻿++ Git Commit ID
+
+
+
++++ RELATED
+
+  * GitCommandBranch
+
+
++++ PARENT
+
+  GitVocabulary

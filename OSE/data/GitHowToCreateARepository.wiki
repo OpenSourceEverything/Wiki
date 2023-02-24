@@ -1,0 +1,15 @@
+﻿++ Git How To Create A Repository
+
++++ SUMMARY
+
+  * GitRepository can be created with GitCommandInit
+         
+
++++ RELATED
+
+  GitRepository
+
++++ PARENT
+
+  GitHowTo
+  [Git]

@@ -1,0 +1,23 @@
+﻿++ Residential Home Security
+
+
++++ SUMMARY
+
++++ External Links
+
+  as much as i hate this guy.
+  each camera takes an arduino, all feed to a central arduino
+  https://www.youtube.com/watch?v=H7p5YEOrlSc
+
+
++++ CHILDREN
+
+  * ResidentialHomeSecurityDoorLockHardware
+
++++ RELATED
+
+
++++ Parent
+
+  ResidentialHomeConstructionRepairAndLiving
+  

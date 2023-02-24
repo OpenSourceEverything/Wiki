@@ -1,0 +1,6 @@
+﻿++ OSE Problem Of Class Vs Attribute
+
+Arbitrary decision, how to decide which should represent a [Company]:
+
+  * ObjectEntityCompany with Attribute:Legal
+  * ObjectLegalEntityCompany?

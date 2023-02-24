@@ -1,0 +1,38 @@
+﻿++ Hydroponics Ebb And Flow Flood And Drain
+
+
+    Plants sit in a tray above a resevoir. 
+    Resevoir has a timed pump that about once a day sends nutrient water to tray with plants.
+    Then pump turns off and it drains back into resevoir.
+    
+    Method of draining back to resevoir:
+      NutrientFilmTechnique
+    
+
+
++++ Benefits/Drawbacks
+
+    -
+
+    - reliable, few moving parts
+  
+    - easy to setup/inspect
+
+  BAD:
+  
+    - uses more water/nutrients than other methods of [Hydroponics]
+  
+    - must be above a resevoir (height issues indoors, 
+      getting plants too high toward light)
+      
+      
+
+
++++ Related
+
+
+  HydroponicsDripSystem
+
+
++++ Parent
+

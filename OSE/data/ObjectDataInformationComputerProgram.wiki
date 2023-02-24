@@ -1,0 +1,46 @@
+﻿++ Object Data Information Computer Program
+
+
+
++++ SUMMARY
+  
+  * set of Instructions 
+    * can be executed by a computer to perform a specific task.
+  
+  * Basically Synonymous with ObjectDataInformationSoftware
+
++++ DETAILS
+
+  * SourceCode is the name of a ComputerProgram in human readable form.
+
+  * SourceCode can be streamed to a computer for execution in multiple ways:
+     
+    * 1) ComputerProgramCompiler converts to native MachineLanguage for [Executable]/[Application]. 
+      * Native meaning the machine the code will run on.
+      * MachineLanguage ComputerProgram(s) are translated using an [Assembler]. 
+    
+    * 2)An ObjectDataInformationComputerProgramInterpreter program can execute the SourceCode directly.
+      * see 
+
+    * 3) A mixture of Compilation and Interpretation: 
+      * The programming language Java compiles into an a intermediate form 
+        * executed by a Java interpreter.[2]
+
+
++++ CHILDREN
+ObjectDataInformationComputerProgramApplication
+ObjectDataInformationComputerProgramBootloader
+ObjectDataInformationComputerProgramDeviceDriver
+ObjectDataInformationComputerProgramOperatingSystem
+
+
++++ INSTANCES
+
+ObjectDataInformationComputerProgramInstance
+
++++ RELATED
+ObjectSystemLanguageFormalLanguageComputerLanguage
+ObjectDataInformationSoftware
+
++++ PARENT
+ObjectDataInformation

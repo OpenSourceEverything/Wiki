@@ -1,0 +1,16 @@
+﻿++ Git Command Clone
+
++++ SUMMARY
+
+  * fetches code from a remote GitRepository
+
+  * 
+
++++ RELATED
+
+  GitCheckout
+  GitBranch
+
++++ PARENT
+
+  GitCommands

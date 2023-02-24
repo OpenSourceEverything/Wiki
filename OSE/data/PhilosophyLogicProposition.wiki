@@ -1,0 +1,26 @@
+﻿++ Philosophy Logic Proposition
+
++++ SUMMARY
+
+* assertion/[meaning] made by a declarative sentence
+  * Multiple [Sentence]s can represent one [Statement]
+    * The inverse is not true
+
+* ObjectDataInformation content of an information-bearing [Sentence]
+
+* [Statement]s are abstract logical entities, 
+  [Sentence]s are grammatical entities
+
+
++++ DETAILS
+
+* 1) The primary bearers of truth values (such as "true" and "false"); 
+* 2) the objects of belief and other propositional attitudes (i.e. what is believed, doubted, etc.);
+* 3) the referents of "that"-clauses (e.g. "It is true that the sky is blue" and "I believe that the sky is blue" both involve the proposition the sky is blue); 
+* 4)meanings of declarative sentences.[1]
+
++++ RELATED
+
+
++++ PARENT
+PhilosophyLogic

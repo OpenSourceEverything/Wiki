@@ -1,0 +1,12 @@
+﻿++ Horticulture Cotton
+
+
+
++++ SUMMARY
+
+  * 5 months to grow from seed to mature plant
+
+
++++ PARENT
+
+  [Horticulture]

@@ -1,0 +1,61 @@
+﻿++ Object System Version Control System Git
+
++++ SUMMARY
+
+  * TODO: Make this page an Instantiation of ObjectSystemVersionControlSystem
+
+  * Distributed ComputerScienceVersionControl system
+
+
++++ DETAILS
+    
+    * Each client has whole version control history, 
+    
+    * dont need to be connected to server to work. 
+      * Only to push,pull from server. 
+  
+  * If someone checks into their master branch locally, you will no longer be able to push changes
+    * Your local repository will have to be reset in this case. Other than this the git reset command is probably something we will not commonly use.
+    
+  * 
+  
+
++++ CHILDREN
+  * GitCommands
+  * GitHowTo
+  * GitWorkingDirectory
+
+  * GitStates
+    * use GitAdd to add files to the GitStagingArea 
+    * GitStaging
+
+
+  * GitHowToSeeTheNameOfAGitRepositoryYouAreIn
+
+  - how to update a repository while you're in it.
+    - git pull origin master 
+
+  - see all GitCommit history
+    - git log
+
+  DETAILED GIT NOTES
+
+    - GitHub has almost nothing to do with the way you build a project. If builds are not already published somewhere (maybe on GH itself, releases section), you should clone the project repository (the usual GitHub way) and follow instructions provided by the authors (e.g., use make, Ant, building script, etc).
+
+A problem is that in some cases the project intended audience doesn’t need to be explained how to do that (it’s bad practice, but unfortunately it’s not uncommon). For example, a project where you see the file pom.xml on top is known to be a Java project based on the Maven system and it’s known it can be build by first installing Java and Maven and then issuing ‘mvn package’ from the project’s root folder.
+
+
+
++++ CHILDREN
+
+GitChangeOriginToADifferentLocation
+GitOrigin
+GitVocabulary
+GitRemote
+
++++ RELATED
+ComputerScienceVersionControl
+ProcessComputingComputerScience
+
++++ PARENT
+[Object]

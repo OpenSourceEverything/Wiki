@@ -1,0 +1,34 @@
+﻿++ OSE Object
+
++++ SUMMARY
+
+  An OSEObject is an [Object] 
+    * has [Recipe]/[Instructions] available via [OSE]
+  
+  * Examples:
+    * You want to make [Fertilizer] for plants.
+      * You refer to OSEObjectMaterialFertilizer ObjectMaterialFertilizer  
+  
++++ CHILDREN
+  
+  OSEObjectAlgorithm
+  
+  OSEObjectData
+  OSEObjectDataInformationComputerProgram
+  
+  OSEObjectDevice
+  
+  OSEObjectMaterial
+  OSEObjectMixture
+    
+  OSEObjectSystem
+  
+  OSEObjectDataInformationWebsite
+
++++ RELATED
+
+[Object]
+
++++ PARENT
+
+  [OSE]

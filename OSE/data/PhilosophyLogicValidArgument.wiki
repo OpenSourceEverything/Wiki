@@ -1,0 +1,3 @@
+﻿++ Philosophy Logic Valid Argument
+
+  * list of PhilosophyLogicPremise from which PhilosophyLogicConclusion follows.

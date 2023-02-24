@@ -1,0 +1,159 @@
+﻿++ Process Horticulture Potato
+HorticulturePotato
++++ SUMMARY
+
+  * Sweet potatos are different enough to warrant their own page
+    * ProcessHorticultureSweetPotato 
+
+  * Potatos are part of root system of a green flowering plant. 
+  * Sometimes/often the green leaves are also edible.
+  * Most potatos are bushing and dont require trellis, 
+    * sweet potatos are vining, need trellis to guide growth 
+
+  * Preferable to plant in (container/above ground), which allows harvest by hand.
+    * otherwise extraction is often more likely to damaging delicate potatos.
+    * harvest in container involves flipping container and breaking apart soil by hand
+
+  * Determinant potatos (main crop)
+    * store long 
+    * grow on multiple levels of the stem.
+    * much larger
+    * longer growing season
+    
+  * Indeterminant potatos (first and second early):
+    * really fast growing, 
+    * single layer growth
+    * much smaller in size
+    * can be started early in the year
+
++++ 2) PROPAGATION
+* 2.1) From Seed:
+  * much less common 
+  
+* 2.2) from a sprouted or "chitted" potato (seed potato)
+  * take a potato of golfball size or larger
+    * or if large potato has sprouts on multiple sides, cut into sections 
+  * removing all but one or two healthy sprouts from each potato:
+    * will yield larger potatos
+  * leaving many sprouts on each seed potato:
+    * more smaller potatos    
+    
++++ 3) PLANT STRUCTURE
+* 
+
++++ LIFE CYCLE
+  * Germination of Seed:
+    *
+  * 
+
++++ ACIDITY
+  * pH: ()
+
+  
++++ TEMPERATURE ? ACIDITY
+
+* 3-4 months of cool weather – 33-80F – to produce well. 
+* six or eight hours of direct sunshine
+* most well drained soil
+
+4.1) Temp: 
+  * 
+ 
+* 4.2) Humidity:
+  * 50-60%
+    
+* 4.3) Acidity pH:
+
+  
++++ SPECIES
+  * Russet
+  * Sweet
+
++++ HARVEST AND STORAGE
+
+* If stored potatos sprout, theyre still edible. cut out the sprouts
+  * cut deeper into the "eye" the it sprouts from the larger it is 
+  * glycoalkaloids are present in sprouts, which is undesirable, poisonous in large amounts
+
+* potatos turn green when exposed to the sun, indicate development of solanine in potato.
+  * do not eat green potatos, throw them out. 
+
+* 7.3) Processing Lenin
+  * Link to separate article OSEObjectMaterialFabricLenin 
+  
+* Typical yields quantity:
+  * 15 Lbs potato out of a 10 gallon container
+
+  * Harvesting potato for seed:
+    * Ideal size is size of egg.
+    * After cure (allow to dry in complete darkness)
+
+  * Harvesting Potato for food
+    * Ready to harvest when many leaves are yellow. 
+    * Must carefully get out from under soil. Do not throw, bruising occurs easily.
+    * Cure: Allow to dry for 3-5 days. Keep in complete darkness. Dont wash.
+    * Store in a sack, or better store in container surrounded by Hay.
+      * Potatos will turn green (inedible) if exposed to light 
+  * Yield (Leaves)
+  
++++ DIMENSIONS
+
+* 8.1) Grow Container:
+  * 5 gallon min. for all but sweet potato
+  * 20 gallon min. for sweet potato
+  
+  * 5 gal        = 1-2 potatoes/slips.
+  * 10 gal       = 2-4 potatoes/slips.
+  * 15 gallon    = 4-6 potatoes/slips.
+  * 20 gallon    = 6-8 potatoes/slips.
+  * 25 gallon    = 8-10 potatoes/slips.
+
+* 8.2) Plant:
+  * 
+
+* 8.3) Seed: 
+  * plant 3 inch deep
+
+* 8.4) Spacing:
+  * Plant 3 inches deep
+  * If in rows: 12 inches apart, rows 12-15 apart to allow for topping later
+
+* 8.5) Root System:
+
++++ 4) LIFE CYCLE
+  * 4.1) vegetative period:
+  * 4.2) flowering period:
+  * 4.3) maturation period:
+
+* Notes
+
+* Photos of complete life cycle:
+
+
++++ GROWTH GUIDE
+
+  * If container, 
+    * recommend at least 20 gallon.
+    * fill 3/4 with soil, top off.
+  
+  * if outdoor
+    * if sweet potato plant when no more frost will occur, theyre not cold resistant
+    * 
+  
+
+
+* 
+
++++ EXTERNAL LINKS
+
+* (1) Comprehensive vidoe:
+  * https://www.youtube.com/watch?v=hgJa2wrX6lA
+  
++++ RELATED
+
+HorticulturePlantTemplate
+ProcessHorticultureSweetPotato
+
++++ PARENT
+
+ProcessHorticulture

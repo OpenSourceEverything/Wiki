@@ -1,0 +1,4 @@
+﻿++ Translation
+
+[translation]
+ProcessTranslation

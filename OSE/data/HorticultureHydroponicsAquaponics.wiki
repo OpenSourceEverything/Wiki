@@ -1,0 +1,28 @@
+﻿++ Horticulture Hydroponics Aquaponics
+
+
++++ Summary
+
+  Closed system with Fish and Plants intended to yield plants. 
+  Plants eat the fish poop nutrient out of water.
+
+
+
+  https://www.youtube.com/watch?v=rAeG47qxL6c
+
+
++++ Related
+
+
+
+  This company may be leading the way in efficiency, size:
+    OuroborosFarms
+ 
+  HorticultureHydroponicsAquaponicsBellSiphon
+  FluidDynamicsBernoullisPrinciple
+  
+  
++++ Parent
+  
+  [Horticulture]
+  ProcessHorticultureHydroponics  

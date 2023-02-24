@@ -1,0 +1,7 @@
+﻿++ Nominatim Search Intersection Enhancement
+
+    * https://github.com/openstreetmap/Nominatim/issues/123 
+    
+    * Summary of Lonvia's recommended course of action:
+    
+    *  

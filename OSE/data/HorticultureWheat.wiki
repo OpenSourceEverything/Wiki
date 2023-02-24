@@ -1,0 +1,21 @@
+﻿++ Horticulture Wheat
+
+
++++ SUMMARY
+
+  * Winter wheats 
+    * are sown in fall and harvested the following spring or summer. 
+    * A winter variety that does not experience cold weather will produce no grain, 
+  * Spring wheats, 
+    * which can be either common or durum wheats, are bred for Canadian and northerly U.S. regions where wheat can’t survive through winter; 
+    * sown in early spring and harvested in summer.
+    * a spring variety sown in fall will die in winter freezes (unless you’re in a frost-free region, where spring wheat varieties can be fall-sown).
+
+
++++ SPACING
+
+  1lb seed per 500 sqft = 
+  
++++ PARENT
+
+  [Horticulture]

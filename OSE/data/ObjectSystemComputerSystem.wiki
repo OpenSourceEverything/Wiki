@@ -1,0 +1,23 @@
+﻿++ Object System Computer System
+
+
+
++++ SUMMARY
+
+
+
+* (1) [hardware]: 
+  * ObjectDeviceComputer, 
+  * peripheral equipment needed and used for "full" operation.
+    * mouse
+    * keyboard
+    * monitor  +-
+    
+* (2) [software]: 
+  * ObjectDataInformationComputerProgramOperatingSystem
+  
+  
+  
++++ PARENT
+  * ObjectSystem
+

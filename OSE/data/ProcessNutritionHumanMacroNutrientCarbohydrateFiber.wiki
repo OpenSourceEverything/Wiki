@@ -1,0 +1,11 @@
+﻿++ Process Nutrition Human Macro Nutrient Carbohydrate Fiber
+
+
++++ SUMMARY
+
+Fiber is a form of carbohydrate found in plant-based foods that cannot be absorbed or digested by the gut. It’s sometimes called ‘roughage’ or ‘bulk’ and occurs naturally in a variety of plant-based foods like fruit, veggies and whole grains.
+
+
++++ PARENT
+
+  ProcessNutritionHumanMacroNutrientCarbohydrate

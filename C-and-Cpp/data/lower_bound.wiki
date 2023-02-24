@@ -1,0 +1,26 @@
+﻿++ lower_bound
+
++++ SUMMARY
+
+* defined in <algorithm>
+
+* return iterator 
+
+* Returns an iterator pointing to the first element in the range [first, last) that does not satisfy element < value (or comp(element, value)), (i.e. greater or equal to), or last if no such element is found.
+
+* The range [first, last) must be partitioned with respect to the expression element < value (or comp(element, value)), i.e., all elements for which the expression is true must precede all elements for which the expression is false. A fully-sorted range meets this criterion.
+
+
++++ EXAMPLE
+#include <vector>
+#include <stdio.h>
+#include <algorithm>
+int main(void)
+{
+  std::vector<int> i{11, 22, 33, 44};
+  printf("%ld\n",(lower_bound(i.begin(),i.end(),22)-i.begin()) );
+  return 0;
+}
+
++++ PARENT
+[algorithm]

@@ -1,0 +1,16 @@
+﻿++ Git Command Add File To Repository Version Control Tracking
+
++++ SUMMARY
+
+  * GitRepository tracks files. Add a new file with 
+    * GitCommandStage 
+
+
+
++++ RELATED
+
+  GitHowTo
+
++++ PARENT
+
+  GitCommands

@@ -1,0 +1,15 @@
+﻿++ Process Computing Process
+
+
+
+* Contains one or more "Kernel Threads"(ProcessComputingThread(s))
+  * they share eachothers resources (memory, file handles)
+  
+* A ProcessComputingProcess is a unit of resources, 
+  * A ProcessComputingThread is a unit of ProcessComputingScheduling and execution
+  
+* Resources allocated by an ProcessComputingOperatingSystem: OperatingSystem
+
++++ PARENT
+
+ProcessComputing

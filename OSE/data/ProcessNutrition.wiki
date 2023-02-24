@@ -1,0 +1,20 @@
+﻿++ Process Nutrition
++++ REDIRECT
+  [Nutrition]
+  
+
++++ SUMMARY
+
+  * ProcessScience/ProcessStudy 
+    * [Context]: ObjectMaterialFood and nourishment, 
+      * especially humans.
+
++++ CHILDREN
+
+  ProcessNutritionHuman
+  ProcessNutritionPlant
+
++++ PARENT
+
+
+  [Process]

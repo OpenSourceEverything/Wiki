@@ -1,0 +1,11 @@
+﻿++ Process Horticulture Hydroponics Hydroculture
+
+
++++ SUMMARY
+
+a type of hydroponics in which plants are grown in a medium that allows the distribution of water and nutrients through capillary action
+
+
++++ PARENT
+
+ProcessHorticultureHydroponics

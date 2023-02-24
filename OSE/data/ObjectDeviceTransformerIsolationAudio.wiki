@@ -1,0 +1,18 @@
+﻿++ Object Device Transformer Isolation Audio
+
++++ SUMMARY
+    
+ObjectDeviceTransformerIsolation made specifically for audio
+  * Used to:
+* 1) reduce audio signal hum and noise caused by:
+  * DC offsets in line
+    * DC current cant pass through an isolation transformer 
+       
+  * AC noise.
+    * Usually the isolation transformer used will filter out   
+
+* 2) Bridge an unbalanced stage of electronics to a balanced 
+
++++ PARENT
+
+ObjectDeviceTransformerIsolation

@@ -1,0 +1,4 @@
+﻿++ Grammatical Object
+
++++ Summary
+  the direct or indirect object of a verb

@@ -1,0 +1,23 @@
+﻿++ Sentence Phrase Structure Rules
+
+clause, sentence 	S → NP VP
+noun phrase 	NP → {(DET)3 (AdjP)n N (PP)n
+                → {pro}
+verb phrase 	VP → (AUX)3 V (NP)2 (PP)n (ADV)n (ADJ)n
+prepositional phrase 	PP → P (NP)
+adjective phrase 	AdjP → (DEG) ADJ (PP)
+adverb phrase 	AdvP → (DEG) ADV (PP)
+tense 	TNS → {PAST}
+            → {PRES}
+            → {MOD}
+perfect aspect 	PERF → HAVE + Perfect participle
+progressive aspect 	PROG → BE + Progressive participle
+passive voice 	PASS → BE + Passive participle
+any phrase 	XP → XP CONJ XP, where XP indicates any type of phrase (NP or VP, ADJP, etc.)
+
+
+https://elearning.cpp.edu/learning-objects/syntactic-tree-structures/
+
+
++++ PARENT
+[Sentence]

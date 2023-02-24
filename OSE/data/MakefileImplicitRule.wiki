@@ -1,0 +1,11 @@
+﻿++ Makefile Implicit Rule
+
+  You define an implicit rule by writing a MakefilePatternRule. 
+  
+  
++++ Examples
+
+  MakefileImplicitRuleExamples
+  
++++ Parent
+  MakefileRules

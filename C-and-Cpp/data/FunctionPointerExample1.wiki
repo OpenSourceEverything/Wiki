@@ -1,0 +1,47 @@
+﻿++ Function Pointer Example1
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
++++ SUMMARY
+
+  This example shows use of a function pointer.
+    * the pointer is called "func"
+  The pointer is pointed first to actual function funcy1, then funcy2.
+
++++ DETAILS
+
+#include <stdio.h>
+
+float funcy1(const char* cPtr)
+{
+  printf("funcy1(%s)\n",cPtr);
+  return 2.0;
+}
+
+float funcy2(const char* cPtr)
+{
+  printf("funcy2(%s)\n",cPtr);
+  return 3.0;
+}
+
+int main(void)
+{
+  float (*func)(const char*);
+
+  char *cPtr = "ABCDEFG";
+  
+  // assign the function pointer.
+  func = &funcy1;
+  // execute the function, will use funcy1  
+  func(cPtr);
+  // assign the function pointer again.
+  func = &funcy2;
+  // execute the function, will use funcy1  
+  func(cPtr);
+
+  return 0;
+}
+
+
++++ PARENT
+FunctionPointers
+

@@ -1,0 +1,32 @@
+﻿++ Object Data Database
+
+ObjectData 
+  * [Attribute]
+    * Stored and accessed electronically from a ComputerSystem.
+
+    * Access to this data is usually provided by a DatabaseManagementSystem ([DBMS])
+
+  * Most commonly databases in practice are   
+    * ObjectDataDatabaseRelationalDatabase(s)
+
+  * ComputerScienceDatabaseFieldAndColumn
+  
+
+
+  * Place that support data and operations on it:
+    * Create
+    * Update 
+    * Delete
+    
+
+ComputerScienceDatabase
+ObjectDataDatabaseRelationalDatabase
+
+
+
++++ CHILDREN
+ObjectDataDatabaseSchema
+
++++ PARENT
+
+ObjectData

@@ -1,0 +1,76 @@
+﻿++ OSE Object Device
+OSEDevice
+
++++ SUMMARY
+
+  * Should be based upon OSEObjectDeviceTemplate
+
+  ? We should probably get certified by [ObjectEntityOrganizationInstanceOSHWA]?
+  * Revisions should probably be maintained?
+  
+  * Specific [instantiation] of a device as designed,maintained by [OSE]
+    * Example: OSEObjectDevicePrintedCircuitBoard is documentation on how to create a ObjectDevicePrintedCircuitBoard
+  
+  * The ultimate goal is the ability to build any object recursivlely from all OSEObject components
+    * example: you are able to build an OSEObjectDeviceAutomobile completely from other OSEObjects, OSEObjectDevices, OSEObjectMaterial(s) 
+    * When an ingredient has no OSE documentation, meaning the user can not make it:
+      * The best alternative is to provide the least evil, most open source place to buy it. 
+  
+  
+  * Infinite iterations should be maintainable
+    * This may get tricky. 
+      * OSEProblemOfInfiniteIterations
+       *   
+
+
+
++++ CAD / CAM / SOFTWARE
+  * Objects such as "black box" electronics or even physical objects will require files and software to create said files.
+    * KiCAD will be used for creating electrical schematics and PCB files
+    * FreeCAD will be used to make 3D models and export STEP/STL files for physical enclosures.  
+      * https://hackaday.com/2020/07/07/designing-3d-printed-enclosures-for-kicad-pcbs/
+
++++ CHILDREN
+
+OSEObjectDevice3DPrinter
+
+OSEObjectDeviceAudioHeadphones 
+OSEObjectDeviceAudioInterface
+OSEObjectDeviceAmplifier
+OSEObjectDeviceAmplifierElectronicAudioGuitar
+
+OSEObjectDeviceContainer
+
+OSEObjectDeviceDIUnit
+
+OpenSourceScanningElectronMicroscope 
+
+OSEObjectDeviceComputerNetworkRouter
+
+OSEObjectDevicePrintedCircuitBoard
+
+OSEObjectDeviceIsolatorSignalAudio
+   
+OSEObjectDeviceWaterQualityTester 
+
++++ UNSORTED
+OpenSourceEverythingSolarPower
+OpenSourceEverythingSolarCell
+OpenSourceEverythingMobilePhone
+OpenSourceEverythingSolarFurnace
+OpenSourceEverythingElectricBattery
+OpenSourceEverythingAudioHeadphones 
+OpenSourceEverythingPulseOximeter
+
+
++++ TEMPLATE
+
+OSEObjectDeviceTemplate
+
++++ RELATED
+
+ObjectIdeaMathematicalObjectFunctionSignal
+
++++ PARENT
+
+  OSEObject

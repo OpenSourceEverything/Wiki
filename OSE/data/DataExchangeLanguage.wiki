@@ -1,0 +1,7 @@
+﻿++ Data Exchange Language
+
++++ SUMMARY
+a language that is domain-independent and can be used for data from any kind of discipline; examples: JSON, XML
+
++++ PARENT
+ObjectSystemLanguageFormalComputer 

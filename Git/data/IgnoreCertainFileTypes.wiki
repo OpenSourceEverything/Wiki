@@ -1,0 +1,12 @@
+﻿++ Ignore Certain File Types
+
+
++++ SUMMARY
+
+Add the following to your
+# .gitignore for excluding all but certain files in certain subdirs
+
+*
+!*.cfg
+!/**/
+!certain/subdir/i_want_to_include/*.cfg

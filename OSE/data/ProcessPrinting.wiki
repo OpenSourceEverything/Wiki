@@ -1,0 +1,17 @@
+﻿++ Process Printing
+
++++ SUMMARY
+  * [Process]/ProcessArt 
+    * of (mass) producing text/images using a master form or template
+    * Example methods:
+      * inked type and a printing press
+
+
+
++++ CHILDREN
+  * 
+
+
++++ PARENT
+
+[Process]

@@ -1,0 +1,45 @@
+﻿++ Abstract Class Example1
+
+class ILogin{
+public:	
+	virtual void name () = 0;
+	virtual void password () = 0;		
+};
+
+class EmailLogin:public ILogin
+{
+public:	
+	void name (){
+		cout<<"Email Login name"<<"\n";
+	}
+	void password (){
+		cout<<"Email password"<<"\n";
+	}
+};
+class MembershipLogin :public ILogin
+{
+public:
+	void name (){
+		cout<<"Membership Login name"<<"\n";
+	}
+	void password (){
+		cout<<"Membership password"<<"\n"; }
+ };
+
+Now, lets see how to use interface class in c++ program. Here is the main() function that will use the interface class and functions in a program.
+
+  int main() {
+        //Email login
+        ILogin *email = new EmailLogin(); email->name();
+	email->password();
+
+	//Members login
+	ILogin *members = new MembershipLogin();
+	members->name();
+	members->password();
+
+	if(email) delete email;
+	if(members) delete members;
+
+	return 0;
+} 

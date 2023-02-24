@@ -1,0 +1,11 @@
+﻿++ How To Block Telephone Numbers
+
+https://www.wirefly.com/guides/how-to-block-unwanted-calls-to-your-cell-phone
+
+https://www.quora.com/How-does-TrapCall-unmask-hidden-caller-IDs
+
+While callers can block or restrict their caller ID from appearing to other subscribers, they cannot block their numbers from providers when they call toll free numbers, as the toll free subscriber is being billed for that call.
+
+On TrapCall's website, it says that it walks you though setting up conditional call forwarding on your phone, and also that you must reject the call once before TrapCall can unblock it.
+
+I presume that when you reject the call the first time, it gets forwarded to a toll free trapcall number, where they get the caller's number, and then they forward the call back to you with that number.

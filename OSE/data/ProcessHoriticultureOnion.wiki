@@ -1,0 +1,124 @@
+﻿++ Process Horiticulture Onion
+
+
++++ 1) SUMMARY
+
+  * Allium cepa 
+  * bulb onion or common onion, 
+
+  * close relatives include the garlic, scallion, leek, chive,Chinese onion.
+  
+  
+  * Takes a lot of nutrients, 20-20-20, to a 15-0-2 maybe.
+  * The more leaves that come up, the more rings your onion has
+  * Lots of water recommended, Drip system is recommended
+
+  * keep plant trimmed at ~3", otherwise they flop over.
+
+  * if growing outside, transplant seedlings
+    * ~1 month before last frost
+    
++++ 2) PROPAGATION AND GROWTH CARE
+* From Seed:
+* From Cutting/Transplant:
+    
+
++++ 3) PLANT STRUCTURE
+*
+ 
++++ 4) LIFE CYCLE
+  * around 100+ days to mature
+
+  * Biennial. 2 years to complete life cycle.
+    * First year seed, grows bulb. dormancy over winter
+    * Second year: flowers, produces seeds.
+
+  
+  * (0-2 wk) Germination 
+  * 4.1) vegetative period:
+  * 4.2) flowering period:
+  * 4.3) maturation period:
+
+* Notes
+
+* Photos of complete life cycle:
+
++++ 5) SPECIES
+  * types:
+    * long day varieties.
+      * need exposure to 14 to 16 hours of daylight to bulb up
+      * store well. pungent
+      *  
+    * short day onions, ones that form bulbs when the days are 10 to 12 hours long
+      * do not store well
+ 
++++ RELATED
+
+  * ProcessHorticultureListOfPlants
+  * ProcessHorticulturePlantTemplate
+     
++++ 6) TEMPERATURE / WATER / LIGHT / HUMIDITY / ACIDITY
+4.1) Temp: 
+  * seeds: Min: -3 C, 
+  * after two-leaf stage: min: -8 C for short time
+ 
+* 4.2) Humidity:
+  * 50-60%
+    
+* 4.3) Acidity pH:
+  * 6-7
+
++++ 7) HARVEST / STORAGE / TYPICAL YIELD
+
+* Onions are ready to dig when their tops begin to yellow and fall over
+
+* 7.1) Seed:
+  * Onion flower about to go to seed:
+    * https://commonsensehome.com/wp-content/uploads/2016/02/onion-flower-18.jpg
+
+* 7.2) Bulb  
+  * 7.2.1) Harvest:
+    * Its possible to harvest anytime 
+    * Harvest when bulbs are big, tops begin to turn yellow and fall over. 
+    * Pull them up, shake off the soil,
+    * lay them out to cure with the tops still attached. 
+    * Cure 7 to 10 days in warm, dry area with good air circulation.
+      * the roots will shrivel and the necks above the bulbs will dry 
+    * clip off the tops of the onions and the roots with pruning shears, 
+      * remove as much dry dirt as possible without taking off the papery outer skins,
+  
+  * 7.2.2) Storage:
+    * cool dry place 
+  
++++ 8) DIMENSIONS
+* 8.1) Plant:
+  * three seeds per inch (2.5 cm), 1/4 to 1/2 inches (6-13 mm) deep, 
+  * rows 4 inches 
+
+
+* 8.2) Grow Container:
+
+* 8.3) Seed: 
+  *  
+* 8.4) Spacing:
+  *
+* 8.5) Root System:
+
++++ 9) GROWING INSTRUCTIONS
+  * Stratification/Scarification:
+    * 
+  * Seed germination:
+    *
+  * Seedling
+
+
++++ RELATED
+  ProcessHorticulturePlantTemplate
+  ProcessHorticultureListOfPlants
+
+
+
+
++++ PARENT
+
+  HorticultureFood

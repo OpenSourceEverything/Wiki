@@ -1,0 +1,27 @@
+﻿++ Object System Language Formal Language
+
++++ SUMMARY
+
+ObjectSystemLanguage
+consisting of words which:
+  1) letters are taken from an alphabet and 
+  2) well-formed according to a specific set of rules. 
+
+
+studies primarily the purely syntactical aspects of such languages—that is, their internal structural patterns. 
+
+
++++ DETAILS
+++++ COMPUTER SCIENCE (ProcessComputing)
+In ComputerScience, formal languages are used among others as the basis for defining the grammar of programming languages and formalized versions of subsets of natural languages in which the words of the language represent concepts that are associated with particular meanings or semantics. 
+
+In computational complexity theory, decision problems are typically defined as formal languages, and complexity classes are defined as the sets of the formal languages that can be parsed by machines with limited computational power. 
+
+In logic and the foundations of mathematics, formal languages are used to represent the syntax of axiomatic systems, and mathematical formalism is the philosophy that all of mathematics can be reduced to the syntactic manipulation of formal languages 
+
++++ CHILDREN
+ObjectSystemLanguageFormalLanguageComputerLanguage
+
++++ PARENT
+
+ObjectSystemLanguage

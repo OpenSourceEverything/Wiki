@@ -1,0 +1,40 @@
+﻿++ Cpp Format Specifiers
+
+CppFormatSpecifier
+
++++ SUMMARY
+
+  * %[flags][width][.precision][size]type
+
+  * width and precision can be passed as variables with asterisk symbols
+    * printf("%*.*f", width, precision, value); 
+
+++++ DATA TYPES AND THEIR SPECIFIER
+  * size_t
+    - %zu
+   
+  * long long 
+    *  
+
+++++ FORMATTING OF NUMBER LENGTH ETC.
+
+
+  * add leading 0's to meet minimum width (else it will shrink/expand as needed)
+    *  
+
+  * Number of decimal places:    
+    * %.2f = double or float with 2 decimal places after the '.'
+      * 200.02 will print if you have 200.029182
+  
+  *  All of printf()'s output is right-justified, unless "-" is used
+    * %-12.4f              
+      * floating point number 
+      * min 12 chars     ()
+      * 4 decimal places (".4")
+      * left justified   ("-")
+    
+
+
++++ PARENT
+
+  [C++]

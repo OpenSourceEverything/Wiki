@@ -1,0 +1,17 @@
+﻿++ Property List Of Properties
+
++++ SUMMARY
+
+
+
++++ CHILDREN
+
+
++++ LIST OF PROPERTIES
+PropertyPhysical
+PropertyEdible
+
+
++++ PARENT
+
+[Property]

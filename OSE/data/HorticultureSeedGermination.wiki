@@ -1,0 +1,18 @@
+﻿++ Horticulture Seed Germination
+
+
+
++++ SUMMARY
+
+  * Determine whether stratification is needed, desired (e.g. evergreens):
+    * https://morningchores.com/seed-stratification/
+  
+    * Standard Stratification Proces:
+      * Soak in water 24 hours.
+      * Place in temperature of 40F or above for ~60 days. 
+      * Seed is now ready to sow.
+    
+
++++ PARENT
+
+  [Horticulture]

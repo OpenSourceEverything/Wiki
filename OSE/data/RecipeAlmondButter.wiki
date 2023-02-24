@@ -1,0 +1,32 @@
+﻿++ Recipe Almond Butter
+
+
++++ INGREDIENTS
+
+3 cups almonds
+1 TbSpn
+    - mix in food process
+      - stopping often to push side matter back down
+
+
+
+
+
+NOTES
+    - do not roast raw almonds for use here, turned out badly
+    - probably dont add any salt
+        - 1/2 [Tspn] is too much for 3 cups of almonds
+    - adding oil seemed necessary to achieve creamy texture.
+      - if you dont add oil, still buttery, but very gritty.
+
+    - probably shouldnt decrease recipe size less than about 2-3 cups, blending is slower
+      
+    - do not use blender, will take hours
+    - use food processor. it takes several minutes at the least
+      - during these several minutes, stop and push side matter 
+        back down.
+        
+        
++++ PARENT
+
+  OpenSourceEverythingFoodRecipes

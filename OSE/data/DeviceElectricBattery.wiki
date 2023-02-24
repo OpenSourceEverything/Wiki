@@ -1,0 +1,51 @@
+﻿++ Device Electric Battery
+
++++ SUMMARY
+
+  * Types:
+    * Wet Cell
+      * have to add water
+      * 1600 cycles average
+    
+    * Lead Acid
+      *  
+    
+    * DeviceElectricBatteryAbsorbedGlassMattAGM
+      * explosion proof
+    
+    * Lithium
+      * Very lightweight comparitively
+      * very high energy density,
+      * good lifespan, 2000 cycles average
+    
+    * great care must be taken in charging.
+     
+    * DeviceElectricBatteryNickelIron
+    * DeviceElectricBatteryPureIron
+    * 
+
+
+  * Common form factors, AA, AAA, 18650
+
+  * Advantages and disadvantages of lithium ion
+    * https://batteryuniversity.com/learn/archive/is_lithium_ion_the_ideal_battery 
+
+
++++ CHILDREN
+
+  * OpenSourceEverythingElectricBatteryNickelIron
+
++++ EXTERNAL LINKS
+
+  * This is worth noting, a modular kit for making lithium ion "packs" out of 18650's
+    - https://www.kickstarter.com/projects/1354698863/diy-li-ion-battery-building-kit-make-your-own-1865
+    
+  * https://commonsensehome.com/18650-battery/
+
++++ RELATED
+
+  OpenSourceEverythingElectricBattery
+
++++ PARENT
+
+  [Devices]

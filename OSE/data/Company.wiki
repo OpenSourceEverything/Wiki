@@ -1,0 +1,5 @@
+﻿++ Company
+
+1. State of being with another entity or person
+2. Object, Attribute: presence is enjoyed by other Object(s), time is passed in presence of.
+3. ObjectEntityLegalCompany

@@ -1,0 +1,15 @@
+﻿++ OSE Object Dictionary
+
+
+
++++ SUMMARY
+
+? appropriate parent, too complicated to sort right now. 
+
+*
+
+
+
++++ PARENT
+
+OSEObject

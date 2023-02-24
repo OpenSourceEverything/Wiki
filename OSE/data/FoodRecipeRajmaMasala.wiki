@@ -1,0 +1,78 @@
+﻿++ Food Recipe Rajma Masala
+
++++ SUMMARY
+
+  * Kidney beans in a sauce of tomatos, onions, chiles and spices.
+
++++ PREPARATION
+
+  * Soak the rajma/kidney beans overnight
+
++++ TOOLS
+ 
+  * 
+
++++ INGREDIENTS
+
+  * (2 cup)       rajma/kidney beans
+  
+  * Mixture 1
+    * 2             large onion
+    * 4             large tomato
+  
+  * Mixture 2
+    * (8)           garlic clove, medium size   
+    * (3-4)         green chiles, medium/large
+    * (2 TbSpn)     FoodGinger
+
+  * Mixture 3
+    * (2 Tbspn)     FoodOliveOil 
+    * (1 Tspn)      FoodCuminSeed
+
+
+  * Mixture 4
+    * (0.5 teaspoon)  turmeric powder, 
+    * (1 teaspoon)    red chilli powder, 
+    * (2 teaspoon)    coriander powder, 
+    * (a pinch)       asafoetida (hing)
+    * (1 teaspoon)    garam masala powder.
+  
+  * Mixture 5 
+    * (4-6 Tbspn)     Cream
+    * (2   Tspn)      FoodKasuriMethi     
+
++++ DIRECTIONS
+
+  * 1) Heat Frying Pan add FoodOliveOil till hot. Then Add FoodCuminSeed
+  
+  * 2) Once FoodCuminSeed start to pop add Onions, careful not to burn either
+  
+  * 3) Add ginger + garlic paste, cooking for ~1 minute, then add FoodTomato cook ~ 2 minutes
+  
+  * 4) Add Mixture 4, cook until fat separates
+  
+  * 5) Add the kidney beans, cook down a bit
+  
+  * 6) Add water or stock, keep cooking and smashing until you get desired consistency.
+  
+  * 7) 
+
++++ NOTES
+
+  * Takes a long time to cook if you dont soak rajma beans
+  * Great without cream.
+  * Use the water you boiled beans in to cook in large pan 
+
++++ PARENT
+
+++++ OpenSourceEverythingFoodRecipes
+
++++ RELATED
+
+  OpenSourceEverythingFoodRecipeTemplate
+    
+  https://www.vegrecipesofindia.com/rajma-masala-recipe-restaurant-style/
+  
++++ PARENT
+++++ OpenSourceEverythingFoodRecipes
+

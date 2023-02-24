@@ -1,0 +1,59 @@
+﻿++ Hydroponics Light Source LED
+
+  * Parameters:
+  https://support.agi32.com/support/solutions/articles/22000221499-calculate-ppfd-for-horticulture
+  
+  3000K:
+  https://rollitup.org/t/3000k-or-3500k-for-flowering.950292/
+  
+  
+  
+    - Light Intensity
+      - PPF: x µmol/s
+      - measures total energy put out by light per second.
+        doesnt tell how the light energy is *distributed*.
+        Thats PPFD
+      - PhotosyntheticPhotonFlux
+        - measured in an integrating sphere.
+      
+      - rule of thumb: 4ftx4ft area 1000-1500µmol/s
+      
+    - but PPF doesnt tell you light distribution.
+      - Need a PAR(Photosynthetic) Chart/Map
+      - This tells you PPFD. 
+      - looking for a uniform par chart
+      - average PPFD doesnt indicate uniformity,
+        so go by the PAR Map
+    
+    200-600
+    
+    600-1000(+ if using C2)PPFD
+    
+    - Spectrum
+      - two types of 
+        - Mono-Diodes/Narrow band wavelengths.
+        - cobs or mid-powered LEDS, white diodes are used, providing all
+      - Blue: veg
+      - Red:  flowered
+        - however both are needed in the opposite side but in smaller quantities.
+        THIS IS PURPORTED TO BE A MYTH, need VERIFICATION!
+    
+    - wattage DRAW 
+      - only gives you general idea, must be looked at with
+        Efficacy: 2.7 µmol/J
+
+      - correct spectrum depends on plants stage of development
+    
+    Efficacy: 2.7 µmol/J
+    
+    
+    Input Power: 631W
+    
+    
+
+    
+    
++++ RELATED
+
++++ Parent
+  * [Horticulture]

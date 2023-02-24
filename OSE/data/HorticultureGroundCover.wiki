@@ -1,0 +1,17 @@
+﻿++ Horticulture Ground Cover
+
+
++++ SUMMARY
+  SUNNY AREAS:
+    - CREEPING JUNIPER - LOOKS LIKE THUJA OCCIDENTALIS (EMERALD EVERGREEN)
+    - LORIOPE
+    - ASIAN STAR
+      
+      
+  SHADY AREAS:
+    - MONDO GRASS
+    
+    
++++ PARENT
+
+  [Horticulture]

@@ -1,0 +1,19 @@
+﻿++ Cpp Weak Pointer
+
+  * Doesnt have ownership
+  
+  * Object may have been deleted out from under you.
+  
+  
+  
+  * by calling weakpointer.lock() 
+    * see if object exists, if it does, created a shared pointer
+    *    
+
+
++++ Related
+
+  * CppSharedPointer  
+  
++++ Parent
+  * [C++]

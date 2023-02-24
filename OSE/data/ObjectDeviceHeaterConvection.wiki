@@ -1,0 +1,20 @@
+﻿++ Object Device Heater Convection
+
++++ SUMMARY
+ObjectDeviceHeater
+  
+  * uses ObjectDeviceHeatingElement 
+    * heats the air in contact with it by ProcessThermalConduction. 
+  
+  * sometimes filled with oil or thermal fluid. 
+  * ideally suited for heating a closed space. 
+  * operate silently and have a 
+  * lower risk of contact ignition hazard compared to radiant electric heaters. 
+
++++ DETAILS
+  * Hot air is less dense than cool air, so it rises due to buoyancy, allowing more cool air to flow in to take its place. 
+    * This sets up a convection current of hot air that rises from the heater, heats up the surrounding space, cools and then repeats the cycle. 
+
+
++++ PARENT
+ObjectDeviceHeater

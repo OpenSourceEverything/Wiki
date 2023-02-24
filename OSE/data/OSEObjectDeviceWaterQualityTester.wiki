@@ -1,0 +1,29 @@
+﻿++ OSE Object Device Water Quality Tester
+
+
+
+
++++ Requirements
+
+  - ph
+  
+  -
+
++++ Related
+
+  * [turbidity]
+
+
+
++++ Enumeration
+
+  * https://libre3d.com/category/687/Test-Equipment/listings/717/Open-Source-Water-Testing-Platform.html
+
++++ External Links
+
+  * https://www.cdc.gov/healthywater/drinking/public/water_quality.html
+  
+  
++++ Parent
+
+  OpenSourceEverything

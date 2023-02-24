@@ -1,0 +1,23 @@
+﻿++ Object Data Information
+
++++ SUMMARY
+
+ObjectData (plural of [Datum])
+  * processed, 
+  * organised
+  * structured
+  * provides context enables decision making.
+    * example: fire statistics used in allocating firefighter funding
+    * 
++++ CHILDREN
+
+
+ObjectDataInformationFile
+ObjectDataInformationComputerProgram
+ObjectDataInformationSoftware
+
+
+ObjectDataInformationHypertext
+
++++ PARENT
+ObjectData

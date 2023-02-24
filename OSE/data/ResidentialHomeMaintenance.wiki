@@ -1,0 +1,36 @@
+﻿++ Residential Home Maintenance
+
+
+
+
++++ Routine Maintenance:
+  1. ResidentialHomeSumpPump 
+      - Clean sump pump if needed
+      - Pour 5 gallons or more into sump pit, verify sump pump turns on and gets rid of water.
+      - listen for clear switching (commonly goes bad). listen for squeels et cetera.
+      -
+  
+  
+  2. 
+
+
+
++++ Children
+
+  HowToFixALeakyFaucet
+
+
++++ External Links
+  
+  ResidentialHomeMaintenanceChecklist
+  
++++ Related
+
+  GKResidentialProperties
+
++++ Parent
+
+  ResidentialHomeOwnership
+
+  [Construction]
+  

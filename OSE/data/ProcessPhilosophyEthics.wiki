@@ -1,0 +1,21 @@
+﻿++ Process Philosophy Ethics
+
+
++++ SUMMARY
+
+* addresses matters of ObjectIdeaMorality, defining good/evil.
+
+
+* Consequentialist:
+  * Good/Bad determined by the result of your actions
+  * example : utilitarianism 
+
+* Categorical:
+  * Good / bad are determined by duties and rights 
+
+
+
+
++++ PARENT
+
+ProcessPhilosophy

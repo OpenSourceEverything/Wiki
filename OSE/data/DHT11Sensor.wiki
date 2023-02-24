@@ -1,0 +1,7 @@
+﻿++ DHT11Sensor
+
+
+ObjectDeviceTransducerSensorThermalInstanceDHT11
+
+
+  

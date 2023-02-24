@@ -1,0 +1,17 @@
+﻿++ Law
+
+
++++ SUMMARY
+
+* Precise definition still debated.
+
+* Can refer either to:
+  * ProcessLaw
+  * ObjectSystemLaw 
+ 
+
+
+
++++ Children
+
+  * LawOfTheUnitedStates

@@ -1,0 +1,91 @@
+﻿++ Process Horticulture Kiwi
+
+
++++ SUMMARY
+
+* Actinidia deliciosa
+
+* Vining plant, trellis recommended
+* Only the female kiwi vines produce fruit, 
+  * recommendation is 1 male plant to pollinate every 8-9 female plants
+  * 
+
++++ PROPAGATION
+* From Seed:
+* From Cutting/Transplant:
+    
++++ PLANT STRUCTURE
+  * Vining plant.
+  * male plants: 
+    * bright yellow, pollen-covered anthers in the flower's center. 
+  * female plants: 
+    * sticky stalks (stigma) in the center instead,
+    * white ovaries at the base of the flower
+
+
++++ PESTS AND DISEASES
+  * Attracts deer, cats, especially when young
+  * 
+
++++ LIFE CYCLE, POLLINATION, PLANT MAINTENANCE
+  * Usually flower within four or five years of planting.
+  * Only females produce the kiwi fruit yield.
+    *   
+  * 1) 45-60 day vegetative period,
+  * 2) 15-25 day flowering period
+  * 3) 30-40 day maturation period
+
+  * a flower lasts less than one day, 
+  * each plant makes dozens of flowers for three to four weeks
+  * seedpods swell to the size of a pea and turn from green to gold as the seeds inside ripen, 
+  * the plants then dry out and die.
+
+* drawn walkthrough of all stages:
+[rel://files/stages-flax-1.png]
+[rel://files/flax-stages-2.png]
+* harvested:
+[file:///P:/D2/Private/Wiki/OSE/files/harvested-flax.jpg]  
+  
++++ CLIMATE / TEMPERATURE / HUMIDITY / ACIDITY / LIGHT
+
+* 1) Climateonly:
+  * growable in regiosn with at least 225 frost free growing days and moderate winter temps
+  * USDA zones 8 and 9
+  
+* 2) temperature
+  *  
+
+* 3) Humidity:
+  * 50-60%  
+  
+* 4) Acidity pH:
+  * 5.5-7.5
+  
+* 5) Light
+  * partial shade 
+  
++++ SPECIES
+  * 
+
++++ HARVEST AND STORAGE
+* Seed:
+  *  
+* Yield ()
+  * 
+* Storage:
+  *   
+  
++++ DIMENSIONS
+* 1) Container:
+* 2) Plant:
+  * Vertical: max height of 40 to 91 cm (16 to 36 in.) 
+* 3) Seed: 
+  *  
+* 4) Spacing:
+  * Commercial growers use 6ft high wire trellises with T-bars spaced 15 to 20 feet apart.
+  * 
+* 5) Root System:
+
++++ RELATED
+
+HorticulturePlantTemplate

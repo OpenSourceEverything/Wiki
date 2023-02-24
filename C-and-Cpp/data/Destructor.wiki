@@ -1,0 +1,12 @@
+﻿++ Destructor
+
+
++++ SUMMARY
+
+When an object of a derived class is destroyed, its destructor is called 
+first, then that of the base class 
+
+
+
++++ PARENT
+[C++]

@@ -1,0 +1,15 @@
+﻿++ Process Mathematics Linear Algebra
+
++++ SUMMARY
+
+ProcessMathematics sub-field
+  * Concepts of concern:
+    * LinearEquations
+    * ProcessMathematicsLinearAlgebraLinearMap
+      * Representing these through VectorSpaces and ProcessMathematicsMatrix/[Matrices]
+
+
++++ CHILDREN
+ProcessMathematicsLinearAlgebraTransformationMatrix
++++ PARENT
+ProcessMathematics

@@ -1,0 +1,9 @@
+﻿++ Object Data Information Source Code
+
++++ SUMMARY
+
+ObjectDataInformationComputerProgram
+  * Human-Readable form
+
++++ PARENT
+ObjectDataInformationComputerProgram

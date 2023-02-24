@@ -1,0 +1,20 @@
+﻿++ Process Study Mathematics
+
+ProcessMathematics
+
++++ SUMMARY
+
+* no universally accepted definition.
+* Used to refer to study of various things such as:
+  * quantity  (number theory)
+  * structure (algebra)
+  * space     (geometry)
+  * change    (analysis)
+
++++ CHILDREN
+ProcessMathematicsLinearAlgebra
+ObjectIdeaMathematicalFunction
+
++++ PARENT
+
+ProcessStudy

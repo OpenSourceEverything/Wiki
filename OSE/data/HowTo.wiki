@@ -1,0 +1,31 @@
+﻿++ How To
+
+
++++ SUMMARY
+
+  * This pages intent is to direct queries on how to accomplish something to the proper generic page. 
+    * However, it may point to a specific how to, such as "how to replace part x on automobile" 
+    
+
++++ UNSORTED
+    
+  * HowToBuyAPhoneNumber
+  
+  * HowToBlockTelephoneNumbers
+
+
++++ PLANTS, AGRICULTURE, HORTICULTURE
+
+HowToMakePlantFertilizer
+  
++++ CAR/AUTOMOTIVE REPAIR
+ProcessVehicleMaintenance
+ObjectDeviceVehicleMotorizedAutomobile
+    
++++ SOFTWARE
+
+  * HowToRecordAudioVideoFromAComputer
+  
++++ PARENT
+
+  [OpenSourceEverything]

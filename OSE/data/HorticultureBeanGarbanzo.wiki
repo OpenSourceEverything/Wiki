@@ -1,0 +1,92 @@
+﻿++ Horticulture Bean Garbanzo
+
+
++++ SYNONYMS/REDIRECT
+Kabuli Chana
+
++++ SUMMARY
+
+
+* There are different types of "chic pea" (garbanzo bean).
+  Note: Names are different and overlapping based on region (confusing)
+  * (This page) garbanzo beans (Kabuli Chana, Safed Chana)
+  * Green chic pea (Maharashtra)
+  * Black garbanzo (Kala Chana, Desi Chana, Chana, chholar dal) 
+    * When split the result is a yellowish color
+  * Picture of the types of Chic Pea:    https://tce-live2.s3.amazonaws.com/media/media/180299e2-8dc8-4e60-9778-24810084657a.jpg
+
+
+Nitrogen fixer, good companion for all but onion family, beets.
+
+Days to Harvest: ranges from 90 to 100 days.
+
+Ideal Soil pH: 6.5, range: 5.3 - 7.0
+
+Plant Height: up to 2 feet tall. Usually needs trellis/support.
+
+plant seed once temperatures exceed 60 degrees F
+
++++ PROPAGATION
+* From Seed:
+* From Cutting/Transplant:
+    
++++ PLANT STRUCTURE
+  * 
+
++++ LIFE CYCLE
+  * 1) 45-60 day vegetative period,
+  * 2) 15-25 day flowering period
+  * 3) 30-40 day maturation period
+
+  * a flower lasts less than one day, 
+  * each plant makes dozens of flowers for three to four weeks
+  * seedpods swell to the size of a pea and turn from green to gold as the seeds inside ripen, 
+  * the plants then dry out and die.
+
++++ TEMPERATURE / HUMIDITY / ACIDITY
+
+seeds: Min: -3 C, 
+after two-leaf stage: min: -8 C for short time
+ 
+* 3) Humidity:
+  * 50-60%  
+* 4) Acidity pH:
+  *   
+  
++++ SPECIES
+  * 
+
++++ HARVEST AND STORAGE
+* ~100 days to harvest.
+* Method 1 (let them dry on the plant): 
+  * harvest when the plant leaves are dry and have turned brown. 
+
+* Method 2: (pick fresh, dry later): 
+  * pull plants and put them on a flat, warm surface to let the pods dry.
+
+* Seed:
+  *  
+* Yield ()
+  * 
+* Storage:
+  *   
+  
++++ DIMENSIONS
+* 1) Container:
+* 2) Plant:
+  * Vertical: max height (15-21inch)(cm)
+* 3) Seed Depth: 
+  * 1.0-1.5inch  
+* 4) Spacing:
+  * (18-24in row, 3-6in)
+  * 
+* 5) Root System:
+
+
++++ RELATED
+
+HorticulturePlantTemplate
+
++++ PARENT
+
+ProcessHorticulture

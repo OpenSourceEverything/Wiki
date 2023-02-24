@@ -1,0 +1,8 @@
+﻿++ strlen
+
+returns number of characters up to but not including the null terminator 
+
+string s = "12345"
+[sizeof](s) returns 6
+strlen(s) returns 5
+

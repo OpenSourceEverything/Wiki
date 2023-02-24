@@ -1,0 +1,43 @@
+﻿++ Food Recipe Pie Pumpkin
+
++++ SUMMARY
+
+
++++ TOOLS
+ 
+  * Bread pan (to shape as desired)
+  
+  * Mixing Bowl   
+
++++ INGREDIENTS
+
+  * (CRUST
+    * 2 Ripe Bananas
+    * 1.5-1.75 cup flour
+     
+  * FILLING
+    * 15 oz Pumpkin Puree
+    * 12-14 dates
+    * 1 Tspn pumpkin pie spice
+    * 1 TbSpn Cornstarch
+    
++++ DIRECTIONS
+
+  * 1) Banana and flour mix to dough
+  * 2) Roll out the dough from step 1, place in a pan
+  * 3) blend all ingredients for filling
+  * 4) pour all ingredients from step 3 into pan, on top of crust/dough
+  * 5) Bake 425 for 15 min
+  * 6) Cool in Fridge
+
++++ NOTES
+
+  *  
+  
++++ RELATED
+
+FoodRecipeTemplate
+
++++ PARENT
+
+FoodRecipePie

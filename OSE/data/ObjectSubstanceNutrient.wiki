@@ -1,0 +1,14 @@
+﻿++ Object Substance Nutrient
+
++++ SUMMARY
+
+ObjectSubstance
+  * Used by ObjectEntityOrganism(s) to surive,grow,reproduce.
+    * Used by 
+      * ObjectEntityOrganismAnimal(s) 
+      * ObjectEntityOrganismPlant(s)
+      * ObjectEntityOrganismFungi
+      * ObjectEntityOrganismProtist(s)
+
++++ PARENT
+ObjectSubstance

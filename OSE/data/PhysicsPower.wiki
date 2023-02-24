@@ -1,0 +1,3 @@
+﻿++ Physics Power
+
+  * rate of change of energy dE/dt

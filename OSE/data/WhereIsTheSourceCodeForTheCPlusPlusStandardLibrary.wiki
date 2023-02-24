@@ -1,0 +1,8 @@
+﻿++ Where Is The Source Code For The C Plus Plus Standard Library
+
+  * There is no single implementation, only C++ standards documents that define the library, and thus its source code.
+    * That being said one place to locate *an* implementation of the C++ standard library is from GNU:
+    * [GNULibStdC++]
+  * it's at least partially built into the compiler itself. In fact, it's not required to have any separate code at all.
+  
+  * The C++ language is only described by the standard, as is the behavior of the standard library. What you can find is a single implementation of the standard library, not the single.

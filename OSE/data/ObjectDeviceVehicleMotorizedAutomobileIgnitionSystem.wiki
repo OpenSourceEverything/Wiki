@@ -1,0 +1,40 @@
+﻿++ Object Device Vehicle Motorized Automobile Ignition System
+
+
+
+
++++ SUMMARY
+  
+  * technically ignition system should probably be more generalized to ObjectDeviceEngine of types EngineInternalCombusion, EngineRocket etc...
+    * However Automobiles are the widest application. 
+
+
+  ObjectSystem that generates a spark or heats an electrode to a high temperature to ignite a fuel-air mixture 
+  Used in: 
+    spark ignition internal combustion engines, 
+    oil-fired and 
+    gas-fired boilers, 
+    rocket engines, etc. 
+    
+    The widest application for spark ignition internal combustion engines is in petrol (gasoline) road vehicles such as cars and motorcycles.
+
+Compression ignition Diesel engines ignite the fuel-air mixture by the heat of compression and do not need a spark. They usually have glowplugs that preheat the combustion chamber to allow starting in cold weather. Other engines may use a flame, or a heated tube, for ignition. While this was common for very early engines it is now rare. 
+
+
+  * IgnitionCoil is used to convert car battery low voltage to high voltage needed for sparks.
+    * Basically a step up transformer with primary/secondary windings.
+    * The output is distributed either 
+      * mechanically (e.g. distributor cap) or 
+      * electrically via  CPU (e.g. automobile "ECU (ElectronicControlUnit)")
+        * when done electronically each spark plug has its own IgnitionCoil.
+  
+  * 
+
+
++++ RELATED
+
+ProcessVehicleMaintenanceIgnitionSystem
+
++++ PARENT
+
+ObjectDeviceVehicleMotorizedAutomobile

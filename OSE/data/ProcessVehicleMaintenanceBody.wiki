@@ -1,0 +1,20 @@
+﻿++ Process Vehicle Maintenance Body
+
++++ SUMMARY
+
+  * External Link 1 Is a good summary of basic light work
+  
+  * Basic steps if not replacing the damaged parts/frame section:
+    * 1) Grind/OrbitalSander away the affected area
+    * 2) ProcessMetalFabricationWeldingElectricResistanceFlash
+      * rel://files/_3FBCSPHWGKLBT9KWLFL4.png
+    * 3)   
+
++++ EXTERNAL LINKS
+  * 1) https://www.youtube.com/watch?v=2Z_a_pnnoWQ
+  * 2) How To Make a Dent Puller Tool
+    * https://www.youtube.com/watch?v=x28F2e9ppvo 
+
++++ PARENT
+
+  ProcessVehicleMaintenance

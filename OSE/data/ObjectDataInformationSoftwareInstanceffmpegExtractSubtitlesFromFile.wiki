@@ -1,0 +1,47 @@
+﻿++ Object Data Information Software Instanceffmpeg Extract Subtitles From File
+
++++ SUMMARY
+
+* [Operation] of [ffmpeg] [Software]
+
+
+
++++ DETAILS
+
+so i need to do a command, and that command needs
+to say "do that to audio channel 3"
+
+well according to ffmpeg, the audio channel is called
+an audio stream, and there are multiple, each given
+an index starting at 0 and increasing.
+
+so I check test.mkv (Death Note - I want to learn
+Japanese.)
+
+(i've gone to the directory where the file is, 
+and Ive added ffmpeg.exe to my PATH environment 
+variable.)
+
+ffmpeg -i test.mkv
+
+    -i denotes that the following is an input stream.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    
+    0:0 - blah balh balhalah
+    0:1 - blha balhabalhaaablah
+
+    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I need to do some ffmpeg processing to the output,
+and to that processing i need to say
+
+ffmpeg -i test.mkv -map 0:a:0 -c copy eng.mp3 -map 0:a:1 -c copy jap.mp3
+
+that was the command
+
+
+
+
+
+
++++ PARENT

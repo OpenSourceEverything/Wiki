@@ -1,0 +1,31 @@
+﻿++ Cpp R Value Reference
+
+
++++ Summary 
+  
+  * If X is any type
+    * X&& is called an rvalue reference to X.
+  
+  * Rvalue references solve at least two problems:
+    * Implementing move semantics
+    * Perfect forwarding 
+
+  * A reference that can only bind to a ComputerScienceRValue
+
+  * by definition is const.
+
+  * Moves, gives ownership of object (and duty to destroy object) to wherever its being passed.
+  
+    * similar concept to the desire to pass by ConstReference (const &var) instead of LValue, because
+      there is less overhead with copying, dereferencing... whatever else.
+    
+  * Rvalue references allow a function to branch at compile time (via overload resolution) on the condition "Am I being called on an lvalue or an rvalue?" 
+    
+    
++++ Related
+
+ * StdMove
+
+ * CppRuleOfThree
+
+ * CppRuleOfFive 

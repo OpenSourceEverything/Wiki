@@ -1,0 +1,15 @@
+﻿++ Computer ProcessScience Operand
+
+  In a complete instruction the machine ComputerScienceCentralProcessingUnit,
+    opcode is the instruction
+    operand(s) is/are the information/variables/data to be operated on or with.
+  
+  
+  
++++ Related
+  ComputerScienceCentralProcessingUnit
+    
++++ Parent
+
+  ProcessComputingComputerScience
+  

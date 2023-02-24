@@ -1,0 +1,5 @@
+﻿++ Object System Language Formal Language Programming Language
+
+(ComputerLanguage == ProgrammingLanguage) in this wiki
+
+  * ObjectSystemLanguageFormalLanguageComputerLanguage

@@ -1,0 +1,33 @@
+﻿++ Object Idea Mathematical Object Function Signal
+
+
++++ SUMMARY
+  
+  * [signal]
+
+  * a [signal] is a detectable physical quantity or impulse by which messages or information can be transmitted
+    * examples: voltage,current,magnetic field strength
+
+
++++ CHILDREN
+
+ObjectIdeaMathematicalObjectFunctionSignalDigitalClock
+
+ObjectIdeaMathematicalObjectFunctionSignal
+
+ProcessStudyMathematicsFunctionSignalSignalToNoiseRatio
+
+++++ TYPES OF SIGNALS
+ProcessStudyMathematicsFunctionSignalAudio
+ProcessStudyMathematicsFunctionSignalVideo
+ProcessStudyMathematicsFunctionSignalImage
+ProcessStudyMathematicsFunctionSignalSonar
+
+
++++ RELATED
+
+ProcessElectronics
+
++++ PARENT
+
+ObjectIdeaMathematicalFunction

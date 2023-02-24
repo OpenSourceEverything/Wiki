@@ -1,0 +1,14 @@
+﻿++ Lathe Axes Live Tooling
+
+
+There are three possible spindles on a lathe machine,
+
+the first is the main spindle on the left hand side attached to the machine, this is S1, (or its called C if using S2).
+
+The second spindle is the live tooling spindle, which is basically on the thingy that holds the tool, with the tool changer etc. If
+this spindle S2 is active, then S1 magically changes hats and is referred to as C instead, however its being controlled by the same
+physical Axis, AX3.
+
+The third is the tailstock thing, called a sub spindle, the TMM12 has a tail stock, but without a spindle, so you wouldnt call it a 
+sub spindle in that case I guess,
+

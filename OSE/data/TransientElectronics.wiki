@@ -1,0 +1,5 @@
+﻿++ Transient Electronics
+    see BiodegradableElectronics
+    
+    - https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b04931
+        - 

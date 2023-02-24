@@ -1,0 +1,30 @@
+﻿++ Hydroponics Light
+
+
++++ SUMMARY
+
+
+
+  * Think in terms of $/lumen. Although lumens technically dont apply to plants because lumens are relative to humans. Precise understanding will be deferred for now as a rule of thumb of 4000ish lumens per square foot has yielded very good results.
+  
+  
+  * 8 pack led light bulds, 13 watts, 1600 lumens each, cost = 15$
+    * *lumens per dollar = [(8*1600) / 15]  = 853.3 lumens per dollar *
+    * https://www.menards.com/main/electrical/light-bulbs/led-light-bulbs/zilotek-100w-equivalent-general-purpose-daylight-a19-led-light-bulb-8-pack/0058-0132/p-1547623769931-c-7482.htm
+  
+
+
+  * HydroponicsLightSourceLED
+
+
+
+
++++ RELATED
+
+  OpenSourceEverythingHydroponics
+  
+  
++++ PARENT
+
+
+  [Hydroponics]

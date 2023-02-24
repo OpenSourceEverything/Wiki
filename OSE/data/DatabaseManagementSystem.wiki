@@ -1,0 +1,18 @@
+﻿++ Database Management System
+ComputerScienceDatabaseManagementSystem
+[DBMS]
+
++++ SUMMARY
+
+
+  * (usually?) an integrated set of computer software allowing users to interact with database(s) 
+    * provides access to all of the data contained in the database
+
+
++++ RELATED
+
+  [SQL]
+
++++ PARENT
+
+  * ComputerScienceDatabase

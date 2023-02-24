@@ -1,0 +1,19 @@
+﻿++ Object Device Sensor Thermal
+
+
++++ SUMMARY
+
+
+
++++ CHILDREN
+
+  * OpenSourceEverythingThermalSensorPT100,
+  * OpenSourceEverythingThermalSensorPT1000
+  
+
+++++ LIST OF SPECIFIC THERMAL SENSORS
+  * ObjectDeviceTransducerSensorThermalInstanceDHT11
+
++++ PARENT
+
+  ObjectDeviceSensor

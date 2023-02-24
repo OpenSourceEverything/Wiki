@@ -1,0 +1,9 @@
+﻿++ CDOM/FDOM Monitoring
+
+CDOM/FDOM Monitoring
+
+Coloured or chromophoric dissolved organic matter (CDOM) occurs naturally in water bodies. 
+This organic matter absorbs the ultraviolet light and decomposes to release tannin, an organic pollutant that causes the water to turn murky. 
+Moreover, tannin contributes to reducing the pH (acidic) of the water and depleting the oxygen levels.
+
+A portion of the CDOM fluoresces and is referred to as fluorescent dissolved organic matter (FDOM) further making the water look cloudy.

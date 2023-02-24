@@ -1,0 +1,17 @@
+﻿++ Process Study Mathematics Function Signal Audio Signal To Noise Ration Reduction Techniques
+
+
+    Don’t record very low signals. It isn’t necessary to record that close to 0dB since you’ll be working with 24bits. Make sure, however, that you are working within an appropriate range, with peaks between -20 and -10 dBFS;
+    Set up the gains of the whole chain to operate in the best working space (from the instrument to the DAW meters); 
+    Avoid long cables. The distance to the input of the device may cause loss of signal and noise;
+    Use the direct box to capture directly from the line;
+    Be on the lookout for external interferences – vibrations coming from the floor, equipment sitting too close to each other, continuous use, how hot the devices are, electric circuit (some LED lamps interfere with signal); 
+    Make sure to use the best corner of the room to record; 
+    Take a look at the bit depth and the sample rate before starting the project;
+    Always leave plenty of space in your computer’s HD;
+    Apply dithering if necessary. 
+
+
++++ PARENT
+
+ProcessStudyMathematicsFunctionSignalAudio

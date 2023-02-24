@@ -1,0 +1,20 @@
+﻿++ Object Data Information Computer Program Bootloader
+
++++ SUMMARY
+
+ObjectDataInformationComputerProgram
+
+  * Loads computer operating system or stand-alone utility to be executed by CPU
+    * When a computer powers on the CPU has no program to execute in memory. 
+  
+  * can also load a storage dump program for diagnosing problems in an operating system. 
+
+
+
++++ SYNONYMS
+  * ObjectDataInformationComputerProgramBootManager
+  * ObjectDataInformationComputerProgramBootstrapLoader
+
++++ PARENT
+
+ObjectDataInformationComputerProgram

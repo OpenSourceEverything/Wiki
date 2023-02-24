@@ -1,0 +1,14 @@
+﻿++ Finance
+
++++ SUMMARY
+
+  * matters regarding the management, creation, and study of money and investments.[1] 
+    * Specifically, dealing with the questions of how and why an individual, company or government acquires the money needed – called capital in the company context – and how they spend or invest that money.
+
++++ CHILDREN
+
+  * PersonalFinance
+
++++ PARENT
+
+  [GK] 

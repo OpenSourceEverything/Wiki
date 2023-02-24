@@ -1,0 +1,23 @@
+﻿++ Process Physics
+
++++ SUMMARY
+
+ProcessScienceNatural 
+  concerned with:
+    * matter 
+      * its fundamental constituents, 
+      * motion and behavior through space and time, 
+    * PropertyPhysicalEnergy
+    * PropertyForce
+    * understanding how the universe behaves. 
+
+
+
++++ RELATED
+
+
+[Property]
+
++++ PARENT
+
+[Process]

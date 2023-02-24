@@ -1,0 +1,59 @@
+﻿++ OSE Object Device Signal Audio Isolator Notes
+
+
++++ SUMMARY
+
+
+current state = need to get footprints for evertyhing.
+  - need footprint for capacitor.
+  
+
+
+
+
+
+
++++ NOTES
+
+
+  * Even just common resistor components, i realize now, when you generate a file
+    to make the PCB you need the footprint, the EXACT dimensions.
+      * There is no standard 1/4Watt through-hole resistor size.
+      * average is diameter of 2.29 and 2.5mm and a length of 6 to 7mm.
+      * Footprint DIN207 for resistors.
+        * https://electronics.stackexchange.com/questions/538430/kicad-footprints-for-axial-horizontal-through-hole-resistors 
+
+
+  * 
+
+  * Never ever trust a footprint to be correct. We recommend checking pinouts and measurements religiously. Before sending a design for fabrication, print it out on paper at 1:1 scale. Place components on top of the paper to check they fit.
+
+
+  * ROUGH SCHEMATIC
+    * rel://files/_9A7XJS0P0SJG4P831ZC1.png 
+
+  * Software used: Kicad
+    * you make a schematic and it generates files used to manufacture PCB
+      * found footprint for TY-250P
+
+
+* problem: we need the footprint of the isolation transformer, so that we can generate a proper PCB layout file for proper manufacturing. 
+  * how to make your own kicad component library and store it on a "cloud".
+    * https://www.youtube.com/watch?v=YCdpXwRKbYc
+    * 
+
+
+* SCHEMATIC FOR TRS AUDIO INPUTS
+  * 
+
+
+ 
+https://electronics.stackexchange.com/questions/562090/what-function-do-the-resistors-and-capacitors-serve-in-this-11-audio-isolation
+
+*  
+
++++ GENERAL CREATION PROCEDURE.
+  * figure out your schematic
+  
++++ PARENT
+OSEObjectDeviceIsolatorSignalAudio

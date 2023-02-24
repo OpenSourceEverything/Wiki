@@ -1,0 +1,5 @@
+﻿++ AVR32
+
+https://www.triplespark.net/elec/pdev/avr32/develsetup.html
+
+LinuxAVR32Development

@@ -1,0 +1,40 @@
+﻿++ Device Battery Minimal Architecture Zinc Bromine Battery
+
+
+  two electrodes and zinc-bromine inbetween it.
+
+
+  bottom one must be carbon (bromine collects at the bottom)
+
+  stripping battery
+
+  bromine is more dense than the electrolyte, falls
+
+  cheaper, longer lasting than lead-acid.
+
+
++++ DESIGN
+
+  * 
+
+
+
++++ MATERIALS
+
+  * Carbon black filled [HDPE]
+  
+  * Carbon felt
+  
+  * 
+
+
++++ EXTERNAL LINKS
+
+  * https://www.youtube.com/watch?v=CvSYlMtY1Cg
+
+  * This amazing, large tank battery, zinc bromide
+    * https://www.youtube.com/watch?v=4OHstY_kKUY 
+
++++ PARENT
+
+  DeviceElectricBattery

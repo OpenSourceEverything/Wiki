@@ -1,0 +1,20 @@
+﻿++ Property Physical
+
+
+
++++ SUMMARY
+
+[Property] 
+  * used to characterize 
+    * matter and energy and their interaction
+
+
+
++++ LIST OF PHYSICAL PROPERTIES
+PropertyListOfProperties
+
+
+
++++ PARENT
+
+[Property]

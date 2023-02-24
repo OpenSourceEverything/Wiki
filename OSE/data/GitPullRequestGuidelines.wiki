@@ -1,0 +1,18 @@
+﻿++ Git Pull Request Guidelines
+
+
++++ SUMMARY  
+
+  * Assuming that you have first GitForked a repo, here is what you should do in that fork that you own:
+
+    create a branch: isolate your modifications in a branch. Don't create a pull request from master, where you could be tempted to accumulate and mix several modifications at once.
+    rebase that branch: even if you already did a pull request from that branch, rebasing it on top of origin/master (making sure your patch is still working) will update the pull request automagically (no need to click on anything)
+    update that branch: if your pull request is rejected, you simply can add new commits, and/or redo your history completely: it will activate your existing pull request again.
+    "focus" that branch: i.e., make its topic "tight", don't modify thousands of class and the all app, only add or fix a well-defined feature, keeping the changes small.
+    delete that branch: once accepted, you can safely delete that branch on your fork (and git remote prune origin). The GitHub GUI will propose for you to delete your branch in your pull-request page.
+
+
+
++++ PARENT
+
+  * 

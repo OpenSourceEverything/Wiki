@@ -1,0 +1,45 @@
+﻿++ Food Recipe Potatos Mashed
+
+
++++ SUMMARY
+
+* 
+
++++ TOOLS
+ 
+  * Bread pan (to shape as desired)
+  
+  *  
+
++++ INGREDIENTS
+
+  * (4)         Russet Potatos or similar
+  * (0.25 cup)  Water
+  * (1 Lbs)     Garlic Powder
+  * (1/2  )     Onion Powder
+  * (3    )     Black Pepper
+  * (2 TbSpn)   Salt
+  * (.5-1 cup)  Liquid Aminos
+  * (.25 cup)   
+  * (.25 cup)   Lemon Juice
+  * (1 TbSpn)   Starch
+  * (1/2 TsPn)  Salt
+  * (?)         Black Pepper
+  
++++ DIRECTIONS
+
+  * 1) Boil Potatos until soft
+  * 2) Strain
+  * 3) Mash
+  
++++ NOTES
+
+  *
++++ RELATED
+
+FoodRecipeTemplate
+
+
++++ PARENT
+
+FoodRecipes

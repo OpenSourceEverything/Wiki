@@ -1,0 +1,40 @@
+﻿++ OSE Object Device Interface Audio Design Detail
+
++++ SUMMARY
+
+++++ HARDWARE
+
+01) Input Jack (XLR and 1/4 inch)
+
+02) ObjectDeviceAmplifierElectronicPreAmplifierAudio
+    OSEObjectDeviceAmplifierElectronicPreAmplifierAudio
+    * see FireBox for reference parts, such as operational amplifier: 
+
+03) ObjectDeviceCodecAudio (device, prolly preloaded with software to talk?)
+   * Here is a search for 192kHz, 24 bit capables: ObjectDeviceCodecAudioMouserSearch 
+
+04) OSELinuxDeviceDriverAudio
+
+++++ SOFTWARE
+* [AVR32] = dont use just saw linux kernel no longer supports AVR32 SOC
+01) LinuxKernelModule:
+      OSELinuxKernelModule
+  * PulseAudio
+  * JACK
+06)
+07)
+08)
+09)
+10)
+
+   
+
+
+
+
+
++++ RELATED
+ObjectDeviceAmplifier
++++ PARENT
+
+OSEObjectDeviceAudioInterface

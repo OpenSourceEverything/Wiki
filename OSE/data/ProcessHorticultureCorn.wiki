@@ -1,0 +1,96 @@
+﻿++ Process Horticulture Corn
+
++++ SUMMARY
+
+* requires pollination:
+  * recommended: plant 2 full rows of same type of corn to ensure pollination
+    * e.g. youre planting corn type A, corn type B, have 2 rows of A, 2 rows of B 
+
+* three main types for different purposes:
+  * ProcessHorticultureCornSweet
+    * mutated form of corn   
+    * harvested while fresh, in the summer
+    * more sugar, several hundred species,
+    * frozen, canned, or on the cob (fresh 5-7 days)
+  * ProcessHorticultureCornField
+    * left to dry on stalk, harvested 
+    * for use as animal feed mostly.
+    * home use: cooking oil, corn syrup, corn meals, maltodextrin, dextrose, sorbitol, used in breads, toothpaste, manufacturing things
+    *     
+
+ProcessHorticultureCornGoodTypesForHomeGrowing
+
+
+* harvested for "ear" produced at top
+* tassles at top of plant must pollinate the leaves or "silk" below
+
++++ PROPAGATION
+* From Seed:
+* From Cutting/Transplant:
+    
++++ PLANT STRUCTURE
+  * 
+
++++ LIFE CYCLE
+  * 1) 45-60 day vegetative period,
+  * 2) 15-25 day flowering period
+  * 3) 30-40 day maturation period
+
+  * a flower lasts less than one day, 
+  * each plant makes dozens of flowers for three to four weeks
+  * seedpods swell to the size of a pea and turn from green to gold as the seeds inside ripen, 
+  * the plants then dry out and die.
+
+  
++++ TEMPERATURE / LIGHT / HUMIDITY / ACIDITY
+
+1) Temp = 
+  * ideal 75-80F ( C)
+* 3) Humidity:
+  * 50-60%  
+* 4) Acidity pH:
+  
+  5) Light = 6-12 hr full sun   
+  
++++ SPECIES
+  * 
+
++++ HARVEST AND STORAGE
+* Seed:
+  *  
+* Yield (Sweet Corn Cob)
+  * Appearance when ready to harvest (brown top tassle thingys)
+    * https://i2.wp.com/www.myfearlesskitchen.com/wp-content/uploads/2012/08/sweet-corn-ready.jpg?w=500&ssl=1
+  * Pick ears from stalk 
+  * Stays good 5-7 days unless canned, frozen. 
+  * Storage:
+  *   
+* Yield (Field Corn Cob/Ear dried outside)
+  * Appearance near harvest time:
+    * https://i2.wp.com/www.myfearlesskitchen.com/wp-content/uploads/2012/08/field-corn-almost-ready.jpg?w=500&ssl=1
+    
+  * signs field corn is ready to harvest:
+    * the silks at the top of the ears turn dark brown. 
+    * the shucks around the ears turn brown. 
+    * the rest of the corn plant dies and turns brown. 
+    * ear falls (silks are pointed at the ground).   
+  
++++ DIMENSIONS
+* 1) Container:
+* 2) Plant:
+  * Vertical: max height of 40 to 91 cm (16 to 36 in.) 
+  *  Depth=1-2inch
+  * Spacing
+    * (3.5ft row,7-10inch)
+    * Radial:
+  * 
+* 5) Root System:
+
++++ RELATED
+
+HorticulturePlantTemplate
+ProcessHorticultureListOfPlants
++++ PARENT
+
+  ProcessHorticulture
+  

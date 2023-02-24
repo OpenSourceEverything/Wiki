@@ -1,0 +1,10 @@
+﻿++ The Language Of First Order Logic
+
+This language of  first-order logic is very important. Like Latin, the language is not spoken, but unlike Latin, it is used every day by mathematicians, philosophers, computer scientists, linguists, and practitioners of artifcial intelligence. Indeed, in some ways it is the universal language, the lingua franca, of the symbolic sciences
+
+
+
++++ PARENT
+
+  [Philosophy]
+  

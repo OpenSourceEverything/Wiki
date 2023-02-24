@@ -1,0 +1,5 @@
+﻿++ Physics Work
+
+  * The product of PhysicsForce and distance.
+    * Work = Force * Distance 
+    * More specifically this is the MathematicsDotProduct of two vectors Force and Distance.

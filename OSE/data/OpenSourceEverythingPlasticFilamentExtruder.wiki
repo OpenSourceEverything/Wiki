@@ -1,0 +1,16 @@
+﻿++ Open Source Everything Plastic Filament Extruder
+
+
+
+
++++ EXTERNAL LINK
+  https://www.instructables.com/id/Build-your-own-3d-printing-filament-factory-Filame/
+
+
++++ RELATED
+  GKLogTextYear2020
+
++++ PARENT
+
+  ???
+  OpenSourceEverything

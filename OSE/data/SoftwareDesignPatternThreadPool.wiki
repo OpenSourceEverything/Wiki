@@ -1,0 +1,9 @@
+﻿++ Software Design Pattern Thread Pool
+
++++ SUMMARY
+  * multiple threads 
+    * waiting for tasks to be allocated for concurrent execution by the supervising program
+
++++ PARENT
+
+ProcessComputingSoftwareDesignPattern

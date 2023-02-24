@@ -1,0 +1,8 @@
+﻿++ Linux Operation SD Card
+
+
+
+
++++ PARENT
+
+LinuxOperations

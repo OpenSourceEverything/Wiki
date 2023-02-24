@@ -1,0 +1,32 @@
+﻿++ Open Source Everything Electric Battery Nickel Iron
+
+
+
+
+
++++ SUMMARY
+
+
+  Goal:   
+  
+  12V
+  
+  100Ah (10cells)
+
++++ EXTERNAL LINKS
+
+  * OpenSourceEverythingNickelOxyHydroxide http://gp.alternate-energy.net/how-to-make-nickel-oxyhydroxide-for-nickel-iron-batteries_f056c4d05.html
+  
+  * OpenSourceEverythingElectricBatteryNickelIronExamplesForReference 
+  
++++ RELATED
+
+
+  OpenSourceEverythingSolarPowerSystem
+
+  DeviceElectricBatteryNickelIron
+  
++++ PARENT
+
+  OpenSourceEverythingListOfThings
+  [Devices]

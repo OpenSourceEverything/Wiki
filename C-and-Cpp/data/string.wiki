@@ -1,0 +1,13 @@
+﻿++ string
+
++++ SUMMARY
+
+
++++ CHILDREN
+
+ReturnAStringFromAFunction
+
+
++++ PARENT
+
+[C++]

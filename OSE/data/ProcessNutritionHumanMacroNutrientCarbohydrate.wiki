@@ -1,0 +1,19 @@
+﻿++ Process Nutrition Human Macro Nutrient Carbohydrate
+
++++ SUMMARY
+
+  * sugars, starches, dietary fiber
+    * occur in plant foods and dairy products (as lactose).
+
+  * good sources:
+    * bread, pasta, beans, potatoes, rice, and cereals. 
+
+  * quantified on a Glycemic inde
+
++++ CHILDREN
+
+  ProcessNutritionHumanMacroNutrientCarbohydrateFiber
+
++++ PARENT
+
+  ProcessNutritionHumanMacroNutrient

@@ -1,0 +1,13 @@
+﻿++ Computer ProcessScience Computer Programming Operating System Linux Tool Make
+
+
++++ External Links
+
+  * Simple tutorial:
+    * https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
+  
+  * GNU Manual for Linux Make:
+    * http://www.gnu.org/software/make/manual/make.html
+
++++ Search
+  * Make, makefile, Linux make,

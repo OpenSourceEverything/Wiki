@@ -1,0 +1,21 @@
+﻿++ Object Device Amplifier Electronic Differential Operational Amplifier
+
++++ SUMMARY
+(often op amp or opamp) 
+
+ObjectDeviceAmplifierElectronic
+
+DC-coupled 
+high-gain  typically 100,000
+electronic voltage amplifier 
+differential input and, 
+usually, a single-ended output.
+
+has origins in analog computing, 
+  used for mathematical operations in circuits of types:
+    linear, 
+    non-linear, 
+    frequency-dependent circuits. 
+
++++ PARENT
+ObjectDeviceAmplifierElectronicDifferential

@@ -1,0 +1,9 @@
+﻿++ OSE Object Device Container Sheet Metal Simple B
+
+  * [file:///P:/D/Private/Wiki/OSE/files/20210606_051205.jpg] 
+  * [file:///P:/D/Private/Wiki/OSE/files/20210606_051303.jpg]
+
+
++++ PARENT
+
+OSEObjectDeviceContainerSheetMetal

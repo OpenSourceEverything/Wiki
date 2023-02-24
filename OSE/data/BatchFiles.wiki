@@ -1,0 +1,43 @@
+﻿++ Batch Files
+
+
+
+
+// from CQ 37961 chset - 51577
+===================================
+@echo off
+c:
+cd %~dp0
+
+REM *****************************************
+REM Enable or disable creating the ENI FILE
+REM 1 -- ENABLE 0 -- DISABLE
+REM *****************************************
+
+SET ENABLE=1
+
+REM *****************************************************************************************
+REM EcanScanBus uses 250us to scan the bus by default. It generates EcatSlaves.txt
+REM and EcatDone.txt if bus scan succeeds. Otherwise an error file EcatError.txt is created
+REM *****************************************************************************************
+
+IF %ENABLE%==1 (
+  IF EXIST EcatSlaves.txt (
+     del EcatSlaves.txt
+  )
+
+  IF EXIST EcatDone.txt (
+     del EcatDone.txt
+  )
+
+  IF EXIST EcatError.txt (
+     del EcatError.txt
+  )
+
+  rtssrun EcatScanBus.rtss "%~dp0\"
+
+REM %1 = Configuration folder
+  EniBuilder EniBuilderCfg.xml "%~1"
+)
+
+===================================================================================

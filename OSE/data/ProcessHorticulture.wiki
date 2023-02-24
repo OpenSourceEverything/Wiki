@@ -1,0 +1,75 @@
+﻿ ++ Process Horticulture
+  
++++ SUMMARY
+
+  * [ProcessAgriculture] of ObjectEntityOrganismPlant(s), 
+  
+  * divided into: 
+    * food: ProcessPomology and ProcessOlericulture)
+    * ornament (ProcessFloriculture and ProcessLandscapeHorticulture
+  
+  * [ProcessBotany] is considered broader, purely scientific
+
+
+
+  * Spreadsheet with vital growing info for edible plants:
+    * ProcessHorticultureListOfPlantsODS 
+
+
+
+
+
+  * Look at resource 3, good might be close to what we need.
+  * as is resource 1, to a probable lesser extentr
+
+  * Grain harvest: http://www.fao.org/3/T0522E/T0522E03.htm
+
+
++++ DETAILS
+  
+  * All plants require: 
+    * 1) HorticultureLight
+    * 2) ProcessHorticultureNutrients
+        * Provided by:
+          * HorticultureGrowMedium or 
+          * dissolved in the water,mist et cetera)
+    * 3) HorticultureOxygen
+    * 4) HorticultureWater
+    * 5) HorticultureTemperature
+    * 6) HorticultureAcidity
+
+
+
++++ CHILDREN
+HorticultureGrowMedium
+HorticultureSeedGermination
+HorticultureLight
+ProcessHorticultureNutrients 
+HorticultureGroundCover
+HorticultureWormCastings
+ProcessHorticultureHydroponics
+HorticultureAquaponics
+HorticultureListOfPlantsWithEdibleLeaves
+ProcessHorticulturePlantTemplate
+
+++++ PLANTS
+
+ProcessHorticultureListOfPlants
+
++++ RELATED
+[plumbing]
+LumberMilling
+[ProcessBotany]
+FoodMasterList
+  
++++ EXTERNAL LINKS
+
+  1) This may be already doing what we want: https://veggieharvest.com/vegetables/carrot-growing-and-harvest-information/
+
+  2) PurdueHorticultureLinks
+  https://hort.purdue.edu/newcrop/proceedings1990/V1-391.html
+    
+ 3) https://www.hort.purdue.edu/newcrop/afcm/chickpea.html
++++ PARENT
+
+  [Process]

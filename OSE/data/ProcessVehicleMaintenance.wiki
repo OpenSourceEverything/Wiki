@@ -1,0 +1,31 @@
+﻿++ Process Vehicle Maintenance
+
++++ SUMMARY
+
+  * ObjectDeviceVehicle 
+    * repair, 
+    * maintenance
+
+  * Instructions should have all generic information in main page,
+    * Vehicle specific information in sub-page for vehicle 
+      * minimize redundancy.
+  
+  * Information divided by Major Sub-System of ObjectDeviceVehicle.
+  
++++ CHILDREN
+
+  * ProcessVehicleMaintenancePowerSteering
+  * ProcessVehicleMaintenanceTires
+  * AutomotiveMaintenanceMotorOilChange
+  * AutomotiveMaintenanceBeltTensioner  <<< Which Sub-System?
+  * AutomotiveMaintenanceBrakes
+  * ProcessVehicleMaintenanceBody
+  * ProcessVehicleMaintenanceIgnitionSystem
+
++++ RELATED
+
+  ObjectDeviceVehicle
+
++++ PARENT
+
+  [Process]

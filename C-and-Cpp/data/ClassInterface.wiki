@@ -1,0 +1,7 @@
+﻿++ Class Interface
+
+is a class comprised of all virtual functions.
+
+
++++ PARENT
+[C++]

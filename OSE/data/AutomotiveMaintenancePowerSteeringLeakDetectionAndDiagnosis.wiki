@@ -1,0 +1,8 @@
+﻿++ Automotive Maintenance Power Steering Leak Detection And Diagnosis
+
+
+
+  * Leak causes:
+    - power steering pressure switch o-ring.
+    
+    - Leak in the PowerSteeringHighPressureHose

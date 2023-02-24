@@ -1,0 +1,12 @@
+﻿++ madera
+
+madera nf	(parte de un árbol)	wood n
+
+ 	La madera es una materia prima que se utiliza mucho en la industria.
+ 	Wood is a primary material that is used a lot in industry.
+ 	
+madera nm	(vino) (wine)	Madeira n
+                            Madeira wine n
+                            
+Me encanta el madera, es un vino con un sabor muy característico.
+I like Madeira. It's a wine with a very distinctive taste.

@@ -1,0 +1,6 @@
+﻿++ Computational Linguistics Parsing
+
+  * Within computational linguistics the term is used to refer to the formal analysis by a computer of a sentence or other string of words into its constituents, resulting in a parse tree showing their syntactic relation to each other, which may also contain semantic and other information. 
+
++++ Related
+  * SyntaxAnalysis(Parsing)

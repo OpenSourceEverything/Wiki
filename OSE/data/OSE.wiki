@@ -1,0 +1,104 @@
+﻿++ OSE
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+  
+  
++++ SUMMARY
+  
+  * OpenSourceEverything is a collection of 
+    * [Information]
+    * [Software]
+    * [Instructions]
+    * [Recipes] (for [Tools], [Food],[Material] ...)
+    * ...
+  
+  
+  
+  * [Purpose] of [OSE]:
+      * Empower [Individuals] with [Knowledge]
+      * Provide [Recipes] for [Objects] necessary for survival for free. 
+
+  * If you would like to make a [Tool], [Material], ... :
+      * Right now, said [Recipes] are maintained as [Instance] in OSEObject.
+
++++ DETAILS
+
+  * This wiki is a collection of .wiki text files, and a RelationalDatabase that relates them.
+
++++ FILES
+
+[rel://files/]
+
++++ CHILDREN
+
+[Context]
+HowTo
+[Object]
+[Process]
+[Property]/[Attribute]
+[Time]
+
++++ UNSORTED
+SoftwareDesignPatternThreadPool << AbstractModel?
+
+
++++ OPEN SOURCE EVERYTHING (TO BE OBSOLETED)
+
+OSEBusiness
+OSEObject
+OSEVersionControl
+OpenSourceEverythingThingsThatNeedToBeSorted
+
+
+++++ LIBRARIES (to be obsoleted or moved)
+[Language]
+LumberMilling
+[Finance]
+ResidentialLiving
+WoodWorking
+ZeroWaste
+    
++++ UNSORTED
+
+[MortgageLoan]
+TheLanguageOfFirstOrderLogic
+InstallingWikidPadOnUbuntu 
+OpenSourceEverythingRouter
+OpenSourceChipTuneMaker
+OpenSourcePacketAnalyzer
+OpenSourceInternetInfrastructure 
+[3DPrinter]
+
+
++++ HIGH PRIORITY
+OpenSourcePrintedCircuitBoard
+  
++++ LIST OF THINGS
+OpenSourceEverythingListOfThings
+ 
++++ LIST OF HOW TO'S
+OpenSourceEverythingListOfHowTo
+  
+++++ OSE HYDROPONICS
+OpenSourceEverythingHydroponics 
+  
+
++++ TODO / LOG (REMOVE EVENTUALLY)
+
+* OSEProblems: 
+  * OSEProblemOfRecursiveChangesToClasses
+  * OSEProblemOfSubClassVsContext
+  * OSEProblemOfGoals/OSEProblemBusiness
+  *  
+* ToDo
+* OSELog
+  
++++ Notes
+
+* Should read this and make sure its understood
+  * http://www.gnu.org/philosophy/open-source-misses-the-point.html 
++++ MISCELLANEOUS
+  
+  * WikiSettings
+  * ScratchPad
+  
+

@@ -1,0 +1,29 @@
+﻿++ Guidelines For How To Pass Parameters
+
++++ SUMMARY
+
++++ DETAILS
+PassByValue when the function does not want to modify the parameter and the value is easy to copy (ints, doubles, char, bool, etc... simple types. std::string, std::vector, and all other STL containers are NOT simple types.)
+
+PassByConstPointer when the value is expensive to copy AND the function does not want to modify the value pointed to AND NULL is a valid, expected value that the function handles.
+
+PassByPointer when the value is expensive to copy AND the function wants to modify the value pointed to AND NULL is a valid, expected value that the function handles.
+
+PassByConstReference when the value is expensive to copy AND the function does not want to modify the value referred to AND NULL would not be a valid value if a pointer was used instead.
+
+PassByReference when the value is expensive to copy AND the function wants to modify the value referred to AND NULL would not be a valid value if a pointer was used instead.
+
+When writing template functions, there isn't a clear-cut answer because there are a few tradeoffs to consider that are beyond the scope of this discussion, but suffice it to say that most template functions take their parameters by value or (const) reference, however because iterator syntax is similar to that of pointers (asterisk to "dereference"), any template function that expects iterators as arguments will also by default accept pointers as well (and not check for NULL since the NULL iterator concept has a different syntax).
+
+
++++ CHILDREN
+PassByValue
+PassByConstPointer
+PassByPointer
+PassByConstReference
+PassByReference
+
+
++++ PARENT
+
+PassingParametersToFunctions

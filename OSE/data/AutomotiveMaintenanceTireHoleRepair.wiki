@@ -1,0 +1,39 @@
+﻿++ Automotive Maintenance Tire Hole Repair
+
+
+
+
++++ SUMMARY
+
+  * Must be PATCHED and PLUGGED for proper repair. This requires moving the tire from the wheel.
+  *
+
+
++++ STEPS
+
+  * Assumes you have the tire removed
+
+  * hole must not be larger than 1/4 inch according to mfg warning.
+  
+  * hole must be inside the "tread belt" ? see image below. cant be in side-wall
+    * rel://files/_61O3EELNF4OSID0AJXCG.png
+
+  1. Clear debris from hole, drill out a smooth hole with power drill or reamer tool
+  
+  2. To inside of tire, apply buffer/cleaner
+  
+  3. Use a carbide spinning buffer tool to rub away all a clean surface for the cement, then patch
+    3.A) Ensure that all the gray rubber is worn away, seeing only black  
+      rel://files/_L6QSD1J6N1KWFYVXHVHJ.png
+
+
++++ RELATED
+
+
+
++++ EXTERNAL LINKS
+
+  * https://www.youtube.com/watch?v=Cosm6N0Vs5Y
+
+
++++ PARENT

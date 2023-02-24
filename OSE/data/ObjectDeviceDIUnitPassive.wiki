@@ -1,0 +1,18 @@
+﻿++ Object Device DI Unit Passive
+
++++ SUMMARY
+
+ObjectDeviceDIUnit
+  * No power required to operate.
+    * passive does no pre-amplification
+  
+  * AttributeContains (typically)
+    * AudioTransformer used as a [balun]. T
+      * typically turns ratio is typically chosen to convert 
+      * nominal 50 kΩ signal source 
+      * 100–200 Ω expected by the mic input of an audio mixer. 
+      * typical ranges 10:1 to 20:1.
+      * Uncommon: a passive DI unit may consist of a resistive load, with or without capacitor coupling. Such units are best suited to outputs designed for headphones or loudspeakers. 
+
++++ PARENT
+ObjectDeviceDIUnit

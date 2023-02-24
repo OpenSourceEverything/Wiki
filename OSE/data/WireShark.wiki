@@ -1,0 +1,25 @@
+﻿++ Wire Shark
+Wireshark
+
+    - Contributing to source code required signing up for a private public key pair.
+        $ ssh-keygen
+        Generating public/private rsa key pair.
+        Enter file in which to save the key (/c/Users/MUSICMACHINE2.1/.ssh/id_rsa): Wire       Shark
+        Enter passphrase (empty for no passphrase):
+        Enter same passphrase again:
+        Your identification has been saved in WireShark.
+        Your public key has been saved in WireShark.pub.
+        The key fingerprint is:
+        SHA256:NXzoJNrPvctHN7zvi70f364ptE23jvwngrQyqt/bXnU MUSICMACHINE2.1@pvre7643
+        The key's randomart image is:
+        +---[RSA 2048]----+
+        |                 |
+        |         . .     |
+        |        . * .    |
+        |       o = o     |
+        |      . S .   o E|
+        |         o....o+o|
+        |         .o+o= ++|
+        |       .o.oo=.B+=|
+        |    .oo.o=o +O=@&|
+        +----[SHA256]-----+

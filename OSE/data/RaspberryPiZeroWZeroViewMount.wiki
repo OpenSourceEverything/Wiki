@@ -1,0 +1,33 @@
+﻿++ Raspberry Pi Zero W Zero View Mount
+
++++ SUMMARY
+
+  * rel://files/_8X3EYMUI3LS8GHACF6NS.png
+  
+    1x ZeroView PCB(New Sleek Black Design!)
+    2x Suction cups
+    4x Threaded M2.5 10mm spacers
+    4x M2.5 4mm screws
+    4x M2.5 nuts
+    4x M2 6mm screws
+    8x M2 Nuts
+
+  * Further Details:
+
+    Secure your camera module against a window or glass
+    Take pictures, videos, slow motion and time-lapse photography from your window, through a pet tank, in your car and other places.
+    One tidy, small package with your camera cable hidden away
+    Works with both the old (v1.3) and new (v2.1) camera modules
+    Only the best suction cups have been used - high-quality 'Adams' cups from the USA
+    Kit form - enjoy building the ZeroView without any soldering or tools required
+    Full user guide with assembly, code examples and FAQs
+
+
+NOTE:
+
+    The ZeroView is compatible with the Pi Zero and A+ only
+
+
++++ PARENT
+
+  RaspberryPiZeroW

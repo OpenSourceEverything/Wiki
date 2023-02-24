@@ -1,0 +1,37 @@
+﻿++ Automotive Maintenance Tire Mounting To Wheel
+
+
++++ SUMMARY
+
+  1. Lube up wheel and tire bead with appropriate substance. Soap may be harmful?
+    rel://files/_5N82ZFCULXFMMJ4CX84R.png
+  
+  2. Ensure you know whether your tires are omni-directional or if you need to know which side is inside.
+  
+  3.  rel://files/_C6YRHX5S201QY092GTVA.png
+
+  4. Rotate around while rubber part stays above the little hook on the bottom of the tool
+    rel://files/_6B9B0T6BNE01PPC1HJBV.png
+  
+  5. Once rotated all the way around, holding tire in place. the tire should fall onto wheel as seen
+    rel://files/_I4NK0VL2811I9ID72RHE.png
+    
+  6. Do the same for second side of tire
+    rel://files/_CI3IGZN8PDPS32RBKCVH.png
+    rel://files/_AOUSF2SXQ8F088Z7HMS5.png
+  
+  7. Tire is on, now rotate it to line up if necessary
+     Ive heard sometimes there is a mark where the valve stem goes?
+  
+  8. Replace valve stem?
+  
+  9. Air up. 
+
+
++++ EXTERNAL REFERENCE
+
+  * https://www.youtube.com/watch?v=Cv-YV-NFu_I
+  
++++ PARENT
+
+  * AutomotiveMaintenanceTire

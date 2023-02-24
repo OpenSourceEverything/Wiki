@@ -1,0 +1,6 @@
+﻿++ Construction Dictionary Joist
+
+   any of the small timbers or metal beams existing parallel from wall to 
+   wall in a structure to support a floor or ceiling
+   
+   rel://files/Joist.png

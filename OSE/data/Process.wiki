@@ -1,0 +1,67 @@
+﻿++ Process
+[Processes]
+
+  * Currently OSE will treat (Process == [Activity]). 
+    * while acknowledging connotational differences.
+
+  * (1) Something happening
+
+  * (2) A series/set of [Activity]/[Activities] that interact to produce a result; 
+    * it may occur only once, or be recurrent or periodic
+         
+  * 
+
+
+    
++++ CHILDREN
+
+ProcessArt
+
+[Biology]
+
+[Communication]
+
+ProcessPhilosophy
+ProcessStudyMathematics
+
+ProcessComputing
+[Construction]
+[Cryptography]
+
+ProcessElectronics
+
+ProcessFoodProcessing
+
+
+ProcessHorticulture
+
+ProcessLaw
+
+ProcessMedicine
+ProcessMetalFabrication
+ProcessMovement
+
+
+ProcessPhilosophy
+ProcessPhysics
+
+MaterialScience
+
+MechanicalEngineering
+
+ProcessNutrition
+
+ProcessPlumbing
+
+ProcessSoftwareDevelopment
+ProcessScience
+ProcessSoldering
+ProcessStudy
+ 
+ProcessVehicleMaintenance
+  
+WaterFiltrationAndTesting
+  
++++ PARENT
+
+  [OSE]

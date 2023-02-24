@@ -1,0 +1,13 @@
+﻿++ Electronic Cam
+    (ECAM)
+    http://www.intelligentactuator.com/pdf/XSEL_PQ_Electronic_Cam-CJ0152-1A.pdf
+
+    eletronic cam, as opposed to a mechanical cam.
+    
+    basically a cam turns rotation into linear or vice versa usually, if you look on wikipedia they show a page
+    of two rotating guys on a main bar, that both produce movements, within a precise time period. so another source says
+    cams are used when movements need to happen at certain times or same time in relation to eachother.
+    
+    Now what is a cam table. the cam table basically is a table of predefined shit, pulse trains maybe, that lays out
+    how tasks should be done in relation to eachother, this is all high level i dont understand but I doubt im even using this on the
+    elmo drive anyway

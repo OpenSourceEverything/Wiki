@@ -1,0 +1,14 @@
+﻿++ Process Study
+
+
++++ SUMMARY
+
+Within OSE, ProcessStudy == [Process]
+
+The effort to acquire knowledge, as by reading, observation, or research.
+An act or effort made in the pursuit of knowledge.
+A branch of knowledge or department of learning.
+
++++ PARENT
+
+  [Process]

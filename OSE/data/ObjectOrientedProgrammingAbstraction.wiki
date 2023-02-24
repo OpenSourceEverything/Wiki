@@ -1,0 +1,5 @@
+﻿++ Object Oriented Programming Abstraction
+
+
++++ Summary
+  * each object should only expose a high-level mechanism for using it.

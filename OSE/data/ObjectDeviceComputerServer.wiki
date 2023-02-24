@@ -1,0 +1,16 @@
+﻿++ Object Device Computer Server
+
+
++++ SUMMARY
+[Computer] or ComputerSystem
+  * [Attribute]:
+    * provides 
+      * resources, 
+      * data 
+      * services
+      * programs 
+    * to 
+      * other computers ("[clients]"), over a network.
+      
++++ PARENT
+ObjectDeviceComputer

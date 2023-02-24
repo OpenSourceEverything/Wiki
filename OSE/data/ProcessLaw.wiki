@@ -1,0 +1,17 @@
+﻿++ Process Law
+
++++ SUMMARY
+
+? not sure how to categorize [Law]
+* ObjectSystemLaw, ProcessLaw. Should be keep separate, consolidate. 
+
+how do you ever define ProcessLaw. 
+
+
++++ RELATED
+
+ObjectSystemLaw
+
++++ PARENT
+
+[Process]

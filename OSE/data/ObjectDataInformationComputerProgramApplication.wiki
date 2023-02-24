@@ -1,0 +1,15 @@
+﻿++ Object Data Information Computer Program Application
+
++++ REDIRECT
+[Application]
+
++++ SUMMARY
+
+ObjectDataInformationComputerProgram
+  * [Attribute](Intent/Design)
+    * Solve Problems other than operation of the host computer itself.
+  * 
+
++++ PARENT
+ObjectDataInformationComputerProgram
+

@@ -1,0 +1,4 @@
+﻿++ Minimum Inhibitory Concentration
+
+  - if a drug has MIC (Minimum Inhibitory Concentration of 2.0%,
+    that is the concentration necessary to kill bacterium (which? = whichever youre talking about))

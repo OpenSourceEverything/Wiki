@@ -1,0 +1,24 @@
+﻿++ Object Legal Entity
+
+
++++ SUMMARY
+
+* ObjectEntity
+
+* a legally standing or lawful partnership 
+
+* Consists of one or more of the following:
+  * an association, 
+  * a trust, 
+  * a proprietorship, 
+  * a corporation, 
+  * an individual
+  
+
++++ CHILDREN
+++++ UNITED STATES OF AMERICA (USA)
+ObjectLegalEntityUSA
+ObjectLegalEntityLimitedLiabilityCompany
+
++++ PARENT
+ObjectEntity

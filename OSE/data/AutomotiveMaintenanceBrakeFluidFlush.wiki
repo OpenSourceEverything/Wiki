@@ -1,0 +1,25 @@
+﻿++ Automotive Maintenance Brake Fluid Flush
+
+
++++ REQUIRED KNOWLEDGE
+  * Whether your system is ABS.
+    * https://ricksfreeautorepairadvice.com/bleeding-abs-brakes/
+
+  * Tire Order when bleeding:
+    * https://www.odyclub.com/threads/brake-bleeding-sequence.342810/    
+
+
+
+  * disconnect connector of master cylinder resevoir.
+  * remove cap of master cylinder
+  * pump out old fluid from master cylinder
+    * (turkey baster, pump tool)
+  * fill master cylinder resevoir with new fluid.
+  * Bleed each wheel in manufacturer recommended order
+    * Note: if order unknown move nearest->furthest from master cylinder
+    * Note: constantly monitor and maintain main resevoir brake fluid level while flushing each wheel
+    * 
+
++++ PARENT
+
+  AutomotiveMaintenanceBrakes

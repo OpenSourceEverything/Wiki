@@ -1,0 +1,28 @@
+﻿++ Open Source Everything Rubbber
+
+
++++ SUMMARY
+
+  * Tap latex from a rubber tree.
+    Ficus elastica: found in Java and Malaysia. This species is also a common tropical houseplant.
+    Funtumia elastica: grows in West Africa
+    Landolphia owariensis located in the Congo basin
+    Of all of these trees, the best rubber-producing tree is *H. braziliensis.*
+
+
++++ TOOLS AND MATERIALS
+
+    Rubber tree sap, freshly taken from the tree
+    Juice from a Morning Glory plant
+    A knife
+    A tapping spout
+    A wooden stick
+    A bucket
+    A container
+     
+
++++ INSTRUCTIONS
+
++++ PARENT
+
+  OpenSourceEverything

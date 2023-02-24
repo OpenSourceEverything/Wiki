@@ -1,0 +1,17 @@
+﻿++ Git Command Init  
+
++++ SUMMARY
+
+  * Turns the current working directory into a new GitRepository
+  
++++ DETAILS
+
+  * Creates a .git file in the working directory. That's where the magic is. 
+
++++ RELATED
+
+  GitCommandClone
+
++++ PARENT
+
+  GitCommands

@@ -1,0 +1,32 @@
+﻿++ Computer ProcessScience Graphical User Interfacewx Widgets
+
++++ Summary
+
+  * wxWidgets is a library that wraps around (?) lower-level toolkits, like GTK, thus providing cross-platform benefits.
+
+  * 
+
++++ Building wxWidgets
+
+++++ Windows (compile with MinGW instead of shitty MSYS Compiler or whatever)
+  * Run this first after getting from git: git submodule update --init
+  
+  * navigate to <wxdir>/build/msw
+    * <wxdir> = whatever your wxWidgets install directory is 
+  
+  * ming32-make -f makefile.gcc SHARED=1 BUILD=release
+  
+++++ Linux
+
++++ Notes
+  * Global Variable for Codeblocks - $(#wx)
+
+
++++ Introduction
+1. Read pages 8-13 of 
+  a.  
+
+https://wiki.wxwidgets.org/WxWidgets_Source_Code_Overview
+
++++ wxConfig
+  * https://wiki.wxwidgets.org/Wx-Config

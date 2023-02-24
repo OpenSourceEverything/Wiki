@@ -1,0 +1,18 @@
+﻿++ Object Legal Entity USA Limited Liability Company Indiana
+
++++ SUMMARY
+* ObjectLegalEntityUSALimitedLiabilityCompany
+  * [Attribute]
+    * legally defined by the state of Indiana.  
+
+
++++ DETAILS
+++++ Taxes
+ObjectLegalEntityUSALimitedLiabilityCompanyIndianaTaxes
+
++++ CHILDREN
+ObjectLegalEntityUSALimitedLiabilityCompanyIndianaInstance
+
+
++++ PARENT
+ObjectLegalEntityUSALimitedLiabilityCompany

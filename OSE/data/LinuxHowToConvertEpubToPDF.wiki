@@ -1,0 +1,14 @@
+﻿++ Linux How To Convert Epub To PDF
+
++++ SUMMARY 
+
+  * Install
+    * sudo apt-get -y install calibre
+  
+  * Convert
+    *ebook-convert myfile.epub myfile.pdf*
+
+
++++ PARENT
+
+  [Linux]

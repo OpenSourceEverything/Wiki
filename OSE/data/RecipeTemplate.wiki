@@ -1,0 +1,37 @@
+﻿++ Recipe Template
+
+
+
++++ SUMMARY
+
+  * 
+
++++ TOOLS / DEVICES
+
+  *   
+  *  
+
++++ SUPPLIES / INGREDIENTS
+
+  * 1)
+  * 2) 
+  * 3)
+  * 4) 
+  
+  
++++ DIRECTIONS
+
+  * 1)
+  * 2) 
+  * 3) 
+  * 4) 
+
++++ NOTES
+
+  *
+
++++ CHILDREN
+Food Recipe Template
+
++++ PARENT
+++++ FoodRecipes

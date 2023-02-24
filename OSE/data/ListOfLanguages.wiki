@@ -1,0 +1,9 @@
+﻿++ List Of Languages
+
+  TokiPona
+  ChineseLanguage
+  JapaneseLanguage
+  SpanishLanguage
+  EnglishLanguage
+  
+  

@@ -1,0 +1,24 @@
+﻿++ Object Data
+
++++ SUMMARY
+
+  * plural of ObjectDatum  a single value of a single variable.
+  
+  * individual facts or statistics (often numeric) 
+    * (usual) method of attainment: 
+      * through observation.
+
+
++++ CONTEXT(COMPUTING)
+Any sequence of one or more symbols
+ProcessComputingObjectData
+  
+  
++++ CHILDREN
+
+ObjectDataDatabase
+
+ObjectDataInformation
+
++++ PARENT
+[Object]

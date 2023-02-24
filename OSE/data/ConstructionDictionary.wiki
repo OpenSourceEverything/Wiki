@@ -1,0 +1,4 @@
+﻿++ Construction Dictionary
+
+  ConstructionDictionaryRimJoist
+  ConstructionDictionaryJoist

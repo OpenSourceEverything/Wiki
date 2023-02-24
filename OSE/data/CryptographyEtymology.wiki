@@ -1,0 +1,3 @@
+﻿++ Cryptography Etymology
+
+(from Ancient Greek: κρυπτός, romanized: kryptós "hidden, secret"; and γράφειν graphein, "to write", or -λογία -logia, "study", respectively[1])

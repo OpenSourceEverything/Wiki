@@ -1,0 +1,11 @@
+﻿++ Object Device Switch Electrical
+
++++ SUMMARY
+
+ObjectDevice 
+  [Attribute] []
+    intended to break or open a connection in an electrical circuit.
+
+
++++ PARENT
+ObjectDeviceSwitch

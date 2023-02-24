@@ -1,0 +1,51 @@
+﻿++ Open Source Everything Solar Power System
+
+
+
++++ SUMMARY
+
+  * “6 kW system” means a solar array that produces 6 kWh for every hour of direct sunlight.
+    * SolarPowerDirectSunlight
+  
+  *  
+
+
+
++++ CURRENT TASK
+
+  * Size how many panels.
+  * Determine Equation for calculating average daily/instantaneous power prodction of panels
+  * Source batteries
+  * Source solar cells
+    * Design solar panels
+      * Tracking?
+    *  
+  * How to dig conduit from house to solar panels
+  * How to wire the solar panels into the batteries?   
+
+
+
++++ BATTERY
+
+  * OpenSourceEverythingSolarPowerSystemBatteryBank
+
+
++++ EXTERNAL LINKS
+
+  * ExampleSolarPowerSystemsForReference
+
+
++++ REQUIREMENTS
+
+  * Several battery options will be offered 
+
+  * Scalable to different power needs, voltages, currents, kwH
+  
+  
++++ RELATED
+ 
+  * OpenSourceEverythingElectricBatteryNickelIron
+
++++ PARENT
+
+  * 

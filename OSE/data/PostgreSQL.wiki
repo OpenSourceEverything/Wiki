@@ -1,0 +1,14 @@
+﻿++ Postgre SQL
+
++++ Summary
+  * Postgres is the database engine
+  * [SQL] is the structured query language.
+    * allows us to interact with the database.
+  
+  * Data stored in tables  made of columns and rows.
+  
+  *   
+
++++ External Links
+  * Comprehensive Tutorial: 
+    * https://www.youtube.com/watch?v=qw--VYLpxG4

@@ -1,0 +1,28 @@
+﻿++ Git How To Keep Development Branch Up To Date With Master Or Other Branch
+GitHowToKeepDevelopmentBranchUpToDateWithMaster
+
+
++++ SUMMARY
+
+  * You have two options, GitBranch or GitMerge.
+  
+
+    * Merge
+      * git checkout master      // Switch/Checkout to "master"
+      * git pull                 // get latest from server
+      * git checkout dev         // Switch/Checkout to "dev"
+      * git merge origin/master  // merge latest master changes to dev.
+      * git push origin
+
+    * Rebase
+      * Fetch origin
+      * Right click on "origin/master" and Rebase "dev" onto this...
+      * Start Rebase
+      * Push dev
+
+
+
++++ PARENT
+
+  * GitHowTo
+  * [Git]

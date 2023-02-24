@@ -1,0 +1,27 @@
+﻿++ Git How To Get Latest Server Changes
+
+
+
++++ SUMMARY
+
+  * For remote tracking server changes for the branch youre on:
+    * For example, if other people pushed commits to the branch youre on. 
+  
+  
+      * git pull
+      
+  * GitHowToKeepDevelopmentBranchUpToDateWithMasterOrOtherBranch
+  
+  
+  
++++ RELATED
+
+  GitRepository
+  
++++ PARENT  
+
+
+  GitHowTo
+  [Git]
+
+

@@ -1,0 +1,66 @@
+﻿++ Horticulture Flax
+
++++ SUMMARY
+
+* Flax stalks are used to make fabric like lenin
+* Flax seeds are eaten, and used to make oil for food, other applications
+
++++ PROPAGATION
+* From Seed:
+* From Cutting/Transplant:
+    
++++ PLANT STRUCTURE
+  * 
+
++++ LIFE CYCLE
+  * 1) 45-60 day vegetative period,
+  * 2) 15-25 day flowering period
+  * 3) 30-40 day maturation period
+
+  * a flower lasts less than one day, 
+  * each plant makes dozens of flowers for three to four weeks
+  * seedpods swell to the size of a pea and turn from green to gold as the seeds inside ripen, 
+  * the plants then dry out and die.
+
+* drawn walkthrough of all stages:
+[rel://files/stages-flax-1.png]
+[rel://files/flax-stages-2.png]
+* harvested:
+[file:///P:/D2/Private/Wiki/OSE/files/harvested-flax.jpg]  
+  
++++ TEMPERATURE / HUMIDITY / ACIDITY
+seeds: Min: -3 C, 
+after two-leaf stage: min: -8 C for short time
+ 
+* 3) Humidity:
+  * 50-60%  
+* 4) Acidity pH:
+  *   
+  
++++ SPECIES
+  * 
+
++++ HARVEST
+  * Seed:
+  * Yield ()
+  * Storage:
+    *   
+  
++++ DIMENSIONS
+* 1) Container:
+* 2) Plant:
+  * Vertical: max height of 40 to 91 cm (16 to 36 in.) 
+* 3) Seed: 
+  *  
+* 4) Spacing:
+  * ~300 plants/square meter
+  * 
+* 5) Root System:
+
++++ RELATED
+
+HorticulturePlantTemplate
+
++++ PARENT
+
+  ProcessHorticulture

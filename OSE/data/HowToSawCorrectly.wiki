@@ -1,0 +1,48 @@
+﻿++ How To Saw Correctly
+
+
++++ Summary
+  
+  
+++++ Grip
+    * Notice the index finger in this grip of the saw:
+      rel://files/HowToSawCorrectlyGrip.png  
+
+    * Dont grip too hard. Hold like a baby bird, firmly but dont crush.
+    
+++++ Get a square cut along a side
+
+  * It is recommended to draw lines like on the picture below and practice cutting them exactly as drawn.
+
+A Square Cut:  
+rel://files/HowToSawCorrectlySquareCutExample.png
+
+   * WesternStyleSaws like the one pictured should be used with a forward cut, cutting backward will cause bumpiness. JapaneseStyleSaws are meant to cut on the back stroke.
+   
+   * Use your thumb as a *guide* and to make small *adjustments*  until the cut is deep enough
+rel://files/_ZJYDN9KWFU00TEXDQUTW.png 
+
+   * Cut on the "waste side" that is to be removed (marked in picture below with pen)
+     * The pen mark on the left should remain, achieve this by using your thumb to inch the blade in towards the waste side slightly.  
+rel://files/HowToSawCorrectlyCutOnWasteSide.png
+rel://files/HowToSawCorrectlyCutOnTheWasteSide2.png
+
+     * Start by cutting into one side only, then slowly cutting outward toward the other side. Do this as opposed to trying to cut along the entire side all at once with each stroke.
+     * Do this by angling the saw toward the initial side (side 1 in the picture below). Get a good line going into "side 1" then slowly start to cut deeper toward side 2 gradually.
+rel://files/HowToSawCorrectlyStartCuttingOnOneSide.png
+
+   * Blow away dust as you go to help keep the line in sight.
+   
+   * Elbow, wrist and front of the saw should all be aligned. Move your body to whatever position necessary.
+     * Look down the non-waste side, or look down the center (will look weird) when cutting a slit.
+rel://files/HowToSawCorrectlyAlignElbowWristAndFrontOfSaw.png
+   
+
+  
+
+
++++ External Links
+  * https://www.youtube.com/watch?v=C5OzZNVGnXQ
+  
+  
+  

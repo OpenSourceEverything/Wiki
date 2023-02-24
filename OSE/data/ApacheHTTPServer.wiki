@@ -1,0 +1,18 @@
+﻿++ Apache HTTP Server
+  
+  
+  
+  
+  * On linux, Apache Configuration (usually, and for me):
+    * /etc/apache2/apache2.conf
+    
+  *  
+
+
+
+
+
+
+
++++ Related
+  * https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps

@@ -1,0 +1,56 @@
+﻿++ Horticulture Spinach Strawberry
+
++++ SUMMARY
+
+  *
+
++++ PLANT STRUCTURE
+  * 
+
++++ LIFE CYCLE
+  * Germination of seed:
+    * 7-15 days
+     
++++ ACIDITY
+  * pH: ()
+
+  
++++ TEMPERATURE / HUMIDITY / ACIDITY
+  * Bloom/Growth
+    * 70-75
+  * Germination
+  
++++ SPECIES
+  * 
+
++++ HARVEST
+  * Seed:
+  * Yield ()
+  
++++ DIMENSIONS
+  * 
+
+++++ SEED/PLANT SPACING
+
+  * Max 3 seeds per square foot
+
+++++ CONTAINER SIZE
+  * 
+
+++++ ROOTS
+  * Width:, Depth:
+
+++++ VERTICAL HEIGHT
+  * typical: 8in
+  * max:     xin
+
+++++ HORIZONTAL SPACING
+  * recommended.
+
++++ RELATED
+
+
++++ PARENT
+
+  ProcessHorticultureListOfPlants
+  

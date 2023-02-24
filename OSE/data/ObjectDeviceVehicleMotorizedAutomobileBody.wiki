@@ -1,0 +1,8 @@
+﻿++ Object Device Vehicle Motorized Automobile Body
+
++++ SUMMARY
+
+  * rel://files/_AXUL4BE80ZO0J08CVD4J.png
+  
++++ PARENT
+  ObjectDeviceVehicleMotorizedAutomobile

@@ -1,0 +1,23 @@
+﻿++ Git Index
+
+
++++ SUMMARY
+
+  * A file, also known
+
+  * Before you GitCommit (GitCheckin) files to the git repository,
+    you must GitCommandAdd the files to the GitIndex. 
+
+
++++ RELATED
+
+  * GitHowTo
+  
+  * GitStaging
+  
+  * GitWorkspace GitWorkingTree
+
++++ PARENT
+
+  GitVocabulary
+  [Git]

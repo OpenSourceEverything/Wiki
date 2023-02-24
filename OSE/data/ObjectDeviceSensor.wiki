@@ -1,0 +1,13 @@
+﻿++ Object Device Sensor
+
++++ SUMMARY
+
+  * 
+
++++ CHILDREN
+
+  ObjectDeviceSensorThermal
+
++++ PARENT
+
+  ObjectDeviceSensor

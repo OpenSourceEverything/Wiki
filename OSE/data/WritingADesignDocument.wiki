@@ -1,0 +1,15 @@
+﻿++ Writing A Design Document
+
+
+Additional comments:
+
+
+
+Remember:
+  Overview:  A general introduction to the project from the user point of view.  Think of your audience as a high level manager.
+  
+  Requirements:  The “must do” list at a high level.  Think of your audience as a middle level manager and fellow engineers.
+  
+  Design proposal:  The “how the project will fullfill the requirements” section.  Think of your audience as a middle level manager and fellow engineers.
+  
+  Design Details: The “nitty gritty details>  Think of your audience as your fellow engineers.

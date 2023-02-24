@@ -1,0 +1,87 @@
+﻿++ Process Vehicle Maintenance Changing Brakes And Rotors
+
+
++++ SUMMARY
+
+* This page needs cleaned up.
+
++++ INSTRUCTIONS
+++++ Loosen Lug nuts on all tires with brakes to be changed
+++++ ProcessVehicleMaintenanceRaisingVehicleOntoJackStandsWithAHydraulicFloorJack
+
+
+
+Constant Squeal After changing pads/rotors:
+Make sure the rotor isn't contacting the backing dust plate.
+Make sure the brake pad slider clip/clips are not contacting the rotor.
+
+
+
+https://www.youtube.com/watch?v=4gAqDZ-gk3s
+
+
+
+tools:
+
+jack and jackstsands
+19mm socket + breaker bar
+12-14 mm sockets and ratchet
+impact driver and hammer (if original rotors on car)
+torque wrench
+
+
+
+
+
+Jack the Car
+
+Remove the Wheel
+    -   19mm socket + breaker bar, loosen lug nuts before raising car
+    
+    
+Removing the Brake Pads 
+    -   behind the rotor remove 2x 12mm bolts holding the pad caliper
+    -   pull the caliper toward outside of vehicle to force piston into caliper
+    -   the caliper should come loose, you need to hang it or set it somewhere
+    -   until you are ready to reconnect it when the job is done (bungee helps)
+    -   brake pads should come out of their brackets by hand
+    
+    
+Removing the Brake Rotor 
+    -   after having removed the pads, remove the pad brackets by unscrewing
+        2x 14mm bolds on inner side of pad brackets
+    -   (optional: if rotors are stuck/very old) use an impact driver/hammer
+        and strike near the studs to help break any rotor binding
+        
+    
+    
+Installing the New Brake Rotor
+    -   place new rotor on your buddy
+    -   there are two (i think optional) screws that hold the rotor in place,
+        place these 
+    
+Installing the New Brake Pads
+    -   (optional) with wire brush, clean pad brackets, and also re-lube or   
+        inspect your pin slides on the bracket to make sure theyre lubed up bruh
+    - screw back in the pad brackets, 2x 12mm (45 ft/lbs)
+    -   use a c-clamp to push the piston back into the caliper so you can slide
+        the caliper back on
+    -   with the caliper back in place, re-screw the 2x 12mm bolts (20ft/lbs)
+    
+Reattaching the Wheel
+    -   place all 5 lugs on by hand first
+    -   re-tighten lug nuts w/ torque wrench in a star pattern - 
+        19mm 5x (90-100 ft/lbs)
+    
+Testing the Brakes
+    -   pump brakes slowly a few times before any driving to help get the 
+        piston seated against the pads properly, the pedal shoudl feel firm
+    -   test brakes at low speeds first.
+    -   avoid sudden stopping when wearing in your brakes.
+
+    
+
++++ RELATED
+
++++ PARENT
+* ProcessVehicleMaintenance

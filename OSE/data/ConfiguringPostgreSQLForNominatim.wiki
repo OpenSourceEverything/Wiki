@@ -1,0 +1,25 @@
+﻿++ Configuring Postgre SQL For Nominatim
+  
++++ Configuration File:
+    * cc
+    
+    * Modify the following parameters:
+          shared_buffers (2GB)
+          maintenance_work_mem (10GB)
+          work_mem (50MB)
+          effective_cache_size (24GB)
+          synchronous_commit = off
+          checkpoint_segments = 100 # only for postgresql <= 9.4
+          checkpoint_timeout = 10min
+          checkpoint_completion_target = 0.9
+          
+          
+    * Only for the initial import:
+    * (*make sure to re-enable these before doing shit or risk database corruption.*)
+      * fsync = off
+      * full_page_writes = off
+
+
++++ External Links
+  * From: 
+    * https://nominatim.org/release-docs/latest/admin/Installation/#postgresql-tuning

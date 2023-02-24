@@ -1,0 +1,14 @@
+﻿++ Cpp String
+
++++ SUMMARY
+
+
+
++++ FUNCTIONS
+
+    char * strcat ( char * destination, const char * source );  
+    
+
++++ PARENT
+
+  [C++]

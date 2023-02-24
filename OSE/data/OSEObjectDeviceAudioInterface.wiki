@@ -1,0 +1,34 @@
+﻿++ OSE Object Device Audio Interface
+
++++ DIRECTORY
+[rel://files/OSE/Object/Device/Interface/Audio]
+
++++ SUMMARY
+
+  * For this page we define "Audio Interface":
+    * black box, takes analog input and store/streams into a computer.
+  
+  * ObjectDeviceInterfaceAudio
+  
+  ? Use [ALSA] = AdvancedLinuxSoundArchitecture
+  
++++ Requirements
+OSEObjectDeviceAudioInterfaceRequirements
+
++++ NOTES & CURRENT STATE:
+OSEObjectDeviceInterfaceAudioNotes
+
++++ DESIGN SUMMARY
+OSEObjectDeviceInterfaceAudioDesignSummary
++++ DESIGN DETAIL
+OSEObjectDeviceInterfaceAudioDesignDetail
+OSEObjectDEviceInterfaceAudioSoftware
+
++++ RELATED
+ObjectDeviceAudioInterfaceDigital
+NyquistSamplingTheorem
+ObjectSystemInterface
+ProcessStudyMathematics
+  
++++ PARENT
+OSEObjectDevice

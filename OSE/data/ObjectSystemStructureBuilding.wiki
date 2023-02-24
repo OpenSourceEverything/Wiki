@@ -1,0 +1,11 @@
+﻿++ Object System Structure Building
+
++++ SUMMARY
+
+ObjectSystemStructure with roof and walls.
+
++++ CHILDREN
+
++++ PARENT
+
+  ObjectSystemStructure

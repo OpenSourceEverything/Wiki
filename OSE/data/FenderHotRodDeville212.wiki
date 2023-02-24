@@ -1,0 +1,7 @@
+﻿++ Fender Hot Rod Deville212
+
+  * I really like the way these things sound, mostly Im a big fan of the distortion.
+  
+  * Schematic:
+  * [rel://files/OpenSourceGuitarAmplifier/Fender-Hot-Rod-Deville-Schematic.pdf]
+  

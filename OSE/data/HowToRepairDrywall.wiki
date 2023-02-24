@@ -1,0 +1,46 @@
+﻿++ How To Repair Drywall
+
++++ SUMMARY
+
+  * 1) If hole is large enough, screw in a drywall panel cut to fill the hole
+  * 2) Apply drywall tape around to seal the edges of your patch to the wall.
+  * 3) Apply thin layer of drywall putty/mud
+
+
+
++++ 1) APPLYING DRYWALL PANEL TO PATCH HOLE (IF NECESSARY)
+  * If hole large enough and possible to do so, cut and fix new drywall: 
+    If(no wood available to fix new drywall panel patch to)
+      *install wood as shown below and fix
+        rel://files/_SUGHXT1Z97NMYOIWNPM2.png
+    
+    If(wood, such as studs, are available to fix drywall panel patch to)
+      * Screw small pieces of wood behind to exising drywall as a brace
+      * Screw your drywall panel patch to that as shown below.
+      * rel://files/_QT26P45XKMZGTM1VTH7J.png
+
+
+
++++ 2) Apply drywall tape as necessary
+
+  * 
+  * rel://files/_TM84BNNLVHJFHWT4T4K0.png
+  
+  
++++ 3) Apply initial layer of drywall mud/putty
+  * apply *thin* layer 
+  * to hold the mesh tape in place
+  * ensure mesh tape as flat as possible
+  * rel://files/_7VV8K3B15RL0VPBGBHKD.png
+  
+
++++ 4)
+
++++ RELATED
+
+  [Drywall]
+  [DrywallMud]
+
++++ PARENT
+
+  OpenSourceEverythingListOfHowTo

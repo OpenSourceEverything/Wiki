@@ -1,0 +1,39 @@
+﻿++ Object Device3D Printer Instance Prusa MK3Si3
+
+++ Device3D Printer Prusa MK3Si3
+
+
++++ SUMMARY
+
+  * Sold as kit, assembled or not, for 750-1000ish
+  * Should be possible to make yourself.
+  
+  * Brain or "motherboard" is called DeviceEinsyRambo 
+
+  * Official retail link
+    * https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3s-kit.html#/40-spring_steel_sheet-spring_steel_sheet_with_smooth_double_sided_pei_sheet/7-color-black_and_orange 
+  
++++ DETAILS
+
+
+  * List of Things needed to make one yourself:
+    * https://3duk.co.uk/index.php?topic=3.msg91#msg91 
+
+  * Forum post discussing how to make yourself
+    * https://www.reddit.com/r/3Dprinting/comments/budav8/how_do_i_diy_a_prusa_i3_mk3s/ 
+
+  * Forum post, discussing cost saving making yourself, details
+    * https://www.reddit.com/r/3Dprinting/comments/8ffabz/prusa_mk3_parts_list/
+  
+  * 
+ObjectDevice3DPrinterInstancePrusaMK3Si3
+
++++ RELATED
+ProcessManufacturingAdditive
+
+
++++ PARENT
+ObjectDevice3DPrinterInstance
+  
+  
+  

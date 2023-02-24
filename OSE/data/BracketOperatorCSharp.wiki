@@ -1,0 +1,16 @@
+﻿++ Bracket Operator C Sharp
+
+[] operation C# / bracket c# / C# bracket / C# [ / [ symbol C# / C# [ operator /
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Square brackets are, among other things, used to specify Attributes:
+
+
+    In C#, you specify an attribute by placing the name of the attribute enclosed in square brackets (\[\]) above the declaration of the entity to which it applies.
+    \[Conditional("DEBUG")\]                                 
+    void TraceMethod() {}                                   
+    
+    
+    // please note the '\' before each '[' is 
+    // necessary to put these in wikidpad 

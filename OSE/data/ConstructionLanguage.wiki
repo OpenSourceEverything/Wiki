@@ -1,0 +1,8 @@
+﻿++ Construction Language
+
++++ SUMMARY
+
+all forms of communication by which a human can specify an executable problem solution to a computer
+
++++ PARENT
+ObjectSystemLanguageFormalComputer 

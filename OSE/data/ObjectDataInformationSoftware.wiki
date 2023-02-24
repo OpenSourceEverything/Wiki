@@ -1,0 +1,11 @@
+﻿++ Object Data Information Software
++++ SUMMARY
+plural: ObjectDataInformationComputerProgram
+* example: software libraries like the StandardTemplateLibrary
+
+
++++ CHILDREN
+ObjectDataInformationSoftwareInstance
+
++++ PARENT
+ObjectDataInformation

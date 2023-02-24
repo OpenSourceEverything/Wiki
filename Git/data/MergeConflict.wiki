@@ -1,0 +1,37 @@
+﻿++ Merge Conflict
+
++++ SUMMARY
+
+  * result from GitMerge.
+  
+  * An example merge conflict:
+    * a single line of code is modified on both the local and remote repositories.
+    
+
+
++++ RESOLVING MERGE CONFLICTS
+
+There are three ways to resolve a merge conflict:
+  1. take the remote version
+    * for a single file:
+      * git checkout --ours <file name>
+    * for all conflicting files, use:
+      * git merge --strategy-option ours
+  2. keep the local version, overwriting the remote
+    * single file:
+      * git checkout --theirs <file name>
+    * for all conflicting files:
+      * git merge --strategy-option theirs
+  3. Manually merge, resulting in a new different version.
+    * Can use GitMergeTool or just open the file with a text editor.
+
+You will notice merge conflicts add temporary files to your git repo, take care not to stage/add/commit these. you can resolve the merge, commit, then remove these files with "git clean -f" command
+
+
+
+
++++ EXAMPLE
+
+
++++ PARENT
+GitMerge

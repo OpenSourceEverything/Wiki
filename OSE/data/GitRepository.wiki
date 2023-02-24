@@ -1,0 +1,19 @@
+﻿++ Git Repository
+
+
++++ SUMMARY
+
+  * Refers to all files tracked by, and the .git itself inside of the (file system/project) 
+    you are source controlling
+
+  * tracks all changes to files, creating a history over time.
+  
+  * files are added to a repository, and thus through tracking by:
+    - GitCommandAddFileToRepositoryVersionControlTracking
+    
+  * consists of a main GitWorkingTree and zero or more linked GitWorkingTrees.
+  
++++ PARENT
+
+  GitVocabulary
+  [Git]

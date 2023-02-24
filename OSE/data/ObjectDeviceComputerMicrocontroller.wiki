@@ -1,0 +1,38 @@
+﻿++ Object Device Computer Microcontroller
+
++++ SUMMARY
+
+ObjectDeviceComputer
+  * [Attributes]
+    * small 
+    * physically: on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip. 
+    * contains 
+      * one or more CPUs (processor cores)
+      * memory
+      * programmable input/output peripherals 
+      * (often) Program memory in the form of 
+        * ferroelectric RAM, 
+        * NOR flash or 
+        * OTP ROM 
+      * small amount of RAM. 
+    
+    * designed for: 
+      * embedded applications, 
+        * in contrast to the microprocessors used in personal computers or other general purpose applications consisting of various discrete chips.
+
+
++++ DETAILS
+
+In modern terminology, a microcontroller is similar to, but less sophisticated than, a system on a chip (SoC).  SystemOnAChip
+
+
+
++++ CHILDREN
+ObjectDeviceComputerMicrocontrollerInstance
+  
+  
+  
++++ PARENT
+
+ObjectDeviceComputer
+  

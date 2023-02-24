@@ -1,0 +1,25 @@
+﻿++ Open Source Everything Audio Headphones
+
+
++++ SUMMARY
+
+  ? Material for ear interface:
+    * Fake Leather = ?
+    * Rubber
+    * Plastic
+    * Cloth?
+
+
+
++++ RELATED
+
+  DeviceHeadphones 
+
++++ EXTERNAL LINKS
+
+  * Example of someone already having made them:
+    * https://www.instructables.com/id/DIY-3D-Printed-Headphones/
+
++++ PARENT
+
+  OpenSourceEverythingDevices

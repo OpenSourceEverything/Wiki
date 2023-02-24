@@ -1,0 +1,20 @@
+﻿++ Git Fork
+
+
++++ SUMMARY 
+
+  * “Fork” is not a Git operation
+    * A feature of code hosting sites.    
+  
+  * Making a copy of an existing GitRepository (and you are doing new development on your copy).
+  
+  *  This is a common action on GitHub, Bitbucket, GitLab
+    * anywhere people host Git repos, forking is usually a feature.
+
+  * Whatever code hosting service contains the repo you want to fork (GitHub perhaps?), 
+    * look for information about using their API from the command line to GitFork
+  
+  
++++ PARENT
+
+  GitVocabulary

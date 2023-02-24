@@ -1,0 +1,12 @@
+﻿++ Horticulture Evergreen Plant Arborvitae
+
+
+
++++ SUMMARY
+
+  * HorticultureSeedGermination
+    * evergreens require "scarification" 
+
++++ PARENT
+
+  HorticultureEvergreenPlant

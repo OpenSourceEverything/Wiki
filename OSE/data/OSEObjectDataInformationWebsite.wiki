@@ -1,0 +1,65 @@
+﻿`++ OSE Object Data Information Website
+
++++ SUMMARY
+ 
+  * This page is a high level recipe to make a "web site".
+  
+  * For several methods using third parties that abtract-ify or take care of various components for you are in a separate 
+   
+  * ObjectDataInformationWebsite
+  * OSEObjectDataInformationWebsiteUsingExternalUbuntuServer
+  * 
+  
+
+
++++ TOOLS / DEVICES
+
+  *   
+  *  
+
++++ SUPPLIES / INGREDIENTS
+
+  * 1)
+  * 2) 
+  * 3)
+  * 4) 
+  
+  
++++ DIRECTIONS
+
+  * 1) Secure/buy a domain name
+    * example:  http:/www.thisdomain.com
+    * you do this through a registrar. 
+      * examples: "GoDaddy", Hover, Enom
+  
+  * 2) 
+  * 3) 
+  * 4) Implement an HTTPS connection
+    * Get an SSL certificate. This is done through your hosting provider
+      * There are two types:
+        * (1) Free:
+          * Valid only 90 days, then you renew them
+          * https://letsencrypt.org/ 
+        * (2) Paid:
+          * Needed to process payment transactions, personal info. 
+          * https://ssl.comodo.com/ 
+          * https://www.symantec.com/products/
+        
+        
++++ NOTES
+
+  *
+
+
+  
+  * you   
+
+
++++ RELATED
+
+RecipeTemplate
+ObjectWebServer 
+
++++ PARENT
+
+OSEObject

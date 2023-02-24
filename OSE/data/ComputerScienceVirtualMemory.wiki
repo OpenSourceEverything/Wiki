@@ -1,0 +1,23 @@
+﻿++ Computer ProcessScience Virtual Memory
+
+
++++ Summary
+  Simulated physical RAM that is actually using hard disk space.
+  
+  Typically held in page files, swap files
+
+
++++ Details
+
+  A region of memory held in the ComputerScienceComputerDataStorageHardDiskDrive(HDD) (as opposed to in ComputerScienceRandomAccessMemory)
+  
+  For this memory, we pretend it is program execution memory, that is normally held in RAM. 
+    When it actually needs to be accessed by the program,
+
+
+  For the technique and theory of it, see ComputerScienceMemoryManagementVirtualMemory
+
+
++++ Parent
+
+  ProcessComputingComputerScience

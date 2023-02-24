@@ -1,0 +1,17 @@
+﻿++ Horticulture Quinoa
+
+  * tall grass, 
+  
+  
++++ LIFE CYCLE
+  
+  * floweres, goes to seed, harvested when leaves turn from green to yellow
+  
++++ HARVEST
+
+  * When leaves turn from green to yellow.
+  
+
++++ PARENT
+
+  [Horticulture]

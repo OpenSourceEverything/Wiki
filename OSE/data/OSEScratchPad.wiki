@@ -1,0 +1,8 @@
+﻿++ OSE Scratch Pad
+
+All objects are just subclasses of Object with additional Attributes, defined as data members,
+
+ObjectEntityOrganismAnimalMammalPrimateHuman
+ObjectEntityOrganismAnimalMammalPrimate
+ObjectEntityOrganismAnimal
+ObjectEntityOrganism

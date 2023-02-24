@@ -1,0 +1,36 @@
+﻿++ How To Own And Maintain A Website
+
++++ Steps
+  1. Get a URL
+     - Usually bought from DomainNameRegistrar
+     - HowInternetURLsAreManaged
+    
+  2. Get a "Server" to host your website.
+  3. Link the URL to the Server
+    3.A Change host records, to link to another url, in this case to pCloud.com (the server)
+        https://www.enom.com/kb/kb/kb_0002_change-host-records.htm
+    3.B
+
+
+
++++ MAINTAINING WEBSITE SECURITY
+
+++++ use https
+++++ index pages in all folders
+  * Folders that do not have an index.html page will display contents such as other folders and file systems. This will show the average Joe exactly what is in your website’s structure.
+++++ Execute routine tests for vulnerabilities:
+      *
+++++ Deny Access Through .*htaccess*
+  
+  * HowToOwnAndMaintainAWebsiteDenyAccessThroughHtaccess 
+
+
++++ How To Get a Website URL 
+
+  HowToGetAWebsiteURL
+
+
+
++++ Parent
+
+  GKWebsites

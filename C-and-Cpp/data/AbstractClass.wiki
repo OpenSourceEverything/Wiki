@@ -1,0 +1,18 @@
+﻿++ Abstract Class
+
+
++++ SUMMARY
+
+[class] 
+  * has at least one PureVirtualFunction
+
+
++++ DETAILS
+We cannot create the object of an abstract class but we can create the pointer of this class and assign the object of derived classes.
+
++++ EXAMPLES
+AbstractClassExamples
+
+
++++ RELATED
+PureVirtualFunction

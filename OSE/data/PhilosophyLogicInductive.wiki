@@ -1,0 +1,13 @@
+﻿++ Philosophy Logic Inductive
+
++++ SUMMARY
+
+PhilosophyLogic
+
+
+
++++ RELATED
+PhilosophyLogicArgument
+
++++ PARENT
+PhilosophyLogic

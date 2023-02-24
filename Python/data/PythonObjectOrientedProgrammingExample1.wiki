@@ -1,0 +1,11 @@
+﻿++ Python Object Oriented Programming Example1
+
+
++++ SUMMARY
+
+see [file:///C:/repos/python/Object]
+  * 
+
+
++++ PARENT
+PythonObjectOrientedProgramming

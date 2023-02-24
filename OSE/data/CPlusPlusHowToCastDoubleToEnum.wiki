@@ -1,0 +1,3 @@
+﻿++ C Plus Plus How To Cast Double To Enum
+
+ Enum = static_cast<Enum>((unsigned char)dDoubleValue)

@@ -1,0 +1,19 @@
+﻿++ OSE Object System Heating Convection Electric
+
++++ SUMMARY
+
+ObjectSystemHeating 
+  using: 
+    1) ObjectDeviceHeaterConvection(Electric).
+       * other electric heater is acceptable, if deemed safe.
+    2) ObjectDeviceSensorThermal
+    3) ObjectDeviceComputerMicrocontrollerInstanceArduino
+       Better: [ESP8266] b/c tiny and has wifi.
+
+
+
+
+
+
++++ PARENT
+OSEObjectSystemHeatingConvectionElectric

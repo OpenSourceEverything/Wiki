@@ -1,0 +1,21 @@
+﻿
+
+
+
++++ SUMMARY
+
+  * A [furnace]
+
++++ REFERENCE
+
+    * Solpart, largest solar furnace in Odeilla, France
+      - Gilles.flamant@promes.cnrs.fr
+      - https://www.solpart-project.eu/
+      - https://en.wikipedia.org/wiki/List_of_silicon_producers
+      - https://en.wikipedia.org/wiki/List_of_photovoltaics_companies
+      - https://web.archive.org/web/20161003072910/http://www.gtri.gatech.edu/history/files/media/other-publications/High_Temp_Solar_Energy_Pamphlet.pdf
+
+
++++ PARENT
+
+  OpenSourceEverything

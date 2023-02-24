@@ -1,0 +1,25 @@
+﻿++ Computer ProcessScience Compilation
+
++++ Summary
+  * In computer programming and science, the translation of source code into object code by a compiler
+
++++ Redirect
+  ProcessComputingComputerScience
+    - checks syntax of human code, converts to machine code, makes object files.
+    - as an example RTX is a system built on top of windows, it provides its own API.
+      You have to provide *header files* to the compiler, which uses them to verify 
+      correctness of code, and to know the format of functions etc. This is similar to
+      having #include <stdio.h> except for RTX, its done in project settings to make
+      available to compiler
+      
+      
+      
+      
++++ Enumeration (Compilers)
+
+  * GNUCompilerCollection(GCC)
+  
++++ Parent
+  * ProcessComputingComputerScience
+  * ComputerScienceCompilationAndLinking 
+  * DifferenceBetweenComputerScienceAndComputerProgramming

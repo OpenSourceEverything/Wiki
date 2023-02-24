@@ -1,0 +1,33 @@
+﻿++ Git Checkout
+GitCheckOut
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
++++ SUMMARY
+
+  * Executed with GitCommandCheckout
+
+  * switching between different versions of a target entity 
+    (files,commits,branches) on your local machine's GitRepository
+  
+    * Updates files in the working tree to match the version in the index or the 
+      specified tree
+  
+    * commits:
+      * Can be used to view (GitCheckout) old commits for reference (read-only)
+    
+    * branches:
+      *  typical development with [Git]: a dedicated GitBranch is created for
+         each new software feature
+
+         
+
+  
+
++++ RELATED
+
+  GitHEAD
+
+  GitStaging
+
++++ PARENT
+
+  GitVocabulary

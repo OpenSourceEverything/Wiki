@@ -1,0 +1,19 @@
+﻿++ Process Computing Graphical Control Element
+ProcessComputingGraphicalWidget
+
+
+
++++ SUMMARY
+  
+  * an element of a graphical user interface
+    * An element of interaction
+  
+  * Examples: Button, Scroll Bar, Window.
+
+
++++ CHILDREN
+ProcessComputingGraphicalControlElementWindow
+
++++ PARENT
+
+ProcessComputing

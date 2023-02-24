@@ -1,0 +1,12 @@
+﻿++ Process Horticulture Corn Good Types For Home Growing
+
+Reid's Yellow Dent Corn: This is an heirloom corn variety that has been grown for over 170 years. It is known for its high yields and adaptability to a wide range of growing conditions.
+
+Stowell's Evergreen Sweet Corn: This is an heirloom variety that dates back to the 1800s. It is a popular sweet corn variety that is known for its tender kernels and sweet flavor.
+
+Country Gentleman Sweet Corn: This is another heirloom sweet corn variety that has been grown for over 100 years. It has unique, shoepeg-shaped kernels and is prized for its sweet flavor.
+
+Bloody Butcher Corn: This is a colorful heirloom corn variety that has deep red kernels. It is well-suited for grinding into cornmeal or flour and is known for its rich, nutty flavor.
+
++++ PARENT
+ObjectEntityOrganismPlant

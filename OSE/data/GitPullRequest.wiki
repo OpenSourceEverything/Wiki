@@ -1,0 +1,18 @@
+﻿++ Git Pull Request
+
++++ SUMMARY
+
+  * When you have changes on a local branch and you want them pulled into the remote
+    master branch.
+
+  * GitPullRequestGuidelines
+
+
++++ RELATED
+
+  * 
+  
++++ PARENT
+
+  GitVocabulary
+  [Git]

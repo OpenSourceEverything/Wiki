@@ -1,0 +1,13 @@
+﻿++ Fluid Dynamics Bernoullis Principle
+
+  In fluid dynamics, Bernoulli's principle states that an increase in the 
+  speed of a fluid occurs simultaneously with a decrease in pressure or a 
+  decrease in the fluid's potential energy.
+
++++ Summary
+
+  rel://files/FluidDynamicsBernoullisPrinciple.png
+  
++++ Parent
+
+  FluidDynamics

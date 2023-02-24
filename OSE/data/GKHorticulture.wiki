@@ -1,0 +1,19 @@
+﻿++ GK Horticulture
+
++++ SUMMARY
+
+  * Tracking for all plants I am growing, numbers 1...n.
+  * Currently at: GKHorticultureNumberOfPlants
+  
+  
+  
+
+
++++ RELATED
+
+  * [Horticulture]
+
+
++++ PARENT
+
+  [GK]

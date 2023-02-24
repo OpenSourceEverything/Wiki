@@ -1,0 +1,25 @@
+﻿++ Concurrency Control
+
+  * Ensuring ConcurrentOperations occur correctly and as efficiently as possible.
+
++++ Related
+  * CommonConcurrencyControlProblems
+
+
+
++++ Core related fields:
+    * InformationTechnology 
+    * ProcessComputingComputerScience, especially in the fields of 
+    * ComputerProgramming, 
+    * OperatingSystems 
+    * multiprocessors
+    * ComputerScienceDatabase(s) 
+    * ProcessCalculus
+    
+    
++++ Parent
+  * ConcurrentComputing
+
+
+    
+

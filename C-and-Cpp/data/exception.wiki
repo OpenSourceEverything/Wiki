@@ -1,0 +1,4 @@
+﻿++ exception
+
+[exceptions]
+[STL]

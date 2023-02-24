@@ -1,0 +1,5 @@
+﻿++ Linux Shared Memory
+
+
++++ External Links
+  * shmat(): http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/shmat.html

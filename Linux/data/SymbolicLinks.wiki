@@ -1,0 +1,2 @@
+﻿++ Symbolic Links
+[SymbolicLink]

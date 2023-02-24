@@ -1,0 +1,21 @@
+﻿++ Object Substance Food
+
++++ SUMMARY
+  
+  * ObjectSubstance
+    * PropertyEdible
+  
++++ CHILDREN
+
+  * FoodRecipes
+
+  * OpenSourceEverythingFoodConversionFactors
+
++++ RELATED
+
+  BrickRocketStove
+    // good efficient stove for survival cooking.
+
++++ PARENT
+
+  [OSE]

@@ -1,0 +1,66 @@
+﻿++ Horticulture Carrot
+
++++ SUMMARY
+  
+  * Root vegetable
+  * Taproot is edible, as are stems and leaves.
+  * One seed = 1 Carrot.
+  * They dont transplant well.
+    
++++ PLANT STRUCTURE
+  * 
+
++++ LIFE CYCLE
+
++++ ACIDITY
+  * pH: ()
+
+  
++++ TEMPERATURE
+++++ GERMINATION TEMPERATURE
+  * 
+++++ GROWTH TEMPERATURE
+  *  
+  
++++ SPECIES
+  * 
+
++++ HARVEST
+++++ FOOD HARVEST
+  * Do not wash before storing
+
+++++ SEED HARVEST
+  * 
+
++++ DIMENSIONS
+++++ SEED SPACING
+
+  * 1 to 3inch separation on all sides. 
+    * Currently being researched
+  
+  * In 5 gallon ObjectDeviceContainerBucket
+      * Under research: 20-25 carrots per, 
+      * or 
+      * 1 inch spacing for ~ 
+
+++++ CONTAINER SIZE
+  * 
+
+++++ ROOTS
+  * Width:, Depth:
+
+++++ VERTICAL HEIGHT
+  * typical: 8in
+  * max:     xin
+
+++++ HORIZONTAL SPACING
+  * recommended.
+
++++ PARENT
+
+  ProcessHorticultureListOfPlants
+  
+
+
++++ PARENT
+++++ ProcessHorticulture

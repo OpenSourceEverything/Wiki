@@ -1,0 +1,12 @@
+﻿++ Biological Oxygen Demand
+
+  * measure of the amount of oxygen utilized by aerobic microorganisms to breakdown organic matter in water.
+  
+  
+  
++++ Related
+
+  * ChemicalOxygenDemand
+  * 
++++ Parent
+  * EnvironmentalChemistry

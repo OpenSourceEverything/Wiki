@@ -1,0 +1,21 @@
+﻿++ Horticulture Grow Medium511Mix
+
+
++++ SUMMARY
+
+
++++ DETAILS
+
+
+  * 5 parts bark (not mulch/wood)
+  * 1-2 part peat moss (more peat moss == more water retention)
+  * 1 part perlite
+  * garden lime (raises PH to offset peat moss)
+  * 
+
+
+
++++ PARENT
+
+  HorticultureGrowMedium
+  [Horticulture]

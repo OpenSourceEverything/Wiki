@@ -1,0 +1,12 @@
+﻿++ Process Motion
+
+
+  * change in position of an [Object] over [Time].
+
+
+
++++ SYNONYM
+ProcessMovement
+
++++ PARENT
+[Process]

@@ -1,0 +1,133 @@
+﻿++ OSE Video Security System Raspberry Pi Zero W
+
+
++++ SUMMARY
+
+* Use MotionEyeOs
+
+
+* Follow this the most
+  * https://randomnerdtutorials.com/cctv-raspberry-pi-based-system-storage-motioneyeos/
+  * A lot of people say 
+
+[rel://files/OSE/System/VideoSecurityRapsberryPiZeroW]
+
+  * Flash appropriate MotionEyeOsImages for "raspberry pi" onto a microSD card.
+  
+  * Add file called *wpa_supplicant.conf*
+    * add the following text below to the file; 
+      * make sure the text file uses Linux/Unix style line breaks.
+        * Notepad++ “Edit” > “EOL Conversion” > “UNIX/OSX Format”. “UNIX” is then shown in the status bar.
+    * If you need to change this file you must reflash the image onto the drive to trigger a "first boot"
+
+country=us
+update_config=1
+ctrl_interface=/var/run/wpa_supplicant
+network={
+ scan_ssid=1
+ ssid="MyNetworkSSID"
+ psk="Pa55w0rd1234"
+}
++++ DETAILED INSTRUCTIONS
+  PiZeroWMotionEyeOsSettings
+    * Change admin password, cant/dont change "admin"
+    * Make IP static if desired
+    * set Time Zone
+    * Set host name 
+    * Network
+      * Modify network SSID and password.
+    * Video Device
+      * name camera
+      * resolution : 800x600
+      * rotate image if need be
+    
+    * Text overlay : on
+    * video streaming is off
+    * still image on
+    * capture mode manual
+    * motion gap 2seconds
+    * minimum motion frames: 5
+    
+    * File Storage
+      * Storage Device: Network Share
+      * Network Server: IP of Hub
+      * Share Name: directory to all camera store / camera name 
+        * example: storage/sda1/cam2  
+      
+      * 
+  
+  * Format SD cards: 
+    * recomend gparted linux, disk partition manager windows.
+  
+  * Flash image of motioneyeos OS to sd card. 
+    * balena etchar or rufus for windows. Had problems with balena on windows 7.
+  
+  *  Add wpa_supplicant.conf and empty ssh file in boot directory
+    * same directory as cmdline.txt or some shit - fully verify this
+  
+  *  Boot your raspberry pi hub
+  
+  * login to the hub camera (then the zero w's) web interface
+    * from a *linux* computer, type in the IP address of the camera. 
+      * IP address obtained from plugging in mini HDMI to raspberry pi on bootup, or use IP scanner, or login to your router, usually 192.168.8.1. 192.168.0.1
+    
+  * login with admin credentials
+    * user:admin , leave password blank 
+  
+  * Zero W Slave Settings:
+    * add an admin password, username, password if desired. 
+    * dont change admin user name.
+    * 4. Ensure Text overlay is on.
+    * 5. Video Streaming is off.
+    * 6. Still Images is on.
+    * 7. Set Capture Mode to manual.
+    * 8. Under motion settings set motion gap to 2 and minimum motion frames to 5.
+  
+  * Pi 4 B Hub Settings:
+    *  https://randomnerdtutorials.com/cctv-raspberry-pi-based-system-storage-motioneyeos/
+  
+  *  
+  
+  
+  
++++ MATERIALS
+
+  * RaspberryPiZeroW - ~10-20$
+  
+  * Micro SD Flash card
+    * rel://files/_SAIML43P9A1435ONSBN1.png
+  
+  * Cameras for Pi
+    * rel://files/_DXQQ8P1B1YXGC2M9C383.png 
+  
+  * Case for Pi
+    * rel://files/_65JQNZSD8DY3JDOVYTW7.png      
+
+
++++ SOFTWARE
+
+
++++ TO DO
+
+  * Setup FTP server for dumping data
+
++++ TESTING
+  * Hub:  192.168.8.214
+  * cam1: 192.168.8.232
+  * cam2: 192.168.8.124
+  * cam3: 192.168.8.140
+  * cam4: 192.168.8.108 (nightvision)
+  * adminpass: GLL0830!
+  * username: user
+  * password: secrets!
+
++++ EXTERNAL REFERENCES
+
+  * https://www.raspberrypi-spy.co.uk/2017/04/raspberry-pi-zero-w-cctv-camera-with-motioneyeos/
+  
+  * https://www.youtube.com/watch?v=kDBrOIGud0I  
+    * 8:56 mentions some important software settting - fast network is on i think, reboot
+
++++ PARENT
+
+  OSESystem

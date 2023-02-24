@@ -1,0 +1,22 @@
+﻿++ Calculating Mortgage Costs Example
+
+Gary,
+Here is the mathematic equation to calculate the amortization of your loan:
+You want the loan payment schedule for the following loan:
+Amount of the loan: $180000
+Duration of the loan: 30 years
+Payments per year: 12
+Annual interest rate: 5 %
+Your annual interest rate converted to a decimal is 5% / 100.0 = 0.050.
+You will have 12 × 30 = 360 total payments to make.
+The interest rate at each payment is 0.05/12.00 = 0.0042.
+You can calculate the amount of each payment using this formula:
+rel://files/_W8SY6KFLM38YJRWI639Q.png
+where I=0.0042 (the interest rate at the time of the payment), and N=360 (the number of periods).
+From this formula, you will pay $966.28, 12 times a year.
+ 
+ 
+I was also able to create an amortization schedule directly from our loan origination schedule based on the figures above.  I also added the estimated Private Mortgage Insurance of $54 per month that will drop off of your loan at 80% loan to value.  You can see this breakdown below.
+ 
+In regards to your question about compounding interest.  Interest is paid in full each month it is due, so technically there is no interest left to compound the next month.  If you make additional payments to the principal balance, this would reduce the amount of interest you pay over the life of the loan and the amortization schedule will shorten.
+ 

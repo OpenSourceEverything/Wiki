@@ -1,0 +1,16 @@
+﻿++ Sensor Thermal Difference Between PT100And PT1000
+
++++ SUMMARY
+
+  * The resistance output of the PT1000 is 10 times greater than the PT100. Other than that their characteristics are very similar.
+
+  * I believe in general, the PT100 is commonly used in a 3 or 4 wire configuration (which helps account for line resistance error), whereas the larger PT1000 output makes it more acceptable for 2 wire setup, because the line resistance is more negligible with a larger resistance output from the PT1000.
+
+
++++ RELATED
+
+  * 
+
++++ PARENT
+
+  OpenSourceEverythingSensorThermal

@@ -1,0 +1,5 @@
+﻿++ Identfication ADO
+
+https://infosys.beckhoff.com/content/1033/ethercatsystem/2469080715.html?id=5133619255474348468
+
+address offset = ADO this describes how the slave device defines itself identification wise. still dont know how the elmo does this.

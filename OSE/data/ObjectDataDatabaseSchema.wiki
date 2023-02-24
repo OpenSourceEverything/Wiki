@@ -1,0 +1,16 @@
+﻿++ Object Data Database Schema
+
++++ SUMMARY
+  * Set of 
+    * formulas (IntegrityConstraint)
+  
+  * imposes Standards
+  
+  
+  * Purpose:
+    * to ensure homogeneity of rows in [Database] 
+    
++++ PARENT
+
+ObjectDataDatabase
+

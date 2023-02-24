@@ -1,0 +1,4 @@
+﻿++ Process Metal Fabrication Welding Electric Resistance Flash
+
++++ SUMMARY
+  ProcessMetalFabricationWeldingElectricResistance welding that does not use any filler metals. The pieces of metal to be welded are set apart at a predetermined distance based on material thickness, material composition, and desired properties of the finished weld. Current is applied to the metal, and the gap between the two pieces creates resistance and produces the arc required to melt the metal. Once the pieces of metal reach the proper temperature, they are pressed together, effectively forge welding them together

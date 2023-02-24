@@ -1,0 +1,10 @@
+﻿++ Object Web Server
+
+
++++ SUMMARY
+
+* Refers to both
+  * Software: ObjectDataInformationComputerProgram
+  * [Computer] [computer] that runs the software
+  
+* 

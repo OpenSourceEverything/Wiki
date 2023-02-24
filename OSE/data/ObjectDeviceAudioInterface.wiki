@@ -1,0 +1,10 @@
+﻿++ Object Device Audio Interface
+
+
++++ CHILDREN
+ObjectDeviceAudioInterfaceInstanceOSE1
+
+
++++ PARENT
+
+ObjectDeviceInterface

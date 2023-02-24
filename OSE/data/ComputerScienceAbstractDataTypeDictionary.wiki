@@ -1,0 +1,3 @@
+﻿++ Computer ProcessScience Abstract Data Type Dictionary
+
+  = AssociativeArray

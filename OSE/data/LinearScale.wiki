@@ -1,0 +1,8 @@
+﻿++ Linear Scale
+
+
+Linear scale, could be called i think, a direct encoder. either way its just a linear encoder. 
+i think the linear part might refer to its mathematical modelling, not necessarily that it measures in a straight
+line but not sure.
+
+https://www.heidenhain.com/en_US/products/linear-encoders/

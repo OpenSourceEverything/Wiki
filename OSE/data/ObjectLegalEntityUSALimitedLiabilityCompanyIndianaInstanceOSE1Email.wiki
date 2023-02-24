@@ -1,0 +1,45 @@
+﻿++ Object Legal Entity USA Limited Liability Company Indiana Instance OSE1Email
+
++++ SUMMARY
+
+* This page should be generic, i.e. not tied to the business.
+* ObjectCustomEmailAddress
+
+
+* Using companies:
+  * ProtonMail (for email service/servers) 
+  * GoDaddy (DomainNameRegistrar)
+
+
+* We will link up our protonmail account to accept emails at an email address  
+  * info@ourdomain.com
+  * sales@ourdomain.com
+  * admin@ourdomain.com 
+  * .... 
+
++++ DETAILS
+* DNS changes required to your site (see External Reference 1):
+
+Type	Host name	  Value / Data / Points to	                Priority
+TXT   @           protonmail-verification=
+                  55741d73240012cda4e84dfff5b1f60eb9c939af
+MX	  @	          mail.protonmail.ch	                      10
+MX	  @	          mailsec.protonmail.ch	                    20
+
+TXT   @           v=spf1 include:_spf.protonmail.ch mx ~all 
+* Do not have multiple SPF entries, if multiple, just add "include:_spf.protonmail.ch"
+
+CNAME @           protonmail.domainkey.dp2jfhn4loxkqomkrlboxrzv2iqedforz6b3mdxgjkof6hma77hua.domains.proton.ch.       
+CNAME @           protonmail2.domainkey.dp2jfhn4loxkqomkrlboxrzv2iqedforz6b3mdxgjkof6hma77hua.domains.proton.ch.         
+CNAME @           protonmail3.domainkey.dp2jfhn4loxkqomkrlboxrzv2iqedforz6b3mdxgjkof6hma77hua.domains.proton.ch.   
+
+TXT	  _dmarc
+
+
+        
++++ EXTERNAL REFERENCE
+* 1) https://account.protonmail.com/u/0/mail/domain-names
+
+
++++ PARENT
+ObjectLegalEntityUSALimitedLiabilityCompanyIndianaInstanceOSE1

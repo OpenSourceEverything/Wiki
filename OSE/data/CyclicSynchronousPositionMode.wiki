@@ -1,0 +1,20 @@
+﻿++ Cyclic Synchronous Position Mode
+
+rel://files/_ZHIS8I0PUY86BGACW5QN.png
+
+This section describes cyclic synchronous operating modes. In these this modes, trajectory 
+generation is done in the master computer (control device), not in the drive, and data is sent to the 
+axes in synchronous updates of position, velocity 
+or torque.
+I
+n cyclic synchronous modes PDOs are used to send commands to the drive, which responds 
+immediately, without setting bit 4 in the Control Word 0x6040 (as is done in Profile Position Mode). 
+These commands are affected by limiting parameters that are usually 
+sent via SDOs and don’t 
+require cyclical updating.
+
+
+rel://files/_K82VM9KGIYLTEOEW24OS.png
+
+rel://files/_SK1FTFT8AT6EZKH5F0ZT.png
+

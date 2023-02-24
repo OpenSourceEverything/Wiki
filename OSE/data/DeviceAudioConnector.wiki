@@ -1,0 +1,21 @@
+﻿++ Device Audio Connector
+
+
++++ SUMMARY
+
+  * 
+
+
++++ EXTERNAL RESOURCES
+https://www.cablechick.com.au/blog/understanding-trrs-and-audio-jacks/
+
+
++++ PRODUCTS:
+
+[file:///P:/Private/Wiki/Library/Retail-Products/Devices/Audio/Connectors]
+
+
+
+
++++ PARENT
+  [Devices]

@@ -1,0 +1,13 @@
+﻿++ Object Material Fertilizer
+
++++ SUMMARY
+
+ObjectMaterial 
+  * Attribute:
+    * applied to soil or to  ObjectEntityOrganismPlant tissues to supply [Nutrients].
+
++++ RELATED
+ProcessHorticulture
+OSEObjectMaterialFertilizer
++++ PARENT
+ObjectMaterial

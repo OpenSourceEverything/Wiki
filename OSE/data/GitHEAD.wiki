@@ -1,0 +1,24 @@
+﻿++ Git HEAD
+
++++ SUMMARY
+
+
+  * Pointer to last GitCommit in current working GitBranch:
+  
+  * pointer to the current branch reference
+    * Branch reference = pointer to the last GitCommit in the currently checked-out 
+      GitBranch
+      
+  * Special Case: GitDetatchedHEAD 
+
+
+
++++ RELATED
+
+  GitHowTo
+
+
++++ PARENT
+
+  * GitVocabulary
+  * [Git]

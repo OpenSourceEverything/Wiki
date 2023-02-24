@@ -1,0 +1,33 @@
+﻿++ How To Make Your Own Corporation
+
+
++++ SUMMARY
+
+  * majority shareholders have ultimate power because they can:
+    * hire/fire the entire board (or certainly a majority even in cumulative voting states such as California)
+    * elect folks who will pick a preferred strategy and appoint a preferred CEO.
+    * majority shareholder doesn’t have legal power to walk into the company and order people around.
+
+  * The chair and board are woefully underpowered legally - 
+    * individual directors have no power! 
+    * Boards are intended to act collectively, and *only* collectively. 
+    * Only a handful of powers are granted to a chair under only some laws.
+
+  * The CEO has great power on a day-to-day basis:
+    * hire/fire give orders
+    * ? 
+
+
+++++ INDIANA:
+  
+  * 1. https://inbiz.in.gov/BOS/SOS.Business/PrincipalInformation
+  * 2. 
+
++++ RELATED
+
+  HowToCreateAPlantNursery
+
+
++++ PARENT
+
+  BusinessCorporateLaw

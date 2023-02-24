@@ -1,0 +1,12 @@
+﻿++ Process Botany
+
++++ Summary 
+
+  * branch of [Biology]
+  “the scientific study of plants, including their physiology, structure, 
+  genetics, ecology, distribution, classification, and economic importance”;
+
++++ Related  
+[Horticulture]
++++ PARENT
+[Process]

@@ -1,0 +1,18 @@
+﻿++ Device Digital Audio Interface
+
++++ SUMMARY
+
+
+
++++ CHILDREN
+  * DeviceDigitalAudioInterfaceInstances
+
++++ RELATED
+
+OSEObjectDeviceAudioInterface
+
+
++++ PARENT
+
+  [Device]
+  [OSE]

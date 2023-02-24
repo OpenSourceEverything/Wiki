@@ -1,0 +1,5 @@
+﻿++ Open Source Internet Infrastructure
+
+  * this may already be happening:
+    * Global Environment for Network Innovations (*Geni*)
+    * https://renci.org/research/geni/ 

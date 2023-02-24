@@ -1,0 +1,10 @@
+﻿++ Query Language
+
+
+
++++ SUMMARY
+ObjectSystemLanguageFormalComputer 
+  used to make queries in databases and information systems
+
++++ PARENT
+ObjectSystemLanguageFormalComputer

@@ -1,0 +1,94 @@
+﻿++ OSE Object System Irrigation Buckets Small Low Water Pressure With Drainage Tube
+
++++ SUMMARY
+  * Need to address problem of a clean way of organizing all iterations and
+    versions of a product, especially with product options.
+
+
++++ TOOLS / DEVICES
+OSEObjectSystemIrrigation
+0) Hand Drill
+
+1) 1,1/4 step drill bit for drain hole to fit uniseal.
+  * ~30$ 
+  * highly advise against spiral hole saw type, step bit is easiest
+    * bad: rel://files/img/_YH8CWR5BON59H5JFKFB9.png 
+  * step bits get smoothest hole, deburring manually is dangerous, 
+    * could make hole too big  
+
+2) 2-3 inch hole saw 
+  * For hole plant grows through/in 
+
+3) Poking device (safety pin, ) 
+  * to place pin size hole in tubing to push spray emitter fitting through.
+  * Not too large, or fitting will be leaky, but shouldnt be big deal.
+
+4) Large scissors / tin snips or pipe cutters 
+  * to cut 3/8 and 3/4 vinyl tubing
+
+5) Large wooden surface on which you can drill through bucket lids
+  * slab of plywood on the floor works great. 
+6)
+
+7)
+ 
+
++++ SUPPLIES / INGREDIENTS
+
+  * For n plants:
+
+  * 1) (n) buckets
+  * 2) (n) bucket lids
+  * 3) (2n-1 of length:) 3/4 uniseals (for drain tube)
+  * 4) (n-1 of length:)  3/4 vinyl black tube
+  * 5) (1 of length:)    3/4 vinyl black tube, for resevoir long drain
+  * 6) (n of length:)    3/8 vinyl black   
+  * 7) sprayer buddys that plug into the tube, emitters.
+  * 8) (2n-1) 3/8 male to male couplers barbed, nylon or metal
+  * 9) (n sets of 2, length 4inch) waterproof 1/32, 1mm wire (
+    * for wrapping 3/8 tube to lid tops)\
+  * 10) (1) Resevoir Bucket, either 2 gal or 5 gallon + lid
+  * 11) (1) OSEObjectDevice
+  * 12) 
+  * 13)
+  * 14)
+  * 15)
+  * 16)
+  * 17)
+  * 18)
+  * 19)
+  * 20)
+  * 21)
+  
+  
++++ DIRECTIONS
+
+  * Lid:
+  * 1) Use 3 in hole saw, drill hole in center of a plant bucket.
+    * 
+  
+  * 2) Using 1/8" drill bit, drill holes off center that 
+    * holes are used to loop wire through to hold down the 3/8 supply tubing 
+  
+  * 3) Wrap metal wire with both ends sticking up on top side for easy access
+  * 4) Cut the pieces of 3/8 vinyl to size.
+  * 5) For one piece of vinyl, tie off one end with twist tie.
+    * This is the first bucket in the chain, only one link needed.
+  * 6) Place one male to male barbed 3/8 coupler in each piece of 3/8 vinyl
+  * 7) Poke hole in the vinyl tubing and place in spray emitter
+    * Hole should be placed a distance of (bucket radius) from the tube side with the barbed fitting. 
+      * the side with the coupler will arbitrarily always be placed on the buckets edge for each node as a reference.    
+  * 8) Drill drainage hole for bucket. Using 1 1/4" step bit drill bit
+    * hole should be parallel with the bucket lid 
++++ NOTES
+
+  *
+
+
+
++++ RELATED
+
+RecipeTemplate
+
++++ PARENT
+OSEObjectSystemIrrigation

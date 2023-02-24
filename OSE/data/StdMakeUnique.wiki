@@ -1,0 +1,4 @@
+﻿++ Std Make Unique
+
+  * Easy way to make a CppSharedPointer or a CppUniquePointer
+  

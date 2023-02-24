@@ -1,0 +1,26 @@
+﻿++ Process Nutrition Human Conversion Of ALA To EPA And DHA
+
+
+
++++ SUMMARY
+
+* things that can reduce conversion of ALA to EPA/DHA: 
+    High intake of Omega 6 relative to Omega 3.
+    A deficiency of the nutritional co-factors vitamins B3 (found in peas and mushrooms), B6 (present in soy and oats), C (naturally in broccoli, orange and kiwifruit) , the minerals zinc and magnesium support conversion enzymes.
+    Trans-fatty acids destroy the conversion enzymes and tissues have to manufacture new ones to replace those damaged by trans-fats.
+    Alcohol abuse poisons these enzymes
+    Excess insulin in the bloodstream diminishes enzyme function.
+
+
+
+Human conversion of ALA into EPA ranges from 8% to 20%. 
+Human conversion of ALA to DHA ranges from 1% to 9%
+
+Example:
+  * Ground flax seed 2 TbSpn has 3.5g polyunsaturated fat.
+    * 3500mg *  
+
+
++++ PARENT
+
+ProcessNutritionHuman

@@ -1,0 +1,42 @@
+﻿++ Process Vehicle Maintenance Ignition System Fuel Pump Replacement
+
+
++++ SUMMARY
+
+
+
+
++++ TOOLS
+  * Special Spanner Wrench to loosen fuel pump.
+  * Shop Vac
+
+
++++ INSTRUCTIONS
+
+  * 1) Relieve fuel pressure: Start engine then disconnect Fuel Pump Fuse and or Relay
+  * 3) Remove battery negative terminal
+  * 4) Expose Fuel Pump
+  * 5) Disconnect electrical from fuel pump
+  * 6) Disconnect fuel lines
+         * Rags 
+  * 7) Clean area around fuel pump before opening to avoid particulate getting into tank.
+    * Shop Vac 
+
+  * 8) Remove pump
+  * 9) Place new one on
+       * 
+
+
++++ VEHICLE SPECIFIC NOTES
+
+ProcessVehicleMaintenanceIgnitionSystemFuelPumpReplacementHondaOdyssey2002
+
+
++++ RELATED
+
+ProcessVehicleMaintenanceIgnitionSystemSparkPlugReplacement
+RecipeTemplate
+
++++ PARENT
+ProcessVehicleMaintenanceIgnitionSystem
+ProcessVehicleMaintenance

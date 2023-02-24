@@ -1,0 +1,10 @@
+﻿++ OSE Problem Of Infinite Iterations
+
+
+
+
+compare similarities, remove redundancies once any new informaiton has been assimilated from an Instance() 
+
+
++++ PARENT
+OSEProblems

@@ -1,0 +1,11 @@
+﻿++ Public Key Cryptography
+
+ssh-rsa	
+AAAAB3NzaC1yc2EAAAADAQABAAABAQ...PZYZaGzc1L MUSICMACHINE2.1@pvre7643
+
+WINDOWS 
+    Opened Git Bash
+    
+    typed ssh-keygen
+    
+        

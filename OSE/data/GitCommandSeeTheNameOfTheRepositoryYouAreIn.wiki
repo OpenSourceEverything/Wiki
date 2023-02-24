@@ -1,0 +1,13 @@
+﻿++ Git Command See The Name Of The Repository You Are In
+
+
++++ SUMMARY
+
+    git remote show origin
+
+
+
++++ PARENT
+ 
+  GitCommands
+  [Git]

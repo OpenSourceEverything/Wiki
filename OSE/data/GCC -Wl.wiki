@@ -1,0 +1,11 @@
+﻿++ GCC -Wl
+
+    -Wl, {linker commands/options}
+    denotes the whitespace separated entries are for the linker 
+
+    examples:
+    
+      * 
+
++++ Parent
+  GNUCompilerCollection

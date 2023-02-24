@@ -1,0 +1,13 @@
+﻿++ Difference Between Logic And Reason
+
+  * logic 
+    * the study of how PhilosophyReasoning is carried out through PhilosophyArgument
+    
+  whereas
+  
+  * reason
+    * the *application of logic* to *understand* and judge something.
+
+
++++ Parent
+  * [Philosophy]

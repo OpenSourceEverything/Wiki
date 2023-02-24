@@ -1,0 +1,46 @@
+﻿++ GK Design Document Template
+
+++++ Table Of Contents
+
+++++ Document History
+|  Date  |Rev Num| Author|Description|
+|10-04-2018 | 1 | Chartlin Pangrobot | Initial Revision|
+
+++++ **1.0 Overview**
+
+Why?  
+Background information and brief summary.
+A general introduction to the project from the user point of view.  Think of your audience as a high level manager.  
+
+## **2.0 Requirements**
+
+What?
+Goals (user's standpoint) .
+The “must do” list at a high level.  Think of your audience as a middle level manager and fellow engineers.
+
+1. 
+2. 
+3. 
+
+++++ **3.0 Design Proposal**
+
+How (will you fulfill requirements)?
+High level design.  How will the system accomplish these requirements?  
+Think of your audience as a middle level manager and fellow engineers.
+
+++++ **4.0 Detailed Design**
+
+Nuts and bolts details. Think of your audience as your fellow engineers.
+
+-  LC Changes
+-  UI Changes
+-  Path Changes
+-  RT Changes
+-  SSD Changes
+
+++++ **5.0 Test Plan**
+
+
++++ Parent
+
+  GKPersonal

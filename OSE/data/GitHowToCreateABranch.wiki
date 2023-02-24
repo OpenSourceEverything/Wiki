@@ -1,0 +1,28 @@
+﻿++ Git How To Create A Branch
+
++++ SUMMARY
+
+  * GitCommandBranch
+    
+  * create a new copy of code base of branch youre currently on:
+    * git branch new_branch
+    
+  * see existing branches to confirm you created a branch:
+    * git branch
+  
+  * switch to your new branch using GitCommandCheckout 
+    * git checkout new_branch  
+  
+
+
++++ RELATED
+
+
+  GitCommandCommit
+  GitBranch
+  GitCommandPush
+  GitRawCommandBranch
+
++++ PARENT
+
+  GitHowTo

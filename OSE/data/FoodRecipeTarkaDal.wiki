@@ -1,0 +1,90 @@
+﻿++ Food Recipe Tarka Dal
+
++++ SUMMARY
+
+
++++ PREPARATION
+
+  * Rinse beans,
+  * Soak beans 24 hrs.
+  
++++ INGREDIENTS
+
+  
+      * (part 0)
+        0.5 cup dry chana dal
+        0.25 cup dry urad dal
+        0.25 cup dry rajma dal
+
+      * (part 1, dont mix wet/dry)
+        3 tbsp Butter
+        2 tsp Jeera (cumin)
+        4 Cloves
+        2 Cardamom (Black?)
+        2 Small Piece Cinnamon
+        2 Bay Leaf
+        
+      * (part 2 - dont mix wet/dry)
+        2 Onion (medium)
+        4 Green Chilli
+      
+      * (part 3)
+        Tbspn FoodRecipeGingerGarlicPaste
+      
+      * (part 4)
+        4 Large Tomato
+        3 tsp Chilli Powder
+        .5 tsp Garam Masala Link for garam masala powder
+        salt
+
+      * (part 5)
+        * 2 Cup Water
+    
+      * (part 6)
+        1/4 Cup Fresh Cream
+        Coriander Leaves For Garnishing
+        0.5 tsp Kasuri Methi
+
++++ INSTRUCTIONS
+
+++++ METHOD 1
+  * Preparation
+  =============
+    1.  (Soaked overnight) urad dal, cook in 3 cups water an salt. Pressure cook 8-10 whistle.
+    2.  Puree the tomato, chop the onion and green chilli finely.
+    3.  Prepare FoodRecipeGingerGarlicPaste
+    4.  In bowl, combine dry from (part 1)
+  
+  * Cooking
+  =========
+    5.  In big pan cook (part 1) medium heat is needed to pop cumin
+    6.  Add (part 2) saute till translucent. Then (part 3) and cook a bit.
+    7.  Add (part 4). Cook covered for 2 to 3 minutes, till the raw smell of the tomato puree leaves. 
+    9.  Add the lentils (part 0). Cook for quite a while, ? whistles
+    10. By the time the gravy would have thickened, pour the fresh cream and add kasuri methi leaves.
+       Finally, garnish with coriander leaves and give a quick mix.Serve this Dal Makhani Recipe with Bhatura.
+
+++++ METHOD 2
+
++++ NOTES
+
+  * cook the ginger garlic first, instead of adding after onions, else ginger taste too strong.
+    * worth trying without the cardamom, cloves. definitely clovers could probably go. 
+    * i bet india gardens version is americanized i.e. less of the super strong spices?
+
+  * Tried with 1 cup chana, 1/4 others. Good consistency, but needed TONS of tomatos.
+  
+  * Dont add Amchur, overpowered everything, tons of tomatos will provide the kick.
+   
+  * Added 4 large tomatos cut for the instructions, ended up adding 3 more cups blended tomatos as cooked
+  * still not very soupy/gravy like, 
+  * recommend cooking tomato sauce separate, saute'ing separate, then combining with lentils? 
+
+
++++ RELATED
+
+  GKRecipeDalMakhani
+
++++ PARENT
+
+  FoodRecipes

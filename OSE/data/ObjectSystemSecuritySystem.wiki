@@ -1,0 +1,15 @@
+﻿++ Object System Security System
+
+  ObjectSystemSecurityAlarm
+
++++ SUMMARY
+
+  * ObjectSystem designed to detect intrusion – into a building or other area
+
++++ CHILDREN
+
+  * ObjectSystemSecurityVideo
+
++++ PARENT
+
+  ObjectSystem

@@ -1,0 +1,11 @@
+﻿++ Cpp Declarations
+
+
+
+https://parrt.cs.usfca.edu/doc/how-to-read-C-declarations.html
+
+
+
++++ PARENT
+
+[C++]

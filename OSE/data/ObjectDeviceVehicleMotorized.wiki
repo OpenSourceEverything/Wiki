@@ -1,0 +1,15 @@
+﻿++ Object Device Vehicle Motorized
+
++++ SUMMARY
+
+  * A ObjectDeviceVehicle that is self-propelled, 
+    * usually wheeled (ObjectDeviceVehicleMotorizedAutomobile).
+  
++++ CHILDREN
+
+  * ObjectDeviceVehicleMotorizedAutomobile
+
+
++++ PARENT
+
+  ObjectDeviceVehicle

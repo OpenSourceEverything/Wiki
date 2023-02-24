@@ -1,0 +1,26 @@
+﻿++ Makefile Rules
+
++++ Summary
+
+  MakefileTarget : MakefilePrerequisites
+  MakefileRecipe
+
+
+
+  
+
++++ Types of Rules
+++++ Implicit Rules 
+  MakefileImplicitRule
+  
+++++ Pattern Rules
+ MakefilePatternRule
+
+
++++ Related
+
++++ Parent
+  [Makefile]
+
+
+

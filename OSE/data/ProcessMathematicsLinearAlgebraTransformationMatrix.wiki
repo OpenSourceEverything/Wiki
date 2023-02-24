@@ -1,0 +1,13 @@
+﻿++ Process Mathematics Linear Algebra Transformation Matrix
+
+
++++ SUMMARY
+
+An ProcessMathematicsMatrix representation of a ProcessMathematicsLinearAlgebraTransformMap
+
++++ CHILDREN
+ProcessMathematicsLinearAlgebraTransformationMatrixRotational
+
+
++++ PARENT
+ProcessMathematicsLinearAlgebra

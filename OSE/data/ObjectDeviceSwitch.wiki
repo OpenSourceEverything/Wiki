@@ -1,0 +1,13 @@
+﻿++ Object Device Switch
+
++++ SUMMARY
+  * 
+
+
+
++++ CHILDREN
+ObjectDeviceSwitchElectrical
+
++++ PARENT
+
+ObjectDevice

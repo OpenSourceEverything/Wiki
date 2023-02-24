@@ -1,0 +1,20 @@
+﻿++ Linux Kernel Module
+
++++ SUMMARY
+
+  * Software that runs in the kernel space.
+    * access hardware directory
+    * dyanmically loadable,unloadable in kernel.
+    * smaller stack space
+    *  
+
+
++++ CHILDREN
+
+
++++ RELATED
+OSELinuxKernelModule
+
++++ PARENT
+
+[Linux]

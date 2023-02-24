@@ -1,0 +1,20 @@
+﻿++ OSE Problem Of Recursive Changes To Classes
+
+
+
+Plant
+  Plant Potato
+  Plant Tomato
+  
+  * both will have a huge list of Properties that must be synced every time you add a property to Plant. 
+    * This would require updating every child document every time.
+    
+    * how? 
+    * Ideally you would use the relational information in the database right?
+      * Find all documents that link to parent.
+      * but theres no attribute that defines a parent/child.
+        * look into how to tag or add that info within wikidpad.  
+        
+OSEProblemsA
++++ PARENT
+OSEProblems

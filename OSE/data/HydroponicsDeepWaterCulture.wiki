@@ -1,0 +1,31 @@
+﻿++ Hydroponics Deep Water Culture (DWC)
+
++++ Summary
+
+  Method of hydroponic plant growing.
+  
+  
+  Each plant has: 
+    - its own enclosed container 
+    - constanly supplying air via an air pump.
+    - constant submersion in nutrient water.
+
+
+  - maximum yield because each plant has its own constant nutrient source, whereas HydroponicsEbbAndFlowFloodAndDrain only supplies them once a day
+
+
+  - ideal for 
+  
+  - plants cant be transferred
+  
+  - must have an extra air/water pump. crops can die in 48 hours if pump fails.
+  
+  - 
+  
+  
++++ Related
+
+
++++ Parent
+
+  [Hydroponics]

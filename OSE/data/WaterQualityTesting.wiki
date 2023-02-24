@@ -1,0 +1,64 @@
+﻿++ Water Quality Testing
+
++++ Summary
+
+  pH - acidity, on a logarithmic scale,
+
+
++++ Methods
+  * [CDOM/FDOM Monitoring]
+  * ChlorophyllFluorescenceAnalysis
+  * Conductivity, Salinity, TDS Monitoring
+  
++++ Common Field Measured Parameters
+  * BiologicalOxygenDemand(BOD)
+  * ChemicalOxygenDemand(COD)
+  * Chlorine
+    * MethodsOfMeasuringChlorineInWater 
+  * pH
+  * CarbonateHardness(KH)
+  * Temperature
+  * Iron
+  * Flouride
+  * Turbidity
+  * TotalDissolvedSolids(TDS)
+  * TotalSuspendedSolids(TSS)
+  * Dissolved Oxygen
+  * ElectricalConductivityOfWater(EC)
+  
+  
++++ Methods
+  
+  * Colorimetric
+    * examples: test strips with color chart, 
+    * Digital Colorimeter
+  
+  * Titrimetric
+    * Automated Burette
+  
+  * Electronic
+    * Spectrophotometer
+    * Turbidity Meter
+    * *Handheld Meter*
+    * Colorimeter 
+
+  
+  
++++ Devices 
+
+  * 1000$ ULTRAMETER II™ 6PFCE and 4P
+    - this brand MyronLCompany seems to be the best
+    - 10 years of pH probing without recalibration
+    
+  * OpenSourceMobileWaterQualityTestingPlatform(OSMWQTP)
+
+
++++ Related
+  * Nephelometry,
+  * Turbidity
+  * Decreasing turbidity to optimize solar water disinfection
++++ Parent  
+  * WaterFiltrationAndTesting
+  
++++ SEARCH
+  Water quality, water test, water quality testing, water testing, 

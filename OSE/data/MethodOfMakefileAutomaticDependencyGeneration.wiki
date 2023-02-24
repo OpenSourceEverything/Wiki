@@ -1,0 +1,24 @@
+﻿++ Method Of Makefile Automatic Dependency Generation
+
+
++++ Motivation
+
+  GNUMake's built in rule for compiling cpp,c source is basically if(%.cpp changes) then update(%.o)
+    This is not enough, for example if a file foo.c depends on changes, you need to update.
+
++++ Solution
+
+  Use pre-processor from GCC 
+
+  http://make.mad-scientist.net/papers/advanced-auto-dependency-generation/
+  
+  * Harness makes auto-rebuild feature: see 
+
+
+
++++ Related
+  [Linux]
+
++++ Parent
+  [Makefile]
+  CompilationAndLinking

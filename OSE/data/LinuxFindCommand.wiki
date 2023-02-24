@@ -1,0 +1,20 @@
+﻿++ Linux Find Command
+
++++ Search for file by name
+++++ In a current working directory.
+
+  * find . -name file.name
+  
+++++ Ignore case
+
+  * find . -iname file.name
+  
+++++ Search entire directory recursively   
+
+  * find /directory -name file.name
+
++++ Search for a directory by name
+
+  * find / -type d -name directoryName
+  
+  

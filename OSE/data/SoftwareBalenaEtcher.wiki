@@ -1,0 +1,10 @@
+﻿++ Software Balena Etcher
+
++++ SUMMARY
+
+  * [file:///H:/Wiki/GKWiki/files/Software/Executables/balenaEtcher-Setup-1.5.95.exe]
+
+
++++ PARENT
+
+  [SoftwareExecutables]

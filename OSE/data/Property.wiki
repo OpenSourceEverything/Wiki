@@ -1,0 +1,20 @@
+﻿++ Property
+
++++ SUMMARY
+
+* 1) the ownership of:
+  * land, 
+  * resources, 
+  * improvements
+  * tangible objects
+  * intellectual property. 
+
+* 2) ObjectAttribute 
+
+* 2) ProcessPhilosophyProperty
+
+* 3) ProcessMathematicsProperty
+
+
++++ LIST OF PROPERTIES
+  * PropertyListOfProperties

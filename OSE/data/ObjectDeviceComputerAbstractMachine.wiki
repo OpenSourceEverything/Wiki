@@ -1,0 +1,7 @@
+﻿++ Object Device Computer Abstract Machine
+
+ObjectDeviceComputer
+  * [Attribute]:
+    * theoretical, i.e. doesnt physically exist.
+    * used for:
+      * defining a model of computation.  

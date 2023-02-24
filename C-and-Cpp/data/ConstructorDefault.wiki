@@ -1,0 +1,6 @@
+﻿++ Constructor Default
+
+can be invoked without an argument
+
+
+[Constructor]

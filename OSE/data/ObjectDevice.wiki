@@ -1,0 +1,58 @@
+﻿++ Object Device
+
+[Devices]
+[Machine]
+
++++ SUMMARY
+
+  * [Object] 
+    * AttributeConstructed
+    * Usually a constructed [Tool]. 
+
+  * Within OpenSourceEverything "Device" is synonymous with
+    * [Machine]
+    * [Tool]
+ 
+  * Tricky to differentiate between ObjectSystem
+    * i.e. most objects are comprised of more smaller objects.
+    * ex:  ObjectDeviceComputerMicrocontroller is a device, or system?
+
+  * For now, Devices wont be separated based on adjective until lowest level.
+    * example: Device Hammer -> Device Hammer Electric? 
+    * or should we not do this at all? this part not sure about.
+    * Example: Car is device, with electronics but it shouldnt be considered a 
+      device electronic
+
+
++++ CHILDREN
+ObjectDeviceBrake
+
+ObjectDevice3DPrinter
+
+ObjectDeviceComputerMicrocontrollerInstanceArduino
+ObjectDeviceComputer
+
+DeviceDigitalAudioInterface 
+
+ObjectDeviceMusicalInstrument
+
+
+DevicePipeTubeHose 
+DevicePump
+
+DeviceSaw
+ObjectDeviceTransducerSensor
+
+
+DeviceTire
+
+ObjectDeviceWheel 
+
++++ OSE
+OSEObjectDevice
+
+
+ObjectDeviceVehicle 
+
++++ PARENT
+[Object]

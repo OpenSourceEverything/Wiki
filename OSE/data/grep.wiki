@@ -1,0 +1,24 @@
+﻿++ grep
+
+++++ help
+    * grep --help 
+
+++++ search exact match in c,cpp,hpp files only
+    * grep -i -r -n --include=\*.{c,cpp,h} "search exact match in c,cpp,hpp files only"
+
+++++ search partial string, excluding h, obj files
+    * grep -i -r -n --exclude=\*.{h,obj} search_partial_matches_string_no_spaces
+
+++++ output search to a file
+    * grep -n "YOUR SEARCH STRING" \* > output-file\
+      * use >> to append to file, > to overwrite
+
+++++ options:
+
+  * -n = print line number
+
+  * -r = recursively search all sub-folders
+
+  * -i = ignore case
+
+

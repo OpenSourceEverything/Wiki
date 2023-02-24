@@ -1,0 +1,18 @@
+﻿++ Object Device Heater
+
++++ SUMMARY
+
+ObjectDevice
+  * Purpose:
+    * to generate heat 
+      * usually (for a building) 
+
+
++++ CHILDREN
+ObjectDeviceHeaterConvection
+
++++ RELATED
+ObjectSystemHeating
+
++++ PARENT
+ObjectDevice

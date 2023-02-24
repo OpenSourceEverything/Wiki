@@ -1,0 +1,21 @@
+﻿++ OSE Object System
+OSESystem
+
++++ SUMMARY
+* 
+
++++ CHILDREN
+
+OSEVideoSecuritySystemRaspberryPiZeroW
+
+OSEObjectSystemHydroponic
+
++++ RELATED
+ObjectSystem
+
++++ PARENT
+
+OSEObject
+
+
+

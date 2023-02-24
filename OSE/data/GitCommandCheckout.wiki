@@ -1,0 +1,23 @@
+﻿++ Git Command Checkout
+
++++ SUMMARY
+
+
+  * GitCheckout
+
+  * switch to existing branch:
+    * git checkout <branch name>
+
+  * create new branch, switch to it, all in one operation
+    * git checkout -b <new branch name>
+
+
++++ RELATED
+  
+  * GitHowTo
+  * GitCheckout
+  * GitCommandClone
+
++++ PARENT
+
+  * GitCommands

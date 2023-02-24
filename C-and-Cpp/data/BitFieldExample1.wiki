@@ -1,0 +1,56 @@
+﻿++ Bit Field Example1
+
+
++++ SUMMARY
+
++++ CHILDREN
+
+#include<stdio.h>
+
+typedef struct size
+{
+        unsigned int b:32;
+        unsigned int a:1;
+        unsigned int c:1;
+}mystruct;
+
+int main(int argc, char const *argv[])
+{
+        mystruct a;
+        printf("\n %lu \n",sizeof(a));
+        return 0;
+}
+// Unsigned int is a 32 bit integer, occupying 4 bytes. Memory is allocated 
+// contiguously in memory.
+
+Option 1:
+
+unsigned int a:1;       // First 4 bytes are allocated
+unsigned int b:31;      // Will get accomodated in the First 4 bytes
+unsigned int c:1;       // Second 4 bytes are allocated
+Output: 8
+
+Option 2:
+
+unsigned int a:1;       // First 4 bytes are allocated
+unsigned int b:32;      // Will NOT get accomodated in the First 4 bytes, Second 4 bytes are allocated
+unsigned int c:1;       // Will NOT get accomodated in the Second 4 bytes, Third 4 bytes are allocated
+Output: 12
+
+Option 3:
+
+unsigned int a:1;       // First 4 bytes are allocated
+unsigned int b:1;       // Will get accomodated in the First 4 bytes
+unsigned int c:1;       // Will get accomodated in the First 4 bytes
+Output: 4
+
+Option 4:
+
+unsigned int b:32;      // First 4 bytes are allocated
+unsigned int a:1;       // Second 4 bytes are allocated
+unsigned int c:1;       // Will get accomodated in the Second 4 bytes
+Output: 8
+
+
++++ PARENT
+BitField

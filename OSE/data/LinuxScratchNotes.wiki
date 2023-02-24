@@ -1,0 +1,111 @@
+﻿++ Linux Scratch Notes
+
+
+
+
+- In Linux the graphical user interface is not a part of the operating system. The graphical user interface found on most Linux desktops is provided by software called the X Window System, which defines a device independent way of dealing with screens, keyboards and pointer devices.
+
+
+- Codeblocks -> project -> properties -> build targets -> build options -> Compiler flags , add one with -lboost_system as a linker option, not compiler option. dont make it exclusive.
+
+- had to add -lboost_system
+
+- to "become root" i.e. to become admin = 
+	-sudo su - this will make you root for the rest of the cmd's life
+	- or youc can just type sudo before every command.
+
+- i was able to get logitech unifying software
+  - sudo apt-get install solaar
+  - log out/in yeah!
+
+
+
+- copy folders from directories to others.
+  - with a browser, you have to open it as root.
+    - 
+  - sudo cp -R /path/to/files/you/want/copied/ /copy/to/this/path/
+	-
+
+- install sudo apt-get install libgtk2.0-dev
+- sudo apt-get install libwxgtk3.0-dev
+	- this solved a problem for me!
+
+- make
+- make install
+
+- wx-config --version
+
+------------------------------------------------------------------------
+- dpkg -l 
+  - list all packages installed!
+  - apparently synaptic package manager is most famous GUI for packages
+
+
+- https://www.binarytides.com/apt-get-tutorial-package-management-ubuntu-commandline/
+
+
+- How to list and remove PPA repository on Ubuntu 18.04 Bionic Beaver Linux    
+  - https://linuxconfig.org/how-to-list-and-remove-ppa-repository-on-ubuntu-18-04-bionic-beaver-linux
+	
+ 
+- had to open codeblocks via command line "codeblocks"
+- when creating codeblocks project, i had to switch to "frame based" instread of dialogue based
+
+- sudo apt-get install codeblocks-contrib 
+	- this was necessary.
+
+
+- Package requirements (hunspell) were not met:
+- ./bootstrap - run this while in codeblocks
+- ./configure --with
+
+./configure --with-contrib-plugins=all
+
+ALWAYS DO SUDO MAKE INSTALL AFTER A MAKE, NOT WITHOUT THE SUDO
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+says one guy on the forums about
+stuff:
+
+	this is my standard procedure:
+
+	make clean
+
+
+	git pull
+	./autogen.sh
+	./configure --enable-debug
+	make
+	sudo make install
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+./configure --with-contrib-plugins=all
+
+
+It seems very important during compiling codeblocks to 
+take whatever your compile error is, and ssearch for anythign related
+in synaptic package manager and install it.
+
+~~~~~~~~~~~~~~~~~~~~~
+
+../src/generic/imaglist.cpp(85): assert "bitmapSize == m_size" failed in Add(): All bitmaps in wxImageList must have the same size
+
+
+
+copy file from current directory into another directory:
+
+cp filename /tmp
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+
+so now its building and runnign, with that exception type error on startup, 
+but either way, you order papa jahns pizzah, and you also have to fix the close processing it makes for a default wxsmith project:
+https://forums.wxwidgets.org/viewtopic.php?t=34967

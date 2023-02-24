@@ -1,0 +1,12 @@
+﻿++ GCC Link Shared And Static Libraries Simultaneously
+
+  gcc foo.c -Wl,-Bstatic                      -lbar -lbaz -lqux     -Wl,-Bdynamic              -lcorge         -o foo.out
+            ------------                                            -------------              -------         ----------      
+            the following are static                                the following are shared                   output executable
+  
++++ Related 
+  [GCC -Wl]
+
+  
++++ Parent
+  GNUCompilerCollection

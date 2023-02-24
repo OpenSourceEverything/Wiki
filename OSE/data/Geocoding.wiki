@@ -1,0 +1,6 @@
+﻿++ Geocoding
+
+DEFINITION
+    Geocoding is the process of converting an address into spatial data and associating the exact geographical coordinates for that address. It is used in geographical information systems to help find the coordinates of a place or address.
+
+    Geocoding is also known as forward geocoding.

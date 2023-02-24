@@ -1,0 +1,19 @@
+﻿++ Object Legal Entity USA Limited Liability Company Indiana Registered Agent
+
+
++++ SUMMARY
+
+The Registered Agent receives important legal documents on behalf of the business.
+If you do not have an Indiana address, you may select a service company or an Indiana attorney as your Registered Agent.
+
+P.O. Boxes are not allowed.
+
+Sending an email to the email address provided by a registered agent is NOT sufficient to effectuate valid service of process.
+
+The Secretary of State is currently collecting a service of process email address for registered agents. However, the Supreme Court has not yet written the rules or developed a technical solution for electronic service. Until both the rules and technical solution is in place, valid service may NOT be effectuated electronically.
+
+In the future, valid electronic service of process will only be delivered through the Indiana E-Filing System ("IEFS") managed by Indiana Court Technology, and only under rules that may be adopted by the Supreme Court of Indiana, with notice. See the Indiana Rules of Trial Procedure and Indiana Rules of Appellate Procedure for definitive information related to the current requirements for service of process.
+
+
++++ PARENT
+ObjectLegalEntityUSALimitedLiabilityCompanyIndiana

@@ -1,0 +1,13 @@
+﻿++ Constructor
+
+DefaultConstructor
+
+When an object of a derived class is created, 
+  1. the base class’s constructor is executed , 
+  2. the derived class’s constructor is executed
+
++++ RELATED
+[Destructor]
+
++++ PARENT
+[C++]

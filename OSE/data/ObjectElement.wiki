@@ -1,0 +1,19 @@
+﻿++ Object Element
+
++++ SUMMARY
+
+Not an entity, but a constituent part of an ObjectEntity.
+  A member of a set.
+
+
+????
+
+
+maybe this page is a synonym for [Object]
+
+
++++ RELATED
+ObjectEntity
+
++++ PARENT
+[Object]

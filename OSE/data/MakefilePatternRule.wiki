@@ -1,0 +1,14 @@
+﻿++ Makefile Pattern Rule
+
+  %.o : %.c ; 
+    recipe…
+  
+    specifies how to make file string.o, 
+    with another file string.c as its prerequisite, 
+    provided that string.c exists or can be made. 
+
+
+
++++ Parent
+  [Makefile]
+  MakefileRules

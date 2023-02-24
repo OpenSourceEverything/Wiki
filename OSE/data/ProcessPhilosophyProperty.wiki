@@ -1,0 +1,18 @@
+﻿++ Process Philosophy Property
+
+
++++ SUMMARY
+
+* [characteristic] of an [Object]
+
+
++++ CHILDREN
+ProcessPhilosophyPropertyPhysical
+
+
++++ RELATED
+
+
+
++++ PARENT
+ProcessPhilosophy

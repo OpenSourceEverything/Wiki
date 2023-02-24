@@ -1,0 +1,22 @@
+﻿++ OSE Object Device Template
+
+
+++ SUMMARY
+
++++ INGREDIENTS
+
++++ INSTRUCTIONS
+
++++ VERIFICATION/QUALITY CONTROL 
+
++++ RELATED 
+
+ProcessStudyMathematicsFunctionSignalAudio
+
+OSEObjectDeviceTemplate
+
++++ EXTERNAL REFERENCES
+
++++ PARENT
+
+OSEObjectDevice

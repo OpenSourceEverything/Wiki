@@ -1,0 +1,14 @@
+﻿++ Attribute Abstract
++++ SUMMARY
+
+* Definition is debated.
+* [OSE] will define as:
+  * not existing in space/time.
+
+
++++ DETAILS
+
+
+
++++ PARENT
+[Attribute]

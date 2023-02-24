@@ -1,0 +1,9 @@
+﻿++ Wikid Pad Make Plugin To Auto Connect Audio Video To Daily Wiki Logs
+  
+  * This should be adaptable from Daily to Weekly to Monthly.... I think daily is going to be a cluttered implementation. Im thinking month or year for sure. The actually week, day stuff should break down within a single text file, In My Humble Opinion.
+
+  * This would link your audio files saved on your phone (whose names are strings containing date/time info), as well as video to .Wiki files.
+    * It would first have to check for an existing wiki page for that day, if the wiki page does not exist it would create one. If the wiki page does exist, it would simply add a link to the file in the time/dates page under a certain heading of text it finds or something ("AUDIO:\nVIDEO\nIMAGE:\n")
+    * It would do this by searching all files in a predefined directory (setup as the audio || video directory etc)   
+    * It could also use file information, instead of the string in the name, to determine date, but sometimes this info is probably false.
+  * This would require a bit more work but it would be interesting if the plugin, or whatever that you create could, upon linking any external information (image audio video), would search through all wiki files for the date/time linked and add brackets around them to 

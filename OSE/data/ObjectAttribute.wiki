@@ -1,0 +1,26 @@
+﻿++ Object Attribute
+
++++ SUMMARY
+
+* Maybe this will be a list of all adjectives XD,
+  * obviously, collocate all synonyms into arbitrarily decided catch-all word.
+    * example: Trait,   
+
+* OSE will somewhat arbitrarily define Attribute to be an object itself.,
+
++++ ATTRIBUTES
+* IntendedFunctions,Intent,UsedFor,DesignedFor,[Purpose]
+* AttributeElectrical,[Electrical]
+* Contains/Has,
+* Provides/Shares (*REQUIRES CONTAINS/HAS: how to handle dependencies*) 
+* Uses
+* 
+
++++ SYNONYM
+  * [Characteristic]
+  * [Property] 
+  * [Trait]
+  * [Quality]
+  
++++ PARENT
+[Object]

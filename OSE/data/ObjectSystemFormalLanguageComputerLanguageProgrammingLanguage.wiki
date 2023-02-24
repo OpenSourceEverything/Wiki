@@ -1,0 +1,15 @@
+﻿++ Object System Formal Language Computer Language Programming Language
+
++++ SUMMARY
+
+
+Language
+FormalLanguage
+ComputerLanguage
+ProgrammingLanguage
+
+ObjectSystemLanguageFormalComputer
+  * designed to communicate instructions to a machine, particularly a computer
+
++++ PARENT
+ObjectSystemLanguageFormalComputer

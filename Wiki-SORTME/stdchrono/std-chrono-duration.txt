@@ -1,0 +1,6 @@
+            auto starty = std::chrono::high_resolution_clock::now();
+			// DoThingToBeTimed();
+            auto ClockEnd     = std::chrono::high_resolution_clock::now();
+            auto ClockElapsed = std::chrono::high_resolution_clock::now() - ClockStart;
+
+            long long ClockMicroseconds = std::chrono::duration_cast<std::chrono::microseconds>(ClockElapsed).count();

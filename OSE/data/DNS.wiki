@@ -1,0 +1,14 @@
+﻿++ DNS
+
+
+  * DNS performs the basic function of locating Internet servers. The software you use on the Internet performs DNS lookups automatically, sometimes dozens per web page.
+
+  * (1) To this day, twenty years later, many web sites and applications still do not employ secure DNS or perform any authentication at all during DNS lookups.
+
+
++++ External Resources
+
+
+  1. This link discusses a bug in DNS that was exploited long ago. Much useful information (see Jeff Nelsons answer). 
+    * https://www.quora.com/What-are-some-famous-bugs-in-the-computer-science-world 
+      * https://www.quora.com/profile/Jeff-Nelson-32

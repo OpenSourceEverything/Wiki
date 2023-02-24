@@ -1,0 +1,97 @@
+﻿++ Process Horticulture Oat
+
+
++++ SUMMARY
+
+
+
+* Species of cereal grain, grown for seed.
+  * Seed is often turned into a flour or partially milled.
+
+* Oat bushels are standardized at 32 pounds per bushel 
+* Seed counts for oats can range from 12,000 to 17,000 seeds per pound 
+  * not commonly listed on seed bags. 
+
+* plant annual varietes in early spring, perennials spring or late autumn
+
+ 
++++ PROPAGATION
+* From Seed:
+* From Cutting/Transplant:
+    
++++ PLANT STRUCTURE
+  * 
+
++++ LIFE CYCLE
+  * 1) 45-60 day vegetative period,
+  * 2) 15-25 day flowering period
+  * 3) 30-40 day maturation period
+
+  * a flower lasts less than one day, 
+  * each plant makes dozens of flowers for three to four weeks
+  * seedpods swell to the size of a pea and turn from green to gold as the seeds inside ripen, 
+  * the plants then dry out and die.
+
+* drawn walkthrough of all stages:
+[rel://files/stages-flax-1.png]
+[rel://files/flax-stages-2.png]
+* harvested:
+[file:///P:/D2/Private/Wiki/OSE/files/harvested-flax.jpg]  
+  
++++ TEMPERATURE / HUMIDITY / ACIDITY
+
+When to plant outside:
+Plant in spring and fall. 
+Most people plant spring oats, 
+  but if you’re in the south, you may opt to sow in the fall.
+
+seeds: Min: -3 C, 
+after two-leaf stage: min: -8 C for short time
+ 
+* 3) Humidity:
+  * 50-60%  
+* 4) Acidity pH:
+  *  6-7
+  
++++ SPECIES
+  * Hullluess type Streaker (technically still has hull but is softer, easier to remove) 
+      * resistant to crown rust. 
+      * It takes 100-120 days for this plant to reach maturity.
+      * Plant it at a rate of three pounds per 1,000 square feet.
+
++++ HARVEST AND STORAGE
+
+* Cut down before the kernels turn hard or you will likely lose a lot of grain. 
+  * The kernel should still be soft and easily dented with a fingernail.
+
+Read more at Gardening Know How: Homegrown Oat Grains – Learn How To Grow Oats At Home For Food https://www.gardeningknowhow.com/edible/grains/oats/homegrown-oat-grains.htm
+  * Seed:
+  * Yield (Oat usually produce 300 g per square meter (9oz/1cup per square yard),)
+  * Storage:
+    *   
+  
++++ DIMENSIONS
+1) Container:
+
+2) Plant:
+  * Vertical: max height of 2-5ft 
+
+4) Spacing:  
+  * Seed Spacing:
+    * 84-130 lbs seed per acre ~= .277oz (.5 TbSpn) per sq yard. 
+      * 1 acre = 4840 yards^2 = 4046.86 m^2
+    * Streaker variety, hulless
+      * Plant it at a rate of three pounds per 1,000 square feet.
+  
+    *  
+
+* 5) Root System:
+
++++ RELATED
+
+HorticulturePlantTemplate
+
++++ PARENT
+
+  ProcessHorticulture
+  

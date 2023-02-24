@@ -1,0 +1,24 @@
+﻿++ Object Entity Organism
+
+
++++ SUMMARY
+
+  ObjectEntity that is living,
+  
+  ProcessNutrition is the biochemical and physiological process by which an organism uses food to support its life
+  
+  BiologicalTaxonomy is used to organize into a hierarchy
+  
+  
++++ CHILDREN
+ObjectEntityOrganismPlant
+ObjectEntityOrganismAnimal
+ObjectEntityOrganismFungi
+ObjectEntityOrganismProtist(s)
+
+
++++ RELATED
+ProcessNutrition
+
++++ PARENT
+  * ObjectEntity

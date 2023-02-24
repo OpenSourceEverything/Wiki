@@ -1,0 +1,16 @@
+﻿++ Personal Finance Investment
+
++++ SUMMARY
+
+  * allocation of money in the expectation of some benefit in the future. 
+
+
++++ CHILDREN
+
+  * PersonalFinanceInvestmentIndexFunds
+
+
++++ PARENT
+
+  PersonalFinance
+  [Finance]

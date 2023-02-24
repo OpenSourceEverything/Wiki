@@ -1,0 +1,64 @@
+﻿++ Linux How To Flash An SD Card
+
++++ SUMMARY
+  
+  * The following tutorial uses Ubuntu type of [Linux]
+  * This tutorial is incomplete.
+
++++ DETAILS
+
+The Linux distributions provided for Raspberry Pi are done so as a compressed image file. 
+You will need to download, uncompress and then install onto your SD card.
+
+It may be necessary to format the SD card so that it can be read by your Raspberry Pi. 
+  If this is the case, you can use the Disk Utility application in Ubuntu.
+  Ubuntu Disk Utility
+  Use Ubuntu Disk Utility to format the SD card
+
+Select your SD card and format as FAT.
+Formatting the SD card using Ubuntu Linux
+Formatting the SD card using Ubuntu Linux
+Identify the SD Card
+
+Plug the SD card into the SD card drive on your Linux machine.
+
+Open a terminal window and, to list the attached discs, type:
+
+sudo fdisk -l
+
+Listing the attached volumes in Ubuntu Linux
+Listing the attached volumes in Ubuntu Linux
+
+Identify the SD card and make a note of the device address, such as /dev/sdX where X denotes the storage device. Note, you can easily identify your SD card by looking at the capacities of the discs listed.
+
+Flash the SD Card
+
+Once you have identified and formatted your SD card, you need to flash the SD card. This is done with the unix command dd.
+
+Before proceeding, navigate to the directory that contains the downloaded and extracted .img file.
+
+cd Downloads
+
+In a terminal window, enter the following, ensuring that the distribution name (in this example: if=2013-07-26-wheezy-raspbian.img) is correct and that the destination (in this example: /dev/sdb1) as they may be different to the ones used in this example:
+
+sudo dd if=2013-07-26-wheezy-raspbian.img of/dev/sdb1 bs=2M
+
+Locating the downloaded image file
+Locating the downloaded image file
+
+TIP: You will need to exercise care using the dd command. Careless use may result in the corruption of your computer’s main hard drive if you incorrectly identify the drive required.
+
+The process of flashing the SD card will take around two or three minutes during which time you are given no indication that anything is happening, unless your SD drive has a flashing LED.
+
+Once the SD card has been flashed, you will see a further message in the terminal window.
+
+Unmount the SD card and it is now ready for use in your Raspberry Pi.
+Terminal confirmation of completion
+Terminal confirmation of completion
+
+
++++ EXTERNAL LINK
+  * https://computers.tutsplus.com/articles/how-to-flash-an-sd-card-for-raspberry-pi--mac-53600
+
++++ PARENT
+  OperatingSystemLinux

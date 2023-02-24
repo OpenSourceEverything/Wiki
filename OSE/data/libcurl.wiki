@@ -1,0 +1,23 @@
+﻿++ libcurl
+
+  * library form of command line tool curl.
+  
+    * What compiler flags do I need to compile libcurl using source code?
+
+      curl-config --cflags
+
+    * What linker options do I need when I link with libcurl?
+
+      curl-config --libs
+
+    * How do I know if libcurl was built with SSL support?
+
+      curl-config --feature | grep SSL
+
+    * What's the installed libcurl version?
+
+      curl-config --version
+  
++++ External Links
+
+  * https://curl.haxx.se/dev/source.html

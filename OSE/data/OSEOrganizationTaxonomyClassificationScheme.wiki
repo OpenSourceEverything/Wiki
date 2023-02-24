@@ -1,0 +1,28 @@
+﻿++ OSE Organization Taxonomy Classification Scheme
+
+
+
+
++++ SUMMARY
+
+  * 
+
+
++++ DETAILS
+
+  * 
+
+
++++ RELATED
+
+  * [Device]
+  
++++ EXTERNAL LINKS
+
+  * "Classification of Everything?"
+    * https://philosophy.stackexchange.com/questions/78159/has-there-been-an-attempt-to-create-a-classification-system-or-taxonomy-of-ever 
+
+
++++ PARENT
+
+  OSEConceptualAndLogisticalProblems

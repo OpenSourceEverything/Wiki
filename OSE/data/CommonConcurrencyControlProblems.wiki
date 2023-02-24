@@ -1,0 +1,7 @@
+﻿++ Common Concurrency Control Problems
+
+
++++ External Links
+  * file:///L:/000_GK/GK/files/threads-bugs.pdf
+
+

@@ -1,0 +1,3 @@
+﻿++ Git How To Undo Changes To A Single File
+  GitHowToRevertFilesToPreviousVersion
+  GitHowToUndoChangesToAFile

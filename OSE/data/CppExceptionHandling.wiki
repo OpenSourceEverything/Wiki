@@ -1,0 +1,162 @@
+﻿++ Cpp Exception Handling
+
+
+C++ error handling
+--------------------
+
++++ Overview 
+
+  Basic problem is to separate the low level reporter of error from high level handling:
+
+  * Prefer Exceptions to error codes.
+  * CppExceptionHandlingGuidelines
+
+  * there is no such thing as a base class for an exception itself
+    - there is a base class for std::exception, but thats just a type
+    - an int can be thrown as an exception
+    
+  * C++11 deprecated old CppDynamicExceptionSpecification
+    * introduces noexcept keyword
+    
++++ Error detection, (throwing)
+
+  throwing_function()
+  {
+    int localVariable; // objects declared here are cleared
+                       // once we throw (takes this out of scope)
+                       
+    // runtime error has been detected
+    // object is not thrown, but rather a copy. compiler may optimize.
+    // never throw a pointer. bad practice, weird.
+    // you cant throw a reference (compiler would just copy the object
+    // anyway)
+    
+    //ObjectType object;
+    //throw object;
+    
+    // more common
+    throw ObjectType(contructor parameters);
+    
+  }
+
++++ Catching the Error
+  
+  try
+  {
+    throw A(); // throws copy of A class
+  }
+  // 1. catch a base class of A, if public:
+  
+  catch(B&) {...} // if B is public base class of A
+  catch (B const&){}
+  
+  // catch by reference
+  catch(A&)
+  catch(A const&)
+  catch(A volatile&){}
+  catch(A const volatile&){}
+  
+  // 3. Catch all
+  catch(...){}
+   
+  
+  
+  - you catch 
+    - a public base class of A.
+    - 
+    
+  
+  - always catch by reference.
+    
+    - never catch pointers because you should never throw by pointer
+    
+    - catching an object has two issues:
+      - CppObjectSlicing, and the move()/copy of object could throw an error itself.
+    
+    -
+
+  - "try" statement and surrounding brackets are useless, unnecessary. compiler
+    is smart enough to not need it.
+
+    ////////////////////////////////////////////////////////////////////////////
+    try
+    {
+      code_that_might_throw();
+    }
+    catch(Type object) // works like function argument
+    {
+      // possible issue: slicing
+      //   -  
+      // copying might throw (the copying to get your variable here)
+      error_handling_code_that_can_use_Type(object);
+    }
+    catch(...) // catch "all" handler
+    {
+      generic_error_handling();
+    }
+    ////////////////////////////////////////////////////////////////////////////
+  
+  
+////////////////////////////////////////////////////////////////////////////////
+  Exception Safety Definitions
+    
+    Basic Exception Safety 
+      invariants of the component are preserved, no resources leaked.
+      necessary for normal code.
+    
+    Strong Exception Safety
+      if an exceptions thrown, there are no "effects"
+    
+    No-Throw Exception Safety
+      operation will not emit an exception
+////////////////////////////////////////////////////////////////////////////////
+
+
+// Guidelines to exception safety
+
+  * Always provide the basic guarantee.
+  * always provide no throw where required (swap, move, destructors)
+  * document any stronger guarantees
+  * provide strong safety where "natural"
+    - strong guarantee is not a goal, it is often too expensive and unnatural,
+      undesired.
+    - 
+
+
+  * You must assume all code throws, because most code doesnt specify.
+  
+  * No-Throw Safety must be guaranteed for the following:
+    - destructors must not throw errors.
+    - swap()
+    - move() operationns (C++11 and onward)
+  
+  * No-Throw Exception Safety functions must be Strong Exception Safe
+  
+  * Strong gaurantee is not always necessary or important.
+
+
+SOLUTIONS:
+-----------
+
+  - (solution without using exceptions) error flagging
+    - error flagging
+      - 
+    - return codes
+    
+
+
+
+
+
+
+
++++ External Links
+  http://www.exceptionsafecode.com/
+  https://www.youtube.com/watch?v=W7fIy_54y-w
+
+
++++ Related
+  * CppRuleOfThree
+
++++ Parent
+  [C++]

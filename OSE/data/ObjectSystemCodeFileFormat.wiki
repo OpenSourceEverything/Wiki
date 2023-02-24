@@ -1,0 +1,12 @@
+﻿++ Object System Code File Format
+
+ObjectSystemCode
+  * AttributeRule:
+    * Output is bits. (input is [Information])
+  
+
+ObjectSystemCodeFileFormatInstanceJSON
+ObjectSystemCodeFileFormatInstanceXML
+
++++ PARENT 
+ObjectSystemCode

@@ -1,0 +1,3 @@
+﻿++ Object Mode Abstract Model Instruction Set Architecture
+
+InstructionSetArchitecture

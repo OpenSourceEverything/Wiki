@@ -1,0 +1,51 @@
+﻿++ Process Printing Stencilling
+
+
++++ SUMMARY
+  
+  * ProcessPrinting produces an image/pattern by applying pigment to a surface under an intermediate object with designed gaps in it which create the pattern or image by only allowing the pigment to reach some parts of the surface. 
+  
+  * The stencil is both the resulting image or pattern and the intermediate object;
+
++++ TOOLS & SUPPLIES
+
+  * Oracle 651 matte vinyl
+  * Vinyl transfer paper/tape 
+  * Heat Bond Ultra Hold Transfer
+  * Silkscreen 43 110 mesh
+  * Parchment paper
+  * Cricut Maker
+  * Heat press (e.g. 9x9 Cricut brand heat press)
+  * cutting mat
+  * Scissors or exact-o knives for precision cutting
+
++++ INSTRUCTIONS
+
+  * (1) Cutout a piece of vinyl to use for stencil.
+  * (2) Cutout some heatbond same size as vinyl from step 1.
+  * (3) Place the rough side of the heat bond (2) to the vinyl (1). 
+  * (4) Enclose head bond / vinyl (which are stuck together) inside some parchment paper folded around it
+  * (5) Heat press to 280F ~10 seconds. It is vital that nothing move or shift.
+  * (6) Smooth result as much as possible with a paddle buddy thing. Cut excess material 
+  * (7) Cut your stencil design using a printer or by hand.
+  * (8) Bond with silk-screen/mesh 
+    * (8.1) cut sheet of mesh to size of your full stencil
+  * (9) Place silkscreen on top of stencil.
+  * (10) Sandwhich (9) between parchment paper, heat press ~280F ~15 seconds.
+    * It is vital that no movement / shifting occur here!
+      * causes glue seepage between silkscreen mesh
+      
+
+  * Your stencil is now ready to use. To use: remove the adhesive backing and place your stencil where you need it. When done, place the stencil back onto the adhesive backing, which is supposedly re-usable.
+  
+  * 
+
++++ CHILDREN
+++++ STENCILLING METHODS
+  * ProcessPrintingStencillingMethodReusableVinylMeshStencil
+
+
+
++++ PARENT
+
+ProcessPrinting

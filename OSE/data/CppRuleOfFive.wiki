@@ -1,0 +1,17 @@
+﻿++ Cpp Rule Of Five
+
++++ Summary
+
+  * CppRuleOfThree 
+
+
+  The following five need to be defined:
+    Copy Constructor
+    Move Constructor
+    Assignment Operator
+    Move Assignment Operator
+    Destructor
+    
++++ Parent
+  * [C++]
+  * CppRValueReference

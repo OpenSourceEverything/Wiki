@@ -1,0 +1,118 @@
+﻿++ Installing Wikid Pad On Ubuntu
+
+
+installing wikidpad on ubuntu 18.04
+
+  sudo apt-get update
+  sudo apt-get install python-configparser
+
+    
+  you need to get wxPython, which is gotten by installing pip3, python3-pip,
+  then, 
+    - https://wiki.wxpython.org/How%20to%20install%20wxPython
+
+Next, on VMware, needed to install this library with a deb file, which is an 
+install package basically.
+  https://packages.ubuntu.com/xenial/amd64/libpng12-0/download
+
+
+Aslo had to install https://www.libsdl.org/download-1.2.php
+ it came as some weird format of zip, had to drop into /lib/x86_64-linux-gnu/
+
+
+
+WikidPad Source =
+
+  Clone with https: ​https://github.com/WikidPad/WikidPad.git
+
+  Clone with ssh: git@github.com:WikidPad/WikidPad.git
+
+  Clone with SVN: ​https://github.com/WikidPad/WikidPad
+  (Warning: this repository isn't compatible with previous Subversion repository
+   from CheckingOutFromSvn)
+  Windows users
+
+  Git clients available for Windows are ​Git Extensions (my favorite) or the GitHub-specific ​GitHub for Windows
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+WikidPad on Linux = 
+http://trac.wikidpad2.webfactional.com/wiki/InstallLinux
+
+~~~~~~~~~~~~~~~~~
+
+
+wxTools, per this webpost:
+
+http://trac.wikidpad2.webfactional.com/wiki/InstallLinux#IntegratedInstructionsforUbuntu
+
+On ubuntu lucid and maverick, all you need are the wxpython and wxtools packages 
+available from the ​synaptic package manager (which will usually already be 
+installed). Then WikidPad 2.x will run perfectly. On lucid, it is worth 
+checking you get wx version 2.8.11, as some annoying bugs were fixed in 
+that version - if the default package is older, there is a PPA linked from
+the wxPython webpage as far as I recall.
+
+
+Alternatively, WikidPad 2.0 also appears to be included this PPA: ​http://www.ubuntuupdates.org/packages/show/254039 
+
+
+
+~~~~~~~~~~~~~~~~~~~
+
+
+sudo apt install python3-pip
+
+python2 reports __spec__ undeclared. i think its a python 3 thing only..??
+wx.siplib not found, trying to run with python3.
+
+
+https://wiki.wxpython.org/How%20to%20install%20wxPython
+
+  To use gtk2 or gtk3 apps you don't need to install anything. But, if you want to develop (or even just compile) apps this is what you're looking for:
+
+  sudo apt-get install libgtk-3-dev
+
+  added --user to command: 
+  pip3 install -U \-f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-16.04 \wxPython --user
+
+
+next was an error:
+  configure: error: wxMediaCtrl was explicitly requested but can't be built.
+    
+        Fix the problems reported above or don't use --enable-mediactrl configure option.
+
+
+
+
+tried this command :
+sudo apt-get install libgstreamer1.0-0 gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-doc gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
+
+
+
+see what happens:
+  nothing good, so try typing this in synaptic: 
+webkit2gtk 
+
+
+and install everything you see, reboot the cmd.
+
+see what happens:
+  WEbkit warnings fixed, gStreamer warning,failures not fixed. so in synaptic i typed gstream, and scattershot downloaded anything related to gstream, and python.
+
+see what happens:
+
+  well its been running for a while now trying to make a "wheel" whatever the fuck that means, i dont know its 4am and i have to work tomrrow so fuck you ok.
+  - dont forget that you had to manually correct the corrupted pip file!
+
+
++++ Related 
+    https://wiki.ubuntu.com/Kernel/BuildYourOwnKernel
+
++++ Parent
+  ???
+
+

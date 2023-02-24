@@ -1,0 +1,13 @@
+﻿++ instance
+[Instantiation]
+[instance]
+
++++ OSE SPECIFIC MEANING
+* a "concrete" occurrence of "something"
+  * Examples:
+  * Object: ObjectEntityOrganization, Instance: ObjectEntityOrganizationInstanceOSHWA 
+  * Object: ObjectEntityOrganism
+    
++++ PARENT
+
+OSEObjectDictionary

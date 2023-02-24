@@ -1,0 +1,18 @@
+﻿++ Python
+
+
++++ SUMMARY
+
+
+repository for example code:
+  * [rel://../../python]
+
+
++++ CHILDREN
+[range]
+ForLoop
+PythonObjectOrientedProgramming
+
+
++++ SETTINGS
+	* WikiSettings

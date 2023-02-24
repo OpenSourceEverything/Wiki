@@ -1,0 +1,14 @@
+﻿++ How Much Food Do I Need For The Week
+
+
+DAY
+  BREAKFAST
+    calories:
+    PreMixedBreakFastFoodRecipe
+  LUNCH
+    LunchTemplates
+    calories:
+  DINNER
+    calories:
+  SNACKS
+    calories:

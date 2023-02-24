@@ -1,0 +1,31 @@
+﻿++ Process Philosophy
+
+
++++ SUMMARY
+
+* (from Greek: φιλοσοφία, philosophia, 'love of wisdom') 
+* ProcessStudy of general and fundamental [Ideas]/[Problems] such as: 
+  * existence, 
+  * reason, 
+  * knowledge, 
+  * values, 
+  * mind, 
+  * language.
+
+  * Philosophical methods include:
+    * Questioning, 
+    * critical discussion, 
+    * rational argument, and 
+    * systematic presentation 
+
+* The word meant different things not long ago in history.
+* 
++++ Children
+PhilosophyReason
+ProcessPhilosophyEthics addresses questions of morality.
+PhilosophyLogic
++++ Related 
+ProcessPhilosophyEthics
++++ PARENT
+[OSE]
+  

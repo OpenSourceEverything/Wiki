@@ -1,0 +1,69 @@
+﻿++ Cpp Equal Operator
+
+
++++ SUMMARY
+
+  * in a struct (equal operator bolded):
+    
+struct ParametersBlockType
+{
+  bool           bOverrideLockout;
+  double         dRapidTraverse;
+  unsigned char  bToolChangePosition;          // added level 8       
+  double         dDepletionRetract;             //       ""       
+  bool           bInterruptCycleRetract;        // added level 14 
+  double         dFirstPeckOffset;
+  unsigned char  bSurfaceFinishQualityValue;       // 1-100
+  double         dSmoothingTolerance;
+  double         dTapRetractOverride;
+
+  ParametersBlockType()
+  {
+    Reset();
+  }
+
+  *const ParametersBlockType& operator=(const ParametersBlockType& other)
+  {
+    if (this != &other)
+    {
+      // Could use a memcpy_s instead of explicit variable assignments
+      // as long as all members are primitives, but typically if it's ok
+      // to do that, it's also ok to not have an explicit assignment operator
+      // at all.  Leaving this one in place as an example.
+
+      bOverrideLockout = other.bOverrideLockout,
+      dRapidTraverse = other.dRapidTraverse;
+      bToolChangePosition = other.bToolChangePosition;
+      dDepletionRetract = other.dDepletionRetract;
+      bInterruptCycleRetract = other.bInterruptCycleRetract;
+      dFirstPeckOffset = other.dFirstPeckOffset;
+      bSurfaceFinishQualityValue = other.bSurfaceFinishQualityValue;
+      dSmoothingTolerance = other.dSmoothingTolerance;
+      dTapRetractOverride = other.dTapRetractOverride;
+    }
+    return *this;
+  }*
+
+  void Reset()
+  {
+    bOverrideLockout = false;
+    dRapidTraverse = 10160.0;
+    bToolChangePosition = POSITION_NO;
+    dDepletionRetract = 0.127;
+    bInterruptCycleRetract = true;
+    dFirstPeckOffset = 0.0;
+    bSurfaceFinishQualityValue = SFQ_DEFAULT_VALUE;
+    dSmoothingTolerance = 0.0;
+    dTapRetractOverride = 1.0;
+  }
+};
+
+
+
++++ SEARCH 
+  cpp equal operator equivalency operator
+
+
++++ PARENT
+
+  [C++]

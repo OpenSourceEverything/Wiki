@@ -1,0 +1,14 @@
+﻿++ Object Device3D Printer OSE1Research
+
+
+
+Ender5:
+  * Precision=100-400 microns
+  * printspeed=150mm/s, movespeed=250mm/s
+
+
+CR-10
+  * Heated Glass Print Bed
+  * Heat=260C
+  * USB/SD support
+  * Recommended upgrade: direct drive extruder to allow it to print with flexible filaments, like 

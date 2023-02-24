@@ -1,0 +1,17 @@
+﻿++ M Object Physical Machine
+
+ * mechanical or electrical device transmits or modifies energy to perform or assist in the performance of human tasks
+
+
+ 
++++ Redirect
+  * MObjectPhysicalMechanicalDevice
+
++++ Related
+
+  * MechanicalDevice
+  
+  
++++ Children
+
+  * 

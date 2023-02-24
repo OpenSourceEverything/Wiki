@@ -1,0 +1,9 @@
+﻿++ Git How To See Pending Local Changes
+
+
+  GitStaging
+  
+
+Pending Changes = Staged Changes.
+
+It will also show unstaged changes.

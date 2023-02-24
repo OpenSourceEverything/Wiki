@@ -1,0 +1,63 @@
+﻿++ Open Source Everything Electric Battery Nickel Iron Examples For Reference1
+
+  
+  
+  
+  12V
+  
+  100Ah (10cells)50years life
+  
+  
+  
+  
+  
+  
+  Technical Specifications:
+
+  Chemical System: Nickel Iron (NiFe)
+
+  Battery Type: Rechargeable Deep Cycle, Flooded with Alkaline Electrolyte
+
+  Electrolyte Chemistry: Potassium Hydroxide (KOH) 
+
+  Electrolyte Refresh Rate: Suggested every 7-10 years to sustain maximum performance
+
+  Terminal Poles, Cell-To-Cell Busbars: Nickel-Plated Steel, Tinned Copper
+
+  Cell Container: Translucent, Corrosion-Free Polypropylene or ABS Engineering Plastic
+
+  Vents: Flame-Arresting Flip-Top Vents
+
+  Nominal Voltage: 1.2 Volts (per cell)
+
+  Charging Voltage: 1.65 Volts (per cell)
+
+  Efficiency: 80%
+
+  Cycle Life: 11,000 Cycles At 80% Depth of Discharge
+
+  Float Life / Shelf Life: 30 Years / 85 Years
+
+  Optimum Charge & Discharge Current: C/4
+
+  Minimum Charging Current: C/20
+
+  Maximum Continuous Charging Current: C/2
+
+  Maximum Pulsed Charging Current: 1C
+
+  Maximum Discharge Current: C/2
+
+  Self-Discharge Rate: 1% per day
+
+  Operating Temperature: -30⁰ C To +60⁰ C (-22⁰ F To +140⁰ F)
+
+  Warranty: 10 years pro-rated
+
+  Technical Support: Unlimited for life of battery
+  RECOMMENDED ACCESSORIES
+
+  • Battery Rack
+  
+  
+  

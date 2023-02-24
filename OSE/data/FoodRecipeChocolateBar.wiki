@@ -1,0 +1,21 @@
+﻿++ Food Recipe Chocolate Bar
+
++++ INGREDIENTS
+
+    Heaping 1/2 cup raw cacao butter pieces like this
+    1/4 cup cocoa powder like this
+    2 Tbsp nut butter
+    1-2 Tbsp raw honey
+    1/2 tsp vanilla extract
+
++++ INSTRUCTIONS
+
+    In a small saucepan, gently heat cacao butter over low heat. Remove when there are just a few chunks left melting and whisk until they're gone.
+    Add the remaining ingredients and whisk to combine.
+    Use a stick blender like this to finish blending the ingredients and ensure they become emulsified.
+    Pour into chocolate molds like this, then place in freezer for about half an hour to firm up.
+    Store in the refrigerator to protect texture and freshness.
+
+
++++ PARENT
+  * OpenSourceEverythingFoodRecipes

@@ -1,0 +1,33 @@
+﻿++ Philosophy Logic
+ProcessScienceLogic
+
+
++++ SUMMARY
+PhilosophyLogicInductive
+  
+PhilosophyLogicDeductive
+  
+
++++ Children
+  * PhilosophyLogicFirstOrderLogic
+  * PhilosophyLogicMathematicalLogic
+  * PhilosophyLogicPropositionalLogic
+
+  * PhilosophyLogicArgument
+  * PhilosophyLogicConclusion
+  * PhilosophyLogicPremise(s)
+  
+  * TheLanguageOfFirstOrderLogic
+  * DifferenceBetweenLogicAndReason
+
++++ Related
+  * PhilosophyTranscendentalIdealism
+
+
++++ Parent
+  * [Philosophy]
+  * Transcendental Idealism
+  * attempt to understand what must be in place to have any experience at all
+    * what must be in the spectacles from which we constitute experience
+    * TranscendentalArguments 
+    * infer conditions necessary for experience

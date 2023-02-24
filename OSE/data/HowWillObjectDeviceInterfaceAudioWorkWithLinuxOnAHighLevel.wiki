@@ -1,0 +1,36 @@
+﻿++ How Will Object Device Interface Audio Work With Linux On A High Level
+
+
++++ SUMMARY of understanding right now
+OSEObjectDeviceAudioInterface
+
++++ QUESTION(S)
+
+
+
+I would like to make an open hardware/software USB audio interface exclusively for linux.
+
+I dont have a thorough understanding of how things will work from a high level. I am hoping for guidance and advice.
+
+Here is what I have so far, flowing from raw audio input to interface output which will interface with computer:
+
+  1) Input Jack for XLR, 1/4
+  2) Pre-Amplifier involving RC,operational amplifier
+  3) ADCs which convert pre-amplified analog to digital.
+  4) Options:
+    4.1) Audio Codec o chip I program to convert Digital audio to PCM (or I2S, I2C,...?)
+? 5) My device connects via  
+  6) 
+
+
++++ PLACES TO ASK QUESTIONS:
+  1) https://www.avrfreaks.net/ 
+  2) Github repo:
+  3) https://www.alsa-project.org/main/index.php/ASoC
+    - IRC channel.
+    #alsa-soc on freenode.net.
+  4) 
+  
+  
++++ PARENT
+OSEObjectDeviceAudioInterface

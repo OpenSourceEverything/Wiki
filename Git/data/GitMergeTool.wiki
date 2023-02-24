@@ -1,0 +1,4 @@
+﻿++ Git Merge Tool
+
++++ PARENT
+GitMerge

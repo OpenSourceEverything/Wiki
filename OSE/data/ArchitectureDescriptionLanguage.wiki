@@ -1,0 +1,7 @@
+﻿++ Architecture Description Language
+
++++ SUMMARY
+used as a language (or a conceptual model) to describe and represent system architectures
+
++++ PARENT
+ObjectSystemLanguageFormalComputer 

@@ -1,0 +1,35 @@
+﻿++ OSE Object Device Container
+
+
++++ SUMMARY
+
+
++++ PERFORMANCE PARAMETERS
+
+EMF reduction
+Heat dissipation
+
++++ MATERIAL CONSIDERATIONS
+
+  * ObjectMaterialMetal
+    * common types of metal used:
+    * galvanized
+   * zinc alloy
+   * aluminum
+   * stainless steel
+  
+  * Soft aluminum and low-carbon steel can usually be bent to a sharper radius.  
+
+
++++ CHILDREN
+
+OSEObjectDeviceContainerSheetMetal
+OSEObjectDeviceContainerWoodTwoByFour
+
++++ RELATED
+
+ObjectDeviceContainer
+
+
++++ PARENT
+OSEObjectDevice

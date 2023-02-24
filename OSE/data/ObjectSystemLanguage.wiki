@@ -1,0 +1,18 @@
+﻿++ Object System Language
+
++++ SUMMARY
+
+ObjectSystem of ProcessCommunication 
+  * uses arbitrary signals
+  * examples: voice sounds, gestures, or written symbols
+  
+
++++ CHILDREN
+ObjectSystemLanguageFormalLanguage
+
+
+
++++ INSTANCES
+ObjectSystemLanguageInstance
++++ PARENT
+ObjectSystem

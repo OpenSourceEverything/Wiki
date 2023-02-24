@@ -1,0 +1,14 @@
+﻿++ For Loop
+
+
++++ SUMMARY
+
++++ EXAMPLE
+x = [range](6)
+
+#print them
+for n in x:
+  print(n)
+  
++++ PARENT
+[Python]

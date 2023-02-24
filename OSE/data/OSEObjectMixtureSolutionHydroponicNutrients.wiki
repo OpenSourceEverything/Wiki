@@ -1,0 +1,31 @@
+﻿++ OSE Object Mixture Solution Hydroponic Nutrients
+
+
++++ SUMMARY
+
+Prerequisite knowledge: ProcessHorticultureNutrients
+
+  * See the "Hoagland" mixture for a complete macro/micro mix recipe from powder ingredients.
+  
+  * glean, verify this source:
+    * https://en.wikipedia.org/wiki/Mixture#Homogeneous_and_heterogeneous_mixtures
+  
+  *   
+
+
++++ CHILDREN
+
+  * OSEObjectMixtureSolutionHydroponicNutrientsHoagland
+  
+
+
++++ RELATED
+
+ProcessHorticultureNutrients
+
+ObjectMixtureSolution
+
+
++++ PARENT
+
+OSEObjectMixtureSolution

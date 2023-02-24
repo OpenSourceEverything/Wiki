@@ -1,0 +1,22 @@
+﻿++ Process Irrigation
+
+
+
+
++++ SUMMARY
+
+  * watering or moistening
+  * attempting to keep something moist
+  * examples:
+    * local medical treatment; 
+    * especially, distribution of water over land to grow plants.
+
+
++++ RELATED
+ObjectSystemIrrigation
+ProcessPlumbing
+
+
++++ PARENT
+
+[Process]

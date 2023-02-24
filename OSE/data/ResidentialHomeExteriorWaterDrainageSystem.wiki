@@ -1,0 +1,39 @@
+﻿++ Residential Home Exterior Water Drainage System
+
++++ Summary
+
+  Your first and best defense is the gutters, and how they drain. 
+  
+  An exterior gruond drainage system around the base of the house would be catching runoff from the gutter system
+
+
+
+
++++ Types
+
+++++ French Drain
+
+  This is a perforated pipe that is installed in a flat yard to drain away standing water. It involves excavating a trench that slopes away from the property and the pipe is then installed. A porous material such as gravel is used to fill the trench before the trench is finally covered. Standing water follows the easiest escape route meaning it will seep down to the French tile and drain away from your yard.
+
+++++ Footing Drain
+
+  This is a highly effective water drainage system. A pipe is installed around the perimeter of the foundation walls on level with the footing. This pipe collects any water that would have leaked through the top of the footing into the basement and drains it away from the foundation walls. The drain is covered with gravel up to the soil’s surface.
+
+++++ Gutter Drainage System
+
+  Roof water can cause havoc if not well drained. A gutter and downspout system help drain away all roof water away from the house walls. The downspout drain should extend away from the walls and preferably direct the water to a storm sewer or catch basin.
+
+++++ Grading Drainage
+
+  This is a simple technique that involves reworking the grading in order to slope away from your house. A contractor will assess the gradient needed to drive water into the storm sewer within the building code.
+
+  Talk to your contractor today if you notice standing water on your yard. It could be a disaster in waiting in case of flash storms.
+
+
++++ Related
+  ResidentialHomeMaintenance
+
++++ Parent
+
+  ResidentialHomeConstruction
+  

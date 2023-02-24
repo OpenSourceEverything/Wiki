@@ -1,0 +1,78 @@
+﻿++ Process Horticulture List Of Plants
+
+
++++ SUMMARY
+
+  * List of plants and the facts necessary to grow them in any manner.
+ 
+  * Update the ODS file before updating individual pages. Its master, wiki is slave. Should probably auto generate it based on a build or something.
+ 
+  * Row/Column file of plants: 
+    *   ProcessHorticultureListOfPlantsODS
+  
+  *  
+  
+  * All children should follow HorticulturePlantTemplate
+
++++ CHILDREN
+
+++++ FOOD
+
+HorticultureBlackberry
+HorticultureBlueberry
+
+HorticultureCacao
+HorticultureCherry
+HorticultureCarrot
+ProcessHorticultureCorn
+ProcessHorticultureCotton
+ProcessHorticultureCoffee
+
+HorticultureFlax
+HorticultureFig
+
+
+HorticultureBeanGarbanzo
+ProcessHorticultureGarlic
+
+ProcessHorticultureKiwi
+
+HorticultureMango 
+
+ProcessHorticultureOat
+ProcessHoriticultureOnion
+
+HorticulturePotato
+ProcessHorticulturePeanut
+
+HorticultureQuinoa
+
+HorticultureRaspberry
+
+HorticultureSpinachStrawberry
+ProcessHorticultureSesame
+ProcessHorticultureSweetPotato
+HorticultureSunflower
+HorticultureStrawberry
+
+
+ProcessHorticultureTomato
+
+HorticultureWheat
+
+++++ UNSORTED
+HorticultureEvergreenPlant
+HorticultureCotton
+HorticultureCannabisSativa
+HorticultureSugarMaple
+
+
++++ RELATED
+
+ProcessHorticulture
+
+HorticulturePlantTemplate
+
++++ PARENT
+
+  ProcessHorticulture

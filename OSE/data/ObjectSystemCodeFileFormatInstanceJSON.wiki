@@ -1,0 +1,18 @@
+﻿++ Object System Code File Format Instance JSON
+
+
+
+
+
+
++++ DETAILS
+
+Formats like JSON lack the expressive quality of XML, have poorly standardized schema solutions, and lack all but basic data validation. JSON has become popular for primarily three reasons--all valid within certain contexts, but not compelling enough to abandon the benefits and tool set of XML.
+
+    JSON is the underlying data representation for Javascript, and
+    JSON is simpler/lighter weight to parse and process than XML, and
+    JSON is more compact/less verbose than XML.
+    
+    
++++ PARENT
+ObjectSystemCodeFileFormatInstance

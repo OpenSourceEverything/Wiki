@@ -1,0 +1,7 @@
+﻿++ Object Device Computer Microcontroller Instance
+
+ObjectDeviceComputerMicrocontrollerInstanceArduino
+ObjectDeviceComputerMicrocontrollerInstanceESP8266 
+  * wifi
++++ PARENT
+ObjectDeviceComputerMicrocontrollerInstance

@@ -1,0 +1,24 @@
+﻿++ Object Idea
+
++++ SUMMARY
+
+* The result of ProcessThought [Thought] ProcessThinking
+
+* Is ObjectIdea a child of ObjectDataInformation? or ObjectData?\\
+  * i vote no: i would argue, looking at a rock, the data is that it is there, but you could also argue the rock is the data????
+    * Is an Object data or is data about the object only? 
+
+* [thought]
+  * implies
+  
+* ObjectIdeaConcept
+
+
+
++++ CHILDREN
+
+ObjectIdeaMorality
+
++++ PARENT
+
+[Object]

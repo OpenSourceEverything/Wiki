@@ -1,0 +1,20 @@
+﻿++ Process Plumbing Connecting Threaded Joints
+
+
++++ SUMMARY
+
+  * 
+    - https://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used
+
+
++++ SAFETY
+
+  * opportunistic pathogens can grow in plumbing systems (best treated with UV, after proper sediment filtration to avoid blocking and protecting the bacteria): 
+    * faucets, shower heads, water heaters, along pipe walls
+
+
+    
+    
++++ PARENT
+
+  [Plumbing]

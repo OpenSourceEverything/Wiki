@@ -1,0 +1,17 @@
+﻿++ Object System Security Video
+
+
++++ SUMMARY
+
+  * ObjectSystemSecuritySystem consisting of video capture device(s).
+  
++++ DETAILS
+
+
++++ OSE
+
+  * OSEVideoSecuritySystemRaspberryPiZeroW
+
++++ PARENT
+
+  ObjectSystemSecuritySystem

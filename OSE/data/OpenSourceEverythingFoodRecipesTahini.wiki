@@ -1,0 +1,27 @@
+﻿++ Open Source Everything Food Recipes Tahini
+
+
++++ TOOLS
+ 
+  * 
+
++++ INGREDIENTS
+
+  * (1    cup) sesame seeds
+  * (0.25 cup) olive oil (or similar oil)
+
++++ DIRECTIONS
+
+  * 1) use a blender bro
+
++++ NOTES
+  *   
+
++++ RELATED
+  
+  OpenSourceEverythingFoodRecipesHummus
+
++++ PARENT
+
+  OpenSourceEverythingFoodRecipeTemplate
+  OpenSourceEverythingFoodRecipes

@@ -1,0 +1,25 @@
+﻿++ GNU Compiler Collection (GCC)
+
+
+  [g++]
+
+
++++ Commands
+  *
+  * Tell where a file is lookign for includes, such as <foo.h>
+    * g++ -H filename.cpp
+  
+  
+  * Get some compiler path information:
+    * gcc -print-prog-name=cc1plus -v   
+
+  * [GCC -Wl]
+
+  * GCCLinkSharedAndStaticLibrariesSimultaneously
+
++++ Related
+  [Linux]
+  [Makefile]
+
++++ Parent
+  

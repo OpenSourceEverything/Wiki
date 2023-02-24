@@ -1,0 +1,15 @@
+﻿++ Object Idea Concept
+[concept]
+
+
++++ SUMMARY
+ObjectIdea
+  * Abstract:referring to relating to non-physical realm.  
+
++++ CHILDREN
+
+ObjectIdeaMathematicalObject
+
++++ PARENT
+
+ObjectIdea

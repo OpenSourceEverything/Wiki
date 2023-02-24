@@ -1,0 +1,8 @@
+﻿++ Difference Between Concurrent Programming And Parallel Programming
+
++++ Redirect
+  * DifferenceBetweenConcurrentComputingAndParallelComputing
+  
+  
++++ Related
+  * DifferenceBetweenParallelExecutionAndParallelProgramming

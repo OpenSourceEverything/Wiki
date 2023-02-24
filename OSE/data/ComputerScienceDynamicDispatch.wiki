@@ -1,0 +1,11 @@
+﻿++ Computer ProcessScience Dynamic Dispatch
+
++++ Summary
+  * selecting which implementation of a polymorphic operation (method or function) to call at run time.
+
+
+
+
++++ Related
+
+  * ObjectOrientedProgrammingPolymorphism

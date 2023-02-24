@@ -1,0 +1,21 @@
+﻿++ OSE Business
+
+Should probably put this page under UnitedStatesOfAmerica or BusinessUSA Object Entity Corporation maybe?
+
+
++++ SUMMARY
+
+1) EIN number from USA federal government.
+
+First you need an ENI number: 
+https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online
+
+
+[Business]
+
++++ RELATED
+OSEProblemOfClassVsAttribute
+
++++ PARENT
+
+[OSE]

@@ -1,0 +1,22 @@
+﻿++ Object System Plumbing
+
+
+
++++ SUMMARY
+
+Any system that conveys fluids for a wide range of applications. 
+
+
++++ CHILDREN
+
+  * PlumbingNamingConventions
+
+
++++ RELATED
+
+ProcessIrrigation
+ProcessPlumbing
+
++++ PARENT
+
+  ObjectSystem

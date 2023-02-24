@@ -1,0 +1,7 @@
+﻿++ Markup Language
+
++++ SUMMARY
+
+a grammar for annotating a document in a way that is syntactically distinguishable from the text, such as HTML
++++ PARENT
+ObjectSystemLanguageFormalLanguageComputerLanguage 

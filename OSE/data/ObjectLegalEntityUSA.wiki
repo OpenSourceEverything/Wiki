@@ -1,0 +1,10 @@
+﻿++ Object Legal Entity USA
+
+
+
+
++++ CHILDREN
+ObjectLegalEntityUSALimitedLiabilityCompanyIndiana
+
++++ PARENT
+ObjectLegalEntity

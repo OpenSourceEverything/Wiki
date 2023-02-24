@@ -1,0 +1,55 @@
+﻿++ C++
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
+
+
++++ CHILDREN
+[string]
+[strlen]
+[sizeof]
+CppString
+ConstantsAndLiterals
+[htonl][ntohl]
+[sizeof]
+[Endianness]
+[Iterators]
+BitFields
+
+FormatSpecifiers
+[Pointers]
+PassingParametersToFunctions
+TwoDimensionalArray,[2DArray]
+
+
+TableOfMultipleDataTypes
+
+[UI]/[GUI]
+[struct]
+[class]
+[exceptions]
+[Constructor]/[constructor]
+PureVirtualFunction/AbstractFunction
+AbstractClass
+
+FunctionPointer
+PassByReference
+
+Destructor
+	* WikiSettings
+
+ClassInterface [Interface]
+
+[Object]
+
+DefaultConstructor
+
+FriendFunction
+[lower_bound]
+
+
++++ EXTERNAL RESOURCES
+  * very good list of C++ stuff categorized
+    * https://github.com/fffaraz/awesome-cpp#api-design
+  * https://isocpp.org/wiki
+  * This one seems best to rip at least the syllabus from  
+  * https://www.tutorialspoint.com/cplusplus/cpp_friend_functions.htm

@@ -1,0 +1,86 @@
+﻿++ Food Recipe French Bread
+
++++ TOOLS
+ 
+  * dutch oven
+ 
+  * Bread pan (to shape as desired)
+  
+  * Wooden Spoon
+  
+  * large metal bowl
+  
+  * large towel  
+ 
+  * large cutting board/surface to cut dough on
+  
+  * Oven large enough for loaf. 
+  
+  * oven mitts 
+
+
++++ INGREDIENTS
+
+  * Mix 1
+    * (2 1/4 Tspn)  Active Dry Yeast
+    * (1 tspn)     sugar
+    * (1 1/4 cup)   warm water (~100F)
+  
+  * (2.5 cup)     all-purpose/bread flour
+  * (1.5 tspn)    salt
+  
++++ DIRECTIONS
+
+  * 1) in metal bowl, mix (active yeast water sugar) - set aside 5 minutes
+      * it should get frothy after the 5 minutes, double in size 
+  
+  * 2) add salt/flour into dough
+        * start mixing with wooden spoon
+        * eventually mix with hands.
+        * add flour if necessary
+        
+        * mix until its a pretty uniform ball, well mixed.  
+      
+  * 3) Flour bottom of large metal bowl
+        * put dough ball in, flour top of ball
+        * cover with towel
+        * let rise 1 hour
+  
+  * 4) flour your cutting board. 
+      * dump dough ball onto board, (careful not to compact it) 
+      * pull from the sides to the top middle of dough, from different points 
+        around the perimeter in order to form a ball
+        * try to stick the points into the middle without having to smash it.
+        * the side you are doing this to is called the "seam side"
+      
+  * 5) * reflour the bowl again
+       * place your dough ball into the bowl face down.
+       * the face is the part you were looking at, and sticking
+         the side points into. 
+       
+       * cover with a towel
+  
+  * 6)  sit 30 minutes 
+        * preheat your oven to 460 with the dutch oven inside
+  
+  * 7) Flour your cutting board
+        * dump the bread from bowl to floured surface
+        * the side with seams should be facing up
+        * place bread into hot dutch oven, seem side up
+        * cover and place in oven
+  
+  * 8)  30 minutes covered cooking of bread
+  
+  * 9)  15 minutes uncovered cooking of bread in dutch oven
+      * You should check early in the step 
+
++++ NOTES
+
+  * using whole wheat "does not work"
+    * specify: 
+  
+  * using less salt:
+    *   
+
++++ PARENT
+++++ OpenSourceEverythingFoodRecipes

@@ -1,0 +1,12 @@
+﻿++ Electrical Conductivity Of Water
+
+
+
+
++++ Units
+  * The meters measure EC either in mS/cm (millisiemens/cm) or μS/cm (microsiemens/cm). 
+    * The conversion of μS/cm (microsiemens/cm) to mS/cm (millisiemens/cm) is 1,000 μS/cm = 1 mS/cm.
+    
++++ Parent
+
+  WaterQualityTesting

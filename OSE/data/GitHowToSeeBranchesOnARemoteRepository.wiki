@@ -1,0 +1,34 @@
+﻿++ Git How To See Branches On A Remote Repository
+GitHowToSeeRemoteRepositoryBranches
+
+
+
+
+
+
+
++++ SUMMARY
+
+
+  * git branch -r
+
+
+  * Without updating your local branch tracking:
+  
+    * git ls-remote
+    
+    * if multiple remotes:
+      * git ls-remote --heads <remote_name> 
+  
+  * Method that updates your remote branch tracking, then lists:
+  
+    * git fetch                                 // update tracking
+    * git branch -a                             // 
+  
+
++++ PARENT
+
+
+  GitHowTo
+  
+  [Git]

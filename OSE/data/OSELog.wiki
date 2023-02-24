@@ -1,0 +1,211 @@
+﻿++ OSE Log
+
+
+
+
+NEWEST AT TOP
+
+
+
+
+OSELogTopPriority2022
+
+
+
+
+git on linux virtual machine:
+  - when it asks for username
+    = 
+
+[libxml2] - using for xml parsing, 
+  found to compile it was necessary to do
+  ./configure PYTHON=python3
+
+
+
+Linux - 
+  - gedit wont save files on Virtualbox,
+  - go to preferences in gedit, save backup copy,
+  - youll have to save twice every time you want to save.
+
+ObjectDevice3DPrinterOSE1
+  
+
+
+
+OpenSourceEverythingHydroponicsDesignModular5GallonBucket
+ObjectLegalEntity
+ObjectDevice
+ComputerScienceVersionControl
+DataStructure
+CommunicationProtocol
+DatabaseSchema
+[Translation]
+[suite] []
+OSEObjectDevice
+[Language]
+VirtualPrivateServer
+AbstractModel
+[Software]
+NutritionApplication - get data from?
+https://github.com/eliashussary/nutrition-facts
+you can just download json files here:
+https://fdc.nal.usda.gov/download-datasets.html
+
+ObjectDataInformationSourceCode
+Cryptography
+[PlantFertilizer]
+[Blockchain]
+AbstractMachine
+StateMachine
+OSEProblems
+[Nutrition]
+[SQL]
+ObjectData
+[RDBMS]
+
+OSEProblemOfInstances
+OSEObject
+ObjectIdea
+[Algorithm]
+ComputerScience
+[UUID]
+InstructionSetArchitecture
+DevKit DevelopmentKit
+[MicroController] [Microcontroller]
+[Sentence]
+
+* Really need to solve the problem of [Instances]
+* TheProblemOfInstances
+[Attribute] ObjectAttribute
+ObjectDeviceSwitchElectrical
+
+ObjectDataInformationSoftware
+
+[Algorithm]
+
+OSEObjectSystemHeatingConvectionElectric
+ObjectDeviceComputerMicrocontrollerInstanceESP8266
+
+ObjectDeviceComputerMicrocontrollerInstanceArduinoCommandLineProcessor
+
+* OSEObjectDeviceAudioInterface
+* OSEObjectSystemIrrigation
+* ProgrammingLanguage
+  * [DHT11Sensor]
+
+* ObjectAlgorithm
+* ArbitraryPrecisionFloatingPointTypes
+* ObjectAlgorithmRotationAboutAPoint
+OSEObjectDeviceIsolatorSignalAudio
+* ObjectDevice
+
+
+[Linux]
+
+* Every Object has an Instance subpage, in place of "enumeration"
+* try to define every Object as its parent with some additional traits
+  * [Property] A
+  * [Property] B
+
+
+
+[Fri 2021-10-29]
+  * OSEObjectSystemIrrigation
+    * OSEObjectSystemIrrigationBucketsSmallLowWaterPressureWithDrainageTube 
+  * ObjectSystem
+   
+[Sun 2021-10-17]
+  VersionControl
+
+9/25/2021 12:14 AM
+  * OSEObjectDataInformationWebsite
+  * Security for a linux WebServer:
+    * https://www.digitalocean.com/community/tutorials/an-introduction-to-securing-your-linux-vps 
+  * how to run a gui through SSH:
+    *  https://www.simplified.guide/ssh/run-gui-application
+    
+    
+9/22/2021 09:58 AM
+  
+  * ObjectDataInformationWebsite - collection of web pages and content 
+
+
+
+[Fri 2021-09-10]
+  * I think a tool should be generated in C++. To some imbibe all text files making up a wiki and turn it all into a class hierarchy that could be utilized as user readable i.e. you open up the cpp and .hpp and they contain members with actual TEXT blocks that is the information, but then also instantiating every block of the wiki as cpp modules would allow it to be more easily read by an AI? as opposed to a buncha text search maybe?
+  
+  * ProcessComputingComputerScience [Computing] 
+  * OSEObjectSystemVersionControlGit 
+    * Finish this, as this is how you will share OSE with the world, via Git, and PRs!. 
+    * Create first OSEObjectDataInformationComputerProgram
+      * need to ponder those details?
+        * before release, an ability to decouple from wikidpad needs to be completed. 
+          * cpp program? too much work. easier? : common formats?    
+
+[Wed 2021-09-08]
+  * OSEObjectDeviceIsolatorSignalAudio needs a:
+    * OSEObjectDeviceContainer
+      * OSEObjectDeviceContainerSheetMetal
+      * OSEObjectDeviceContainerWoodTwoByFour 
+      ? Consider possibly optimizing this organization.
+
+  * [Process]
+
+
+
+[Mon 2021-08-23]
+  * ProcessPrintingStencilling
+  * ProcessPrinting
+  * ProcessPrintingStencillingMethodReusableVinylMeshStencil
+  * For metal etching: 6-12V ~1-1.5A, could use a wall wart DC.
+    * heat shrink around nail, alligator clip at bottom
+    * Must wear breathing protection.
+    * Salt water dip into your buddy, then place on the metal.
+      * how long? 
+    * clean metal with acetone first. (optional?) dont touch with bare hands.
+    * place stencil on, 
+    * mark anyadditional areas to protect not covered by stencil with tape.
+    * positive electrode on your stencil pen thing (nail w/ shrinkwrap) positive end goes on the metal youre etching.
+    * 
+
+
+8/3/2021 04:47 PM
+  * OSEDeviceAmplifierElectronicAudioPower
+    *  
+
+??????
+MortgageLoan::CalculatingMortgageCosts
+[Process]::
+
+
+ObjectDevice3DPrinter ProcessManufacturingAdditive
+
+
+5/28/2021 03:37 AM
+OSEObjectMixtureSolutionHydroponicNutrients
+OSEObjectDeviceIsolatorSignalAudio
+
+[Sun 2021-06-20]
+* OSESystem
+* Hydroponics:
+  * This ebay stuff is 202020 and has micronutrients, amounts are listed
+    * https://www.ebay.com/itm/401622247938?_trkparms=aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D232727%26meid%3De246a06ef2b64cb2b2250f9642becc93%26pid%3D101195%26rk%3D2%26rkt%3D12%26sd%3D274422895088%26itm%3D401622247938%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DSimplAMLv9PairwiseWebMskuAspectsV1&_trksid=p2047675.c101195.m1851&amdata=cksum%3A401622247938e246a06ef2b64cb2b2250f9642becc93%7Cenc%3AAQAGAAACAJtEDHynY11ERLLnSW0kn2e3XqnJYzYiHCVFFBJsgG2O1RDPqhzMQsWnizSP%252FgmlO%252BaJMTcFTSCTBbIL5E1oiV77zfqSPci5lH%252BR84yIY9fnwcC3ZLCaSkasm7Ekp%252FC7rtrKE7WucIDgFhApqceES0X5PA20PaYQq0OAAPQ3vVHQuJhRRY9ZoOsdHt0R%252BakNvmlDIaUzKSGMtyWmP28I%252BwyoQAu7qAahlStTa4XZJTIwPJD7yTMZIQKGon938sfbkn8WyHKdJoWbrLbY%252B9ECYvij%252BNK6jtOoABUkqWXt%252BICKoViLGOdOtARTh82mVy26QWPpDr88KNR9wwPe1tbLKFHmpXLXRd23xavjjDBiqCU6EKtgxM51vefyjRSHbc2TZ6%252FYvJILxqMB%252FyGVK%252FTOy9kV0fWeB%252BHDzbAbnkwqoFrm24WYvuP5cmrItuitVOowG%252FK5N%252F1mT3%252B%252BVL2Zn9aYWXy2Rxic8YtJXNTYHalDK5LBkAe2Yu7FxpNhsnNi35KofAu7bfAy7wRtqrsPTSPYroErczvnfDlq8NtzqevIdR3cfmiDQULxF%252F5F5Zq8A21M372U%252Bu8m6Zi8jzI%252Ff4j0j6VHecWZRKiwrIH7BvomrwQY13KuQjqTFhh90UMFEGh%252F7Oa4ivVU8oY31ks2L%252BzrvEavznzNbdw%252FfdccteWCMbfe%7Campid%3APL_CLK%7Cclp%3A2047675&epid=1207439497 
+  * Micronutrient powder (hard to find) 
+    * https://customhydronutrients.com/chelated-micronutrient-mix-c-1_50_51_93/chelated-micronutrient-mix-44-pound-pail-p-1155.html
+    
+  * RaspberryPi is not open source. Alternatives:
+    * Olimex.com 
+    * Excellent response by this guy regarding OpenSource and info about olimex
+    * rel://files/_H2I8GCPHMY2TTNVJWKLQ.png
+    
+  
+  
+7/15/2021 01:39 PM
+  * CNC Mill = https://www.youtube.com/watch?v=4KVWpFGqT1I
+    * Summary: not practical for heavier (aluminum) because:
+      * uses rollers instead of leadscrew.
+      * insufficient mass probably to avoid vibrations. 
+    * MiniMill by open builds needs a lot of modifications: uses nylon/aluminum rollers to move axes instead of (linear rails + ballscrew)
+      This guy modifies XYZ to all linear rails, also adds an aluminum base plate for about 120$
+  

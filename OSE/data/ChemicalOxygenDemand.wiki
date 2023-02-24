@@ -1,0 +1,8 @@
+﻿++ Chemical Oxygen Demand
+  
+  * A COD test can be used to easily quantify the amount of organics in a given water sample. 
+  
+  
+  
++++ Related
+  * WaterQualityTesting

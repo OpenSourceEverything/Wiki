@@ -1,0 +1,45 @@
+﻿++ Nutrition Magnesium Food Sources
+
+
++++ SUMMARY
+
+  *   Hemp seeds	              700
+      Flaxseed	                393
+      Brazil nut	              376
+      Sesame seeds	            351
+      Chia seeds	              333
+      Almonds	                  270
+      Pumpkin seeds	            263
+      Cashew	                  260
+      Pine nuts	                250
+      Buckwheat groats	        221
+      Seaweed (dried)	          200
+      Oats	                    177
+      Peanuts	                  168
+      Hazelnut	                163
+      Walnut	                  157
+      Macadamia nut	            130
+      Pecans	                  121
+      Pistachio nuts	          120
+      Wheat flour (whole-grain)	117
+      Rye grain	                110
+      Swiss chard	              81
+      Spinach	                  79
+      Lima beans	              74
+      Water spinach	            71
+      Black beans	              70
+      Amaranth	                65
+      Quinoa	                  64
+      Soybeans	                60
+      Artichoke	                60
+      Okra	                    57
+
+
++++ RELATED
+
+  NutritionMagnesiumDailyRecommendedIntake
+
++++ PARENT
+
+  NutritionMagnesium
+  [Nutrition]

@@ -1,0 +1,8 @@
+﻿++ Cpp Shared Pointer
+
+  * doesnt allow the stuff underneath it to be deleted while under its control.
+  
+
++++ Related
+
+  * CppWeakPointer

@@ -1,0 +1,52 @@
+﻿++ Residential Home Sump Pump
+
+
++++ Summary
+
+  Water comes in from "Footing Drains" into a pit called a "sump"
+    see: ResidentialHomeExteriorWaterDrainageSystem
+    
+  Once a sensor attached to a ball goes off, the pump activates and 
+  goes through a CheckValve and up a tube somewhere outside the house
+  
+  Getting this water away from the foundation and et cetera is very
+  important to structural integrity of the house.
+  
+  
+  If a water softener is used it often dumps salty hard water into 
+  the sump, which makes debris and can cause sump pump failure.
+  
+  
++++ Types of Sump Pump
+
+  ResidentialHomeSumpPumpPedestalPump
+  
+  ResidentialHomeSumpPumpSubmersible
+
+
++++ Choosing a Sump Pump
+
+  * Horsepower 
+    - moving water about 20 ft from house:
+      - 1/3 hosepower should be enough for
+
+    - 60 ft or more
+      - 1/2,3/4, or maybe 1 HP horsepower.
+  
+  
+    The following chart is intended to determine parameters:
+    rel://files/SumpPump.png
+    
+    
+    
+
++++ Related
+
+  [Construction]
+
+  ResidentialHomeConstruction  
+  ResidentialHomeMaintenance
+  
+  
++++ Parent 
+  

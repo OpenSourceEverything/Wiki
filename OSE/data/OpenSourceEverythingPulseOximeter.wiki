@@ -1,0 +1,14 @@
+﻿++ Open Source Everything Pulse Oximeter
+
++++ SUMMARY
+
+  * 
+
++++ EXTERNAL LINKS
+
+  * https://www.24x7mag.com/medical-equipment/testing-calibration/general-testing-equipment/understanding-spo2-sensor-testing/
+
+
++++ PARENT
+
+  OpenSourceEverything

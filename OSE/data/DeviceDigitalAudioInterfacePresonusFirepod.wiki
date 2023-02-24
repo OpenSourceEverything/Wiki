@@ -1,0 +1,22 @@
+﻿++ Device Digital Audio Interface Presonus Firepod
+
++++ SUMMARY
+
+
++++ DETAILS
+++++ ASSEMBLY/DISASSEMBLY
+  * Disassembly:
+    * 4 screws , 2 top, 2 bottom near where silver meets black
+      * more fine thread.
+    
+    * Back side screws on MIDI (2) and SPDIF (1) 
+      * coarser thread 
+
+  * At this point the side panels will come off naturally.
+    * the Black, larger covering will come off once you release a
+      chord that joins the back power switch to a PCB board on the
+      back right side (while facing front.) 
+
++++ PARENT
+
+  DeviceDigitalAudioInterface

@@ -1,0 +1,7 @@
+﻿++ OSE Object Device Container Sheet Metal With Tabs And Hems
+
+https://www.instructables.com/Sheet-Metal-Box-1/
+
+
++++ PARENT
+OSEObjectDeviceContainerSheetMetal

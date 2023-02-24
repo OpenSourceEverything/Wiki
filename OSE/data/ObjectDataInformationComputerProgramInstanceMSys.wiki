@@ -1,0 +1,19 @@
+﻿++ Object Data Information Computer Program Instance M Sys
+
++++ SUMMARY
+
+MSYS2 is a collection of GNU utilities, including a Bourne shell, GCC, and pacman, which provides a Unix-like environment on Windows. MSYS2 is not a Linux-based operating system, but it provides many of the same tools and utilities commonly found in Linux distributions.
+
+To summarize: pacman is primarily used in Arch Linux and its derivatives, but it is also used in MSYS2, which provides a Unix-like environment on Windows. MSYS2 is not a Linux-based operating system, but it provides many of the same tools and utilities commonly found in Linux distributions.
+
+
++++ PACKAGE MANAGER
+
+[pacman]
+
++++ DETAILS
+
+
++++ PARENT
+
+ObjectDataInformationComputerProgramInstance

@@ -1,0 +1,16 @@
+﻿++ Associative Array
+
+AssociativeArray = HashTable (more specific terminology, possibly more appropriate as this is the actual implementation) = ComputerScienceAbstractDataTypeDictionary
+
+
++++ Summary
+
+In computer science, an associative array, map, symbol table, or dictionary is an abstract data type composed of a collection of (key, value) pairs, such that each possible key appears at most once in the collection.
+
+Operations associated with this data type allow:[1][2]
+
+    the addition of a pair to the collection
+    the removal of a pair from the collection
+    the modification of an existing pair
+    the lookup of a value associated with a particular key
+    

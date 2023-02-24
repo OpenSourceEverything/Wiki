@@ -1,0 +1,32 @@
+﻿++ Food Recipe Tahini Lemon Maple Sauce
+
+
++++ TOOLS
+ 
+  * Bread pan (to shape as desired)
+  
+  *  
+
++++ INGREDIENTS
+
+  * (1/4 cup)     Tahini (FoodRecipeTahini)
+  * (2 TbSpn)     Maple Syrup
+  * (2 TbSpn)     Water    
+  * (0.5 TsPn)    Salt
+  * (1/4 TsPn)    Turmeric
+  *    
+
++++ DIRECTIONS
+
+  * 1)
+  * 2)
+  * 3)
+  * 4)
+  * 5)
+
++++ NOTES
+
+  *
+
++++ PARENT
+++++ FoodRecipes

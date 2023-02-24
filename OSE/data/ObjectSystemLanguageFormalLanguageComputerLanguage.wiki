@@ -1,0 +1,42 @@
+﻿++ Object System Language Formal Language Computer Language
+
+
+
+[rel://../../Object/System/Language/Formal/Computer/Programming]
+
++++ SUMMARY
+* ObjectSystemLanguageFormalLanguage
+  * Used in communication with a computer. 
+  * Used in ProcessComputing to implement algorithms. 
+
+
+
+
++++ CHILDREN 
+
+ConstructionLanguage 
+CommandLanguage
+ConfigurationLanguage
+ProgrammingLanguage
+ProgrammingLanguage
+QueryLanguage
+TransformationLanguage 
+DataExchangeLanguage
+MarkupLanguage
+MachineLanguage
+ModelingLanguage
+ArchitectureDescriptionLanguage
+HardwareDescriptionLanguage
+PageDescriptionLanguage
+SimulationLanguage
+SpecificationLanguage
+StyleSheetLanguage
+
++++ INSTANCES
+
++++ REDIRECT
+ObjectSystemLanguageFormalLanguageProgrammingLanguage
+
++++ PARENT
+
+ObjectSystemLanguageFormal

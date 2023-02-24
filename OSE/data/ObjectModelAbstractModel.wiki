@@ -1,0 +1,15 @@
+﻿++ Object Model Abstract Model
+
+AbstractModel
+
++++ SUMMARY
+ObjectModel
+  * [Attribute]
+    * AttributeAbstract 
+
++++ CHILDREN
+
+ObjectModeAbstractModelInstructionSetArchitecture
+
++++ PARENT
+ObjectModel

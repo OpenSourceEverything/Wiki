@@ -1,0 +1,20 @@
+﻿++ Automotive Maintenance Motor Oil Change
++++ REDIRECT
+  HowToChangeMotorOil
+
++++ SUMMARY
+
+  * Make sure motor is not hot.
+    - ensure oil is level
+    - avoid burns 
+  
+  * Pull out dipstick, wipe it, dip again.
+  * Level of oil should be evident
+  * Ensure level is within markers.
+  * 
+
+
++++ PARENT
+
+  ProcessVehicleMaintenance
+  

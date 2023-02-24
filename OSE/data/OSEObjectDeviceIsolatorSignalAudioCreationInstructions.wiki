@@ -1,0 +1,14 @@
+﻿++ OSE Object Device Isolator Signal Audio Creation Instructions
+
+
++++ SUMMARY
+  * Cut some pins off the transistor if theyre in the way:
+  * 4x 20ks connect every input + to ground, red black orange gold
+  * RC of a blue resistor brownbrownblackredgold, and green cap, bridge between the output +/-
+  * 
+
+
+
++++ PARENT
+
+OSEObjectDeviceIsolatorSignalAudio

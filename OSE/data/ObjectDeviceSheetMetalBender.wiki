@@ -1,0 +1,30 @@
+﻿++ Object Device Sheet Metal Bender
+
+All will redirect toarbitrarily
+
++++ REDIRECT
+sheet metal bender.
+bending machine 
+bending brake
+folder
+
+
++++ SUMMARY
+
+metalworking machine that bends sheet metal. 
+
++++ TYPES
+  * cornice brake 
+    * only allows for simple bends and creases,
+  * box-and-pan brake 
+    * able to form box and pan shapes. 
+    
+    
+
++++ RELATED
+
+OSEObjectDeviceSheetMetalBender
+
++++ PARENT
+
+ObjectDevice

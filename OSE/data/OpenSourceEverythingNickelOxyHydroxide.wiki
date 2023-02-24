@@ -1,0 +1,54 @@
+﻿++ Open Source Everything Nickel Oxy Hydroxide
+
+
+
+
++++ SUMMARY
+
+  * OpenSourceEverythingNickelChloride
+  
++++ INGREDIENTS
+
+  * DIWater 300 mL
+
+  * SodiumHydroxide
+  
+  SodiumHypochlorite (not the 5% stuff)
+  
+  NickelChloride (Nickel Salt) - Used
+  
+
++++ PREPARATION AND NOTES
+
+  * Air circulation is vital, be careful. I am not sure of what gasses are produced by this chemical reaction. Probably best to use a respirator until this is fully understood and documented within this page. 
+
+
+
++++ INSTRUCTIONS
+
+  * 200ml water
+  
+    Add 16G SodiumHydroxide
+  
+  * Add 150ml Bleach (SodiumHypochlorite)
+  
+  * 26G NickelChloride
+  
+  *   
+  
+  
+  
+  
+  
++++ RELATED
+
+  OpenSourceEverythingElectricBatteryNickelIron
+  
+  * 4(NaOH) + 2(NiCl2) + (NaClO) -->
+     
+  * (H2O) + (2NiOH) + (5NaCl)
+  
+  
++++ PARENT
+
+  OpenSourceEverything

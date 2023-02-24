@@ -1,0 +1,17 @@
+﻿++ Git How To Undo Accidental Checkin To Master Branch
+
+
++++ SUMMARY 
+
+  GitCommandReset
+  
+  
++++ RELATED
+
+  GitCommands
+
+  GitVocabulary
+  
++++ PARENT
+
+  GitHowTo

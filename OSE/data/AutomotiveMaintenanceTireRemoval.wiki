@@ -1,0 +1,64 @@
+﻿++ Automotive Maintenance Tire Removal
+
+
++++ SUMMARY
+
+  1. Remove Valve core (right tight, left loose)
+      - unscrew slowly, air pressure can cause core to shoot out.
+      - Tool ("4-way tool"):
+        - rel://files/_11A5JIXGNEJ2EOET2VZM.png
+        - rel://files/_F3L1N3S87A715MWU21HQ.png
+        
+        - Use the removal tool side (pointed to above, shown below)
+        - Twist to remove the valve core.
+          - rel://files/_9IALFIYQRTD8FY55L75Y.png
+          - valve core:
+          - rel://files/_QYODWIWWG1FWF3ZYWF96.png
+        - Clean inside of valve stem before replacing
+        
+  2. Remove clip on tire weights, and sticky ones?
+  
+  3. Break the bead in the tire using the pry bar,and the tool
+     careful not to damage wheel, place it right outside of wheel, where tire meets, on tire.\
+     watch out for tire pressure sensors, dont push down on them.
+     
+    [file:///C:/Users/koersg/Desktop/Automotive/Maintenance/Tires/2-RemovalOfTire.JPG]
+  
+  
+  4.  Remove the cylindrical guy, star guy, and note the centering pin that should go through somewhere in the wheel to keep it in place.
+      rel://files/_QSGM8B9AZIOCIVNPALT8.png
+  
+  
+  5. Mount the tire, through the pin, then place star guy, then cylinder guy screws back on. 
+     You can further tighten cylinder guy with the large bar (image 2)
+      rel://files/_AF92CVWP9CF48STRU24Q.png
+      rel://files/_VIKD2EPARMDC7NFJN76L.png
+  
+  6. Lube the "bead" on wheel and tire, where they meet with (???)
+     Careful with choice of material, as unwanted material inside tire could be bad
+      rel://files/_3YKKO06H5J8PSFJZJYW3.png
+  
+  7. Remove tire
+    rel://files/_IYYMIWXUT5VWD2Q6J9VJ.png
+    rel://files/_CO6B0Y0V6UB4DE6RO7BW.png
+    rel://files/_YOV3Q01C4N7BAVG8KTQC.png
+    rel://files/_M62FOF3RVSPQ9EUVMKNP.png
+    Second side:
+    rel://files/_C8OZ9630ZALGUPLQ7FX1.png
+    rel://files/_U60MF9UAMMBC4HX9TA9T.png
+    rel://files/_E38B0MUVX0OHU3SYSLL0.png
+    
+
+
+
++++ EXTENRAL REFERENCE
+
+
+  * How to use 4 way tool:
+    * https://www.youtube.com/watch?v=QCl7z3_i6ic
+  
+  * Tire removal:
+    * https://www.youtube.com/watch?v=Cv-YV-NFu_I 
+
++++ PARENTS
+  ProcessVehicleMaintenanceTires

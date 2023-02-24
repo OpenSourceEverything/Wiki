@@ -1,0 +1,13 @@
+﻿++ Git How To Remove A File Added By A Previous Commit
+
++++ SUMMARY
+
+  * You simply must delete the file and make a new commit deleting the file.
+
++++ RELATED
+
+  GitHowToUndoChangesToASingleFile
+
++++ PARENT
+
+  GitHowTo

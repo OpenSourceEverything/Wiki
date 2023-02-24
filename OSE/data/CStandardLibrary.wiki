@@ -1,0 +1,8 @@
+﻿++ C Standard Library
+
+
++++Redirect
+  * CStdLib
+  
++++ Related 
+  * CProgrammingLanguage

@@ -1,0 +1,7 @@
+﻿++ Boost Libraries
+
+
+
+Yes, most boost libraries are header only so you do not need to compile any source files.
+
+Most of boost is distributed as "header only" libraries - meaning you do not need to "build" any kind thing to use that library. Random is one of those, so it is possible to just include the correct header files and you will be away laughing. I would say it is best to get the whole boost source somewhere, and reference that since the different parts tend to have some dependencies on each other.

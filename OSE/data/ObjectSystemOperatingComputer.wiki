@@ -1,0 +1,3 @@
+﻿++ Object System Operating Computer
+ObjectSystemComputerOperatingSystem
+ObjectSystemComputerOperating

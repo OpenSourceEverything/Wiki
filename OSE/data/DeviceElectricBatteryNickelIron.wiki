@@ -1,0 +1,36 @@
+﻿++ Device Electric Battery Nickel Iron
+
++++ SUMMARY
+
+    * Nickel-Iron
+      * Low energy density
+      * low efficiency.
+      * 4x space of lead acid battery, 8x space of lithium ion.
+      * need to be kept stationary
+      * you can run them flat.
+      * you can overcharge them to about 1.5 times, they can explode
+      * 20Wh/kg
+      *     
+      
+      
+      
+  * They consume 200Watts, to replace 100W. 
+    - Lead acid, form 0-80% full, are about 95% efficient, and from 80-100, about 80% efficient. 
+    - Nife, is 50% from 0-100%, which is a lot more PV needed for a larger installation.
+
+  * Nickel Positive, Iron Negative
+  * Example of commercially available one:
+    *  
+    
+
+  * It consists of Nickel Hydroxide and Iron (ii) Oxide. Nickel Hydroxide is a real pain to get hold of and I’ve tried. The construction isn’t simple either. The best sorts were build with nickel hydroxide alternated with flake nickel inside a nickel plated steel perforated tube. The other side had the iron oxide inside a nickel plated plate containing pockets. Its not easy to build. The NiFe battery is, however, extremely durable and the century lifespan of well made and maintained NiFe batteries is no lie. That’s because the energy is stored in the chemical change nickel hydroxide undergoes when charging and discharging. the anode and cathode do not degrade.
+
+
++++ RELATED
+
+  OpenSourceEverythingElectricBattery    
+    
+    
++++ PARENT
+
+  * DeviceElectricBattery 

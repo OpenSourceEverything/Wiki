@@ -1,0 +1,28 @@
+﻿++ Makefile
+
++++ Summary
+
+
+  MakefileVariables
+     Special Variables,  page 73)
+  MakefileRules
+  MakefileTarget
+  MakefilePrerequisites
+  MakefileRecipe
+  MakefileFunctions
+    
+  MethodOfMakefileAutomaticDependencyGeneration
+
++++ External Links
+
+  ExternalLinkGNUMakeManual
+
+
++++ Related
+  [Linux]
+  GNUMake
+
++++ Parent
+
+  ???
+  ProcessComputingComputerScience

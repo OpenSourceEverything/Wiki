@@ -1,0 +1,73 @@
+﻿++ Owning A Residential Well Water System
+
+
++++ Parameters
+  
+  Flow Rate (Gallons Per Minute = GPM)
+            (60-100 = extremely high)
+            (6-11   = normal)
+
+
+
++++ Construction and Components
+
+  For a house, outside land has a hole Drilled deep into the rock 
+  layer of the land below it.
+  This is the well, where little rivers flowing through the rock  
+  layer fill it up.
+  
+  Within the well a motor and pump are placed inside. 
+  
+  Water from the well is pumped either into your Pressure/Holding 
+  tank for later use, or immediately to your tubes if needed fast.
+  
+  The pressure/holding tank usually has a faucet to allow collection
+  of samples and flushing of tank.
+  
+
+  Well Pump
+    - out by the physical well, pumps water from low in well to house
+    - usually has to go up, and over a long distance to get to house
+
+  Pressure Tank, Holding Tank
+    - keep reserve of water in house (10-60 gallons)
+    - maintains water pressure in house, think of it like a smoothing
+      capacitor.
+    
+    - has a pressure switch that is set when water flows through it.
+      - the shutoff switch must come after this, else the pump will
+        stop seeing the pressure and kick on all the time and break.
+    
+    - one of the most important components
+
+
+  Water Softener 
+      WaterSoftening
+    - usuallly contains salt.
+    
+    
+  Water Conditioner (I think more rare)
+    - removes manganese and shit.
+
+  The following image shows the inside of a house where the well water
+  has been pumped in and meets the holding tank. The pressure switch 
+  is off to the right side, and shutoff valve is pointed to above it.
+  rel://files/ResidentialWellWaterSystemInside.png
+  
+  Here is another example that looks different
+  
+
+    
++++ Maintenance 
+
+  ResidentialWellWaterSystemMaintenance
+  
+  
+  
+  
++++ Parent
+
+  
+  ResidentialHomeConstructionRepairAndLiving
+
+

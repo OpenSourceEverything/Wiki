@@ -1,0 +1,29 @@
+﻿++ Object Device Pump
+
++++ SUMMARY
+
+ObjectDevice
+  * moves fluids (liquids or gases). 
+  * three major groups according to the method they use to move the fluid: 
+    * direct lift 
+    * displacement
+      * rotary 
+      * rel://files/_NYWA43LILZWHUK20B41H.png
+    * gravity pumps
+
+
+
++++ NOTES
+ObjectDevicePumpNotes
+
++++ DETAILS
+
+
+
+
++++ RELATED
+
+OSEObjectDevicePump
+
++++ PARENT
+ObjectDevice

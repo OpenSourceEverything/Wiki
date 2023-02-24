@@ -1,0 +1,10 @@
+﻿++ Inclusion Of DLL In C
+
+C Sharp C# C # DLL Dynamically linked library, dll dynamic link library
+
+
+// Functions from our unmangaged C++ dll.
+/*
+[DllImport("RTServices.dll")]
+static extern void Func();
+*/

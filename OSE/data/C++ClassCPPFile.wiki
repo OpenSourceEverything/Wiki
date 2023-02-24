@@ -1,0 +1,30 @@
+﻿#include "Module.h"
+
+Module::Module()
+{
+  Initialize();
+}
+// Any additional overrides of the cont
+
+void Module::Initialize()
+{
+  prev = NULL;
+  next = NULL;
+  tagged = FALSE;
+  sequence_number = 0;
+  block_number = 0;
+
+  feature_identifier_ptr = NULL;
+}
+
+Module::~Module ()
+{
+  feature_identifier_ptr = NULL;
+}
+
+
+void Module::DoStuff(const char* buf)
+{
+  // yaw dawg.
+}
+  

@@ -1,0 +1,8 @@
+﻿++ OSE Object Device Amplifier
+
++++ SUMMARY
+
++++ RELATED
+ObjectDeviceAmplifier
++++ PARENT
+OSEObjectDevice

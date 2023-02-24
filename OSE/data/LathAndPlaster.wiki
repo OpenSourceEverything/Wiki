@@ -1,0 +1,16 @@
+﻿++ Lath And Plaster
+
+  * rel://files/_FN8LYHNUZMYSW7MOBXFC.png
+  * building process used to finish mainly interior dividing walls and ceilings.
+  * consists of narrow strips of wood (laths) which are nailed horizontally across the wall studs or ceiling joists and then coated in plaster. 
+  * The technique derives from an earlier, more primitive, process called wattle and daub.[1] '
+  
+  
++++ RELATED
+
+  * [Drywall]
+  
+  
++++ PARENT
+
+  ResidentialHomeConstructionRepairAndLiving

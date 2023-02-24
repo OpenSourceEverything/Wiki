@@ -1,0 +1,9 @@
+﻿++ Cpp Unique Pointer
+
+  * MoveConstruction and MoveAssignment Only
+  
+  StdMakeUnique
+  
+  
++++ Related
+  * CppWeakPointer

@@ -1,0 +1,21 @@
+﻿++ Object Substance Deodorant
+
+
++++ SUMMARY
+
+ObjectSubstance
+  * applied to the body 
+  * purpose: 
+    * prevent or mask body odor
+
+
+
+
++++ CHILDREN
+
+ObjectSubstanceDeodorantInstanceOSE
+
+
++++ PARENT
+
+ObjectSubstanceDeodorant

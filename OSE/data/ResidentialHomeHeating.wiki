@@ -1,0 +1,32 @@
+﻿++ Residential Home Heating
+
+
+
+APPROXIMATE SQUARE FOOTAGE 	Up to 200 	Up to 400 	Up to 600 	Up to 800 	Up to 1000
+RECOMMENDED INSULATION      3,000 BTU 	6,000 BTU 	9,000 BTU 	12,000 BTU 	15,000 BTU
+MODERATE INSULATION 	      6,000 BTU 	12,000 BTU 	18,000 BTU 	24,000 BTU 	30,000 BTU
+POOR INSULATION 	          9,000 BTU 	18,000 BTU 	27,000 BTU 	36,000 BTU 	45,000 BTU
+
+
+  * ControlHeaterWithThermostat
+
+  BTU = 3.41 Watts
+  
+  1500 watt radiator fin oil heater = 3.41 * 1500 = 5115 BTU
+  
+  
+  * In Britain I think, they have heaters than draw engergy off of
+    peak electricity hours, then use it later.
+  
+  * a rule of thumb suggests the unit needs to consume 10 watts of power
+    per square foot of room area
+    
+  * A 1,500 watt heater producing 5,100 BTUs can heat 150 square feet. 
+    That's equivalent to a (assume 8 foot ceiling, units:feet)
+      * 10-by-15 
+      * 11-by-14
+      * 12-by-12.5
+      
++++ RELATED
+
++++ PARENT

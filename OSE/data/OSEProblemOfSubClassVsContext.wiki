@@ -1,0 +1,7 @@
+﻿++ OSE Problem Of Sub Class Vs Context
+
+
++++ EXAMPLES
+  1. ObjectEntityOrganismHuman
+     or
+     ObjectEntityOrganismAnimal

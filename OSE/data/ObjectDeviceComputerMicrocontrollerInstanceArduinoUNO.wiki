@@ -1,0 +1,21 @@
+﻿++ Object Device Computer Microcontroller Instance Arduino UNO
+
+
++++ SUMMARY
+
+
++++ EXTERNAL LINKS
+
+  * (1) Files necessary to "build your own"
+    * https://store.arduino.cc/usa/arduino-uno-rev3
+   
+  * (2) vector based SVG format drawings, not made available by Arduino.cc   https://www.wayneandlayne.com/blog/2010/12/19/nice-drawings-of-the-arduino-uno-and-mega-2560/ 
+    
+    
++++ RELATED
+
+  * 
+    
++++ PARENT
+
+  * ObjectDeviceComputerMicrocontrollerInstanceArduino

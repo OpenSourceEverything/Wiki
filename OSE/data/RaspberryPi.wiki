@@ -1,0 +1,21 @@
+﻿++ Raspberry Pi
+
++++ SUMMARY
+
+  * Series of small single board computers
+  * 
+  * plugs into computer monitor, keyboard, mouse
+  * made by by the Raspberry Pi Foundation in association with Broadcom.
+
++++ CHILDREN
+
+  RaspberryPiSchematics
+
+
++++ RELATED
+
+
++++ PARENT
+
+  ??? 
+  ProcessComputingComputerScience

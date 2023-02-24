@@ -1,0 +1,17 @@
+﻿++ UV Water Filtration
+
+
+
++++ Pre-requisites
+  * Clear water with no color
+  * no sediment, no tannin
+  * iron: less than .3 ppm
+  * hardness: less than 7 grains per gallon
+
+
+  * For residential, units typically are rated in gallons per minute, 5,7,10,12.
+  * Only destroys
+
++++ Residential Installation
+
+  * Install after all other filtration but before it splits into hot and cold water.

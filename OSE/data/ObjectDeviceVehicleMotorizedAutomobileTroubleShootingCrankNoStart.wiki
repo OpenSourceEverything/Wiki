@@ -1,0 +1,77 @@
+﻿++ Object Device Vehicle Motorized Automobile Trouble Shooting Crank No Start
+
+
+  * Needs refactored based on electric/combustion
+
++++ SYMPTOM
+
+
+  * This symptom means when you attempt to start the
+
+
++++ DIAGNOSTIC TESTS
+++++ CHRONOLOGICAL/SEQUENTIAL
+* When cranking if tachometer exists it should be moving, indicating cam/crank signal is good, else possibly bad.
+* Make sure the relay is clicking (activating) when you put the key in ready position,
+
+  
+    * Listen to the fuel pump to see if its pumping when you put key in ready position 
+      * (may need to get close to it to hear).
+  
+    * Check Fuel Pressure. You need a tool to measure this in PSI.
+      * Some cars have a shraeder valve, which allows for an easy plug in of tool.
+      * If no schraeder valve, you have to use a T coupler and manually place your pressure gauge into the plumbing
+    
+
+  
+  * Electrical / Spark:
+
+    * Cam/Crank signal?  
+    
+    * Check for spark
+      * turn with each ignition coil out and have someone watch for spark
+  
+    * Check every single fuse and relay related to the ignition system, fuel pumps, spark plugs
+    *   
+
+
+
+
+
+
+
++++ POSSIBLE CAUSES:
+  
+  
+  * Fuel:
+    * No Fuel in tank
+  * Electrical/Spark
+    * Insufficient Battery (if cranking is slow,weak)
+    * Battery terminal connections loose or corroded
+    * Leak in fuel system:
+      * Fuel Injectors
+      * Fuel Pump
+      * Pressure Regulator
+      * ....  
+  
+    * Fuel not reaching fuel injection system
+    * Ignition Components damp or damaged
+    * Bad Spark Plugs:
+      * worn, incorrectly gapped, faulty
+    * Broken, Loose or disconnected wiring in starting circuit (I think this would cause the cranking to be erratic though?)
+    * Bad / Disconnected wires at IgnitionCoil or bad coil
+      * broken, loose     
+      
+      
++++ EXTERNAL RESOURCES
+  * General diagnosis using fuel pressure gauge among other tools.
+  * https://www.youtube.com/watch?v=_oXLUqE4Sf0
+  
+  
+  
+  
+  
+  
++++ PARENT
+
+  ObjectDeviceVehicleMotorizedAutomobileTroubleshooting

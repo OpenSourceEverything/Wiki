@@ -1,0 +1,6 @@
+﻿++ Soil Fertilizer
+
+  nitrogen
+  phosphorous
+  potassium
+  

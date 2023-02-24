@@ -1,0 +1,313 @@
+﻿++ Scratch Pad
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+- Triage for your ideas. Get these to their places.
+- newest at top, oldest at bottom
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OSEDevice ObjectDevice
+                
+
+
+THREADING, INTERPROCESS COMMUNICATION , all with BOOST libraries
+
+this page below has quick to the point tutorials on interprocess communication with boost/interprocess/??? libraries.
+	https://www.boost.org/doc/libs/1_42_0/doc/html/interprocess/quick_guide.html
+
+
+Well, if we can assume the two processes are running on the same machine, then the fastest way for them to transfer large quantities of data back and forth is by keeping the data inside a shared memory region; with that setup, the data is never copied at all, since both processes can access it directly. (If you wanted to go even further, you could combine the two programs into one program, with each former 'process' now running as a thread inside the same process space instead. In that case they would be automatically sharing 100% of their memory with each other)
+
+Of course, just having a shared memory area isn't sufficient in most cases: you would also need some sort of synchronization mechanism so that the processes can read and update the shared data safely, without tripping over each other. The way I would do that would be to create two double-ended queues in the shared memory region (one for each process to send with). Either use a lockless FIFO-queue class, or give each double-ended queue a semaphore/mutex that you can use to serialize pushing data items into the queue and popping data items out of the queue. (Note that the data items you'd be putting into the queues would only be pointers to the actual data buffers, not the data itself... otherwise you'd be back to copying large amounts of data around, which you want to avoid. It's a good idea to use shared_ptrs instead of plain C pointers, so that "old" data will be automatically freed when the receiving process is done using it). Once you have that, the only other thing you'd need is a way for process A to notify process B when it has just put an item into the queue for B to receive (and vice versa)... I typically do that by writing a byte into a pipe that the other process is select()-ing on, to cause the other process to wake up and check its queue, but there are other ways to do it as well.
+
+
+include <boost/thread.hpp> or something showed up in codeblocks
+
+https://theboostcpplibraries.com/boost.thread-management
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+C++ and how it interacts with the OS
+
+
+If you look at things from the OS's persepctive, it provides API's for things like graphics, IPC, and IO, with a common interface. Typicaly this takes the form of linkable subroutines using a calling convention standard to that OS. People who create languages (compilers or interpreters) will provide their own code that interfaces to those subroutines, so that you can use them in your user code. For C compilers, typically this takes the form of just calling those OS routines directly. For higher-level languages, often there will be a layer of code that takes care of some of the nitty details for you, be it converting cookies to classes, or a complete portable high-level facility like you might see in some scripting languages.
+
+In C++'s case, generally you look in the STL and see if there's something there you can use. If not, your typical fallback is to call the OS routines directly like a C user would. It used to be the case that most things, outside of basic text I/O, were not available in the STL, so you have to fall back to making direct OS calls. However, recent revisions of the language have started adding more and more interfaces to typical OS functionality to the STL. Also, often there's stuff in Boost that will do want you want, if you don't mind downloading it, installing it, and figuring out how it works.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~`
+
+BOOST LIBRARIES, how to use include
+
+
+Yes, most boost libraries are header only so you do not need to compile any source files.
+
+Most of boost is distributed as "header only" libraries - meaning you do not need to "build" any kind thing to use that library. Random is one of those, so it is possible to just include the correct header files and you will be away laughing. I would say it is best to get the whole boost source somewhere, and reference that since the different parts tend to have some dependencies on each other.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* you should be able to see the function name, and know what "RetVal" is.
+
+
+* Every function 
+  * will have only one return value (RetVal). This can be a reference or a variable.
+  * will declare all variables used at the beginning of the function
+    ? This may be impossible if you want to do certain things like... ???
+
+
+
+* Every enumeration 
+  * will have MAX_NUM_OBJECT
+  * will have OBJECT_TYPE_UNDEFINED
+  *  
+
+
+* how to make Atri flexible enough to implement neural network
+  * need better practical understanding of what that even means.
+
+
+* ----
+
+5621667
+AXIS CLASS (X AXIS)
+SID_DB_AXIS_CLASS_X_AXIS
+AXIS CLASS (X AXIS)
+0=linear 1=spindle 2=rotary 3=undefined
+Axis
+Integer
+LC
+MachineConfig
+
+
+
+https://en.wikipedia.org/wiki/Toki_Pona
+-- minimal language
+
+
+
+
+* ----
+* ~~~~~~~~~~~
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+did we ever have a wrc file with a mixed string and non-string argument?
+
+new resx method should have all arguments filled like choice B.
+
+Arg1.String
+Arg1.Double
+
+Arg2.String
+Arg2.Double
+
+Each argument will use string if populated, or if string is null use double.
+
+
+inline spindle in CTC - trying to fix with taiwan, 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* meeting 3dP - after this weeks managers meetings, so next week.
+
+* 
+
+
+- anything related to config paramters judy is trying to address.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SBMs.h
+  const unsigned int SBM_SAVE_ORIENT_HOME_OFFSET        = 1371; // former 3200043
+  
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+* IMPLEMENT TRIGGER MOVES BY JUST ADDING AN EXTRA BYTE THAT IT CHECKS PROBABLY 
+  IN UIPOSITIONMOVE()
+  
+
+
+
+* SEND VOLOVIC AN EMAIL OR SOMETHING OR TALK TO LAY TOMORROW MORNING.
+
+
+* WORK OUT AND TEST ALL WINMAX COMMANDS
+
+* UPDATE WORK PHONE TOMORROW - RT EMAIL AND HR.
+
+* UPDATE EMERGENCY CONTACT - HURCO.
+
+* EMAIL SCUBA STL FOR PHONE - GO!
+
+
+* ACTIVE COOLANT NOTES FOR WHEN YOU GET BACK INTO IT IN A WEEK OR TWO
+
+  - TEST HANDLING OF RANDOM MESSAGES SENT WHEN ABORTING THE PROGRAM THAT
+    SHOULDNT BE HANDLED, VERY IMPORTANT THAT ONNOTIFICATIONRECEIVED IS VERY
+    HIGH PRIORITY.
+    
+  - TRIGGER MOVES
+  
+  - CALIBRATION
+  
+  - HOW TO KNOW THAT CW, CCW IS SET UP PROPERLY, THATS MOTOR WIRING I GUESS????
+      ?? WHAT IS CONSIDERING POSITIVE ROTATION FOR SPINDLE
+      ?? CHECK FOR ERRORS
+      -- 1. return home is optional
+          2. handle end of program!
+          2. cleanup all old logging.
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+
+      
+      
+      
+-- old version - fans on all the time.
+  -- other versions of stuff have variable speed fanas.
+  
+  
+  
+  ?? should we give control of fans to
+  
+  both heaters and fan are mapped to an input
+  
+  heaters work, does checkign, fans are high all the time,
+  
+  2 heaters, 1 for inlet 1 for outlet. typically set to 0.
+  
+  
+  for inlet we always pass 0 temperature, this keeps it from commanding.
+  
+  STO will be jumpered with no relay to control STO, not necessary.
+  
+  
+  
+  - need ability to turn on and off 24V to print head.
+    - for falling chips especially.
+    - LED
+    
+  - slice 6 - special slice for 3dPrint, sinking bank can be configured that way
+     has ARTL unit, with own banks, we can make this what we want it will have 
+     its own banks on its own slice.
+     
+     
+  - ecat io - is configurable as sinking or sourcing.
+  
+  
+  
+  
+  ~~~~~~~~~~~~~~~~~~
+  axis present - another input.
+  
+  
+  
+  
+  
+  
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------------------------------
+
+Axis2ActualPosition.Text = dPosition.ToString("F3");
+
+
+
+34280 cnt = 15426 deg = 306 deg = offset and position
+
+
+1602 degrees = 
+
+UiGetPositionWithOffset
+
+       pos                   but says 34280cnts = 15426 degrees = 306 is offset = 80 = 280
+306 - (1602)162
+
+34280 / 800 * 360  = 
+ 
+1602 * 800 / 360   =
+
+quen transvito que tus veinas
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1st to 18th march scuba in china.
+
+scuba leaves for china saturday march 1st. that week starts monday 25th feb.
+
+very latest he could test changes that week.
+
+ponto will take over for him while gone. he leaves again for china after first
+trip.
+
+
+
+
+at 45 degrees, issue 50 degree absolute move axis 2.
+
+
+
+
+
+
+
+
+
+
+
+Build for ISO stuff from Robert. 
+  everything is hard coded ISO.
+  - follow up with production.
+  - changes in tip and ready, part program position, DRO was also wrong both in 
+    and out.
+  - chris goes back to customer on monday.
+  - 9.2 was non ISO
+  - long time ago we made it so that all mills are ISo as shipped.
+  
+
+  manual rapid move v11 should be changes in V11, it should be packaged by interp 
+  and sent down as macro.
+
+
+  jog should be more relative.
+
+
+  jogging 
+
+
+
+  part attached or tool attached is determining if something needs inverted.
+  tool attached rotary axes do not invert.
+  
+  but when used between turnign and milling operation. it didnt reset encoders
+  == did path send it to RT.
+  
+  if you get
+  m31
+  c1000
+  
+  they should send this directly not,
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+

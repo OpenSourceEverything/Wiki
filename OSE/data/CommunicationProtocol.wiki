@@ -1,0 +1,12 @@
+﻿++ Communication Protocol
+
+set of rules and regulations 
+determine how data is transmitted in 
+  telecommunications and 
+  computer communication 
+  computer networking 
+  
+  
++++ PARENT
+
+ObjectSystemCode

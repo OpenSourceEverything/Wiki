@@ -1,0 +1,17 @@
+﻿++ Object System Code File Format Instance XML
+
+
+
++++ DETAILS
+++++ USES:
+    XML is used for configuration if you are using a framework like Spring or Hibernate, Android development, and many other platforms.
+    XML can be used on the server-side and then converted into JSON for a web client. This allows you to validate using XML schemas.
+    XML is used extensively throughout the online publishing world, although there has been some movement to HTML5 - DITA and DocBook are still the dominant formats.
+    XML is used for SVG, Scalable Vector Graphics, which are used in data visualization libraries like d3.js.
+    XML is used in WS-* SOA enterprise systems - ones which use SOAP and WSDL. These are common and will be for years to come.
+    XML is used in RSS and Atom-based syndication, although JSON will replace these given time.
+    
+    
++++ PARENT
+[//ObjectSystemCodeFileFormatInstance]
+

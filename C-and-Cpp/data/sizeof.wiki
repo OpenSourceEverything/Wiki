@@ -1,0 +1,15 @@
+﻿++ sizeof
+
+
+
++++ DETAILS
+
+sizeof(int) will often be 
+
+
+* The size of an int is really compiler dependent. Back in the day, when processors were 16 bit, an int was 2 bytes. Nowadays, it's most often 4 bytes on a 32-bit as well as 64-bit systems.
+
+* The only thing the C standard guarantees is that
+  * sizeof(char) == 1
+  * sizeof(char) <= sizeof(short) <= sizeof(int) <= sizeof(long) <= sizeof(long long)
+

@@ -1,0 +1,20 @@
+﻿++ Git Detatched HEAD
+
++++ SUMMARY
+
+  * think of a detached HEAD as a temporary branch without a name.
+
+  * Situation when you check out a commit (or tag) instead of a branch. 
+    * Imagine this as a temporary branch without a name
+    * instead of having a named branch reference, we only have HEAD. 
+    * It will still allow you to make commits (which will update HEAD), 
+
+
++++ RELATED
+
+  GitHEAD
+
+
++++ PARENT
+  
+  GitVocabulary

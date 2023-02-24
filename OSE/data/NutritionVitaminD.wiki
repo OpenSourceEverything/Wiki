@@ -1,0 +1,39 @@
+﻿++ Nutrition Vitamin D
+
+
++++ SUMMARY
+  
+  
+  * Techincally not a NutritionVitamin, a group of fat-soluble secosteroids.
+  * 
+  * Preferable to get VitaminD by exposing skin to direct sun
+    * Possible to get from food
+      * I found a vegan supplement made from OrganismLichen 
+  
+  * There are two VitaminD types
+    * D2
+      * Plant derived
+      * Tends to bind less easily
+      *   
+    * D3 (cholecalciferol) 
+      * Animal Derived
+      * Tends to bind more easily   
+
+  * Recommended blood level 60 to 80 ng/mL
+    * 20 ng/mL is dangerous 
+    
+    
++++ FOOD SOURCES
+
+  * D3 can be derived from OrganismLichen, closest to a Fungus I think
+  
+  * 
+
++++ NOTES
+
+  * Some sources say D3 is higly preferable
+    *  
+
++++ PARENT
+
+  * NutritionVitamin

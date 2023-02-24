@@ -1,0 +1,26 @@
+﻿++ Object Algorithm Rotate A Point Around A Circle
+
+
+
+rel://files/_YDNDNNG54A60CMGCYHYT.png
+saved desmos plot of this. 
+  to do make a free offline version of desmos.
+  
+
+
+
++++ SUMMARY
+  Use ProcessMathematicsLinearAlgebraTransformationMatrix
+  
+
+  
++++ CHILDREN
+ObjectAlgorithmRotateAPointAroundACircleInstance
+
++++ RELATED
+
+ProcessMotion
+  
++++ PARENT
+
+ObjectAlgorithm

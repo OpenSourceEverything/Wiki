@@ -1,0 +1,26 @@
+﻿++ stdlist
+
+
++++ SUMMARY
+
+According to this article, avoid use, alternatives below.
+Cant account for how valid argument is, but would like to implement as much in C as possible
+
+  It’s worse than an array for any N. Don’t use std::list.
+  http://danglingpointers.com/post/dont-use-std-list/
+
+
+
+Use std::list when:
+  * items are very large, moving is expensive.
+  
++++ ALTERNATIVES
+
+* if: bounded size list  
+  * array of MAX_SIZE
+
+* if: unbounded sized list
+  * std::vector
+
+* if: 
+  

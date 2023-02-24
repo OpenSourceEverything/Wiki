@@ -1,0 +1,30 @@
+﻿++ despejar
+
+despejar⇒ vtr	(abrir espacio)	clear⇒ vtr
+ 	Despeja la mesa para poder poner el platón caliente.
+ 	Clear the table, so we can put the hot platter on it.
+ 	
+despejar vtr	(aclarar)	clear up vtr phrasal insep
+ 	 	resolve⇒ vtr
+ 	Para despejar tus dudas, lee todo el informe.
+ 	To clear up your doubts, read the whole report.
+ 	
+despejar vtr	deportes (balón: sacar) (sport: clear the ball)	clear⇒ vtr
+ 	El portero despejo con un lanzamiento hasta la portería contraria.
+ 	The goalkeeper cleared with a kick toward the opposite goal.
+ 	
+despejarse⇒ v prnl	(cielo: sin nubes) (weather)	clear up vi phrasal
+ 	El cielo está encapotado, no vamos a salir de día de campo hasta que se despeje.
+ 	The sky is overcast; we're not going to go out for our picnic until it clears up.
+ 	
+despejarse v prnl	(aclarar las ideas)	clear your head, clear your mind v expr
+ 	Sal a caminar para despejarte y se te ocurrirá una solución para tu problema.
+ 	Go for a walk to clear your head (or: clear your mind), and you might think of a solution for your problem.
+ 
+ 
+Additional Translations
+Spanish		English
+despejar⇒ vtr	(matemáticas: resolver) (math: answer, value, variable)	solve for⇒ vi
+ 	 	find⇒ vtr
+ 	Debes despejar la incógnita de la ecuación para resolver el problema.
+ 	You must solve the unknown factor to find the solution to the problem.

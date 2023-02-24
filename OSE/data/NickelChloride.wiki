@@ -1,0 +1,9 @@
+﻿++ Nickel Chloride
+
+  - used for electroplating nickel onto metal
+  
+  
+  
++++ PARENT
+
+  [OSE] ?

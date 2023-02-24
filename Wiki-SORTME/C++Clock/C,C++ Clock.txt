@@ -1,0 +1,144 @@
+HowardHinnant
+·
+2 yr. ago
+
+With chrono you can always implement a custom clock if you are not satisfied with the clocks the system supplies. Your custom clock can be a first class member of the chrono family, interoperating with chrono time_points, durations and std-lib calls just as the std::clocks do.
+
+For example: https://stackoverflow.com/a/5524138/576911
+
+One could use this to limit the amount of non-portable code to just the details of the custom clock implementation, leaving all clients of that clock with portable code.
+
+
+from the link above::
+
+
+
+
+Updated answer for an old question:
+
+In C++11 you can portably get to the highest resolution timer with:
+
+#include <iostream>
+#include <chrono>
+#include "chrono_io"
+
+int main()
+{
+    typedef std::chrono::high_resolution_clock Clock;
+    auto t1 = Clock::now();
+    auto t2 = Clock::now();
+    std::cout << t2-t1 << '\n';
+}
+
+Example output:
+
+74 nanoseconds
+
+"chrono_io" is an extension to ease I/O issues with these new types and is freely available here.
+
+There is also an implementation of <chrono> available in boost (might still be on tip-of-trunk, not sure it has been released).
+
+Update
+
+This is in response to Ben's comment below that subsequent calls to std::chrono::high_resolution_clock take several milliseconds in VS11. Below is a <chrono>-compatible workaround. However it only works on Intel hardware, you need to dip into inline assembly (syntax to do that varies with compiler), and you have to hardwire the machine's clock speed into the clock:
+
+#include <chrono>
+
+struct clock
+{
+    typedef unsigned long long                 rep;
+    typedef std::ratio<1, 2800000000>          period; // My machine is 2.8 GHz
+    typedef std::chrono::duration<rep, period> duration;
+    typedef std::chrono::time_point<clock>     time_point;
+    static const bool is_steady =              true;
+
+    static time_point now() noexcept
+    {
+        unsigned lo, hi;
+        asm volatile("rdtsc" : "=a" (lo), "=d" (hi));
+        return time_point(duration(static_cast<rep>(hi) << 32 | lo));
+    }
+
+private:
+
+    static
+    unsigned
+    get_clock_speed()
+    {
+        int mib[] = {CTL_HW, HW_CPU_FREQ};
+        const std::size_t namelen = sizeof(mib)/sizeof(mib[0]);
+        unsigned freq;
+        size_t freq_len = sizeof(freq);
+        if (sysctl(mib, namelen, &freq, &freq_len, nullptr, 0) != 0)
+            return 0;
+        return freq;
+    }
+
+    static
+    bool
+    check_invariants()
+    {
+        static_assert(1 == period::num, "period must be 1/freq");
+        assert(get_clock_speed() == period::den);
+        static_assert(std::is_same<rep, duration::rep>::value,
+                      "rep and duration::rep must be the same type");
+        static_assert(std::is_same<period, duration::period>::value,
+                      "period and duration::period must be the same type");
+        static_assert(std::is_same<duration, time_point::duration>::value,
+                      "duration and time_point::duration must be the same type");
+        return true;
+    }
+
+    static const bool invariants;
+};
+
+const bool clock::invariants = clock::check_invariants();
+
+So it isn't portable. But if you want to experiment with a high resolution clock on your own intel hardware, it doesn't get finer than this. Though be forewarned, today's clock speeds can dynamically change (they aren't really a compile-time constant). And with a multiprocessor machine you can even get time stamps from different processors. But still, experiments on my hardware work fairly well. If you're stuck with millisecond resolution, this could be a workaround.
+
+This clock has a duration in terms of your cpu's clock speed (as you reported it). I.e. for me this clock ticks once every 1/2,800,000,000 of a second. If you want to, you can convert this to nanoseconds (for example) with:
+
+using std::chrono::nanoseconds;
+using std::chrono::duration_cast;
+auto t0 = clock::now();
+auto t1 = clock::now();
+nanoseconds ns = duration_cast<nanoseconds>(t1-t0);
+
+The conversion will truncate fractions of a cpu cycle to form the nanosecond. Other rounding modes are possible, but that's a different topic.
+
+For me this will return a duration as low as 18 clock ticks, which truncates to 6 nanoseconds.
+
+I've added some "invariant checking" to the above clock, the most important of which is checking that the clock::period is correct for the machine. Again, this is not portable code, but if you're using this clock, you've already committed to that. The private get_clock_speed() function shown here gets the maximum cpu frequency on OS X, and that should be the same number as the constant denominator of clock::period.
+
+Adding this will save you a little debugging time when you port this code to your new machine and forget to update the clock::period to the speed of your new machine. All of the checking is done either at compile-time or at program startup time. So it won't impact the performance of clock::now() in the least.
+Share
+Edit
+Follow
+edited Nov 29, 2014 at 17:14
+answered Apr 2, 2011 at 15:45
+user avatar
+Howard Hinnant
+193k4949 gold badges425425 silver badges555555 bronze badges
+
+    2
+    In Visual Studio 11, the shortest non-zero interval for high_resolution_clock is several milliseconds, unfortunately. – 
+    Petter
+    Jan 19, 2012 at 22:50
+    6
+    It took a few seconds for that sink in for me ... millions of nanoseconds on a platform where the clock speed is a fraction of a nanosecond. Wow!!! I was hoping to see platforms where fractions of a nanosecond would be measurable. I thought my results of several tens of nanoseconds not that impressive. – 
+    Howard Hinnant
+    Jan 20, 2012 at 3:57
+    3
+    Is anyone aware of a way to get cpu frequency in compile time? Also... can't cpu frequency vary in run time these days, with turbo modes and whatnot? perhaps that invalidates this approach as viable? I do need a decent timer in VS11 though, ugh. – 
+    David
+    Feb 18, 2013 at 0:01
+    3
+    @Dave: Yes, cpu frequency can vary dynamically (I stated this in the answer). My experiments when using this are typically a tight loop around something I'm trying to measure. Such a tight loop, at least for my platform, usually boosts the cpu frequency to its maximum, and that maximum is typically a compile-time constant (read off off of the cpu specification). So for that kind of benchmarking, this can be a valid technique. But obviously this isn't something for general purpose use. It isn't something I'd recommend shipping. Only something for investigation purposes. – 
+    Howard Hinnant
+    Feb 18, 2013 at 1:52
+    7
+    I'm getting 600-1200 nanoseconds on windows using VS2017, and it appears to be using the high performance timer. So it seems that this issue of 1ms resolution is no longer a problem. – 
+    Programmdude
+    Mar 26, 2017 at 11:47
+
+

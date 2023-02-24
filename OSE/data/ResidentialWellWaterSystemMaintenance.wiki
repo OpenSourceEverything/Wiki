@@ -1,0 +1,16 @@
+﻿++ Residential Well Water System Maintenance
+
+  0. Always ensure well cap is well sealed. This is vital to avoid
+     critters and shit getting in.
+
+  1. At all times, ensure no contaminants can be physically getting 
+     into the well itself:
+       - runoff from a nearby street.
+       - chemicals stored nearby
+       - septic tank nearby with your poo poo in it.
+         - well head should be 100 feet away from septic drain field
+         
+
++++ Parent
+
+  ResidentialProperty

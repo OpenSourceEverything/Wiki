@@ -1,0 +1,22 @@
+﻿++ Computer ProcessScience R Value
+
+  
++++ Summary
+
+  * Location of variable
+  
+
++++ C++ Definition
+  
+  * A Variable that is not a ComputerScienceLValue
+  
+  
+  
+   
+
++++ Related
+  * ComputerScienceLValue
+  * CppMoveSemantics
+
++++ Parent
+  * ProcessComputingComputerScience

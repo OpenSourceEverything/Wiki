@@ -1,0 +1,11 @@
+﻿++ Electrical Submetering
+
++++ SUMMARY
+
+  * Basically monitoring electricity usage. 
+  * Called "Submetering" because the metering is done after the mains meter that your utility checks.
+
++++ PARENT
+
+  ???
+  [GK]

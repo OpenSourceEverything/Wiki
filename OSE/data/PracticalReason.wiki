@@ -1,0 +1,13 @@
+﻿++ Practical Reason
+
+
++++ SUMMARY
+
+  the use of reason to decide how to act. 
+  
+  It contrasts with theoretical reason, often called speculative reason, the use of reason to decide what to follow. For example, agents use practical reason to decide whether to build a telescope, but theoretical reason to decide which of two theories of light and optics is the best. 
+  
+  
++++ Parent
+
+  * PhilosophyReason

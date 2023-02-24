@@ -1,0 +1,45 @@
+﻿++ Object System Operating System Instance Linux
+
++++ SUMMARY
+
+Mostly POSIX compliant.
+rel://files/img/_XV3VN6FZIFKNRKPHT722.png
+
++++ Children
+AdvancedLinuxSoundArchitecture
+
+LinuxFileSystemHierarchyStandard
+
+EssentialLinuxCommands
+  
+LinuxScratchNotes
+
+LinuxScreenShotSoftware
+LinuxWritingSoftwareLibraries
+
++++ OPERTIONS
+LinuxOperationSDCard
+
+
++++ HOW TO
+
+  * LinuxHowToConvertEpubToPDF
+
++++ Local Directory
+  
+  [rel://files/Linux/]
+  
+  
++++ Linux Tools
+
+  * https://linux.die.net/man/
+    * ComputerScienceComputerProgrammingOperatingSystemLinuxToolMake
+    * ComputerScienceComputerProgrammingOperatingSystemLinuxToolMakedepend
+
+
++++ Redirect 
+  
+  ComputerScienceComputerProgrammingOperatingSystemLinux 
+  
++++ Parent
+  ProcessComputingComputerScience

@@ -1,0 +1,12 @@
+﻿++ Git
+
+GitRemote
+IgnoreCertainFileTypes
+GitIgnore
+GitMerge
+
+
+
+
+
+	* WikiSettings

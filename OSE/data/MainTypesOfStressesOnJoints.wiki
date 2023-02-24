@@ -1,0 +1,8 @@
+﻿++ Main Types Of Stresses On Joints
+
+Before you decide what joint to cut/make, you need to first understand what kind of stress the joint will receive. There are 4 main ones:
+
+Tension – Imagine pulling a pen cap off of a pen.
+sheer – Imaging snapping a branch off a tree by pushing it up and pulling it down
+Racking – Imagine wiggling a plug out of a socket.
+Compression – Imagine pushing a sharpened pencil into a piece of cardboard. This would result in a compression failure.

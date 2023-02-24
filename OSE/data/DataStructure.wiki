@@ -1,0 +1,9 @@
+﻿++ Data Structure
+
+
+* An AlgebraicStructure about [data]. 
+
+*[Data]
+  * [relationship](s) among said [Data], 
+  * Operations involving the data 
+

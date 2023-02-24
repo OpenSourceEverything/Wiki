@@ -1,0 +1,16 @@
+﻿++ Object Idea Mathematical Function
+
++++ SUMMARY
+
+
+In mathematics, a function is a binary relation between two sets that associates to each element of the first set exactly one element of the second set. 
+
+Typical examples are functions from integers to integers, or from the real numbers to real numbers. 
+
++++ CHILDREN
+ObjectIdea
+ObjectIdeaMathematicalObjectFunctionSignal
+[ObjectIdeaMathematicalFunctionInstanceTwo'sCompliment]
++++ PARENT
+
+ProcessStudyMathematics

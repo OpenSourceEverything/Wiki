@@ -1,0 +1,5 @@
+﻿++ Cpp Runtime Polymorphism
+
+  * CppRuntimePolymorphismVirtualFunction
+  * CppRuntimePolymorphismPureVirtualFunction
+  * CppDifferentBetweenVirtualFunctionAndPureVirtualFunction

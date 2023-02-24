@@ -1,0 +1,6 @@
+﻿++ instantiation
+[instance]
+[Instance]
+use this in place of enumeration,
+
+example: Object

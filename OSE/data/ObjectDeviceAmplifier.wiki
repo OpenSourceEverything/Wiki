@@ -1,0 +1,33 @@
+﻿++ Object Device Amplifier
++++ SYNONYMS
+* electronic amplifier 
+* (informally) amp
+
++++ SUMMARY
+
+Electronic ObjectDevice 
+
+* can increase the power of a signal (a time-varying voltage or current). 
+
+* a two-port electronic circuit 
+
+* uses an electric power from a power supply to increase the amplitude of a signal applied to its input terminals, produces a proportionally greater amplitude signal at its output.
+  * amplification amount is measured by its gain: 
+    * the ratio of output voltage, current, or power to input. 
+
+* a circuit that has a power gain greater than one.[1][2][3]
+
+
++++ CHILDREN
+ObjectDeviceAmplifier
+ObjectDeviceAmplfierElectronic
+ObjectDeviceAmplfierFluidic
+ObjectDeviceAmplfierMagnetic
+ObjectDeviceAmplfierMechanical
+ObjectDeviceAmplfierOptical
+ObjectDeviceAmplfierPneumatic
+ObjectDeviceAmplfierTorque
+
+
++++ PARENT
+ObjectDevice

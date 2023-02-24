@@ -1,0 +1,15 @@
+﻿++ Wikid Pad
+
+  * Project homepage:
+    * http://trac.wikidpad2.webfactional.com/
+    
+
+Repository is available at Github:
+​    * https://github.com/WikidPad/WikidPad
+
+    * Clone with https: ​https://github.com/WikidPad/WikidPad.git
+
+    * Clone with ssh: git@github.com:WikidPad/WikidPad.git
+
+    * Clone with SVN: ​https://github.com/WikidPad/WikidPad
+        (Warning: this repository isn't compatible with previous Subversion repository from CheckingOutFromSvn) 

@@ -1,0 +1,26 @@
+﻿++ Object Data Information Website
+ObjectWebSite
+
++++ SUMMARY
+
+  * ObjectDataInformationWebPage(s) and related content 
+    * identified by a common domain name
+    * published on at least one web server. 
+    * Notable examples are wikipedia.org, google.com, and amazon.com. 
+  
+
++++ DETAILS
+++++  
+
+
++++ NOTES:
+  * enable ipv6?
+    * cant hurt, ipv6 support is improving 
+  
++++ RELATED
+
+OSEObjectDataInformationWebsite
+
++++ PARENT
+
+[Object]

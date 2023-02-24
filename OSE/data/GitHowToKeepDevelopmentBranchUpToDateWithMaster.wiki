@@ -1,0 +1,2 @@
+﻿++ Git How To Keep Development Branch Up To Date With Master
+GitHowToKeepDevelopmentBranchUpToDateWithMasterOrOtherBranch

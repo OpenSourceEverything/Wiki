@@ -1,0 +1,24 @@
+﻿++ Generate Your Own Home Electricity
+
+* This website is a great resource
+    * electricity information:    
+        * https://michaelbluejay.com/electricity/bicyclepower.html 
+    * generating electricity, practical info, hardware information:
+        * https://www.todayshomeowner.com/living-off-the-grid-generating-your-own-electricity/2/
+
+* TODO: buy either a kill-a-watt or something similar
+  * http://pwww.emon.com/en/emon/products/metering-products  
+  * https://www.reddit.com/r/BuyItForLife/comments/8a4ocp/alternative_electrical_meter_besides_killawatt/
+
+
+
++++ MonitoringElectricalConsumptionOfIndividualAppliances
++++ AverageElectricityUseOfSingleHome
+
++++ Related
+
+  * PhysicsPower
+  * PhysicsEnergy
+  * PhysicsElectricity
+  * PhysicsEnergyVersusPower
+  * 

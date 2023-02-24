@@ -1,0 +1,32 @@
+﻿++ Object Device3D Printer
+
++++ TYPES OF 3D PRINTERS
+
+    Stereolithography (SLA)           <<< Most hobbyists use this.
+    Digital Light Processing (DLP)
+    Fused deposition modeling (FDM)   <<< Most hobbyist use this. Melts filament
+    Selective Laser Sintering (SLS)
+    Selective laser melting (SLM)
+    Electronic Beam Melting (EBM)
+    Laminated object manufacturing (LOM)
+    Material Jetting (MJ)
+    Binder Jetting (BJ)
+    
+    
++++ FILAMENT DIAMETER AND WEIGHT
+  * filament is sold ins pools, 
+    * usually by weight
+      * 750gm 
+      * 1kg 
+      * 2.5kg
+  * Diameter typically is sizes, 1.75mm or 3mm
+    * some machines accept both, but check yours.
+  * 
+
++++ CHILDREN
+
+ObjectDevice3DPrinterInstance
+  
++++ PARENT
+
+ObjectDevice

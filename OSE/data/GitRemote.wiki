@@ -1,0 +1,25 @@
+﻿++ Git Remote
+
+
++++ SUMMARY
+
+  * Any repository that exists on another machine
+  
+  
++++ 
+
+  * default name is origin
+  
+  * ccreate local copy of that branch
+   
+
+
+
++++ how to create
+    1. clone repository to your local machine
+    2. add a remote connection manually
+  
+  
++++ PARENT
+
+  * [Git]

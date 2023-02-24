@@ -1,0 +1,15 @@
+﻿++ Object System Electric Power System
+
+
++++ SUMMARY
+
+  * A network of electrical components deployed to supply/transfer/use electric power.
+
++++ CHILDREN
+
+  * ObjectSystemElectricPowerSystemPhotovoltaic
+
+
++++ PARENT
+
+  ObjectSystem

@@ -1,0 +1,22 @@
+﻿++ Object Device Transformer
+
++++ SUMMARY
+
+* Two or more coils coupled by a magnetic field.
+
+
+
+
+
++++ RELATED
+
++++ EXTERNAL RESOURCES
+
++++ NOTES
+
+ObjectDeviceTransformerNotes
+
++++ PARENT 
+
+ObjectDevice
+

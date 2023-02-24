@@ -1,0 +1,13 @@
+﻿++ Makefile Variables
+
++++ $@    = current target in a recipe
++++ $^    = current prerequisite in recipe
++++ $<    = just the first current prerequisite
++++ %     = used in MakefilePatternRule
+rel://files/_UETK7NMIY0U9LZ8JAQHE.png
++++ VPATH = 
++++
++++ Parent
+
+
+  [Makefile]

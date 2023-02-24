@@ -1,0 +1,36 @@
+﻿++ Contributing To Nominatim
+
+
+
++++ Current State
+  * Using the following links, youre on the setting up postgresql part, you need
+    to follow the second link, tuning postgresql, youre on that part somewhere.
+    * https://nominatim.org/release-docs/latest/appendix/Install-on-Ubuntu-18/
+    * https://nominatim.org/release-docs/latest/admin/Installation/#postgresql-tuning
+
+
+
++++ OVERVIEW 
+  
+  * GitHub issues Main Page: https://github.com/openstreetmap/Nominatim/issues
+
++++ INSTALL
+  - https://nominatim.org/release-docs/latest/admin/Installation/
+  
+  
++++ PRE-REQUISITE KNOWLEDGE
+  - [PHP]
+  - [JSON]
+  - [SQL]
+  - PostgreSQL
+  - [Apache]
+  
++++ TASKS  
+  * NominatimSearchIntersectionEnhancement
+  
+  * RunningNominatimOnLinux
+  
++++ Related
+  * [Nominatim]
+
+

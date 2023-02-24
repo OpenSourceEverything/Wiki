@@ -1,0 +1,33 @@
+﻿++ Process Study Mathematics Function Signal Audio
+
++++ SUMMARY
+
+a representation of sound, 
+  typically using either 
+    a level of electrical voltage for analog signals, 
+    a series of binary numbers for digital signals. 
+
+Audio signals have frequencies in the audio frequency range of roughly 
+  20 to 20,000 Hz, (lower and upper limits of human hearing)
+
+
+
++++ DETAILS
+
+Some ObjectDeviceAmplifierElectronicAudio preamps are just straight gain such as bringing up a microphone level of a few microvolts up to line level which might be -10dBV (.316Volts)(0dB=1Volt) 
+or to a professional level of +4dBu(1.23 Volts)(0dB=.775 V). 
+
+Gain on this type of preamp is variable typically from 20–60dB.
+
++++ CHILDREN
+ProcessStudyMathematicsFunctionSignalAudioSignalToNoiseRationReductionTechniques
+
+ProcessStudyMathematicsFunctionSignalAudioBalancing
+
++++ RELATED
+
+ProcessStudyMathematicsFunctionSignalSignalToNoiseRatio
+
++++ PARENT
+
+ObjectIdeaMathematicalObjectFunctionSignal

@@ -1,0 +1,31 @@
+﻿++ Sentence
+
+
++++ SUMMARY
+
+
+SentencePhraseStructureRules
+
+* consists of 2 major parts:
+  * Subject
+  * Predicate
+
+  SentenceSyntacticTree
+
+
+
+* grammatical entities
+
+
+* Types:
+  * Declarative
+    * Factual (true/false)
+    * Opinion/Taste 
+* Meaningful/Meaningless
+
+
+* [Statement]s are abstract logical entities, 
+  [Sentence]s are grammatical entities
+
++++ RELATED
+[Statement]

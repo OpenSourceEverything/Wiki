@@ -1,0 +1,4 @@
+﻿++ characteristic
+
+[quality] or [trait]
+  * makes [Object] differentiable from other [Object]s

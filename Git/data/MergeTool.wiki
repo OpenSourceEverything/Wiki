@@ -1,0 +1,19 @@
+﻿++ Merge Tool
+
+
++++ SUMMARY
+
+an external software that git will invoke to resolve MergeConflict(s)
+
+
+Run merge tool:
+  git mergetool
+
++++ CHILDREN
+MergeToolSetupAndConfiguration
+
+
++++ PARENT
+
+GitMerge/GitMerging
+[Git]

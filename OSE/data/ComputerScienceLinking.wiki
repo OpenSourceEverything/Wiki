@@ -1,0 +1,15 @@
+﻿++ Computer ProcessScience Linking
+
++++ Summary
+Linking refers to the creation of a single executable file from multiple object files
+
++++ Notes
+    - there is static linking where the whole machine code of functions is actually 
+      copied into your .exe, .rtss whatever is being built so it works. with dynamic 
+      linking, it only places a pointer there. One dis-advantage of this is that you
+      may not uncover an exception until run-time. An advantage is smaller image size
+  
+    - uses the object files from the compiler and actually builds your .exe, .rtss,
+      device driver file (for windows these are i think .sys, .drv....)
+      It does this by having a predefined format 
+      

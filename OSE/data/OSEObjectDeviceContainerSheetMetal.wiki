@@ -1,0 +1,23 @@
+﻿++ OSE Object Device Container Sheet Metal
+
+
++++ SUMMARY
+
+
+  * Comparison of Simple A (only brake needed), Simple B (finger brake needed) designs.
+    * [file:///P:/D/Private/Wiki/OSE/files/20210606_051125.jpg]
+   
++++ CHILDREN
+OSEObjectDeviceContainerSheetMetalSimpleA
+OSEObjectDeviceContainerSheetMetalSimpleB
+OSEObjectDeviceContainerSheetMetalWithTabsAndHems
+
+
+
++++ RELATED
+
+
+
++++ PARENT
+
+ObjectDeviceContainer

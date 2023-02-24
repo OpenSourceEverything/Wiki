@@ -1,0 +1,11 @@
+﻿++ Rotary Encoder
+
++++Redirect
+  * ShaftEncoder
+
++++ Summary
+
+  * An electro-mechanical device that converts the angular position or motion of a shaft or axle to analog or digital output signals. 
+
++++ Related
+  * RotaryEncoderIndexPulse

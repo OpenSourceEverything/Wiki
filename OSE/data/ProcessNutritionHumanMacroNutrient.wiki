@@ -1,0 +1,22 @@
+﻿++ Process Nutrition Human Macro Nutrient
+
+
+
++++ SUMMARY
+
+  * ProcessNutritionHumanMacroNutrientCarbohydrate
+  * ProcessNutritionHumanMacroNutrientFat
+  * ProcessNutritionHumanMacroNutrientCarbohydrateFiber
+  * ProcessNutritionHumanMacroNutrientCarbohydrate      (lipids) 
+      * complete ProcessNutritionProtein(s), 
+
+* if we do not get enough carbohydrates from our diet:
+  * the body breaks down protein (which it can turn into glucose) to maintain blood sugar levels and fuel the brain and red blood cells.
+  
+      * DRI: 130g / 45% total calories 
+  
+* [RDI]:
+  
++++ PARENT
+
+ProcessNutritionHuman

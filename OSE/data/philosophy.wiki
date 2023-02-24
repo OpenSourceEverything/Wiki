@@ -1,0 +1,12 @@
+﻿++ philosophy
+
++++ Summary
+  * Study of knowledge
+  * Difficult to define.
+  * Encompasses many sub-fields
+
+
++++ Children
+
+  * PhilosophyLogic
+

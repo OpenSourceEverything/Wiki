@@ -1,0 +1,75 @@
+﻿++ Horticulture Cannabis Sativa
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
++++ Summary
+
+
++++ Plant Characteristics
+  
+  BotanyCannabisSativa
+  
+
++++ Grow Process
+
+  * GrowProcessSeedGermination
+  
+  * Seed Germination (week 1 / days 0 to 7)
+    
+    - place seeds in cool/dark/dry place in jar of water for 18-24 hours
+      - seeds should sink to bottom indicating they are ready for next step
+    
+    - store seeds in damp paper towel, maintain constant towel moisture
+      - check every 4-8 hours
+      - Readt for next step once tap roots are 3/4 to 1 inch long 
+  
+    - move to grow medium (70/30 CocoCoir, Purlite)
+      - create small hole place tap roots downward
+      - place a little water at ph 6.1
+      - humidifier in tent (aim for 70% room humidity)
+        - or just keep a water bottle over it?
+
+  
+  * After 7 days in grow medium 
+      - feed: 
+      (General Hydroponics brand)
+      - 2 ml   Cal-Mag
+      - 1 ml   Micro
+      - 1 ml   Gro
+      - .5 ml  Bloom
+  
+    
+  * After 14 days until 28th day of Growth
+    - feed: 
+      (General Hydroponics brand)
+      - 2 ml      Cal-Mag
+      - 2.5 ml    Micro
+      - 2.5 ml    Gro
+      - 1.0 ml    Bloom
+  
+  
+  
+  * 28 to day 35 (transition)
+    (General Hydroponics brand)
+      - 2 ml      Cal-Mag
+      - 2.0 ml    Micro
+      - 1.0 ml    Gro
+      - 2.0 ml    Bloom
+      
+    * 35 to day 42 (transition)
+    (General Hydroponics brand)
+      - 2 ml   Cal-Mag
+      - 2.5 ml   Micro
+      - 1.0 ml   Gro
+      - 1.0 ml  Bloom
+      
+      
+      
+
++++ Related
+
+  [ProcessBotany]
+
++++ Parent
+  
+  [Horticulture]
+  
+  

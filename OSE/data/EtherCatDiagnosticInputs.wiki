@@ -1,0 +1,7 @@
+﻿++ Ether Cat Diagnostic Inputs
+
+https://infosys.beckhoff.com/index.php?content=../content/1031/tcsystemmanager/reference/ethercat/html/EtherCAT_Diagnostics.htm&id=
+
+The inputs and outputs under Device 1 - Image-Info in ET9000. 
+
+DevState, Frm0State Frm0WcState etc.... InfoData

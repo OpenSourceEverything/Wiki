@@ -1,0 +1,113 @@
+﻿////////////////////////////////////////////////////////////////////////////////
+//
+//  C++ Class Header File (Module.hpp)
+//    * Make sure to include source code documentation here.
+//    * C++ doesn't force you to group function definitions in classes
+//
+//
+//    1. Stuff external to class definition
+//      1.1 - Pre-processor definitions
+//    2.
+//
+//
+//
+//
+//
+//
+////////////////////////////////////////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+// HeaderGuard
+// This is a "pre-processor define". Practically and functionally what it does 
+// is guarantee that this header file is only included once.
+////////////////////////////////////////////////////////////////////////////////
+#ifndef _TEMPLATE_MODULE_H
+#define _TEMPLATE_MODULE_H
+
+#include <Include>
+#include "Include.h"
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+// Preprocessor definitions (external to the Module class):
+//   symbol definitions of things that need to be shared and that can only 
+//   accomplished via the preprocessor. Even in C, preprocessor symbols are best
+//   kept to a minimum. 
+//
+////////////////////////////////////////////////////////////////////////////////
+#define GLOBAL_MACRO  5
+#define MAX_SEQUENCE_NUMBER_DIGITS 7
+
+////////////////////////////////////////////////////////////////////////////////
+// Type Defintions (external the Module class)
+//   * Forward declarations for types used by the header file code.
+//   * types shared amongst multiple source files (this header exposes them to 
+//     the linker) 
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+//
+// Class definition
+//   symbol definitions of things that need to be shared and that can only 
+//   accomplished via the preprocessor. Even in C, preprocessor symbols are best
+//   kept to a minimum. 
+//
+////////////////////////////////////////////////////////////////////////////////
+class Module
+{
+private:
+  std::string m_pCharBuf;
+  std::string m_userErrorMessage;
+
+public:
+  DWORD   sequence_number;
+  DWORD   block_number;
+
+  Module *prev;
+  Module *next;
+  BOOL    tagged;
+
+  Module();
+  Module(nc_feature_id *feature_id);
+  ~Module();
+
+  const Module& operator =( const Module& module );
+  Module* GetDeepCopy();
+
+  std::string& GetUserErrorMessage() { return m_userErrorMessage; };
+  void SetUserErrorMessage(std::string userErrorMessage) { m_userErrorMessage = userErrorMessage; };
+
+  void CopyCharBuf(const char* buf);
+  const char* GetCharBuf() const;
+  const std::string GetCharBufAsString() const;
+  bool  IsCharBufEmpty() const;
+  int  BlockContainsSequenceNumber() const;
+  DWORD GetSequenceNumber (BOOL skip_blocks) const;
+  size_t GetCharBufLength(bool bTotalAllocatedSize = false) const;
+  void  DeleteCharBuf();
+  void  GetAptString(std::string& cString);
+  DWORD GetSize() const;
+  bool IsCommentBlock() const;
+
+  DWORD GetBlockId() const;
+  byte GetFileId() const;
+
+  nc_feature_id*  GetFeatureIdentifier();
+  void            SetFeatureIdentifier( nc_feature_id* a_pFeatureIdentifier );
+  void            CopyFeatureIdentifier( nc_feature_id* a_pFeatureIdentifier );
+
+private:
+    pointer *ptr;
+
+  bool  CharacterIsADigit(BYTE character) const;
+  void Initialize();
+};
+
+#define BLOCK_HEADER_SIZE sizeof(Module)
+
+#endif // ifndef _TEMPLATE_MODULE_H

@@ -1,0 +1,7 @@
+﻿++ Electronic Relay
+
+  * an electrical switch
+  https://www.youtube.com/watch?v=n9renPKEtUc
+  summarize video above.
+
+  * often acts as bridge between low power digital circuitry and high power circuitry

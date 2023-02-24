@@ -1,0 +1,7 @@
+﻿++ Hardware Description Language
+
++++ SUMMARY
+used to model integrated circuits
+
++++ PARENT
+ObjectSystemLanguageFormalComputer 

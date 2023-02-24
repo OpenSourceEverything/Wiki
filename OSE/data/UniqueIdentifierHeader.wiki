@@ -1,0 +1,4 @@
+﻿++ Unique Identifier Header
+
+    UIDH - all i know now is it has been used by Verizon to track users via web
+           traffic modification.

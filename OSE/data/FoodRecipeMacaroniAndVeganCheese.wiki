@@ -1,0 +1,40 @@
+﻿++ Food Recipe Macaroni And Vegan Cheese
+
+
++++ TOOLS
+ 
+  * Bread pan (to shape as desired)
+  
+  *  
+
++++ INGREDIENTS
+
+  * (1 cup)     cashews
+  * (1 Lbs)     Elbow Macaroni
+  * (1/2  )     Onion Diced
+  * (3    )     Cloves Minced
+  * (2 TbSpn)   Veggie Broth
+  * (.5-1 cup)  Steamed Potato Russet
+  * (.25 cup)   Nutritional Yeast
+  * (.25 cup)   Lemon Juice
+  * (1 TbSpn)   Starch
+  * (1/2 TsPn)  Salt
+  * (?)         Black Pepper
+  
++++ DIRECTIONS
+
+  * 1) Soak cashews or boil for 30 mins
+  * 2) Blend all ingredients
+  * 3) Cook 
+  
++++ NOTES
+
+  *
++++ RELATED
+
+FoodRecipeTemplate
+
+
++++ PARENT
+
+FoodRecipes

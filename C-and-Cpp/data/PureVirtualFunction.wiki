@@ -1,0 +1,29 @@
+﻿++ Pure Virtual Function
+
+AbstractFunction
+
+
+
++++ SUMMARY
+
+VirtualFunction
+  * with the expression “ = 0” appended to the function declaration. 
+    * example: 
+    * virtual void func() = 0;
+
+* must be defined or have to be implemented in all derived classes.
+
+* Defining a PureVirtualFunction in a class makes that class an AbstractClass by definition.
+
+
++++ DETAILS
+
+* used to create an "interface class" in C++ 
+* or 
+* an AbstractClass . 
+
+
+
++++ PARENT
+
+[C++]

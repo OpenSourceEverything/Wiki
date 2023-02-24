@@ -1,0 +1,16 @@
+﻿++ Object Device Musical Instrument Piano Tuning
+
+As a fellow DIY piano restorer, there are definitely a couple things you didn't necessarily approach in the best way if you want the instrument to survive more than a few tunings and sound "right" at the higher and lower ends up the keyboard, though I do commend your dedication to the project and hope you continue to work on it. 
+
+First thing is an actual tuning hammer can be had for fairly cheap. Even a 30 dollar one will be OK if you aren't worried about doing things quickly (got a 70 dollar hammer just because I'm a stickler for getting unisons right.) A socket wrench will be able to get it into the ballpark for single strings, but it will eventually strip the pins or get stuck and pull one out when trying to get the socket off. A socket wrench also isn't that stiff, and will have a tendency to spring past a target pitch.
+
+ Also, a chromatic tuner doesn't really account for inharmonicity. A piece of software I've found works amazingly well is Entropy Piano Tuner. It's free, and if you have an OK mic somewhere or can borrow one from a friend it works quite well. I restored, tuned, and did some light voicing to the piano that I used for my latest two recordings on my YouTube channel actually. Without actually going into inharmonicity, how partials work for steel string instruments, or how different harmonics or partials are emphasized within a piano casing, just understand there is more to tuning an instrument with as much pitch range as a piano than a guitar, and more complexity to tuning steel strings than nylon or hair/fiber based strings.
+
+When tuning unisons, it almost works best to ignore the tuner you used to set the reference pitch and to just listen and try to reduce beating in the note. A purpose-built tuning hammer helps a ton here, and having that pure tone brought out, especially if you get to the point of changing the actual tone of the note and where in its decay it resolves, is an amazing experience having that kind of control. In tuning my piano I often aim not to have the smoothest decay and cleanest attack, but a certain edge to the sound that resolves about a quarter of a second into the decay and just keeps growing after that.
+
+There are definitely some pretentious piano tuners, but also many who very deeply value their craft and the pianos they work with, and understand the headaches you will probably have if you continue with the methods in the video. Personally, I cringe most at the socket wrench because a stripped pin, cracked pinboard, or even cracked place depending on circumstances can be far worse than a broken string (strings are easily replaced,) and are fairly easily avoided with a purpose built tool that isn't all that expensive. I hope things work out well for you in the future in maintaining that piano, as it looks to be in otherwise not bad shape. The hammers are all in decent shape, and I'm not hearing anything in the video that would suggest cracked bridges/soundboard, along with fairly consistent tone from the hammers (they're at least all evenly voiced.) --But enough rambling (it is incredibly easy to get sucked into the fine details of the craft), carry on. I hope she has as much fun learning piano as I did growing up :)
+
+
++++ PARENT
+
+ObjectDeviceInstrumentMusicalPiano

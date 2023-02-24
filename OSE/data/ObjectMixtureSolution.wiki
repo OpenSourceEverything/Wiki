@@ -1,0 +1,15 @@
+﻿++ Object Mixture Solution
+
++++ SUMMARY
+
+  * ObjectMixture
+    * Attribute:
+      * homogeneous.  
+      * composed of 2 or more ObjectSubstance(s)
+      * Comprised of two parts (each an ObjectSubstance)
+        * solute which is dissolved into a 2) "solvent"
+
+
++++ PARENT
+
+ObjectMixture

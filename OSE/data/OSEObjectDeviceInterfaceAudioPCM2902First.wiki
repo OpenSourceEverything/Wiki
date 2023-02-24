@@ -1,0 +1,12 @@
+﻿++ OSE Object Device Interface Audio PCM2902First
+
++++ SUMMARY
+
+
+
++++ DIRECTORY
+[rel://files/OSE/Object/Device/Interface/Audio/AnalogToComputer/PCM2902-First]
+
++++ PARENT
+
+OSEObjectDeviceAudioInterface

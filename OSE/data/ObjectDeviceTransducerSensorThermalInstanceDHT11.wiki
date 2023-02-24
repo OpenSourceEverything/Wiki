@@ -1,0 +1,15 @@
+﻿++ Object Device Transducer Sensor Thermal Instance DHT11
+
++++ SUMMARY
+
+  *   Operating voltage : 3 - 5 V
+      Max current : 2.5 mA
+      Temperature range : 0-50°C 
+      Accuracy:  ±2°C accuracy
+      Humidity range : 20 - 80%
+      Sampling rate : Up to 1 sample per second
+      Size : 15.5 x 12 x 5.5 mm
+    
++++ PARENT
+  ObjectDeviceTransducer
+  ObjectDeviceSensor

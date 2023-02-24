@@ -1,0 +1,48 @@
+﻿++ Process Vehicle Maintenance Ignition System Spark Plug Replacement
+
+
++++ SUMMARY
+
+
+
+
++++ TOOLS
+ 
+  * 
+  *  
+
++++ SUPPLIES / INGREDIENTS
+
+  * 1) Specifications:
+        * Spark Plug Torque : 13 lbs
+        * Spark plug Gap distance: 0.04in
+  * 2) 5/8 Spark plug wrench 
+  * 3) 10mm socket
+  * 4) 6mm allen wrench
+  * 5) screwdriver
+  * 6) 4 1/2" socket extension
+  * 7) 
+  
+  
++++ DIRECTIONS
+
+  * 1) Remove engine cover
+        * socket wrench 
+  * 2) 
+  * 3) 
+  * 4) 
+
++++ NOTES
+
+  *
+
++++ VEHICLE SPECIFIC INFORMATION
+ProcessVehicleMaintenanceIgnitionSystemSparkPlugReplacementHondaOdyssey2002
+
++++ RELATED
+
+RecipeTemplate
+
+
++++ PARENT
+ProcessVehicleMaintenanceIgnitionSystem

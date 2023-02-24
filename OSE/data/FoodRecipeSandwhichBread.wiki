@@ -1,0 +1,44 @@
+﻿++ Food Recipe Sandwhich Bread
+
+
++++ SUMMARY
+
+  * Makes loaf intended for slicing and use to make sandwhiches.
+
++++ EQUIPMENT
+
+  * BREAD PAN IN SHAPE OF LOAF
+
+
++++ INGREDIENTS
+
+      PART1
+          1 cup water hot
+          2 3/4 tspn active yeast
+          2 tbspn sugar
+
+      PART2
+          3 cups all purpose or bread flour
+          1/2 tspn salt
+          1/4 cup vegetable oil, or olive oil probably
+
+
++++ INSTRUCTIONS
+
+  - MIX PART 1 LET SIT 10 MINUTES
+  
+  - MIX PART 2 IN TO PART 1, KNEAD THE DOUGH FOR A WHILE
+  
+  - LET RISE/PROOF FOR 1.5 HOURS
+  
+  - PUNCH AIR BUBBLES OUT OF FLUFFY BUDDY, FORM INTO "LOAF"
+  
+  - PUT IN GREASED PAN, LET RISE FOR AN HOUR
+  
+  - BAKE AT 350 , 25 MINUTES
+
+
++++ PARENT
+
+
+  FoodRecipesBread

@@ -1,0 +1,12 @@
+﻿++ hardware
+
+
++++ SUMMARY
+
++++ DEFINITIONS
+
+1) A computer and the associated physical equipment directly involved in the performance of data-processing or communications functions.
+  1.1)  ObjectDeviceComputer
+
+2. ObjectDevice
+3.  

@@ -1,0 +1,10 @@
+﻿++ Motion Eye Os
+
++++ SUMMARY
+
+  * Operating System for RaspberryPi
+
+
+https://www.lavrsen.dk/foswiki/bin/view/Motion/ConfigOptionThreshold
+
+https://www.lavrsen.dk/foswiki/bin/view/Motion/MotionGuide

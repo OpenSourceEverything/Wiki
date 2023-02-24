@@ -1,0 +1,6 @@
+﻿++ std
+
+StandardTemplateLibrary
+
+
+[stdlist]

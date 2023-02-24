@@ -1,0 +1,46 @@
+﻿++ Zero Waste
+
+  TODO: ZeroWaste == ModularLiving ?? ZeroWasteAndModularLiving
+
+0. INTRODUCTION
+1. DAILY RECOMMENDED NUTRITIONAL INTAKE
+2. FOOD BUILDING BLOCKS
+3. MEALS / RECIPES
+4. CONVERSIONS / ABBREVIATIONS
+5. HOUSEWARES / CLOTHING / MISCELLANEOUS
+5.1 - DEODORANT RECIPE
+5.2 - FOOT POWDER RECIPE
+6. ZERO WASTE LIFESTYLE - CONSUMER COST ANALYSIS
+7. UNRESOLVED QUESTIONS / ISSUES
+
++++ Summary 
+
+* Reducing trivial plastic waste is the focus of most of this information. When
+mentioning an attempt to reduce plastic consumption
+people will often point out that your credit card is plastic, you drive a car 
+that burns fossil fuels, prescription medications are in plastic etc. 
+
+It does not mean that we cannot all stop buying soda at the gas station every day in a styrofoam cup.
+Also, a list of larger problems I have not yet begun to ponder will be created to address at a later time.
+  
++++ General Guidelines
+
+    * Clothing often has rayon, nylon, polyester, which can contain plastic
+
+    * Reuse - Always try to first buy refurbished and second-hand items. Buying new items
+    created a demand for production.
+
+    
+
++++ ListOfZeroWasteThings
+
++++ ZeroWasteClothing
+
++++ ZeroWasteFood
+
++++ ZeroWasteHygiene
+
+
++++ PARENT
+
+  [GK]

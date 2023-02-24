@@ -1,0 +1,7 @@
+﻿++ Physics Electricity
+
+  * Form of PhysicsEnergy
+
+  * A flow of charge, dQ/dt
+  
+  * Both electricity and magnetism are from a single phenomenon: electromagnetism. 

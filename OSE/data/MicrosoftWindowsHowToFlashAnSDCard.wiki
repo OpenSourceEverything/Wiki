@@ -1,0 +1,22 @@
+﻿++ Microsoft Windows How To Flash An SD Card
+
+  WindowsOperatingSystem
+
+
+
++++ SUMMARY
+
+  * The following using SoftwareBalenaEtcher
+
+
++++ DETAILS
+
+  * You need an image to burn
+
++++ CHILDREN
+
+
++++ PARENT
+
+  OperatingSystemMicrosoftWindows
+  OperatingSystem

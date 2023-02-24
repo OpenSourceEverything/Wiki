@@ -1,0 +1,15 @@
+﻿++ Process Communication
+
++++ SUMMARY
+
+
++++ CHILDREN
+ProcessCommunication
+
+ProcessDigitalCommunication
+
+
++++ PARENT
+[Process]
+
+

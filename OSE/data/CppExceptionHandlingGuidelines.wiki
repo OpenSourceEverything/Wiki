@@ -1,0 +1,16 @@
+﻿++ Cpp Exception Handling Guidelines
+
+
+
+  * Throw by value, catch by reference
+  * No dynamicExceptionSpecifications, use noexcept
+  * Destructors that throw are evil
+  * Use RAII (Every responsibility is an object, one per)
+  * All cleanup code called from a destructor
+  * support swapperator with no throw guarantee
+  * draw critical lines for the strong guarantee
+  * know where to catch
+  * prefer exceptions to error codes
+
++++ Parent
+  * CppExceptionHandling

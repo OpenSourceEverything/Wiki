@@ -1,0 +1,22 @@
+﻿++ Philosophy Logic Argument
+
+
++++ SUMMARY
+
+* List of sentences
+* One sentence is the PhilosophyLogicConclusion.
+* All other sentences are PhilosophyLogicPremise(s)
+
+
++++ CHILDREN
+  * PhilosophyLogicValidArgument
+
+
+
++++ RELATED
+[Statement]
+[Sentence]
+[]
+
++++ PARENT
+PhilosophyLogic

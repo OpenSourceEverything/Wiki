@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IO-XLR3-F-EV
+D 3 pins
+K connector
+$ENDCMP
+#
+$CMP IO-XLR3-M-EV
+D 3 pins
+K connector
+$ENDCMP
+#
+#End Doc Library

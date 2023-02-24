@@ -1,0 +1,13 @@
+﻿++ Object Device Pump Notes
+
+
+  * This pump works just enough to source 5 gallon resevoir to 4x 5 gallon plants. barely elevanted, 3/8s to 1/4 
+  * rel://files/img/_E7C7IT75CV1LC7RYZSEF.png
+  * rel://files/img/_STZNJNNY2961HAYWVZKK.png
+  * 160 GPM, 3.6 feet max, you can just jam 3/8" silicone tubing in it without an adapter!
+    very small
+
+
+
++++ PARENT
+ObjectDevicePump

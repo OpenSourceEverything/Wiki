@@ -1,0 +1,60 @@
+﻿++ Process Food Processing Food Preservation Canning
+
++++ SUMMARY
+
+  * LowAcidityFoods must be done with Pressure canner. not Pressure
+  * Acidic Foods
+  
+
+  * Water bath canner
+    * For Canning AcidicFoods 
+  * Pressure Canner (must not be pressure cooker):
+    * LowAcidityFoods 
+ 
+  * Standard Jar Sizes (either wide mouth or standard):
+    * Quart. 
+    * Pint. 
+    * Half Pint
+    
+  * Rings can be re-used, but lids need to be inspected before re-use.
+    * some people dont even re-use them
+  
+  *   
+
++++ RESOURCES
+  * https://nchfp.uga.edu/how/can_03/tomato_juice.html  
+
++++ TOOLS
+  * if(Pressure Canner) 
+    *  
+  
+  * if(Water Bath Canner)
+    * 
+  
+  * Funnel(s)
+  * Jar Grabber
+  * Towel to set mason jar
+  * Citric acid
+  * 
+   
+
+
++++ WATER-BATH CANNING
+  * 
+
+
++++ STEPS
+  * Water Bath canner
+  * PREPARE 
+    * Clean the glass jar lip with vinegar else wont seal.
+    *  
+  
+  * Let the jar sit at room temperature for 24 hours
+  * Examine the jar lid, it should indent downward indicating a vacuum seal.
+  * Write the date on the jar.
+  * Remove the jar ring.
+    * This will make it clear 
+
+
++++ PARENT
+  * ProcessFoodProcessingFoodPreservation

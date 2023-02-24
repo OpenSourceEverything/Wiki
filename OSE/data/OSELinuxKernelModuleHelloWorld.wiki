@@ -1,0 +1,15 @@
+﻿++ OSE Linux Kernel Module Hello World
+
++++ SUMMARY
+
+  * LinuxKernelModule
+  *  
+  * https://www.youtube.com/watch?v=4tgluSJDA_E
+
+
+
+
+
++++ PARENT
+
+OSELinuxKernelModule

@@ -1,0 +1,18 @@
+﻿++ Open Source Everything Nickel Chloride
+
+
+
++++ SUMMARY
+
+  * CURRENTLY CONSIDERED A BASE INGREDIENT IN OpenSourceEverything
+  
+
+
++++ RELATED
+
+  OpenSourceEverythingElectricBatteryNickelIron
+
+
++++ PARENT
+
+  OpenSourceEverything

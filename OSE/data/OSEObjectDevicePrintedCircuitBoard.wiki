@@ -1,0 +1,23 @@
+﻿++ OSE Object Device Printed Circuit Board
+
++++ SUMMARY
+
+
+
+
++++ DETAILS
+
+
+
+++++ MAKING THEM ECO-FRIENDLY
+We can maybe get the powder but how to make micrometer substrate?  https://www.autodesk.com/products/eagle/blog/e-waste-conundrum-can-biodegradable-printed-circuit-boards-help/
+
+https://celluloseether.com/what-is-sodium-cmc/
+  
+
++++ CHILDREN
+
+
++++ PARENT
+
+OSEObjectDevice

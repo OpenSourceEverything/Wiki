@@ -1,0 +1,28 @@
+﻿++ Process Study Mathematics Function Signal Audio Balancing
+
++++ SUMMARY
+
+  * The transmission medium does not balance, it only allows a balanced signal to pass. 
+  
+  * Balanced:
+    * transmission medium:
+      * Three conductors: hot, cold, ground/shield.
+        * hot caries signal. 
+        * cold varies, but often caries an inverted (180 deg phase shift)
+        * ground, zero reference. 
+    
+    *  
+  
+  * Unbalanced:
+    * transmission medium:
+      * two lines, hot and neutral/ground
+    
+    * 
+
+
+
++++ DETAILS
+
+
++++ PARENT
+ProcessStudyMathematicsFunctionSignalAudio

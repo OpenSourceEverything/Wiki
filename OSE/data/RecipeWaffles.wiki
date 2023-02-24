@@ -1,0 +1,45 @@
+﻿++ Recipe Waffles
+
+
+
++++ EQUIPMENT
+
+  * Large mixing bowl
+  
+  * Wooden mixing spoon
+  
+  * Measuring Cup
+  
+  * Measuring Tablespoon
+
+
++++ INGREDIENTS
+
+
+    * 2 cups of all-purpose flour
+
+    * 2 cups milk (thinnner?)
+
+    * 4 tbspn Vegetable oil
+
+    * 2 teaspoons of baking powder
+
+    1 teaspoon of pure vanilla extract
+
+    1 pinch of salt
+
+
++++ INSTRUCTIONS
+
+  * Combine "Part 1"
+  
+  * Add butter until it resembles corn meal
+  
+  * Add water
+  
+  * Add to Waffle Iron
+     
+
++++ PARENT
+
+  FoodRecipes

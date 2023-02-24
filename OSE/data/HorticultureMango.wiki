@@ -1,0 +1,19 @@
+﻿++ Horticulture Mango
+
+
+
++++ SUMMARY
+
+
++++ GERMINATION
+
+  * need to cut outer shell of seed to reveal inner seed.
+    - 
+
++++ HARVEST
+
+  *
+  
++++ PARENT
+
+  * [Horticulture]

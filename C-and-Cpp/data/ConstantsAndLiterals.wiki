@@ -1,0 +1,21 @@
+﻿++ Constants And Literals
+
+[Constants] [Constant]
+[Literals] [Literal]
+
+
++++ SUMMARY
+Fixed values that can't be modified during execution of a ComputerProgram. 
+
+can be of any of the basic data types i.e.:
+  integer constant
+  floating constant
+  character constant
+  string literal. 
+  enumeration constants
+
+treated just like regular variables 
+  * except constant values cannot be modified after their definition
+  * 
++++ PARENT
+[C++]

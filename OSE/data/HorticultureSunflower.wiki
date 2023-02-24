@@ -1,0 +1,28 @@
+﻿++ Horticulture Sunflower
+
+
+
++++ SUMMARY
+
+  * Could be grow for seeds to plant with hulls and harvest microgreens.
+    - De-hulling the seeds for consumption is non-trivial 
+     (specialized machines used in industry)
+  
+  * 
+
++++ HARVEST
+
+  * You know harvest has arrived when:
+    - tiny flowers exist (yellow flowers in photo below):
+      - rel://files/_QW599HX8F7MWN0YEP1DL.png
+    - remove them
+      - rel://files/_OPQME7EH8DLCAYFXR2XL.png 
+    
+  * How To Harvest:
+    - remove the shells which contain the seeds
+      - rel://files/_72AJ478FO2R8T55I461A.png
+
+
++++ PARENT
+
+  * [Horticulture]

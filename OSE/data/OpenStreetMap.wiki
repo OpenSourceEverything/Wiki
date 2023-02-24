@@ -1,0 +1,18 @@
+﻿++ Open Street Map
+
+
+
+
++++ Built in searching mechanism
+
+  * [Nominatim]
+
+
++++ Get Involved
+  
+  * ContributingToOpenStreetMap
+  
+  
++++ Parent
+
+  OpenSourceEverythingSoftware

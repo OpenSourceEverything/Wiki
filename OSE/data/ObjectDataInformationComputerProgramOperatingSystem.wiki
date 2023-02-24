@@ -1,0 +1,22 @@
+﻿++ Object Data Information Computer Program Operating System
+
++++ SUMMARY
+
+ObjectDataInformationComputerProgram
+  * Purpose:
+    * interface between other user and/or [applications] and the hardware on a computer or mobile device.
+    
+  
+  * interact with the operating system and perform operations
+  * User: UserInterface(s) such as GUI or CLI may be used to interface with OperatingSystem
+  * applications: 
+
+
+
+
+The user interface, either a graphical user interface (GUI) or a command-line interface (CLI), provides a way for users to  outside of an application. The primary difference between these types of user interfaces is that a CLI uses a text-based terminal, whereas a GUI provides a visual desktop with icons and virtual buttons.
+The software platform is what gives application programs the foundation to operate. In most cases, an operating system launches and maintains the applications, facilitates the input to and output from the hardware, and manages the resources being used to run the application. These applications can also send requests for the operating system to perform specific tasks using an application program interface (API).
+The kernel provides base-level management of a device’s underlying hardware. This includes the central processing unit (CPU), memory, USB ports, graphics devices, and storage devices.
+
++++ PARENT
+ObjectDataInformationComputerProgram

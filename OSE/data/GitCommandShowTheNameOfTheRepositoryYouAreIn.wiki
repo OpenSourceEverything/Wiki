@@ -1,0 +1,2 @@
+﻿++ Git Command Show The Name Of The Repository You Are In
+GitCommandSeeTheNameOfTheRepositoryYouAreIn

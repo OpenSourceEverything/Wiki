@@ -1,0 +1,47 @@
+﻿++ Recipe Refried Pinto Beans Pressure Cooker
+
++++ TOOLS
+
+
++++ INGREDIENTS
+    
+        PART 1
+      
+            1 cup pinto/black beans dry
+            2 garlic cloves whole
+            1 bay leaf
+            3 cups water
+            
+        PART 2
+          
+            1/4 cup oil
+            1   medium onion (minced)
+            1   jalapeno (chopped)
+    
++++ DIRECTIONS
+
+        1.  On bottom of pressure cooker (open), saute cook onion, jalapeno, garlic
+ 
+        2.  Once all cooked down, transculscent onion, add water and cook closed
+            pressure cooker on kinda high (7/10?) until whistle. Reduce heat to 
+            medium or slightly less once whistling. Allow to cook for 1 hr?
+            
+        3. Allow presssure cooker to cool with heat off. Open cooker and continue
+           cooking and mashing until desired consistency.
+        
++++ Notes
+
+  You can do more than triple this and still stay way under the pressure
+  cooker size, dont add extra onions, consistency gets off, extra jalapenos ok,
+  dont scale bay leaves 1 to 1 with other ingredients
+
+  tripling this made 6 meals of 1 cup bean, ~.5 cup rice-ish, a good sized meal.
+
++++ Related
+  
+  * FoodRecipeTemplate
+  * RecipeRefriedBlackBeans
+
++++ Parent
+
+  * FoodRecipes

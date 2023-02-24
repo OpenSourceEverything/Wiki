@@ -1,0 +1,14 @@
+﻿++ OSE Object D Evice Interface Audio Software
+
+ALSA 
+AdvancedLinuxSoundArchitecture
+
+ALSA System on Chip driver example Github:
+  ? Would I flash this on 
+https://github.com/katsuster/sample_alsa_soc_driver/blob/master/README.md
+
++++ RELATED
+[Linux]
+ObjectSystemOperatingSystemInstanceLinux
+
++++ PARENT

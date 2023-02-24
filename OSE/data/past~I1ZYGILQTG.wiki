@@ -1,0 +1,18 @@
+﻿++ past
+
+Adjective=time before the present.
+  - examples:
+    - This past year has been difficult for the recruiters.
+    - She loves to tell us about past dance competitions in the hall.
+
+Noun=the time before the present.
+  - examples:
+    - That's all in the past.
+    - Can you dig into his past? 
+
+Adverb = beyond,movement from one side of a reference point to the other.
+  - examples:
+    - Don't go past.
+    - Alan ran past.
+    
+    (Note: The word past is acting as an adverb in each of these examples. However, it could be argued that the word past is a preposition forming part of phrasal verb (like to run away or to jump up). See the similar examples below.) 

@@ -1,0 +1,16 @@
+﻿++ First Order Predicate Logic
+FirstOrderLogic
+
++++ SUMMARY
+
+  * In a sense, PhilosophyLogicPropositionalLogic is a foundation
+
+  * Philosophy
+
++++ RELATED
+
+  * 
+
++++ PARENT
+
+  PhilosophyLogic

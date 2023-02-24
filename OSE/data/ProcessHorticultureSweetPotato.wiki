@@ -1,0 +1,100 @@
+﻿++ Process Horticulture Sweet Potato
+
+HorticulturePotato
+
+  * morning glory family, Convolvulaceae, 
+  * Sweet potatoes typically have brown skin and orange flesh but also come in purple, yellow, and red varieties. Regular potatoes come in shades of brown, yellow, and red and have white or yellow flesh.
+
+In the United States and some other countries, sweet potatoes are often called yams, even though they’re different species.
+
+    * sweet potatos are vining, need trellis to guide growth 
+    
+    
+    
+DIMENSIONS
+  * Recommended 1'ft 5in in all directions.
+  * 
+
+
+
++++ 1) SUMMARY
+
++++ 2) PROPAGATION AND GROWTH CARE
+* From Seed:
+* From Cutting/Transplant:
+    
++++ 3) PLANT STRUCTURE
+* 
+
++++ 4) LIFE CYCLE
+  * 4.1) vegetative period:
+  * 4.2) flowering period:
+  * 4.3) maturation period:
+
+* Notes
+
+* Photos of complete life cycle:
+
++++ 5) SPECIES
+  * 
+  
++++ 6) TEMPERATURE / WATER/ LIGHT / HUMIDITY / ACIDITY
+4.1) Temperature: 
+  * 
+ 
+* 4.2) Humidity:
+  * 
+  * 
+    
+* 4.3) Acidity pH:
+  * 6-7
+
++++ 7) HARVEST / STORAGE / TYPICAL YIELD
+
+
+* 7.1) Seed:
+  * 
+
+* 7.2) Sweet Potato:
+  * Harvest: 
+    * typically takes 4-5 months to harvest from seed
+    * cure them in a warm, dry place for 10 to 14 days before eating.  
+      * Curing sweet potatoes (required after harvest, before consumption)
+        * forms a protective coat over the potato (called suberin) 
+          * 2-14 days
+          * Ideal 80-85F, 80-90% humidity. 
+          * better conditions = less time curing. 
+
+  * Storage:
+    * Cured sweet potatos should stay good at room temperature for about a year.
+  
++++ 8) DIMENSIONS
+* 8.1) Plant:
+  * 
+
+* 8.2) Grow Container:
+
+* 8.3) Seed: 
+  *  
+* 8.4) Spacing:
+  *
+* 8.5) Root System:
+
++++ 9) GROWING INSTRUCTIONS
+  * Stratification/Scarification:
+    * 
+  * Seed germination:
+    *
+  * Seedling
+
+  * 
+
+
+
+
++++ RELATED
+
+ProcessHorticulturePlantTemplate
+
++++ PARENT
+ProcessHorticultureListOfPlants

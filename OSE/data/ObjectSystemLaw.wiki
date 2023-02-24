@@ -1,0 +1,13 @@
+﻿++ Object System Law
+
++++ SUMMARY
+
+  * ObjectSystem of rules created and enforced through social or governmental institutions to regulate behavior,
+
++++ RELATED
+
+ProcessLaw
+
++++ PARENT
+
+  ObjectSystem

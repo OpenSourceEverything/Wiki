@@ -1,0 +1,14 @@
+﻿++ Symbolic Link
+
++++ SUMMARY
+
+Create a sym link (soft)
+  ln -s target_file link_name
+
+
++++ DETAILS
+
+
++++ PARENT
+
+[Linux]

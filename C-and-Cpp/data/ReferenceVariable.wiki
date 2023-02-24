@@ -1,0 +1,24 @@
+﻿++ Reference Variable
+
+A reference variable is an alias, that is, another name for an already existing variable. 
+
+Once a reference is initialized with a variable either the variable name or the reference name may be used to refer to the variable
+
+Reference variables are declared by appending the "&" symbol (without quotes) to the end of the variable type
+  * example of an int reference variable:
+    * int& iIndex = i;  
+
+
++++ DETAILS
+* References are an alias, thus they cant be initialized to a constant value like a normal variable:
+  * int& iBuddy = 0; //invalid, cant alias to a constant
+  * 
+
++++ CHILDREN
+
+DifferenceBetweenReferenceVariablesAndPointers
+
++++ PARENT
+
+[Variables]
+

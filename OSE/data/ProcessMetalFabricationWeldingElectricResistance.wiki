@@ -1,0 +1,16 @@
+﻿++ Process Metal Fabrication Welding Electric Resistance
+
+
+
++++ SUMMARY
+
+  * ProcessMetalFabricationWelding process where metal parts in contact are permanently joined by heating them with an electric current, melting the metal at the joint.[1] 
+
+
++++ CHILDREN
+
+  ProcessMetalFabricationWeldingElectricResistanceFlash
+  
++++ PARENT
+  ProcessMetalFabricationWelding
+  

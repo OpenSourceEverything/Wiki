@@ -1,0 +1,20 @@
+﻿++ Recipe Yellow Lentil Potato Curry
+
++++ SUMMARY
+
+  * 1.5 cups dry yellow lentils
+    * 1 cup chana dal
+    * 0.5 cup split pigeon lentils
+
++++ PREPARATION
+
+  * Soak lentils a few hours
+
+
++++ TOOLS
+
++++ INSTRUCTIONS
+
++++ PARENT
+
+  OpenSourceEverythingFoodRecipes

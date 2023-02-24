@@ -1,0 +1,10 @@
+﻿++ ffmpeg
+
++++ SUMMARY
+
+
++++ CHILDREN
+ObjectDataInformationSoftwareInstanceffmpegAudioStreams
+ObjectDataInformationSoftwareInstanceffmpegExtractSubtitlesFromFile
++++ PARENT
+ObjectDataInformationSoftwareInstance

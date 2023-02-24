@@ -1,0 +1,17 @@
+﻿++ Object Data Information Web Page
+
+
++++ SUMMARY
+
+  * ObjectDataInformationHypertext document 
+    * provided by a website
+    * displayed to a user in a ObjectDataInformationComputerProgram WebBrowser.
+  *
+ 
+ 
++++ RELATED
+ObjectDataInformation
+ 
++++ PARENT
+
+ObjectDataInformation

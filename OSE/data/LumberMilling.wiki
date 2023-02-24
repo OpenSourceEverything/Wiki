@@ -1,0 +1,22 @@
+﻿++ Lumber Milling
+
++++ SUMMARY
+
+
++++ TYPES OF WOOD
+  
+  - LumberMillingBestQuickestMostEfficientTreeForLumber
+  
+  - Red Pine
+    - Usually need large diameter cut, measured from far up the tree.
+    - If too small may best be used for pulp.
+    - Younger wood breeds knottier wood.
+
+
++++ RELATED
+
+  * [Horticulture]
+
++++ PARENT
+
+  [GK]

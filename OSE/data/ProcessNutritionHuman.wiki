@@ -1,0 +1,79 @@
+﻿++ Process Nutrition Human
+NutritionHuman
+
++++ Summary 
+
+  * ProcessNutrition
+
+    * required for proper metabolic function:
+      * ProcessNutritionHumanMacroNutrient 
+      * water, 
+      * at least 13 NutritionVitamin
+      * at least 20 ProcessNutritionMineral(s)
+    
+    * considered essential nutrients:
+        amino acids: 9
+        FattyAcids: 2 
+        vitamins   : 13
+        minerals   : 15
+
+  * 45 known essential nutrients
+    * required in specific amounts for the body to function properly.
+    * the human body cannot synthesize them internally. 
+    * must come from exogenous, or outside, sources. 
+  
+  * x? conditionally essential nutrients (molecules):
+    * choline, 
+    * inositol, 
+    * taurine, 
+    * arginine, 
+    * glutamine
+    * nucleotides
+    
+    * these may be made conditionally necessary by:
+      * prematurity
+      * certain disease states 
+      * periods of limited nutrient intake or rapid growth, 
+      * presence of regulatory or developmental factors that interfere with full expression of the endogenous synthetic capacity.
+
+
++++ Daily Recommended Intake
+
+  * DietaryReferenceIntakes(DRIs):RecommendedDietaryAllowancesAndAdequateIntakesElements
+  * FoodAndNutritionBoard,InstituteOfMedicine(NationalAcademies)
+    * Elements ()
+      * https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t3/?report=objectonly
+    * TotalVitaminsAndMacronutrients
+      
+      
+  * Calories: 2500 Calories low active
+    1 NutritionFat: 30g
+    2 Carbohydrates: 280g-400g
+    3 Proteins: 60g
+    4 Fiber: 40g
+    5 Vitamins:
+    6 Minerals:
+    7 Water: 1 gallon
+
+  ENZYMES                    WORTH KNOWING ABOUT
+                           - FREEZING DOESNT KILL 
+                           - CELLULASE, AMYLASE, LYPASE, 
+                           - http://www.enzymeessentials.com/HTML/tour_3.html
+                           
+                           
++++ External Links
+  * ReliableNutritionWebsites
+
+  * 
+
+
++++ CHILDREN
+
+* ProcessNutritionHumanBodyMassIndexBMI
+
++++ RELATED
+
+
++++ PARENT
+
+  ProcessNutrition

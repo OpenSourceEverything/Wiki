@@ -1,0 +1,58 @@
+﻿++ How To Connect A Cell Phone Hot Spot To A Router
+
+
++++ SUMMARY
+
+  WirelessDistributionSystem
+  Using a TPLink WDS setup has proven not to work so far
+    - went to network, enabled WDS, connected to hotspot wireless, matched channel
+    - disabled DHCP, rebooted,
+    - can never reconnect to the router page, i can connect to the internet but
+      it doesnt work1
+
+
++++ DETAILS
+++++ FOR TP-LINK ROUTERS
+  1) record the MAC address of the phone being used as hotspot
+  2) 
+
++++ EXTERNAL LINKS
+
+  * 1) Using WDS to expand 
+    * https://www.youtube.com/watch?v=4ykqFgJi-ZE
+  
+  * 2) using a specific router that you plug your Sim Card into.
+    *   https://www.youtube.com/watch?v=o5LsEhYlVBg
+    * GL-X750 Router - https://amzn.to/2QiKC2i​
+      * https://www.gl-inet.com/products/gl-x750/ 
+    ROOter Project Firmware - https://ofmodemsandmen.com/​
+
+    Custom TTL iptables rules to bypass tethering data limit:
+    #startTTL​
+    iptables -t mangle -I POSTROUTING -o wwan0 -j TTL --ttl-set 64
+    iptables -t mangle -I PREROUTING -i wwan0 -j TTL --ttl-set 64
+    #endTTL
+
+
+  * go to router config page.
+  * routerlogin.net
+    * admin 
+    * password
+  
+  * have router find local wireless networks.
+    * ?
+  
+  * wifi info utility - use to make sure wifi is on same channel
+  
+  *  DHCP server settings
+  
+  * you have to disable the DHCP server because the hotspot phone is providing IP addresses to connected devices
+  
+  * reboot router
+  
+  *  
+
+
++++ PARENT
+
+  * ???

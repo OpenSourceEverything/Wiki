@@ -1,0 +1,15 @@
+﻿++ Open Source Everything Things That Need To Be Sorted
+
++++ SUMMARY
+
+  * Choosing cutting tools for metals
+    * https://www.mscdirect.com/betterMRO/metalworking/cutting-tool-selection-guide-ferrous-vs-nonferrous-metals
+    * Machining?  
+
+
+  * Cutting plexiglass:
+    * probably should go under MaterialPlexiglass? or ProcessConstruction? 
+
++++ PARENT
+
+  * OpenSourceEverything

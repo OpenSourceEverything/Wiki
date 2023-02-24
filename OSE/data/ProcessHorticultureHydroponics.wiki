@@ -1,0 +1,53 @@
+﻿++ Process Horticulture Hydroponics
+
++++ SUMMARY
+
+  *Recommend minimal use of this page in favor of horticulture*
+    * keep details here specific to "non-soil" 
+      * that is a super specific stipulation anyways.
+  
+  * Hydroponics refers to the growing plants without soil.
+  
+  * Main ingredients required for success: 
+    - water (w/ nutrients), HydroponicsIrrigation
+    - light, HydroponicsLight
+    - oxygen
+    - non-soil grow medium (if not submerged completely in water)
+      - CocoCoir
+    
+  * Uses less water than conventional growing (citation needed)
+  
++++ NUTRIENTS
+
+  * HydroponicsNutrients
+  
+  * All nutrients are provided in water. 
+    - hydroponic nutrient mixes contain nutrients not in SoilFertilizer.
+  
+  * Temperature should be maintained to about +/- 10 degrees (F?) @ ~70F/21C
+  
+  * water Ph must be between 5.5 and 6.5
+  
+  
++++ Types of Hydroponics
+
+    HydroponicsDeepWaterCulture(DWC)
+    HydroponicsDripSystem
+    HydroponicsEbbAndFlowFloodAndDrain
+    Aeroponics
+    HorticultureHydroponicsAquaponics
+    ProcessHorticultureHydroponicsHydroculture
+    
+
++++ NOTES
+* important in large scale: water surfaces need to be level unless NFT.
+
++++ SOFTWARE
+
+  * For windows 7, under [rel://files]
+    * HydroBuddy can be used to calculate necessary amounts of certain chemicals\
+    * [rel://files/Software/Executables/Hydroponics/HydroBuddy-1.62-Windows]
+    
+  
++++ PARENT
+ProcessHorticulture

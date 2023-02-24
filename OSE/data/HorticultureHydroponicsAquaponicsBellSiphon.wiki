@@ -1,0 +1,17 @@
+﻿++ Horticulture Hydroponics Aquaponics Bell Siphon
+
+
+  Bell Siphon
+  https://www.youtube.com/watch?v=Ia1BQFTaG7c&app=desktop
+  
+  
+  rel://files/BellSiphon1.png
+  
+  air is also forced out of pipe at this time.
+  rel://files/BellSiphon2.png
+  
+  
+  
++++ PARENT
+
+ProcessHorticultureHydroponics

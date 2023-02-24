@@ -1,0 +1,30 @@
+﻿++ Cpp Move Semantics
+
+
++++ Typical Copy Constructor (Line 3)
+
+  * clones the resource from the temporary returned by foo,
+  * destructs the resource held by x and replaces it with the clone,
+  * destructs the temporary and thereby releases its resource. 
+    
+    X foo();
+    X x;
+    x = foo();    // copying object returned from function foo() to x.
+                  // 
+
++++ Typical Assignment Operator
+
+  X& X::operator=(X const & rhs)
+  {
+    // [...]
+    // Make a clone of what rhs.m_pResource refers to.
+    // Destruct the resource that m_pResource refers to. 
+    // Attach the clone to m_pResource.
+    // [...]
+  }
+
++++ Related
+
+  * CppRValueReference 
+  * CppLValueReference
+  * CppRuleOfFive

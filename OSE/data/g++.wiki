@@ -1,0 +1,21 @@
+﻿++ g++
+
+
+  command line linker and compiler. 
+
+  small variant of gcc tool
+    equivalent to gcc ???
+ 
+
++++ Flags
+
+  
+
+
+
+
+
+
++++ Parent
+
+  GNUCompilerCollection

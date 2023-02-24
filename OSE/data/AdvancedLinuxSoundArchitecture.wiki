@@ -1,0 +1,12 @@
+﻿++ Advanced Linux Sound Architecture
+
+software framework and part of the Linux kernel that provides an application programming interface (API) for sound card device drivers.
+
+
+
+
++++ PARENT
+
+[Linux]
+
+

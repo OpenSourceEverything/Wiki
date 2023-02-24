@@ -1,0 +1,8 @@
+﻿++ Object Phenomenon
+
++++ SUMMARY
+  * observable fact or event
+
++++ PARENT
+
+[Object]

@@ -1,0 +1,12 @@
+﻿++ Process Agriculture
+
+
++++ SUMMARY
+  
+  * ProcessScience and ProcessArt of [cultivating]:
+    * 1) ObjectEntityOrganismPlant(s) (ProcessHorticulture)
+    * 2) livestock.
+
++++ PARENT
+
+  [OSE]

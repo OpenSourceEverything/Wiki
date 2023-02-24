@@ -1,0 +1,20 @@
+﻿++ Endianness
+
+
+Endianness is how each BYTE is arranged in memory
+bits are not different.
+See this example image for details:
+rel://files/_24JLYASAAP2Q6OWGKOJI.png
+
+
+
+Endianess is relevant/important when:
+  * transmitting data over digital links
+  * reading/writing stored memory device
+
+ 
++++ EXAMPLES
+EndiannessExample1EndiannessSwapOf4ByteInt
+
++++ PARENT
+[C++]

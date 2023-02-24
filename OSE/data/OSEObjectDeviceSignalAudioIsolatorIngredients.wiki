@@ -1,0 +1,59 @@
+﻿++ OSE Object Device Signal Audio Isolator Ingredients
+
+
++++ SUMMARY
+
+
+
++++ INGREDIENTS
+
+* (1) XLR INPUT JACK, FEMALE (currently using non-90 degree one)
+  * https://www.digikey.com/en/products/detail/io-audio-technologies/IO-XLR3-F-EV/9931890
+  * https://ioaudiotech.com/datasheet/IO-XLR3-X-EH.pdf
+  
+  
+* (1) XLR INPUT JACK, MALE
+    * https://www.digikey.com/en/products/detail/io-audio-technologies/IO-XLR3-M-EV/9931889
+    * https://ioaudiotech.com/datasheet/IO-XLR3-X-EH.pdf
+  
+     
+* (2) 1/4 input/output jack, MONO JACK 3.5mm
+  * I choose 5 connector one, has 2x switches that are normally closed, they open when you plug in.
+  * https://www.digikey.com/en/products/detail/cui-devices/SJ-63083D/13155758?s=N4IgTCBcDaIMoCkC0A2AzABgBxoCIgF0BfIA   
+  
+* (1) (Resistor 8.19k)
+  *  red black orange gold resistors
+
+* (4) (resistor 20kΩ ± 5%)
+
+* (1) capacitor 2A102J - (1NF,1000PF)  
+  * capacitor writing faces outward to sides, toward right on right channel, leftward on left
+  * 
+
+* (1) Audio Isolation Transformer (TY-250P)
+  * https://www.mouser.com/datasheet/2/410/TY_250P-1892894.pdf
+  * tried cheaper alternatives floating around amazon and ebay, 
+    * either fake branded or unbranded severe signal strength loss
+
+* (1) PCB
+  * Made by 3rd Party:
+    * OSEObjectDevicePrintedCircuitBoard  
+
+* Case 
+  * 18-20 gauge steel.
+  * top piece ((3 1/4) x (7 1/4))
+    * 3 1/4
+    * 1 3/8 + 4 1/2 + 1 3/8  
+  * bottom piece  ((5 7/8 inch) (8 inch))
+    * (5 7/8 inch) 1 5/16 + 3 1/4 + 1 5/16 
+    * (8 inch) 1 5/16 + 4 3/8 + 1 5/16 
+  * circuit board hangs loose inside and is fixed to the top of the container by the 1/4 and XLR inputs, which in turn are fixed to the top of the container by screws.
+    * screws: 
+  
+  * OSEObjectDeviceContainer
+
+ 
++++ PARENT
+OSEObjectDeviceIsolatorSignalAudio
+
+

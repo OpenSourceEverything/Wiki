@@ -1,0 +1,12 @@
+﻿++ signal
+
+
+something (such as a sound, gesture, or object) that conveys notice or warning
+
+ObjectIdeaMathematicalObjectFunctionSignal
+
+
+
++++ PARENT
+
+[OSE]

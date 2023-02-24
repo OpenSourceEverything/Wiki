@@ -1,0 +1,84 @@
+﻿++ Object
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
++++ SUMMARY
+    
+  * Metaphysical frameworks differ in whether they consider objects existing independently of their [properties] and, if so, in what way 
+  
+  * OpenSourceEverything will arbitrarily define:
+    * [thing](s) consisting of [Objects] to be an Object itself
+      * ObjectGroup/ObjectSet, ObjectSystem,
+
+
++++ DEFINITIONS
+
+  1) "[something]" perceptible by human senses, especially by vision or touch;
+       * This definition is TautologicalLoop as are other existing definitions
+         * Circular reference:
+           *  (something/thing)<->([Object])
+
+  2) A focus of attention, feeling, thought, or action.
+       * [Philosophy]: subject is observer, object is thing obvserved.
+
+  3) [thing] [something]
+     focus of attention,feeling, thought, action. observable [thing]
+     [being] 
+     ObjectEntity
+     [concept]
+     ObjectIdea
+
+
+
+
++++ CHILDREN
+
+++++ OSE OBJECTS
+OSEObject
+
+
++++ A
+ObjectAlgorithm
+
++++ D
+ObjectData
+ObjectDevice
+
++++ E
+ObjectEntity
+ObjectElement
+
++++ M
+ObjectMaterial
+ObjectModel
+ObjectMixture
+
+++++ I
+ObjectIdea
+
+++++ P
+ObjectPhenomenon
+
+++++ S
+ObjectSystem
+
+++++ UNSORTED
+ObjectGroup
+
+
+
+
+
+
+
+
+
++++ RELATED
+
+[Food]
+
+OSEObject
+
++++ PARENT
+[OSE]
+
+  

@@ -1,0 +1,25 @@
+﻿++ Computer ProcessScience Database Field And Column
+
++++ SUMMARY
+  
+  * Fields and records are physical. Tables, and their rows and columns are logical.
+    
+  * Fields (and records) are what you have in user interfaces in client applications
+  
+  *  
+  
+  * Column is general, Field is specific ()
+  
+  * Column
+    * 
+  
+  * Field
+    * intersection of a row and a column.
+
++++ RELATED
+
+  * ComputerScienceDatabaseRowAndRecord
+
++++ PARENT
+
+  ObjectDataDatabaseRelationalDatabase

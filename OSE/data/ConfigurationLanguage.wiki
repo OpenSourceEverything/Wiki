@@ -1,0 +1,7 @@
+﻿++ Configuration Language
+
++++ SUMMARY
+ObjectSystemLanguageFormalComputer used to write configuration files
+
++++ PARENT
+ObjectSystemLanguageFormalComputer 

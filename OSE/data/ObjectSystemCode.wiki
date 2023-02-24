@@ -1,0 +1,24 @@
+﻿++ Object System Code
+
+
+
++++ SUMMARY
+
+* Set of [rules]
+
+* Purpose:
+  * Convert([Information] to another [form] )   
+
+
++++ OPERATIONS
+
+ObjectSystemCodeOperationEncode
+ObjectSystemCodeOperationDecode
+
+
++++ CHILDREN
+
+
++++ RELATED
+
+ObjectSystemCodeFileFormat

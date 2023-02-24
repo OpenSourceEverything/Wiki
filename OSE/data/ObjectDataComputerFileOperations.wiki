@@ -1,0 +1,24 @@
+﻿++ Object Data Computer File Operations
+
+* Create
+
+* ChangeAttributes 
+
+* Open
+  * open an existing file  
+    * makes the file contents available to the program
+* Read
+  * Read data out of the file 
+* Write
+  * Write data into the file 
+* Delete
+* Close
+  * terminating the association between it and the program
+* Truncate 
+  * shorten file to a specified size within the file system 
+    * without rewriting any content
+    * 
+    * 
+
++++ PARENT 
+ObjectDataComputerFile

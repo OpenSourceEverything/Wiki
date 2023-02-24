@@ -1,0 +1,23 @@
+﻿++ Return A String From A Function
+
++++ SUMMARY
+
+There are three main options:
+  
+  * 1) have the function prototype such that the return is a const char *.
+    * this will be de-allocated when out of scope
+    * ReturnAStringFromAFunction
+  
+  
+  * 2) pass in a pre-allocated, fixed size buffer a pointer to the function to be populated.
+    * ReturnAStringFromAFunctionExampleUsingFixedSizeBufferPassedIntoFunction
+  
+  
+  * 3) Pass in a double pointer to the function and have it allocated and returned
+    * this is probably the most dangerous option. 
+
+
+
++++ DETAILS
+
++++ PARENT

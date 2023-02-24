@@ -1,0 +1,6 @@
+﻿++ Makefile Prerequisites
+
+  Where does make search for prerequisites?
+    Section 4.4.1.
+    
+    VPATH variable

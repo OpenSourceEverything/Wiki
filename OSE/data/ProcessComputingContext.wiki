@@ -1,0 +1,16 @@
+﻿++ Process Computing Context
+
+
+
+
++++ RELATED
+  * minimal set of ObjectData 
+    * used by a task (which may be a process, thread, or fiber) that must be saved to allow a task to be interrupted, and later continued from the same point. 
+    * relevant to interruptible tasks
+      * upon being interrupted, the processor saves the context and proceeds to serve the interrupt service routine. Thus, the smaller the context is, the smaller the latency is.
+
+The context data may be located in processor registers, memory used by the task, or in control registers used by some operating systems to manage the task.
+
+The storage memory (files used by a task) is not concerned by the "task context" in the case of a context switch, even if this can be stored for some uses (checkpointing). 
++++ PARENT
+ProcessComputing

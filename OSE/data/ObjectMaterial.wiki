@@ -1,0 +1,17 @@
+﻿++ Object Material
+
+  * ObjectSubstance or ObjectMixture of ObjectSubstance(s) that constitutes an [Object]. 
+  
++++ CHILDREN
+
+ActivatedCarbon
+ObjectMaterialFertilizer
+ObjectMaterialMetal
+
++++ RELATED
+
+MaterialScience
+ObjectSubstance
+
++++ PARENT
+ObjectSubstance

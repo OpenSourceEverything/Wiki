@@ -1,0 +1,11 @@
+﻿++ Open Source Video Capture And Recording
+
+  * https://github.com/obsproject/obs-studio
+    - confirmed open source and partially working in windows 7,
+      codec difficulties.
+      
+      
+      
++++ PARENT
+
+  OpenSourceEverythingSoftware

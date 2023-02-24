@@ -1,0 +1,11 @@
+﻿++ Difference Between Concurrent Computing And Parallel Computing
+
++++ Summary
+
+
++++ Redirect
+  * DifferenceBetweenConcurrentComputingAndParallelProgramming
+  
++++ Parent
+  * ConcurrentComputing
+  * ParallelProgramming

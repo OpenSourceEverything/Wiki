@@ -1,0 +1,56 @@
+﻿++ Cpp Struct
+
++++ SUMMARY
+
+
++++ TEMPLATE
+
+typedef struct IOSpecCanbusType
+{
+  unsigned char bNode;
+  unsigned char bByte;
+  unsigned char bBit;
+#ifdef __cplusplus
+  IOSpecCanbusType()
+  {
+    bNode = 0;
+    bByte = 0;
+    bBit  = 0;
+  }
+  void Reset()
+  {
+    *this = IOSpecCanbusType();
+  }
+#endif
+} IOSpecCanbusType;
+
+================================================================================
+typedef struct BulkIOConfigType
+{
+  IOSpecificationType Spec[SID_DB_NUM_VAR_IO];
+#ifdef __cplusplus
+  BulkIOConfigType()
+  {
+    for (int i = 0; i < SID_DB_NUM_VAR_IO; i++)
+    {
+      Spec[i].Reset();
+    }
+  }
+  void Reset()
+  {
+    *this = BulkIOConfigType();
+  }
+#endif
+} BulkIOConfigType;
+
+================================================================================
+================================================================================
+
+
+================================================================================
+
+
+
++++ PARENT
+
+  [C++]

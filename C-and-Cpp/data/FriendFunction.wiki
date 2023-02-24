@@ -1,0 +1,65 @@
+﻿++ Friend Function
+
+
+
+One of the cornerstones of object-oriented design is that of objects interacting by sending messages. In order to send a message (in this case, invoke a member function) an object must have a ‘link’ to the target object. That link is formed by building in an association between the two classes as part of the type’s definition.
+
+In a peer-to-peer relationship either object may invoke the operations on the other. That is, the relationship is bi-directional.
+
+If the association is bi-directional, then both classes need pointers. The problems come when you have to bind the objects together. The problem is which object gets built first? If both classes need a reference to the other in their constructors to work there is a cyclic dependency.
+
+
+
+Probably the most elegant approach is to create a free function that binds the two objects together. The 'bind' function is made a friend of both classes to allow the connection of their pointers (without otherwise exposing them):
+
+
+
+
+
+class CameraStabiliser;
+
+class UI
+{
+private:
+  CameraStabiliser* pStabiliser;
+
+public:
+  UI() : pStabiliser(NULL) {}
+  void inPosition();
+
+  friend void bind(UI& ui, CameraStabiliser& cs);
+};
+
+
+class CameraStabiliser
+{
+private:
+  UI* pUI;
+
+public:
+  CameraStabiliser() : pUI(NULL) {}
+  void moveTo(Position pos);
+
+  friend void bind(UI& ui, CameraStabiliser& cs);
+};
+
+
+void bind(UI& ui, CameraStabiliser& cs)
+{
+  ui.pStabiliser = &cs;
+  cs.pUI = &ui;
+}
+
+
+int main()
+{
+  UI console;
+  CameraStabiliser stabiliser;
+
+  bind(console, stabiliser);
+}
+
+
+
++++ PARENT
+[C++]

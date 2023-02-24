@@ -1,0 +1,91 @@
+﻿++ Process Horticulture Nutrients
+
++++ SUMMARY
+
+
+  * General recipes for hydroponic liquid nutrient mixtures:
+    *   
+  * Many complete plant food solutions are based on:
+    * OSEObjectMixtureSolutionHydroponicNutrientsHoagland
+
+  * Nutrient recipes units are usually in 
+    * ppm (parts per million) for indoor
+    * lb/acre outdoor 
+    * 1 ppm = 1 mg/l (1 part per million equals 1 milligram per liter)
+      * ex: 150 ppm N = 150 mg/L of water.
+  
+  * ProcessHorticultureNutrientsExampleCalculations
+  
+  Calcium nitrate, potassium nitrate, monopotassium phosphate(MPK), magnesium sulfate, iron and trace element mix, phosphoric acid, and h2o2
+  * ProcessHorticultureNutrientsCommerciallyAvailable
+
++++ LIST OF NUTRIENTS
+There are 16 plant nutrients to supply to crops
+
+  * (1-3) (C)carbon (H)hydrogen (O)oxygen 
+      * air and water. 
+      * high CO2, well-oxygenated water are important. 
+      * Lack of CO2 is common bottleneck for indoor growers
+  
+  * (4-6) (NPK)
+    * N, nitrogen 
+      P, phosphorus
+        * Outdoor: usually P2O5 (phosphate).
+        * Hydroponic: usually 
+      K, potassium
+        * Ourdoor: usually K2O (potash).
+
+  *(7)
+    * Ca, HorticultureNutrientCalcium
+      * calcium nitrate (CaNO3), common fertilizer.
+
+
+  * (8-9)
+    * Mg, magnesium
+      S, sulfur
+      * Available as MgSO4 / EpsomSalt (MgSO4 7H2O).
+
+
+++++ MICRONUTRIENTS:
+  * How to prepare ProcessHorticultureHoaglandNutrientSolution 
+
+https://scienceinhydroponics.com/2020/05/how-to-prepare-a-low-cost-chelated-micronutrient-solution.html
+    Disodium EDTA	
+    Ferrous sulfate heptahydrate
+    Zinc sulfate monohydrate
+    Manganese sulfate monohydrate	
+    Copper sulfate pentahydrate
+    Sodium Molybdate	
+    Boric acid	
+
+    The last seven nutrients are so seldom deficient that they are practically negligible. If you do see deficiencies, it will be with iron (Fe). Iron can be supplemented using chelated iron. Molybdenum and chlorine, if anything, could cause toxicities in very high levels (this is also very uncommon).
+
+        Cu, copper,
+        Zn, zinc
+        B, boron
+        Mo, molybdenum
+        Fe, iron
+        Mn, manganese
+        Cl, chlorine
+
+    You can tell if a plant is deficient if it shows symptoms like wilting, chlorosis (yellowing), bronzing, or necrosis (dead tissue). Different symptoms indicate different deficiencies; see the Deficiency Key to identify deficiencies in your crops.
+    Nutrients are available as salts, which makes measuring very easy
+
+
+++++ ORGANIC VS INORGANIC NUTRIENTS
+
+        * I think major distinction is whether bacteria exists in your system to convert organic matter to ammonia, then Nitrites, then nitrites.
+          If this isnt available, you must provide the nutrients in an immediately available form
+
+
+
++++ EXTERNAL REFERENCES
+
+
+++++ UNVERIFIED OR QUESTIONABLE INFORMATION
+  * Complete nutrient mix guide:
+    * https://www.thcfarmer.com/threads/fatmans-diy-nutrient-mixing-guide.20899/
+
+
++++ PARENT
+ProcessHorticulture

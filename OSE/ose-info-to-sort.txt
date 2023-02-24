@@ -1,0 +1,111 @@
+C++ code to copy from, make templates based on:
+
+https://sourceforge.net/projects/catmother/
+https://github.com/llvm-mirror/clang
+
+========================================================================================
+
+Flow vs Pressure:
+  https://www.youtube.com/watch?v=AyizWUpPt28
+
+Audio Preamplifier
+  - Class A,B,C 
+  - 
+  - https://homerecording.com/bbs/threads/can-someone-define-class-a-preamp.71673/
+  
+  - 
+
+OSE Digital Audio Interface
+  - Firepod
+    - https://www.presonus.com/products/FP10
+  - 
+========================================================================================
+Food Safe Materials:
+  * FDA- regulations:
+    * UNited States of America only, but lets use as our guidelines,
+	  next lets find and evaluate the ANSI/ISO then lastly NSF
+	
+    * FDA list of approved polymer materials for food storage:
+	  * https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=177
+	  
+	  *
+  
+  * Good external resource:
+  * https://www.applerubber.com/blog/5-of-the-best-fda-grade-rubber-materials/
+	
+	* 
+======================================================================================
+ALUMINUM VS COPPER - WHY NOT USE ALUMINUM FOR DRINKING WATER PIPES:
+
+Copper is easy to join using low temperature solder. While solder can be used on Aluminum it's a much more temperamental, sensitive process. Fusion welding of aluminum is difficult and requires expensive equipment.
+
+It's desirable to use screw-in pipe joints on aluminum, with sealant tape. But this is a more time consuming process, and threaded joints may be more prone to leaks. The pipe sections need to be cut to length and then the screw threads custom cut with a pipe lathe.
+
+The most important reason however, is that aluminum is prone to unexpected localized corrosion problems. Whereas corrosion in copper water pies tends to be extremely slow, uniform, and predictable. Solder joints on aluminum tend to subject to a process called Galvanic Corrosion in pipes containing water, soldering is not recommended for aluminum water pipes. Solder is common for aluminum heat exchangers handling AC refrigerant, though.
+
+Aluminum is actually a reactive metal, but it forms a thin layer of inert aluminum oxide that stops further corrosion. In situations where there's almost no oxygen, which also contains chloride species, processes which compromise the surface oxide film can lead to rapid, localized corrosion because the oxide film cannot reform without oxygen. This is not unusual in water pipes.
+
+Dr. Robert Yokel, a professor of toxicology at the University of Kentucky who studies aluminum. 
+
+===================================================================
+very interesting, how to use ghostery to keep google apis from 
+tracking you:
+
+https://www.blackhatworld.com/seo/how-to-block-google-api-and-fonts-from-tracking-you.584591/
+
+heres a more generic one i think
+https://how-to.fandom.com/wiki/How_to_block_your_browser_from_sending_information_to_Google_Analytics
+====================================================================
+===============================================================================
+Goal: Build your own basement
+  - some good overview high level what is entailed.
+    - https://www.youtube.com/watch?v=bhxIX2VRLXU
+  
+  - video proof that this guy "poured?" a basement 5 gallons at a time, dont udnerstand if he used blcosk and pou 
+  
+  
+===============================================================================
+Goal: Build exterior wall on a slab, with an existing overhanging roof. (basically on an open patio)
+  - starting from garage, the OSB will be flush with brick, flashing will connect the two. steel siding will overlap onto the brick and have j channel around it.
+  - at the corner with the gutter, we will need corner trim
+    - corner trim: https://www.youtube.com/watch?v=o0UZBMbx7A8
+
+  - forum post, good inf on how to meet siding to brick.
+    -  https://www.diychatroom.com/threads/leak-where-brick-wall-meets-vinyl-siding.170841/
+
+
+
+  1) attach footer to bottom, 
+    = 
+	Hearing protection,
+	Dust Mask.
+	Goggles.
+	Bike pump (to remove the concrete dust from inside the hole after you've drilled it).
+	A hammer drill or rotary hammer drill.
+	A suitable concrete anchor.
+	A masonry drill bit suitable to the diameter size of your anchor. For example, if the diameter of your masonry bolt is 10mm, you would use a 10mm masonry drill bit.
+	A hammer, and a
+	Torque wrench, spanner or socket to tighten the anchor once installed.
+  - Material 
+    - 2x4s.   
+ 
+ RESOURCES
+  - framing an exterior wall basic with door
+    - https://www.acmetools.com/blog/build-a-wall-with-a-door-simple-1-2-3/
+ 
+  - steel siding wall, very useful info,
+	- https://www.youtube.com/watch?v=QS8UKDUAldU
+    - A "vapor retardant" is required by code here in Michigan on the "warm-in-winter" side of the insulation. 
+  
+  
+  - building exterior wall on concrete slab
+    - https://www.askthebuilder.com/exterior-wall-on-slab/
+    - useful video https://youtu.be/fCd5uzEy6GA
+ 
+  - pole barn construction ()
+    - https://gardenerdy.com/how-to-build-pole-barn-instructions/
+  
+  - exterior wall material choices
+    - https://www.thebalancesmb.com/exterior-wall-materials-used-in-building-construction-844846
+
+

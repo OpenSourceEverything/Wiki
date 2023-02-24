@@ -1,0 +1,11 @@
+﻿++ Object Entity Organization Instance OSHWA
+
+
+
+
++++ CERTIFICATION
+https://certification.oshwa.org/
+
++++ PARENT
+
+ObjectEntity

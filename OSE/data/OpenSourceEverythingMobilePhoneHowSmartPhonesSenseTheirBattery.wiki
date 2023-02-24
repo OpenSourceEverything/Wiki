@@ -1,0 +1,23 @@
+﻿++ Open Source Everything Mobile Phone How Smart Phones Sense Their Battery
+
+  * HOW SMARTPHONES KNOW HOW MUCH BATTERY THEY HAVE:
+
+This is an explanation from Krexington_III on reddit. Hope it helps
+
+worked for a summer as a fuel gauging engineer for a major cellphone manufacturer in northern Europe. I was responsible for assessing the fuel gauging algorithm in a new smartphone model.
+
+The battery holds charge - what we want to measure is how much charge it holds, we call this the "state of charge", or SoC for short. This is done in two ways.
+
+We can measure the voltage over the battery's poles, just like /u/Spritetm has described before me. However, once the battery is changing states (whether it's charging or discharging), we suffer from a phenomenon called "hysteresis". Hysteresis is simply the fact that once we've got the battery discharging, if we stop discharging it (say, by turning the phone off), it will keep on discharging by itself for a short while. Like if you are pushing a wagon, then suddenly stop - the wagon keeps rolling. It works the other way for charging - so it doesn't matter if you push or pull the wagon, it will keep going in that direction for a short while after you stop.
+
+What does this mean to us? It means that any voltage measurement done when the battery is charging or discharging will not correspond to the actual SoC - the battery must be "relaxed" for the voltage measurement to work. Relazing a cellphone battery completely can take 24 hours, but a "close enough" result can be had after just 1-3 hours. Typically, voltage measurements are only done on "wake from sleep" or "turn on" - that's why you get weird spikes in your battery usage curves, sometimes they drop sharply or even go up! That's because you've woken the phone from sleep and the fuel gauging algorithm is resetting by making a voltage measurement.
+
+When the phone is running, we thus cannot rely on voltage measurements. Instead, we use a coloumb counter to measure the current from or to the battery - we know how much charge is "leaving" or "entering" the battery. This, however, also carries with it a problem - any measurement on the current will have a small error. Since we make many of these measurements per second, the error will start to accumulate. We call this "drift" or "measurement drift". This is no biggie however - we simply measure the current from/to the battery when the phone is in use, and then calibrate by doing a voltage measurement on wake from sleep or other opportune times.
+
+For electric car batteries and other larger charge carrying arrays, a method known as Kalman filtering (used in control theory) is used - this is a quite advanced method that depends on studying the battery's state of charge by discharging and relaxing it many times (the relaxation may take 24-48 hours, making these measurements tedious and costly), making a curve of the SoC as a function of voltage. Then, a function fitting this curve is created - this function doesn't necessarily have anything to do with real physics, it just needs to fit the curve somewhat and be a function of voltage. We then "predict" where the curve is going to go when we use the battery, and use this made-up prediction to correct our actual measurements. This cannot be done on cell batteries however, because they are highly non-linear in nature
+    
+    
+    
++++ PARENT
+
+  OpenSourceEverythingMobilePhone

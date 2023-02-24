@@ -1,0 +1,12 @@
+﻿++ Git How To Modify The Most Recent Commit
+
++++ SUMMARY
+
+  
+  * GitCommandCommit:
+    * git commit --amend 
+
+
++++ PARENT
+
+  * 

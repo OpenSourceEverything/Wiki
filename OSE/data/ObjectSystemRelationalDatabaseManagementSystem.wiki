@@ -1,0 +1,18 @@
+﻿++ Object System Relational Database Management System
+
+
++++ SUMMARY
+
+  * [Database] 
+    * based on the relational model. 
+    * Most databases today use this modal (no proof).
+
+
+
++++ CHILDREN
+ObjectSystemRelationalDatabaseManagementSystemInstanceSQL
+
+
++++ PARENT
+
+  * ObjectSystem

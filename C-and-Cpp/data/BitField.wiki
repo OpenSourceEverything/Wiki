@@ -1,0 +1,25 @@
+﻿++ Bit Field
+BitFields
+
+
++++ SUMMARY
+
+typedef struct size
+{
+  unsigned int b:4; // 4 bytes allocated
+  unsigned int a:5; // covered by 4 bytes allocated above
+  unsigned int c:6; // covered by 4 bytes allocated above
+}mystruct;
+
+
+
+* Example 1 shows how memory is allocated.
+
+
++++ EXAMPLES
+
+BitFieldExample1
+
++++ CHILDREN
+
++++ PARENT

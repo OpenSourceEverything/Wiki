@@ -1,0 +1,20 @@
+﻿++ Open Source Everything Long Reach Manual Pole Saw
+
+
++++ SUMMARY
+
+  * Attach a saw to a long arm paint roller extendable pole for an inexpensive long reach pole saw. 
+  * $77 compared to a $350 long reach cutter. 
+  * Using a manual cutter on larger branches is hard work though.
+
+
++++ PARTS
+  * Bahco 14-Inch Pruning Saw with Striking Knife 386-6T.
+  * "Mr Long Arm"
+
+
++++ PARENT
+
+  OpenSourceEverything
+  OpenSourceEverythingListOfThings
+  

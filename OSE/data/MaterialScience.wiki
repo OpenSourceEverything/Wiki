@@ -1,0 +1,16 @@
+﻿++ Material ProcessScience
+
++++ SUMMARY
+
+  The interdisciplinary field of materials science, also commonly termed materials science and engineering is the design and discovery of new materials, particularly solids.
+  
+  CarbonFiber
+  
+  
+  
+  BiodegradablePlastic
+  
+  
++++ PARENT
+
+  [ObjectMaterial]

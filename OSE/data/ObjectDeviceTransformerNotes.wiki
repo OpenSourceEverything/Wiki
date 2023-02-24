@@ -1,0 +1,46 @@
+﻿++ Object Device Transformer Notes
+
+
+
+================================================================================
+HOW TO EXPERIMENTALLY DETERMINE CHARACTERISTIC PARAMETERS OF A TRANSFORMER.
+https://www.youtube.com/watch?v=ceHe_0iuh_Y
+
+
+
+Finish this from video:
+
+identifying a transformer:
+
+  * 1 - identify sides of the transformer, primary, secondary, input/output.
+  
+  * 2 - figure out which side is the primary / input
+  
+  * 3. - 
+
+
+================================================================================
+To measure the output impedance at the secondary of the transformer, as driven 
+by the amplifier, do this:
+
+Apply a 1 kHz signal to the input of the amplifier, so that the output is not 
+too large, but easily measurable, perhaps 1/10 volt. Carefully measure the 
+output voltage with no load connected. Next connect a variable load resistance 
+to the output, and adjust its resistance until the output voltage is reduced by 
+half. Measure the value of the load resistance. That value will be the output 
+impedance.
+
+The output impedance is given by Zo = RL*(Vo/VL - 1).
+
+If the output voltage doesn't change much when you connect the load resistor, 
+use lower value resistors until it does.
+
+-------------------------------------------------------------------------------
+
+GOOD ARTICLE ON Z% IMPEDANCE RATIO OF TRANSFORMER
+https://voltage-disturbance.com/power-engineering/power-engineering-impedance-of-transfromer/
+--------------------------------------------------------------------------------
+
+
++++ PARENT
+ObjectDeviceTransformer

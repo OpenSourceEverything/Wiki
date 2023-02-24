@@ -1,0 +1,19 @@
+﻿++ Process Compilation
+
+
+Process  
+  * a computer takes to convert a high-level programming language into a machine language that the computer can understand. 
+
+
+The software which performs this conversion is called a ObjectDataInformationComputerProgramCompiler.
+
+If the executable is requested for execution, then the operating system loads it into memory and starts a ProcessComputingProcess.[3] 
+
+The central processing unit will soon switch to this process so it can fetch, decode, and then execute each machine instruction.[4]
+
++++ RELATED
+ProcessComputingCompilation
+
++++ PARENT
+
+[Process]

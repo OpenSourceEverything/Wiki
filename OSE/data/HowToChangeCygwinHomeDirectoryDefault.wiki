@@ -1,0 +1,5 @@
+﻿++ How To Change Cygwin Home Directory Default
+
+go to C:/cygwin64/etc/nsfswitch.conf, uncomment the line with db_home, by removing the # symbol, and make the line look like this 
+
+db_home:  /cygdrive/c/Projects/Hurco\ Projects/Development

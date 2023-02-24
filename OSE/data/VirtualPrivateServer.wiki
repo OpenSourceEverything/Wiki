@@ -1,0 +1,18 @@
+﻿++ Virtual Private Server
+
+
+
++++ SUMMARY
+
+* Vendor offers part of a [server] as a [VirtualMachine] to a user.
+  * The same Physical server may have multiple VPS VM's running on it. 
+
+* Cheaper alternative to a dedicated physical server.
+
+* Often the vendor will install what OS you want.
+
++++ PARENT
+
+
+
+  

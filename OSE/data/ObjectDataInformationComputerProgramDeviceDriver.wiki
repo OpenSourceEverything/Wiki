@@ -1,0 +1,17 @@
+﻿++ Object Data Information Computer Program Device Driver
+
+++ SUMMARY
+
+ObjectDataInformationComputerProgram 
+  * operates/controls an ObjectDevice attached to a computer or automaton. 
+  * provides a software interface to hardware devices, enabling operating systems and other computer programs to access hardware functions without needing to know precise details about the hardware being used.
+
+  * Drivers are hardware dependent and operating-system-specific. 
+  * (usually) provide the interrupt handling required for any necessary asynchronous time-dependent hardware interface.[2] 
+
+  * communicates with the device through the computer bus or communications subsystem to which the hardware connects. When a calling program invokes a routine in the driver, the driver issues commands to the device. Once the device sends data back to the driver, the driver may invoke routines in the original calling program.
+
+
+
++++ PARENT
+ObjectDataInformationComputerProgram

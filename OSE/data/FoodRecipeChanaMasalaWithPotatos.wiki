@@ -1,0 +1,75 @@
+﻿++ Food Recipe Chana Masala With Potatos
+
+
+NOTES:
+
+    * Soak chic peas overnight!
+
+    * I used 1.5 cups wet soaked chana, not dry
+    
+    * 4x this recipe is slightly too much for crockpot slightly, gets to 3/4, 
+      should stay near 2-3 but it can work.
+
+INGREDIENTS
+
+    1 1/2 cups dry Chickpeas (chana)
+    
+    3 tablespoons Oil
+    1 teaspoon Cumin Seeds
+    2 Bayleaves
+    2 Cardamom Pods
+    
+    3/4 cup medium sized Onion, finely chopped
+    
+    
+    1 1/2 cups Tomatoes, finely chopped
+    1 tablespoon finely minced Garlic
+    1 tablespoon finely minced Ginger
+    2 Green Chillies, finely chopped (Serrano Peppers will work)
+    
+    
+    1 1/4 teaspoon Salt
+    1 teaspoon Turmeric Powder
+    1 teaspoon Red Chilli Powder (or Paprika Powder)
+    
+    2 potatoes, cut into quarters - (or omit, or use cauliflower)
+    
+    3/4 teaspoon Garam Masala
+    1 tablespoon Kasuri Methi (optional)
+    Chopped coriander for topping
+
+    
+DIRECTIONS
+
+    1. Sautee in oil in pressure cooker (no lid duh):
+        cumin seeds, 
+        bayleaf
+        coriander pods. 
+        Once the seeds start spluttering, add the onions and cook 
+        until they are soft (about 3-4 minutes)
+        
+    2.  Add 
+        tomatoes, 1.5 cups x 4 = 6 cups
+        garlic, 
+        ginger, 
+        green chillies, 
+        salt, 
+        turmeric powder 
+        and chilli powder 
+        
+        to the pot. Cook till the tomatoes break down and start 
+        becoming mushy
+        
+    3. Add the chickpeas, potatoes and 2 1/2 cups water to the pot. 
+       Pressure cook for ??30 minutes
+       
+       
+    4. open the cooker and add garam masala and kasuri methi (if using).
+
++++ RELATED
+
+  FoodRecipeTemplate
+    
++++ PARENT
+
+  OpenSourceEverythingFoodRecipes

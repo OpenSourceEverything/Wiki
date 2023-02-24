@@ -1,0 +1,12 @@
+﻿++ Food Contact Safety Regulations
+
++++ SUMMARY
+
+  * Consult the Federal Register Part 178 for food contact regulations.
+    * Source https://www.physicsforums.com/threads/epdm-food-grade-non-food-grade.887096/
+
+
+
++++ PARENT
+
+  [Food]

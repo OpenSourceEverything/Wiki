@@ -1,0 +1,21 @@
+﻿++ Object System Language Instance Chinese
+
+
++++ SUMMARY
+
+* Recommend using Pinyin interactive charts to hear sounds 
+  * see external resources
+
+
++++ EXTERNAL RESOURCES
+
+1. Pinyin Chart 1
+  1.1 https://studycli.org/pinyin-chart/
+2. Pinyin Chart 2
+  2.1 https://hanpath.com/pinyin-chart/
+3. Pinyin Chart 3
+  3.1
+4. 
+  4.1
++++ PARENT
+ObjectSystemLanguageInstance

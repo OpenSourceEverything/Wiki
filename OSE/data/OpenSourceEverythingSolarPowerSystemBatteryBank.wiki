@@ -1,0 +1,29 @@
+﻿++ Open Source Everything Solar Power System Battery Bank
+
+
+
+++ SUMMARY
+
+
+
+
+
+
+
++++ TESTING
+
+  *  Cycle testing with a motor/generator set and load resistors.
+
+
++++ RELATED
+
+
+  * DeviceElectricBattery
+  * DeviceElectricBatteryNickelIron
+
+
+
++++ PARENT
+
+
+  * OpenSourceEverythingSolarPowerSystem

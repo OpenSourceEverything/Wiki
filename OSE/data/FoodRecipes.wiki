@@ -1,0 +1,103 @@
+﻿++ Food Recipes
+  
++++ SUMMARY
+
+  * FoodRecipeTemplate
+
+
+
++++ BREAD
+
+  * FoodRecipesBread
+
++++ BREAKFAST
+
+  * ListOfRecommendedBreakfastMeals
+
++++ LUNCH
+
+  * ListOfRecommendedLunchMeals
+
++++ DINNER
+
+  * ListOfRecommendedDinnerMeals
+
++++ SNACK/OTHER
+
+  * ListOfRecommendedSnackOrOtherMeals
+
++++ INDIAN
+  
+  * FoodRecipeRajmaMasala
+
+  * RecipeYellowLentilPotatoCurry
+  
+  * FoodRecipeChanaMasala 
+  
+  * FoodRecipeChanaDal
+  
+  * FoodRecipeTarkaDal 
+  
+  * RecipeToorDal  
+  
+  * GKRecipeDosakayaPappu
+  
+  * GKRecipeDalMakhani
+  
+  * RecipeShalgamMasala 
+
++++ PIE
+
+  * FoodRecipePie
+
+
++++ SAUCES
+
+FoodRecipeTahiniLemonMapleSauce
+
++++ UNSORTED
+
+  * FoodRecipePotatosMashed
+  
+  * FoodRecipeVeganButter
+
+  * FoodRecipeMacaroniAndVeganCheese
+
+  * RecipeBuddhaBowl
+
+  * FoodRecipeRefriedBeans
+
+  * RecipeSeitan
+
+  * RecipeNutButterSandwich
+
+  * RecipeAlmondButter
+  
+  * RecipeGnocchiPasta 
+
+  * FrozenMangos
+  
+  * GKRecipeChocolateOatMilk
+  
+  * FoodRecipeBananaPudding 
+
+  * FoodRecipeChocolateBar
+  
+  * OpenSourceEverythingFoodRecipesHummus
+  
+  * OpenSourceEverythingFoodRecipesTahini 
+  
+
++++ RELATED
+
+  * FoodRecipeTemplate
+
+  * OpenSourceEverythingFoodConversionFactors
+
+  * ProcessHorticulture
+
+  * FoodMasterList
+  
++++ PARENT
+
+  * OpenSourceEverythingFood

@@ -1,0 +1,18 @@
+﻿++ Personal Finance Investment Index Funds
+
+
++++ SUMMARY
+
++++ DETAILS
+
+
++++ CHOOSING INDEX FUNDS
+  * Which index fund most closely tracks the performance of the index? 
+  * Which index fund has the lowest costs? 
+  * Are there any limitations or restrictions on an index fund that prevent you from investing in it? 
+  * Does the fund provider have other index funds that you're also interested in using? The answers to those questions should make it easier to pick the right index fund for you.
+
++++ PARENT
+
+  PersonalFinanceInvestment
+  

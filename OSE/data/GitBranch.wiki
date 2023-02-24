@@ -1,0 +1,22 @@
+﻿++ Git Branch
+
+
++++ SUMMARY
+
+  * you create branches by starting with either the head/trunk or an existing branch
+
+  * default branch = "master"
+  
+  * GitCommandCheckout
+  
++++ RELATED
+
+  * GitHowTo
+
+  * GitCommandBranch
+
+  * GitWorkingTree
+
++++ PARENT
+
+  GitVocabulary

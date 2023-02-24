@@ -1,0 +1,13 @@
+﻿++ class
+[classTemplate]
+
+[Constructor]
+AbstractClass
+
+ClassInheritance
+
+
+++ SUMMARY
+
++++ TEMPLATE
+

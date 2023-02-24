@@ -1,0 +1,4 @@
+﻿++ Medicine Dictionary
+
+  * [parenchyma]
+  * [stroma]

@@ -1,0 +1,8 @@
+﻿++ Object Device Amplifier Electronic
+
+
++++ CHILDREN
+ObjectDeviceAmplifierElectronicAudio
+
++++ PARENT
+ObjectDeviceAmplifier

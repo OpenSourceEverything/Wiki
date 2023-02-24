@@ -1,0 +1,8 @@
+﻿++ OSE Object Device Interface Audio Design Summary
+
+
+
+
++++ PARENT
+
+OSEObjectDeviceAudioInterface

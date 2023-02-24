@@ -1,0 +1,16 @@
+﻿++ JSON
+
+JavaScript Object Notation
+
+
+    * Data is in name/value pairs
+    * Data is separated by commas
+    * Curly braces hold objects
+    * Square brackets hold arrays
+
+
+JSONSyntax
+
+
+
+JSONInteractiveBrowserTool

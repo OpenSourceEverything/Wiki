@@ -1,0 +1,34 @@
+﻿++ Open Source Everything Deodorant Iteration2
+
+
+
++++ SUMMARY
+
+
++++ INGREDIENTS
+
+  * 2 Tbspn CoconutOil
+  * 1/8 cup CornStarch
+  * 1/4 cup ArrowrootPowder
+  * 5-7 drops essential oil (lavender, tea tree,...)
+  * 
+ 
+
++++ INSTRUCTIONS
+
+
+
+
++++ NOTES
+
+  * MASON JAR
+  * this one is currently in the mason jar small bottle in the bathroom. [Sat 2020-02-01]
+  * currently being compared to iteration 1
+  * Making it again, [Sun 2020-03-15].
+  
+  * Doubling this recipe makes enough to fill an applicator thing and a small mason jar
+    * small mason jar is about 1/2 cup and the applicator is about 1/2 cup as well. 
+
++++ PARENT
+
+  OpenSourceEverythingDeodorant 

@@ -1,0 +1,17 @@
+﻿++ Computer ProcessScience Database Row And Record
+
++++ SUMMARY
+
+  * Rows are not records, strictly speaking. Heavy debate exists.
+  
+  *  
+
+
++++ RELATED
+
+  ComputerScienceDatabaseFieldAndColumn
+
+
++++ PARENT
+
+  ComputerScienceDatabase

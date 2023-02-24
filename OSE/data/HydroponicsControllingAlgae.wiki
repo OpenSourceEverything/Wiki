@@ -1,0 +1,12 @@
+﻿++ Hydroponics Controlling Algae
+
+
+  * shield from light
+  
+  * filter water 
+
+  * Humic Acid helps, not actually acidic, shields from light I think
+  
++++ PARENT
+
+  [Hydroponics]

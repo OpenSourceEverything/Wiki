@@ -1,0 +1,16 @@
+﻿++ Process Computing Graphical Control Element Window
+
++++ SUMMARY
+
+  * a visual area 
+  * contains some/all of the [GUI] of the program it belongs to
+  * framed by a window decoration.
+
+
+
++++ RELATED
+OSEProcessComputingGraphicalControlElementWindow
+OSEObject
++++ PARENT
+
+ProcessComputingGraphicalControlElement

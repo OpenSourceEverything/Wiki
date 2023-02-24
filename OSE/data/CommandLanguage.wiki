@@ -1,0 +1,7 @@
+﻿++ Command Language
+
++++ SUMMARY
+a language used to control the tasks of the computer itself, such as starting other programs
+
++++ PARENT
+ObjectSystemLanguageFormalComputer 

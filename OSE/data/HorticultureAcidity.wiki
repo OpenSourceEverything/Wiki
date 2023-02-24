@@ -1,0 +1,39 @@
+﻿++ Horticulture Acidity
+
++++ SUMMARY
+  
+  * This documentation focuses on natural, susatainable horticulture
+
+  * HorticultureSoilFoodWeb is created by healthy natural soil
+  * All synthetic fertilizers contain salts which are unhealthy. 
+
+Soil pH is an imperfect and limited concept. A discussion of why this is so may help in interpreting soil test results. 
+  * Ph has no meaning for solids, for soil it refers to the water
+    in the soil.
+
+  Excellent details of soil acidity in reference (1)
+
+  * pH is not uniform throughout the soil; it is lower in the area around plant roots, owing to a higher biological activity. 
+
++++ DETAILS
+
+“Soil acidity” is the term used to express the quantity of hydrogen (H) and aluminum (Al) cations (positively charged ions) in soils. 
+
+When levels of hydrogen or aluminum become too high—and the soil becomes too acid—the soil’s negatively charged cation exchange capacity (CEC) becomes “clogged” with the positively charged hydrogen and aluminum, and the nutrients needed for plant growth are pushed out. This is why root growth and plant development suffer when soils become too acid.
+
+++++ NATURAL ACIDIFICATION (PH DOWN)
+
+  * Never use aluminum sulfate (adds harmful salts)
+  * Use soil sulfer (temporary)
+  * High quality compost, organic matter = more long term.
+  * 
+
+++++ TESTING SOIL PH
+  
+  
++++ EXTERNAL LINKS
+  *(1) https://www.nofa.org/soil/html/calcium.php
+
++++ PARENT
+
+[Horticulture]

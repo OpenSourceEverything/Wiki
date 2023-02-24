@@ -1,0 +1,12 @@
+﻿++ Process Computing Abstract Data Type
+
+
+
+
++++ ABSTRACT DATA TYPES
+ProcessComputingAbstractDataTypeQueue
+
+
+
++++ PARENT
+ProcessComputing

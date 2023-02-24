@@ -1,0 +1,43 @@
+﻿++ Process Electronics
+
+[Electronics]
++++ Summary
+
+  * This page is a parent in the sense of definition (1) below.
+
+  * 1)[comprise]s the physics, engineering, technology and applications that deal with 
+      (the emission,flow,control) of electrons in vacuum and matter
+  
+  * 2) Electronic devices and systems.
+    * generally search under ObjectDevice, ObjectSystem
+  
++++ Children
+
+++++ Branches of Electronics
+  * DigitalElectronics
+  * AnalogueElectronics
+  * [Microelectronics]
+  * CircuitDesign
+  * IntegratedCircuits
+  * PowerElectronics
+  * [Optoelectronics]
+  * [SemiconductorDevices]
+  * EmbeddedSystems
+  * AudioElectronics
+  * Telecommunications
+  * Nanoelectronics
+  * Bioelectronics
+  
+++++ Miscellaneous
+  * BiodegradableElectronics
+
+  * ElectronicRelay
+
++++ Related  
+  * OSEObjectDevicePrintedCircuitBoard
+  * MakingYourOwnPrintedCircuitBoard
+  
+  * ObjectIdeaMathematicalObjectFunctionSignal
++++ PARENT
+
+  [Process]

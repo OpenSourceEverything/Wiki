@@ -1,0 +1,7 @@
+﻿++ Modeling Language
+
++++ SUMMARY
+an artificial language used to express information or knowledge, often for use in computer system design
+
++++ PARENT
+ObjectSystemLanguageFormalComputer 

@@ -1,0 +1,35 @@
+﻿++ Object Device Amplifier Electronic Pre Amplifier Audio
+
++++ SUMMARY
+
+ObjectDeviceAmplifierElectronicPreAmplifier 
+  Used in audio system,
+  parameters optimizerd for audio
+
+* typically amplify signals from analog sensors to line level. 
+* typically outputs to a second amplifier which is a power amplifier
+
+* provides voltage gain (e.g., from 10 mV to 1 V) 
+* does not provide significant current gain (needed for speakers). 
+  * this is typically delivered by the second, power amplifier
+  
+common sensors/inputs:
+  microphones, 
+  instrument pickups, and 
+  phonographs. 
+
+Can be a stand-alone device, or often integrated into 
+  audio inputs on mixing consoles, 
+  DJ mixers, 
+  sound cards.  
+
++++ CHILDREN
+
+
++++ RELATED
+
+OSEObjectDeviceAmplifierElectronicPreAmplifierAudio
+
+
++++ PARENT
+ObjectDeviceAmplifierElectronicPreAmplifier

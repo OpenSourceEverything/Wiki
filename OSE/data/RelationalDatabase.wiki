@@ -1,0 +1,14 @@
+﻿++ Relational Database
+
++++ SUMMARY
+
+
+In a relational database, each row in the table is a record with a unique ID called the key. The columns of the table hold attributes of the data, and each record usually has a value for each attribute,
+
+
++++ RELATED
+[Database]
+DatabaseManagementSystem
+
++++ PARENT
+

@@ -1,0 +1,14 @@
+﻿++ Process Computing Abstract Data Type Queue
+
+
+
++++ SUMMARY
+
+
++++ CHILDREN
+
+ProcessComputingAbstractDataTypeQueueThreadSafeMultipleProducerMultipleConsumerImplementation
+
++++ PARENT
+
+ProcessComputingAbstractDataType

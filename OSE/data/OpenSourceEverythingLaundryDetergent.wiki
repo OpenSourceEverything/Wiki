@@ -1,0 +1,27 @@
+﻿++ Open Source Everything Laundry Detergent
+
+
++++ SUMMARY
+
+  * Majority of detergent is Borax, Washing Soda
+
+
++++ INGREDIENTS
+
+  * Borax            -> 2 cup
+  
+  * Washing Soda     -> 2 cup
+
+  * Baking Soda      -> 1 cup
+
+  * Bar Soap, Shaved -> 
+  
+  * Essential oils optional
+  
++++ INSTRUCTIONS
+
+  * 
+
++++ PARENT
+
+  OpenSourceEverything

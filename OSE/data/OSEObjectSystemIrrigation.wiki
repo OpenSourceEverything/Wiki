@@ -1,0 +1,19 @@
+﻿++ OSE Object System Irrigation
+
++++ SUMMARY
+
+
+
+
++++ CHILDREN
+
+OSEObjectSystemIrrigationBucketsSmallLowWaterPressureWithDrainageTube
+
++++ RELATED
+
+ObjectSystemIrrigation
+ObjectDevicePump
+
++++ PARENT
+
+OSEObjectSystem

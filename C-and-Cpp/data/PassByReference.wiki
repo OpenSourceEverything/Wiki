@@ -1,0 +1,40 @@
+﻿++ Pass By Reference
+PassParameterByReference
+
++++ SUMMARY
+
+Passing a [ReferenceVariable] to a function
+
+
+Allows you to change the value of the parameter passed to function.
+  * not possible when passing a normal int.
+
+To modify a passed in parameter, it must be a reference, or pointer.
+
+An alternative to PassByReference is PassingPointersAsParameters
+  * Preferable to always use PassByReference when possible
+    * ComparingPassByReferenceAndPassByPointer
+
+
++++ DETAILS
+
++++ EXAMPLE 1, PASSING A NORMAL PRIMITIVE PARAMETER 
+  * This code will not modify i, passed in to ModifyParameter()
+
+#include <stdio.h>
+int ModifyParameter(int i)
+{
+  i=10; // will not take effect
+  return i;
+}
+
+int main(void)
+{
+  int i = -2;
+  ModifyParameter(i);
+  printf("%d",i);
+
+}
+
++++ PARENT
+PassingParametersToFunctions

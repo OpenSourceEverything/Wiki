@@ -1,0 +1,71 @@
+﻿++ Process Computing Abstract Data Type Queue Thread Safe Multiple Producer Multiple Consumer Implementation
+
+
+
+PUT THIS IN THE OSE WIKI FOR A QUEUE.
+
+
+emptyCount = WriteSem
+fillcount  = ReadSem
+/////////////////////////////////////////////////////////////////
+writeSem = MAX_MSG;
+readSem  = 0;
+
+WRITE
+        // via caller
+		// make item
+        
+		wait(WriteSem);
+        wait(bufferMutex);
+        
+		// place item in buffer, OsMemCpy
+        
+		release(BufferMutex);
+        release(ReadSem);
+
+READ		
+		wait(ReadSem);
+        wait(buffer_mutex);
+		
+        // remove from buffer
+        
+		release (buffer_mutex);
+        release (WriteSem);
+        
+		// caller thread
+        // use item
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////
+procedure producer() 
+{
+    while (true) 
+    {
+        item = produceItem();
+        down(emptyCount);
+        down(buffer_mutex);
+        putItemIntoBuffer(item);
+        up(buffer_mutex);
+        up(fillCount);
+    }
+}
+
+procedure consumer() 
+{
+    while (true) 
+    {
+        down(fillCount);
+        down(buffer_mutex);
+        item = removeItemFromBuffer();
+        up(buffer_mutex);
+        up(emptyCount);
+        consumeItem(item);
+    }
+}
+
+
++++ PARENT
+
+ProcessComputingAbstractDataTypeQueue

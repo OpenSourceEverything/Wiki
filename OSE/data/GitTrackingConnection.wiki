@@ -1,0 +1,15 @@
+﻿++ Git Tracking Connection
+
+
++++ SUMMARY
+
+  * By default, branches are not related
+  
+  * A tracking connection, as name implies, links two branches (local/remote)
+    * (Not sure? Confirm this) two local branches, or two remote branches never having GitTrackingConnection  
+
+
++++ PARENT
+
+  GitVocabulary
+  [Git]

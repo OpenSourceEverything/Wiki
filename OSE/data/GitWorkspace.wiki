@@ -1,0 +1,12 @@
+﻿++ Git Workspace
+
++++ SUMMARY
+
+  * Generic concept, WorkingDirectory
+  
++++ RELATED
+
+
++++ PARENT
+
+  * 

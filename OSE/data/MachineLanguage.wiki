@@ -1,0 +1,8 @@
+﻿++ Machine Language
+
++++ SUMMARY
+
+* [Instructions] Specific to a certain InstructionSetArchitecture [ISA]
+
++++ PARENT
+ObjectSystemLanguageFormalLanguageComputerLanguageMachineLanguage

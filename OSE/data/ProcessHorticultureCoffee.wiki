@@ -1,0 +1,20 @@
+﻿++ Process Horticulture Coffee
+
++++ SUMMARY
+
+Produces cherries with green seeds inside
+  * Green seeds are roasted to become dry/red/black
+
+Average 5-9 years before usable fruit.
+
+The flowering phase will last for about one month. After it ends, the flowers will turn brown and fall off the plant.
+    
+Over the next six to eight months, the tree will be in its fruiting phase. 
+  If the cherries reach a deep red color, they can be picked. 
+  If they drop off naturally before reaching this color, the tree is not yet mature enough.
+
+
+
++++ PARENT
+
+ProcessHorticulture

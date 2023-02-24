@@ -1,0 +1,10 @@
+﻿++ Object Device3D Printer Instance
+
+
+
++++ CHILDREN
+ObjectDevice3DPrinterInstancePrusaMK3Si3
+ObjectDevice3DPrinterInstanceOSE
+
++++ PARENT
+ObjectDevice3DPrinter

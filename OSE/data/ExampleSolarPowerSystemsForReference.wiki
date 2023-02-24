@@ -1,0 +1,18 @@
+﻿++ Example Solar Power Systems For Reference
+
++++ SUMMARY
+
++++ EXAMPLE 1
+
+      31.2kWh: 650ah 48v Lithium
+      55.2kWh: 1150ah 48v Sealed LA
+      61.6kWh: 1284 ah 48v Flooded LA 
+
+
+
+
+
+
++++ PARENT
+
+  OpenSourceEverythingSolarPowerSystem

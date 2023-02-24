@@ -1,0 +1,18 @@
+﻿++ Object Device Container
+
++++ SUMMARY
+  
+* Synonyms:
+  * Enclosure 
+  * Container
+
+
++++ CHILDREN
+ObjectDeviceContainerBucket
+
++++ RELATED
+OSEObjectDeviceContainer
+OSEObjectDeviceContainerBoxCardboardBox
+
++++ PARENT
+ObjectDevice

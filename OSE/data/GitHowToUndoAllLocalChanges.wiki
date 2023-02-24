@@ -1,0 +1,11 @@
+﻿++ Git How To Undo All Local Changes
+
++++ SUMMARY
+
+  * Undo all local uncommited changes in current branch
+    * git reset --hard HEAD                  // head points to your current branch
+
+
++++ PARENT
+
+  GitHowTo

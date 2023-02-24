@@ -1,0 +1,11 @@
+﻿++ Recipe
+
+
++++ SUMMARY
+
+* set of [instructions]/[directions] and a list of [ingredient](s). 
+  * describes how to prepare or make something, 
+    * word is oftem used within context of ObjectSubstanceFood (i.e. Recipe for a [dish]/meal)
+
++++ PARENT
+[OSE]

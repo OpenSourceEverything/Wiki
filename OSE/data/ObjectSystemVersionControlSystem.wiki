@@ -1,0 +1,30 @@
+﻿++ Object System Version Control System
+
+
+
++++ SUMMARY
+
+  * System responsible for managing changes to information such as:
+    * computer programs 
+    * documents
+    * large web sites
+  
+  * Version control is a component of software configuration management.
+  
+  * Most commonly run as stand-alone application, but is also embedded in program sometimes.
+  
+  *  
+
+
++++ CHILDREN
+
+  * ObjectSystemVersionControlSystemGit
+
+
++++ RELATED
+
+  * OSEObjectSystemVersionControl
+
++++ PARENT
+
+  ObjectSystem

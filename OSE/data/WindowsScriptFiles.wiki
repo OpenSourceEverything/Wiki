@@ -1,0 +1,31 @@
+﻿++ Windows Script Files
+
++++ Essential Commands
+
+++++ Navigate to current directory
+*  
+  SET CurrentDir=%~dp0
+  cd %CurrentDir%
+
+++++ Call script file
+*
+  call ".\FileNameOfFileInTheCurrentDirectory.cmd" Argument1 2.0 "Argument3"
+    - quotes not required, but watch out for white space
+++++ Call an exe
+
+++++ Navigate to drive
+*
+  I:\
+    - no use cd
+    
+++++ Navigate to directory
+*
+  cd Folder
+    - where folder is name of the directory locally    
+*
+  cd "C:\Folder\SubFolder"
+*
+    
++++ Search
+
+  Bash command line shell script windows shell windows powershell scipt cmd file batch file windows batch file batch commands windows commands, windows command line commands

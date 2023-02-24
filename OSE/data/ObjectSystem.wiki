@@ -1,0 +1,42 @@
+﻿++ Object System
+
+
+
++++ SUMMARY
+
+  * Tricky to differentiate between ObjectSystem/ObjectDevice
+    * ex:  ObjectDeviceComputerMicrocontroller is a device, or system?
+
+  * group of interacting, interrelated, interdependent ObjectEntityElement(s) 
+    * form a complex whole
+  
++++ CHILDREN
+
+ObjectSystemHeating
+
+ObjectSystemLanguage
+
+ObjectSystemComputerOperating
+
+ObjectSystemStructure
+
+ObjectSystemInterface
+ObjectSystemIrrigation
+
+
+ObjectSystemPlumbing
+
+ObjectSystemVersionControl
+
+ObjectSystemSecuritySystem
+
+ObjectSystemElectricPowerSystem
+
+ObjectSystemComputerNetwork
+
++++ OSE
+OSEObjectSystem
+
++++ PARENT
+
+  [Object]

@@ -1,0 +1,12 @@
+﻿++ Git Change Origin To A Different Location
+
+
++++ SUMMARY
+
+  *
+
+
++++ PARENT
+
+
+  [Git]

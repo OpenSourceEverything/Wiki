@@ -1,0 +1,3 @@
+﻿++ Japanese Language
+
+  * JapaneseKanji

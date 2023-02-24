@@ -1,0 +1,11 @@
+﻿++ Object Device DI Unit Passive Instance OSE1
+
+
++++ SUMMARY
+
+ObjectDeviceDIUnit
+
+
++++ PARENT
+
+ObjectDeviceDIUnitPassiveInstance

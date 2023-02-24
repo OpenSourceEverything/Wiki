@@ -1,0 +1,29 @@
+﻿++ Process Mathematics Matrix
+
+
+
++++ SUMMARY
+
+* rectangular array or table of numbers, symbols, or expressions, 
+* arranged in rows and columns, 
+* used to represent a mathematical object or a property of such an object. 
+
+
+
+* example
+  * |01  09  −13|
+    |20  05  −06| 
+   
+  * two rows and three columns;
+    * "two by three matrix"
+    * "2×3-matrix"
+    * matrix of dimension 2×3. 
+
+
++++ RELATED
+
+ProcessMathematicsLinearAlgebra
+
++++ PARENT
+
+ProcessMathematics

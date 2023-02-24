@@ -1,0 +1,11 @@
+﻿++ Git Check In
+
+
+
+GitCommit when moving from your machine to the GitIndex(GitStagingArea)
+
+GitPush when moving from your GitIndex to the GitRepository
+
+
+
+

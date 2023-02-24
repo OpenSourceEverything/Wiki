@@ -1,0 +1,21 @@
+﻿++ Git How To Create A Pull Request
+
+
++++ SUMMARY
+ 
+  * Pull request is not a git specific thing, but rather a thing of your server or host
+  
+  * You create a branch off of some "main-branch", say its a branch called "new-work"
+
+  * once all your changes are commited and pushed to the remote server you create a pull request 
+    * (not through git but through some other mechanism, such as a web browser)
+  
+  * The pull request is completed by someone else who actually does a GitMerge operation of your "new-work" branch into the "main-branch"
+
+
++++ RELATED
+
+
++++ PARENT
+
+  GitHowTo

@@ -1,0 +1,7 @@
+﻿++ Linguistics Object Pronoun
+
+A PersonalPronoun typically used as a GrammaticalObject, or the object of a preposition. Object pronouns contrast with subject pronouns. Object pronouns in English take the objective case, sometimes called the oblique case or object case.[1] For example, the English object pronoun me is found in "They see me" (direct object), "He's giving me my book" (indirect object), and "Sit with me" (object of a preposition); this contrasts with the subject pronoun in "I see them," "I am getting my book," and "I am sitting here." 
+
+
++++ Parent
+  * [Linguistics]

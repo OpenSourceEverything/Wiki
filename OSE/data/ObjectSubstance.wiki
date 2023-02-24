@@ -1,0 +1,10 @@
+﻿++ Object Substance
+
+ObjectMaterial
+  Attribute:
+    Connotation:
+      Not Flesh, Living, Thinking, 
+
+
++++ CHIILDREN
+ObjectSubstanceNutrient

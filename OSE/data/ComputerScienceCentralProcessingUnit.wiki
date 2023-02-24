@@ -1,0 +1,19 @@
+﻿++ Computer ProcessScience Central Processing Unit
+
++++ Children
+
+++++ Parts of the CPU
+  registers, 
+  ArithmeticLogicUnit (ALU) 
+  AddressGenerationUnit (AGU)
+  FloatingPointUnit (FPU) 
+  LoadStoreUnit (LSU) 
+  BranchRxecutionUnit (BEU)
+  
+++++ Related 
+
+  
+
++++ Parent
+
+  * ProcessComputingComputerScience

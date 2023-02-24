@@ -1,0 +1,35 @@
+﻿++ Object Legal Entity USA Limited Liability Company Indiana Instance OSE1
+
++++ SUMMARY
+
+* ObjectLegalEntityUSALimitedLiabilityCompanyIndiana
+  * [Attribute]
+    * An [LLC] that files taxes as a SoleProprietorship.
+      * A single owner/member/operator. 
+      * Referred to as a DisregardedEntity
+
+* This instance will make use of 3rd parties for:
+  * 1) DomainNameRegistrar: GoDaddy
+  * 2) Email: Protonmail.com
+  * 3) State registration: https://inbiz.in.gov
+
++++ DETAILS
+++++ US EMPLOYER IDENTIFICATION NUMBER
+ObjectLegalEntityUSALimitedLiabilityCompanyIndianaInstanceOSE1EmployerIdentificationNumber
+
+++++ EMAIL
+ObjectLegalEntityUSALimitedLiabilityCompanyIndianaInstanceOSE1Email
+
+
+++++ REGISTERED AGENT
+ObjectLegalEntityUSALimitedLiabilityCompanyIndianaRegisteredAgent
+
++++ 
+
+++++ TAXES
+see the following, with details pertaining to DisregardedEntity/SoleProprietorship: 
+ObjectLegalEntityUSALimitedLiabilityCompanyIndianaTaxes
+
+
++++ PARENT
+ObjectLegalEntityUSALimitedLiabilityCompanyIndianaInstance

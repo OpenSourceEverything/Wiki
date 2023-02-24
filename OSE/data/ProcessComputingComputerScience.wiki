@@ -1,0 +1,110 @@
+﻿++ Process Computing Computer Science
+
++++ Summary 
+
+  * The study of computer technology, computer hardware, and computer 
+    software.
+  
+  * ComputerProgramming is the actual application of the theory of 
+    computer science (i.e. its a child of ProcessComputingComputerScience).
+    
+    * Within this wiki, for simplicity (ProcessComputingComputerScience == 
+      ComputerProgramming, prefer science strongly, strongly arbitrarily) 
+
++++ RELATED
+  * ComputerScienceProgrammingLanguages
+  
+  * IEEESoftwareLifeCycle
+  
+  * ComputerScienceVersionControl
+  
+  * [Linux]
+  
+  * [Git] 
+  
+  * [Makefile]
+  
+  * AssociativeArray 
+  
+  * ComputerScienceSoftwareProjectDirectoryStructuring
+  
+  * ObjectSystemComputerOperating
+  
+  * ComputerScienceCentralProcessingUnit 
+
+  * ComputerScienceCompilationAndInterpretation
+
+  * ComputerScienceScheduling
+
+  * ComputerScienceOperand
+  
+  * ComputerScienceOpCode 
+  
+  * ComputerScienceMemoryManagementVirtualMemory 
+
+  * ComputerScienceLibrary
+
+  * ComputerProgramming
+
+  * ComputingInterpreter
+  
+  * ComputerScienceCompilationAndLinking 
+  
+  * ComputerScienceGraphicalUserInterface
+  
+  * ComputerScienceDatabase 
+  
+  * ProcessComputingAbstractDataType 
+  
+  * ObjectOrientedProgramming 
+  
+  * HashCollision 
+  
+  * ComputerScienceSharedMemorySystem
+  
+  * DependencyInjection
+  
+  * WhatIsTheFastestMethodOfInterProcessCommunication 
+
+  * ConcurrentComputing
+  
+  * [XML]
+  
+  * [JSON]
+  
+  * [HTML]
+  
+  * [grep]
+  
+  * LinuxFindCommand
+  
+  * [Cygwin]
+  
+  * [DNS]
+  
+  * DataStructuresAndAlgorithms
+  
+  * [SQL]
+  
+  * ListOfAbstractDataTypes
+  
+  * ComputerScienceCurriculum
+   
+  * OperatingSystem 
+
+  * VersionControl
+
+  * [Unicode]
+  
+  * InterthreadCommunicationVersusInterprocessCommunication
+  
+  * BoostLibraries
+
+
+
+  * ComputerScienceLValue
+  * ComputerScienceRValue
+
++++ Parent
+ProcessComputing
+  

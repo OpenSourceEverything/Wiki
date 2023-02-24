@@ -1,0 +1,24 @@
+﻿++ range
++++ SUMMARY
+Create a sequence of numbers from n to p
+If n unspecified, starts at 0.
+
+  range(n,p)
+  
+
++++ EXAMPLE
+
+# create sequence of integers 0,1,2,3,4,5
+x = range(6)
+
+#print them
+for n in x:
+  print(n)
+  
++++ EXAMPLE
+# create sequence of integers 0,1,2,3,4,5
+x = range(3, 6)
+
+#print them
+for n in x:
+  print(n)

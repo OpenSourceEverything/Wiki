@@ -1,0 +1,33 @@
+﻿++ Water Filtration And Testing
+
+  * WaterQualityTesting
+  * WaterFiltration
+  
+
+
++++ Related
+
+  * chlorine can cause this?
+    - disinfection byproduct trihalomethanes, haloacetic acids
+  
+  * NSFCertification
+  
+  * Mesh Number 	Microns 	Material
+    28 	          700 	Course Sand
+    60 	          250 	Fine Sand
+    325 	        44 	Silt
+    400 	        37 	Pollen
+    12000 	      12 	Red Blood Cells
+    48000 	      2 	Cigarette Smoke
+  MeshSizing
+  
+  
++++ Children 
+  WaterSoftening
+  
+  
++++ Parent
+  [OSE]
+
+
+

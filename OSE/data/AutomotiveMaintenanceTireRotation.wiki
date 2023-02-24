@@ -1,0 +1,42 @@
+﻿++ Automotive Maintenance Tire Rotation
+
++++ SUMMARY
+  
+  * Ecopia EP422 Plus or non-directional
+  
+
++++ DETAILS
+++++ INFORMATION NEEDED
+  * Whether your car is front or rear wheel drive:
+  * Whether you have directional or non-directional tires
+    * see: DeviceTire
+
+++++ TOOLS
++++++ Jack Stands
++++++ Hydraulic Jack Lift
+
+++++ ALGORITHM 
+
++++++ If Directional Tires
+    * swap front right with back right  
+    * swap front left with back left tire.
+    
++++++ Non-Directional Tires
+++++++ Rear-Wheel Drive
+  * 1) move the front tires to the opposite sides of the rear: 
+    * 1.1) left-front to right-rear and right-front to left-rear.
+    * 1.2) rear tires are moved straight forward. 
+      * 1.3) back left to front left, back right to front right 
+    
+++++++ Front-Wheel Drive
+    Move the rear tires to the opposite sides of the front and move the front tires straight back.
+
++++ RELATED
+
+  DeviceWheel
+  DeviceTire
+  ObjectDevice
+
++++ PARENT
+
+  ProcessVehicleMaintenance

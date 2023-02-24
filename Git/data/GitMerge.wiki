@@ -1,0 +1,16 @@
+﻿++ Git Merge
+
++++ SUMMARY
+
+* git command, used to integrate changes from one branch into another.
+  * git merge <branch-name> 
+    * integrates changes from "branch-name" into checked out branch
+      * verify the checked out branch with "git branch" command
+
+* if configured to do so git will automatically commit the merge changes to your active branch.
+  * git can be configured to stage merges but not automatically commit 
+
+* MergeConflict(s) will need to be manually resolved.
+
++++ PARENT
+[Git]

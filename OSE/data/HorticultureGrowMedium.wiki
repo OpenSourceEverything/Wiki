@@ -1,0 +1,16 @@
+﻿++ Horticulture Grow Medium
+
+
++++ SUMMARY
+
+  * By definition hydroponics involves a "soilless" medium (ex: clay pebbles)
+  
+  *   
+
++++ CHILDREN
+
+  * HorticultureGrowMedium511Mix
+
++++ PARENT
+
+  * 

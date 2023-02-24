@@ -1,0 +1,11 @@
+﻿++ Git Ignore
+
++++ SUMMARY
+In the main repository directory, a file named .gitignore can/will contain rules for things to ignore
+
+
++++ DETAILS
+
+
+
+IgnoreAllFilesExceptCertainTypes

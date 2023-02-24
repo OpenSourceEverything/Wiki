@@ -1,0 +1,15 @@
+﻿++ OSE Object Device Sheet Metal Bender
+
+
+
++++ SUMMARY
+
+  * Finger Brake:
+  * OSEObjectDeviceSheetMetalBenderFinger
+  * [rel://files/Process/Metal Fabrication/Forming/sheet-metal-brake-how-to-make.pdf]
+
+
++++ PARENT
+
+
+OSEObjectDevice

@@ -1,0 +1,33 @@
+﻿++ Object Device Codec Audio
+
+
++++ SUMMARY
+
+ObjectDevice capable of encoding or decoding a digital data stream 
+ 
+
+ObjectDataInformationSoftwareCodecAudio
+
+contains both an and digital-to-analog converter (DAC)
+
+encodes analog audio as digital signals  (analog-to-digital converter (ADC))
+decodes digital back into analog. 
+
+running off the same clock signal. 
+
+Common data busses used:
+LinearPCM (Most Common, usually only supported)
+AC-Link, 
+I²S, 
+SPI, 
+I²C,
+
+
+
+
+
+
++++ CHILDREN
+
++++ PARENT
+ObjectDeviceCodec

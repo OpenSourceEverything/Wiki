@@ -1,0 +1,31 @@
+﻿++ Cryptography
+
++++ SUMMARY
+
+  * the practice and study of techniques for secure communication in the presence of third parties called adversaries. 
+
+More generally, cryptography is about constructing and analyzing protocols that prevent third parties or the public from reading private messages.
+
+Applications of cryptography include electronic commerce, chip-based payment cards, digital currencies, computer passwords, and military communications.
+
+Cryptography prior to the modern age was effectively synonymous with encryption, the conversion of information from a readable state to apparent nonsense
+
+
+
++++ CHILDREN
+
+  * IsCryptographyScienceOrEngineering
+  * CryptographyEtymology
+  * PublicKeyCryptography
+
++++ RELATED
+
+  * [Mathematics], [Math]
+  * ProcessComputingComputerScience
+  * ElectricalEngineering, 
+  * CommunicationScience, 
+  * [Physics] 
+ 
++++ PARENT
+
+  [Process]

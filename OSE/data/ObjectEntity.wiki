@@ -1,0 +1,16 @@
+﻿++ Object Entity
+
++++ SUMMARY
+
+  * That which has a distinct existence as an individual unit. 
+    * Could refer to a collective or an individual, for example
+    * Often used to refer to [organisations] which have no physical form or location
+    * 
+
++++ CHILDREN
+
+  ObjectEntityOrganism
+  ObjectEntityOrganization
+
++++ PARENT
+[Object]

@@ -1,0 +1,18 @@
+﻿++ Git Working Directory
+
+
+area where all of our files ar existing and changing all the time.
+
+
+
+  One of the GitThreeStates
+  
+  1. GitWorkingDirectory
+  2. GitStagingArea
+  3. GitRepository
+  
+  
++++ PARENT
+
+  GitThreeStates
+  [Git]

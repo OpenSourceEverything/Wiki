@@ -1,0 +1,21 @@
+﻿++ Object Idea Mathematical Object
+
++++ SUMMARY
+
+* ObjectIdeaConcept
+  * [Attribute]
+    * Related to ProcessMathematics  
+
++++ CHILDREN
+
+ObjectIdeaMathematicalObjectNumber 
+ObjectIdeaMathematicalObjectSet 
+ObjectIdeaMathematicalObjectFunction, 
+ObjectIdeaMathematicalObjectExpression, 
+ObjectIdeaMathematicalObjectGeometricShape
+ObjectIdeaMathematicalObjectTransformation
+ObjectIdeaMathematicalObjectSpace
+
++++ PARENT
+
+ObjectIdeaConcept

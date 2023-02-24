@@ -1,0 +1,18 @@
+﻿++ Cpp Function Default Argument Values
+
+declare their default value in header.
+
+
+header.h
+
+void (int a = 5); // default value of 5.
+
+header_code.cpp
+
+void (int a)
+{
+  a+=10;
+}
+
++++ PARENT
+[C++]

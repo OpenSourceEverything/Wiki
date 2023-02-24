@@ -1,0 +1,11 @@
+﻿++ Object Oriented Programming
+
++++ Summary
+  
+  *  
+  
+  * Primary concepts:
+    * Encapsulation (ObjectOrientedProgrammingEncapsulation)
+    * Abstraction   (ObjectOrientedProgrammingAbstraction)
+    * Inheritance   (ObjectOrientedProgrammingInheritance)
+    * Polymorphism (ObjectOrientedProgrammingPolymorphism)

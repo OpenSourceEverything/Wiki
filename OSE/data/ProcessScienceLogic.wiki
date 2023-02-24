@@ -1,0 +1,9 @@
+﻿++ Process Science Logic
+
+
+  PhilosophyLogic
+
+
+  * Logic could arguably be under ProcessScience or ProcessPhilosophy,
+    * arbitrary decision to place under ProcessPhilosophy
+

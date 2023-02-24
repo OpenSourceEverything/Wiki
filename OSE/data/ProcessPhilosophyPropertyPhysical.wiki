@@ -1,0 +1,13 @@
+﻿++ Process Philosophy Property Physical
+
+
++++ SUMMARY
+
+* [Property] 
+  * measurable, 
+  * value describes a state of a [PhysicalSystem] 
+
+
+
++++ PARENT
+ProcessPhilosophyProperty

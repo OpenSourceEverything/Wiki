@@ -1,0 +1,8 @@
+﻿++ Instruction Set Architecture
+
+ObjectModelAbstractModel of a [Computer]
+
+
+
++++ PARENT
+ObjectModelAbstractModel

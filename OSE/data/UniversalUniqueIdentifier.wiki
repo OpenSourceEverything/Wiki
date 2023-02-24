@@ -1,0 +1,6 @@
+﻿++ Universal Unique Identifier
+
++++ PARENT
+
+ObjectDataConceptMathematicalObjectNumber
+

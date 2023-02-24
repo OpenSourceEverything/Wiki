@@ -1,0 +1,63 @@
+﻿++ Object Algorithm Rotate A Point Around A Circle Instance Cpp
+
+#include <tgmath.h> // templated math.h functions
+#include <math.h>  // trigonometric functions
+
+void ObjectAlgorithmRotateAPointAroundACircleInstanceCpp(double d_start_position_X,
+                                                         double d_start_position_Y, 
+                                                         double d_center_of_rotation_x,
+                                                         double d_center_of_rotation_y,
+                                                         double d_angle_of_rotation_degrees,
+                                                         double &d_end_point_X,
+                                                         double &d_end_point_Y)
+                                                    
+{
+
+  // Shift origin to 0,0 temporarily.
+  double x = d_start_position_X - d_center_of_rotation_x;
+  double y = d_start_position_Y - d_center_of_rotation_y;
+  
+  // Calculate the total angle of rotation (start angle + rotation angle)
+  double theta = ObjectAlgorithmCalculateAngleBetween2DVectorAndXAxisInstanceCpp(0.0,0.0,x,y);
+  theta += d_angle_of_rotation_degrees;
+  theta *= M_PI / 180;
+  
+  // trap corner case, no rotation, or 360 which puts us at same spot.
+  if(d_angle_of_rotation_degrees == 0.0 || d_angle_of_rotation_degrees == 360.00)
+  {
+    // return the start positions
+    d_end_point_X = d_start_position_X;
+    d_end_point_Y = d_start_position_Y;
+    return;
+  }
+  
+
+  // Apply the tranformation based on direction.
+  // Angle input is always positive.
+  if(d_angle_of_rotation_degrees > 0.0)
+  {
+    // CCW on XY plane.
+    d_end_point_X = x*cos(theta)-y*sin(theta);
+    d_end_point_Y = x*sin(theta)+y*cos(theta);
+
+  }
+  else
+  {
+    // CW on XY plane, use inverse transform identity.
+    // But also the angle is to be positive, so switch it.
+    double theta_cw = -theta;
+    d_end_point_X =  x*cos(theta_cw) + y*sin(theta_cw);
+    d_end_point_Y = -x*sin(theta_cw) + y*cos(theta_cw);
+  }
+  
+  // Add back the origin that we temporarily removed.
+  d_end_point_X +=  d_center_of_rotation_x;
+  d_end_point_Y +=  d_center_of_rotation_y;
+  
+  return;
+}
+
+
++++ PARENT
+ObjectAlgorithm
+

@@ -1,0 +1,11 @@
+﻿++ Information To Sort
+
+    SlicerMatterControl3DPrint
+    MethodOfPrintingWaterTightAirTightContainers
+    Buying Not For Profit Plants from Indiana
+      https://www.in.gov/dnr/forestry/3620.htm
+    2ft x 2ft grow containers, 1ft tall
+      https://www.uline.com/Product/Detail/S-10717GR/Totes-Plastic-Storage-Boxes/Stack-and-Nest-Container-19-x-17-x-12-Gray?model=S-10717GR&RootChecked=yes
++++ PARENT
+
+  GKToDo

@@ -1,0 +1,9 @@
+﻿++ Cpp L Value Reference
+
++++ Summary 
+
+  * If X is any type, then X&& is called an rvalue reference to X. For better distinction, the ordinary reference X& is now also called an lvalue reference. 
+
+
++++ Related
+  * CppRValueReference

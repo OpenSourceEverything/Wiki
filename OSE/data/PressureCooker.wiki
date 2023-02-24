@@ -1,0 +1,17 @@
+﻿++ Pressure Cooker
++++ Redirect
+  ???PressureCooker
+  
++++ SUMMARY
+
+  
+  
++++ Related
+  
+  DifferenceBetweenPressureCannerAndPressureCookerAndAutoclave
+  
++++ PARENT
+
+   
+  ????
+  [GK]

@@ -1,0 +1,53 @@
+
+
+Hobbyist or not, lead screws are basicly a screwcutting operation, and what you want to do is possible,............... BUT the real question is what sort of pitch accuracy you're after, and IME that's where you run it to trouble.
+
+Main leadscrews are usually ground on special purpose machines.
+
+For a cheap way out this isn't at all bad $$$ wise.
+
+http://www.mcmaster.com/#acme-thread...-studs/=2mtlm4
+
+
+
+SOURCE IS THE FIRST LINK
+
+
+
+https://bbs.homeshopmachinist.net/forum/general/67459-make-a-lead-screw-by-hand
+
+
+
+
+
+main difference between the two is the recirculation system
+
+
+
+ballscrew - efficiency, long life
+  - used when you need to move heavy shit, need a lot of load, lot of life
+  
+  - screw
+  - nut
+  
+  recirculation system - 
+    - uses ball bearings.
+      - ball bearings circulated inside the nut
+	  - OR ball bearingscirculated extenrally
+
+
+leadscrews -
+  - can change lead, size, ball nut configuration very quickly, easily,
+  - good for OEM application, integrate product into the machine and be unique
+  - low cost alternative.
+  - quieter.
+  - smooth,
+  - self lubricating,
+  - corrosion resistant.
+
+
+
+carbide on low speed lathe at least doesnt leave as good a finish on softer stuff like aluminum.
+
+minilathe.com
+

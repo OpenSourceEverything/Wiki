@@ -1,0 +1,20 @@
+﻿++ Object Device Amplifier Electronic Differential
+
++++ SUMMARY
+
+ObjectDeviceAmplifierElectronic 
+
+amplifies the difference between two input voltages 
+suppresses any voltage common to the two inputs
+
+An analog circuit with 
+  two inputs Vin+, Vin- 
+  one output Vout
+    ideally proportional to the difference between the two voltages:
+    Vout = (A)*( (Vin+) - (Vin−) )
+
+rel://files/_8YR3H80MM48ZA2X3XUAN.png
+
++++ PARENT
+
+ObjectDeviceAmplifierElectronic

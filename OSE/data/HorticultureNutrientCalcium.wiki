@@ -1,0 +1,18 @@
+﻿++ Horticulture Nutrient Calcium
+
+
++++ SUMMARY
+
+  * Generally in synthetic water soluble mixtures, calcium nitrate is used. High in Nitrogen, calcium.
+
+
++++ DETAILS
+
+++++ NATURAL CALCIUM AMENDMENTS
+
+Poultry manure, wood ashes and seashells or lobster shells are the only common organic sources of enough calcium to be useful when spread in typical amounts. 
+
+
++++ PARENT
+
+ProcessHorticultureNutrients

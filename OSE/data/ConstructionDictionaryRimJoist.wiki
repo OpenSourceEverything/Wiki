@@ -1,0 +1,18 @@
+﻿++ Construction Dictionary Rim Joist
+
+  rel://files/_RU8W2BN12K3Q0MX07NJS.png
+  
+  In the framing of a deck or floor system, a rim joist is attached 
+  perpendicular to the joists, and provides lateral support for the ends 
+  of the joists while capping off the end of the floor or deck system. 
+  Rim joists are not to be confused with end joists, which are the first 
+  and last joists at the ends of a row of joists that make up a floor or 
+  deck frame. 
+  
+  
+  
++++ Parent
+
+
+  ConstructionDictionary
+  [Construction]

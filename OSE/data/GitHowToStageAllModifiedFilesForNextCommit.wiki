@@ -1,0 +1,15 @@
+﻿++ Git How To Stage All Modified Files For Next Commit
+
++++ SUMMARY 
+
+
+  * GitCommandAdd:
+
+  * git add . 
+    * to affect all modified and untracked files.
+  
+
+
++++ PARENT
+
+  GitHowTo

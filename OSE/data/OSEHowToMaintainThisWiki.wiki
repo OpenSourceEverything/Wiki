@@ -1,0 +1,32 @@
+﻿++ OSE How To Maintain This Wiki
+
+
++++ SUMMARY
+
+
+
++++ LISTING SPECIFIC INSTANCES OF SOMETHING (E.G CAR MANUFACTURER FORD, HONDA): 
+
+* Every Object has an Instance subpage, in place of "enumeration"
+* try to define every Object as its parent with some additional traits
+  * [Property] A
+  * [Property] B
+  
+
++++ HIERARCHY
+
+Example:
+
+[Object]
+[System]
+[Language]
+FormalLanguage is a type of Language
+ComputerLanguage is a Formal Language
+ProgrammingLanguage is ComputerLanguage
+  
+ObjectSystemLanguageFormalComputerProgramming
+Object System Language Formal Computer Programming
+  
+  
++++ PARENT
+[OSE]

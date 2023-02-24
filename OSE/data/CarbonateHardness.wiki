@@ -1,0 +1,5 @@
+﻿++ Carbonate Hardness (KH)
+
++++ Definition
+  * measure of carbonate and bicarbonate levels in water
+

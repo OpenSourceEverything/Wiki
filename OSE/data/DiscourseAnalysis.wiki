@@ -1,0 +1,3 @@
+﻿++ Discourse Analysis
+
+The essential difference between discourse analysis and TextLinguistics is that discourse analysis aims at revealing socio-psychological characteristics of a person/persons rather than text structure

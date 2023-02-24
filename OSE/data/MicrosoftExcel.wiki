@@ -1,0 +1,13 @@
+﻿++ Microsoft Excel
+
+To group:
+<Shift> <Alt> <RightArrow>
+
+To ungroup:
+<Shift> <Alt> <LeftArrow>
+
+To retain the Groups, but toggle hide/unhide the symbols:
+<Ctrl> <8>
+(Using the "8" that's under the function keys, *not* from the num keypad.)
+
+Another option to group rows would be to apply Subtotals to your range.  You'll get those outlining symbols and even a subtotal row between each group. The Subtotals button is also in the Outline section of the Data tab.

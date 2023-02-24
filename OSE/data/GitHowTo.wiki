@@ -1,0 +1,63 @@
+﻿++ Git How To
+
++++ SUMMARY
+
+
+  Q: Git How To?
+    A: GitCommands
+        - first by description
+        - Git Raw Command
+  
+  Exsmple:
+    Q: GitHowTo
+
+
++++ LIST OF GIT HOW TO
+
+  * GitHowToUndoChangesToASingleFile
+  *   GitHowToRevertFilesToPreviousVersion
+  *   GitHowToUndoChangesToAFile
+
+  * GitHowToUndoAllLocalChanges
+ 
+  * GitHowToCreateARepository
+  
+  * GitHowToCloneARepository
+  
+  * GitHowToCreateABranch
+  
+  * GitHowToCreateAPullRequest
+  
+  * GitHowToSeeWhichBranchYouAreIn
+  
+  * GitHowToSeeBranchesOnARemoteRepository
+  
+  * GitHowToSwitchToACertainBranch 
+  
+  * GitHowToSeeAllFileDifferencesSinceLastCommit
+  
+  * GitHowToAddFileToRepositoryVersionControlTracking
+  
+  * GitHowToSaveYourLocalChanges
+
+  * GitHowToSeePendingLocalChanges
+  
+  * GitHowToStageAllModifiedFilesForNextCommit
+  
+  * GitHowToModifyTheMostRecentCommit
+  
+  * GitHowToGetLatestServerChanges
+  
+  * GitHowToUndoAccidentalCheckinToMasterBranch 
+  
+  * GitHowToSeeRemoteTrackingBranchCorrespondingToCurrentLocalBranch
+
+
++++ RELATED
+
+  GitCommands
+
+  GitVocabulary
+
++++ PARENT
+  [Git]

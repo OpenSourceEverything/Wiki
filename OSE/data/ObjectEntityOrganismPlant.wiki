@@ -1,0 +1,15 @@
+﻿++ Object Entity Organism Plant
+
++++ SUMMARY
+
++++ CHILDREN
+
+ObjectEntityOrganismPlant
+
++++ RELATED
+
+  * ProcessHorticulture
+
++++ PARENT
+
+  ObjectEntityOrganism

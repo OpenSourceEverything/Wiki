@@ -1,0 +1,36 @@
+﻿++ Open Source Everything Mobile Phone
++++ REDIRECT
+  OpenSourceEverythingSmartPhone
+
+
++++ SUMMARY
+
+  GEK: glean info and put in wiki, then link to open source everything phone pages as relevant info.
+  * https://androidforums.com/threads/how-to-tell-if-a-phone-will-work-on-t-mobile.706991/
+  * 
+  * 
+
+
+
++++ BATTERY
+
+  * OpenSourceEverythingMobilePhoneHowSmartPhonesSenseTheirBattery
+
+
+
+
+
++++ SIM CARD
+
+
+  * https://androidforums.com/threads/how-to-tell-if-a-phone-will-work-on-t-mobile.706991/
+
++++ RELATED
+
+  * PutTogetherRaspberryPiPhoneAndHaveSteveMakeACaseWith3DPAtHurco
+
++++ PARENT
+
+  
+  * OpenSourceEverything
+  * OpenSourceEverythingListOfThings

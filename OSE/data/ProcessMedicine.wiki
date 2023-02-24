@@ -1,0 +1,20 @@
+﻿++ Process Medicine
+
++++ Summary
+
+  * Defined as encompassing activities defined as ProcessArt, ProcessScience and "[practice]" 
+  
+  * Activities involve the diagnosis, treatment, and prevention of disease/injury. 
+
+
+
++++ Children
+  * MedicineDictionary
+  
+  
++++ DISEASES
+  * MedicinePADAndPVD
+
++++ PARENT
+
+  [Process]

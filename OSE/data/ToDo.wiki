@@ -1,0 +1,26 @@
+﻿++ To Do
+
+
+  ? How to separate information from "templates"
+    * example, OSE contains information on "business" but also wants
+
+  ? how to communicate, share opensource everything?
+    ? source control:
+    GitLabs
+    
+    ? communicate freenode:
+      ? https://en.wikipedia.org/wiki/Freenode
+  
+  ? MediaWiki is used by Wikipedia and "most wikis?"
+    * https://en.wikipedia.org/wiki/MediaWiki#Performance_and_storage
+
+
+
++++ FOCUS PROJECTS
+OSEVideoSecuritySystemRaspberryPiZeroW
+OSEObjectDeviceIsolatorSignalAudio
+    
+    
++++ PARENT
+
+  [OSE]

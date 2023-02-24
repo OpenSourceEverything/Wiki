@@ -1,0 +1,27 @@
+﻿++ C Sharp Scratch Pad Notes
+
+
+
+
+C# 
+
+
+    main method as related to namespace, class:
+        - declaring main inside namespace is not mandatory.
+        - declaring main inside a class IS mandatory (everything in c# is an 
+          object)
+        - must declare main as static
+
+
+
+
+    static = 
+    https://www.c-sharpcorner.com/uploadfile/puranindia/static-in-C-Sharp/
+        {
+            1. 
+            
+            
+            2. A static member belongs to the class rather than to the objects of the class.
+        }
+
+    https://www.completecsharptutorial.com/basic/main-method.php

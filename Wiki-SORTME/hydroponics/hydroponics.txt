@@ -1,0 +1,31 @@
+========================================================================
+  wiki on hydro
+  ===============================
+  Steiner's formula is here
+
+    N 170 ppm
+    P 50 ppm
+    K 320 ppm
+    Ca 183 ppm
+    Mg 50 ppm
+    S 148 ppm
+    B 1 to 2 ppm
+    Fe 3 to 4 ppm
+    Mn 1 to 2 ppm
+    Zn 0.2 ppm
+    Cu 0.1 to 0.5 ppm
+    Mo 0.1 ppm
+
+
+To edit more info with steiner. There are ranges within his method of developing solutions. So, many formulas can be designed while still keeping ion interaction, precipitation or otherwise balance in mind.
+He recommends these ion ranges (in meql)
+ratios.jpg
+
+
+
+
+Whereby K+Ca+Mg = N+P+S always (in meql) (NH4 added to cations if used)
+  
+  
+  
+  

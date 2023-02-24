@@ -1,0 +1,21 @@
+﻿++ Process Nutrition Human Body Mass Index BMI
+
+
+++++ SUMMARY
+
+  * recommended:
+    * min:
+    * max: 
+
+  * ranges:
+  * 18.5 - 24.9 = normal
+  * 25   - 29.9 = overweight
+  * 30 and up   = obese.
+  
+  * calculation:
+    * weight in lbs * 703
+    * divide by heigh in inches twice.
+
++++ PARENT
+
+  ProcessNutritionHuman

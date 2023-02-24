@@ -1,0 +1,16 @@
+﻿++ OSE Problem Of Sub Class Versus Attributes And Context
+
+
+
+
+is ObjectEntityOrganismHuman or
+     [Attributes]:
+       * 
+   ObjectEntityOrganismAnimalMammalPrimateHuman 
+   
+   better
+
+
++++ PARENT
+
+OSEProblems

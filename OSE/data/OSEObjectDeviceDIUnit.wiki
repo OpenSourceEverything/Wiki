@@ -1,0 +1,2 @@
+﻿++ OSE Object Device DI Unit
+ObjectDeviceDIUnitPassiveInstanceOSE1

@@ -1,0 +1,48 @@
+﻿++ Process Nutrition Human Macro Nutrient Fat
+
+ProcessNutritionFat
+
+
++++ SUMMARY
+
+  * types: 
+    * saturated, 
+    * polyunsaturated
+    * monounsaturated
+    * specific fatty acid
+    * essential fatty acids
+
+  * Omega 3
+    * family of essential fatty acids
+    * Most important types:
+      * ALA (alpha-linolenic acid) - mainly in plants
+        * good sources: 
+          * Flax seed 
+          * walnuts 
+          * chia seeds 
+      * DHA (docosahexaenoic acid) - animals and algae
+      * EPA (eicosapentaenoic acid)- animals and algae
+    
+    * The human body can convert ALA to EPA/DHA
+      * conversion amount is disputed and variable
+        * ProcessNutritionHumanConversionOfALAToEPAAndDHA  
+
+  * Omega 6
+    *  
+
+  * Omega 3 and Omega 6
+    * polyunsaturated essential fatty acids 
+    * not produced in body / must be sourced from food
+    * achieving a 1:1 ratio of these fats in diet is optimal
+
+  
+
+  * NutritionLipid
+
+  * Article about omega 3 fatty acids, conversion of ALA to EPA DHA:
+    * https://everfit.co.nz/Articles/conversion-of-ala-to-epa-and-dha
+
+
++++ PARENT
+
+  ProcessNutritionHumanMacroNutrient

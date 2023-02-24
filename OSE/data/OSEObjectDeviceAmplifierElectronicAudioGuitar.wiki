@@ -1,0 +1,15 @@
+﻿++ OSE Object Device Amplifier Electronic Audio Guitar
+
+  - we should rip this off of the FenderHotRodDeville212
+  
+  * generate a bill of materials.
+  * figure out how much it weighs
+  * figure out specs of the speakers.
+  * figure out how hard it would be to make the reverb chamber thing, and also figure out what they are and how they work.
+
+
+
+
++++ PARENT
+
+OSEObjectDeviceAmplifierElectronicAudio

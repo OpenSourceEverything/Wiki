@@ -1,0 +1,25 @@
+﻿++ Plumbing Naming Conventions
+
+
++++ SUMMARY
+
+  * C = cupped end - the type you would slide over another pipe to make a sweat connection
+
+  * FTG = fitting end - the type that slides inside a cupped end, also called a "street" fitting
+
+  * M = male pipe threads
+
+  * FE (sometimes listed as just F, not correct)= female pipe threads
+
+  * The "X" is "by", so C X C is "cupped by cupped", a fitting with two ends such as a coupling or elbow, both cupped for sweating onto a pipe or fitting end.
+
+  * C X C X C would be a fitting with three ends such as a tee, all cupped.
+
+  * C X FTG could be a street elbow or a reducing bushing, one part slides over a pipe, the other inside another cupped fitting.
+
+  * C is indeed a cupped fitting.  CMP is compression, but there is no such thing as a copper fitting with a compression connection.  There are brass and plastic compression fittings that will fit copper pipe, but not copper compression fittings.
+
+
++++ PARENT
+
+  [Plumbing]

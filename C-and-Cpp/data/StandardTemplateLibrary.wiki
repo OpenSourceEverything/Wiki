@@ -1,0 +1,8 @@
+﻿++ Standard Template Library
+
+The STL is full of fancy algorithms with interesting complexity (O (log N) or better for the most part). But fancy algorithm always have a big hidden constant k that make them slower than simple O(N) algorithms for any small N.
+
+
++++ PARENT
+
+[std]::list

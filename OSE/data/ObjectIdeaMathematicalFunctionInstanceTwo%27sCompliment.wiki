@@ -1,0 +1,36 @@
+﻿++ Object Idea Mathematical Function Instance Two's Compliment
+01234657890123465789012346578901234657890123465789012346578901234657890123465789
++++ SUMMARY
+
+ObjectIdeaMathematicalFunction
+  reversibly convert a positive binary number into a negative binary number with equivalent (but negative) value
+
+  Positive numbers are not altered by 2's compliment.
+    * i.e. in 2's compliment 0001 is 0001
+
+  * There is a special algorithm to add/subtract 2's compliment numbers
+    * Add:
+      * 
+    * Subtract:
+      *    
+
++++ ALGORITHM
+++++ CONVERT BINARY TO NEGATIVE EQUIVALENT
+1) inverting all bits 
+2) add binary 1 to the value
+
+++++ SUBTRACTION OF TWO'S COMPLIMENT NUMBERS
+
+
++++ EXAMPLES
+++++ Find 2’s complement of binary number 10101110.
+  * invert each bit of given binary number, yielding: 01010001. 
+  * add 1 to the LSB of this result: 01010001+1=
+  * ANSWER: 01010010 
+
+
++++ PARENT
+
+
+
+ObjectIdeaMathematicalFunctionInstance

@@ -1,0 +1,39 @@
+﻿++ Object Device Vehicle Motorized Automobile
+
++++ SUMMARY
+
+  * Wheeled ObjectDeviceVehicleMotorized
+    
++++ CHILDREN
+
+
+  
+++++ PARTS OF SYSTEM
+
+  * Might be a good to reference External Link (1)
++++++ ObjectDeviceVehicleMotorizedAutomobileIgnitionSystem
++++++ VehicleMotorizedAutomobileEngine
++++++ VehicleMotorizedAutomobileDrivetrain
++++++ AutomotivePowerSteering
++++++ VehicleMotorizedAutomobileTires
++++++ ObjectDeviceVehicleMotorizedAutomobileBody
+
+
++++ EXTERNAL LINK 
+
+  (1) reference for breaking down by sub-system 
+    https://owners.honda.com/vehicles/information/2002/Odyssey/specs#mid^RL1852PKW
+
+  
++++ RELATED
+
+  * ProcessVehicleMaintenance
+
+  * ObjectDeviceVehicleMotorizedAutomobileTroubleshooting
+
+
++++ PARENT
+
+  ObjectDeviceVehicleMotorized
+  
+  

@@ -1,0 +1,127 @@
+﻿++ Food Master List
+
++++ SUMMARY
+
+  * Pages concept / usage is shaky
+
+  ? list will contain plants, so sub-pages shouldnt really be Food____, because theyre more than food
+    - so how to organize? how to link to nutritional information
+  * purpose of page should be to provide a list of viable foods in formulating meal plants, and linking to nutrition?  
+
+
++++ Vegetables
+  FoodVegetable
+    FoodVegetableArugulaLettuce
+    FoodVegetablePeas
+    FoodVegetableBrusselsSprouts
+    FoodVegetableAsparagus
+    FoodVegetableBellPeppers
+    FoodVegetableBroccoli                    
+    FoodVegetableRomaineLettuce 
+    FoodVegetableCauliflower
+    FoodVegetableCarrots
+    FoodVegetableGarbanzoBeans              
+    FoodVegetableGreenBeans
+    FoodVegetableZucchini
+    FoodVegetableGreenOnion
+    FoodVegetableMushrooms
+    FoodVegetableKidneyBeans
+    FoodVegetableOkra
+    FoodVegetableGreenCabbage
+    FoodVegetableRedCabbage
+    FoodVegetableRedOnions
+    FoodVegetableRedPotato
+    FoodVegetableSpinach                     
+    FoodVegetableSummerSquash
+    FoodVegetableSweetPotato            
+    FoodVegetableTomato
+
++++ Fruits
+
+    Acai berry
+    Blueberries
+    Avocados
+    Apples
+    Apricots
+    Bananas
+    goji
+    Cantaloupe
+    Cherries
+    Pineapples
+    Cranberries
+    Grapes
+    Watermelon
+    Kiwifruit
+    Mangos
+    Orange juice
+    Peaches
+    Plums
+    Raisins
+    Raspberries
+    Strawberries
+
++++ Beans
+
+    Adzuki Beans
+    Black Beans                                   <<
+    Black-eyed peas
+    Broad Beans (Fava Beans)
+    Butter Beans
+    Cannellini Beans
+    Chickpeas (Garbanzo Beans)                    << 
+    Edamame
+    Italian Beans
+    Great Northern Beans
+    Kidney Beans
+    Lentils                                       << RED
+    Lima Beans
+    Mung Beans
+    Soy Beans, including black soy beans
+    White Beans
+
++++ Nuts and Seeds:
+
+  
+    FoodNutAlmond,
+    FoodNutFilbert,
+    FoodNutCashew,
+    FoodNutBrazilNut,
+    FoodNutPistachio,
+    FoodNutWalnut,
+    FoodPumpkinSeed,
+    FoodSesameSeed,           $23 / 5 lb. ($4.60/lb)
+    FoodFlaxSeed,
+    FoodPeanut,
+    SunflowerSeed
+    FoodPineSeed
+    HempSeed
+
++++ FOOD GRAINS
+
+    Amaranth
+    Barley
+    Brown rice                                      <<
+    Bulgur (cracked wheat)
+    Whole-wheat pasta or couscous
+    Millet
+    Flaxseed
+    Oats                                            <<
+    Quinoa
+    Rye
+    Spelt
+    Wheat berries
+    wild rice 
+    
+    
++++ RELATED
+
+  FoodRecipes
+  
+  HorticultureFood
+
++++ PARENT
+
+  [Food]
+
+
+  

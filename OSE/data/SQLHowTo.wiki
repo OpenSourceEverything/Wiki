@@ -1,0 +1,18 @@
+﻿++ SQL How To
+
+  * SQLHowToAddAttributeToTable
+  * SQLHowToModifyExistingRelation
+
+  * SELECT statements:
+    * show me some records out of some table.   
+    
+    * Example (line breaks and "{}" are for readability, exclude them):
+      
+      * SELECT {some or all of the columns}
+        FROM   {one or more [SQLTable]s}  
+        WHERE  {the records meet some condition} 
+  
+  
++++ PARENT
+
+  StructuredQueryLanguage

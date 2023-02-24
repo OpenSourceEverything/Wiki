@@ -1,0 +1,27 @@
+﻿++ Device Tire
+
++++ SUMMARY
+
+
++++ DETAILS
+
+
+++++ DIRECTIONAL VS NON-DIRECTIONAL TIRES
+  * Directional
+    * one-way tread pattern optimized for the direction of rotation
+    * they're specifically made for either the left or right side.
+    
+    * Should have arrows or triangles on sidewall indicating rotation direction.
+  
+  * Non-Directional or (symmetric tread pattern) 
+    * Designed so that they can be mounted on any wheel.
+
++++ RELATED
+
+  ObjectDeviceWheel
+
+  ProcessVehicleMaintenanceTires
+
++++ PARENT
+
+  ObjectDevice

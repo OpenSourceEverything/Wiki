@@ -1,0 +1,7 @@
+﻿++ Philosophy Logic Propositional Logic
+
+  * PhilosophyLogicPropositionalLogicModusPonens
+  
+  
++++ Redirect
+  * PhilosophyLogicPropositionalLogic

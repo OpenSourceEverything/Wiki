@@ -1,0 +1,11 @@
+﻿++ Wireless Distribution System
+
+
++++ SUMMARY 
+TP-Link has a useful guide if you happen to own two Archer C7s, but the generalities should apply to just about any WDS setup. I should warn you though that WDS is a bit dogey unless you utilize routers that match both in brand, model, and hardware revision; simply due to the fact that there is no standard on how vendors implement WDS. Sadly, I own two of these and I can say with confidence that unless you statically assign IP addresses to systems connected via the ethernet ports on the Archer C7, they will not be able to obtain new leases for IP addresses, as DHCP seems to be broken when traversing the bridge using WDS. In other words, you're unable to get an internet address using WDS. I'd be willing to do some testing, given some time, but I'd rather involve someone from TP-Link in the process.
+
+
++++ PARENT
+
+  ???
+  

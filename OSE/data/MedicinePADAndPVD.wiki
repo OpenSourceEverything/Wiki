@@ -1,0 +1,7 @@
+﻿++ Medicine PAD And PVD
+
+  MedicinePADAndPVDDiagnosis
+  
+  
++++ PARENT
+++++ [Medicine]

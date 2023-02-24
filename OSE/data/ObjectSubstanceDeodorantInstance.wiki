@@ -1,0 +1,12 @@
+﻿++ Object Substance Deodorant Instance
+
++++ SUMMARY
+
++++ CHILDREN
+
+ObjectSubstanceDeodorantInstanceOSE
+
+
++++ PARENT
+
+ObjectSubstanceDeodorant

@@ -1,0 +1,82 @@
+﻿++ Process Horticulture Plant Template
+
+HorticulturePlantTemplate
+
+Keep this documents sections synchronized with the cvs master sheet in 
+ProcessHorticultureListOfPlantsODS
+
+
++++ 1) SUMMARY
+  * 
++++ 2) PROPAGATION AND GROWTH CARE
+* From Seed:
+* From Cutting/Transplant:
+    
++++ 3) PLANT STRUCTURE
+* 
+
++++ 4) LIFE CYCLE
+
+* 4.1) vegetative period:
+* 4.2) flowering period:
+* 4.3) maturation period:
+
+* Notes
+
+* Photos of complete life cycle:
+
++++ 5) SPECIES
+  * 
+  
++++ 6) TEMPERATURE / WATER/ LIGHT / HUMIDITY / ACIDITY
+4.1) Temperature: 
+  * 
+ 
+* 4.2) Humidity:
+  * 
+    
+* 4.3) Acidity pH:
+  * 
+
++++ 7) HARVEST / STORAGE / TYPICAL YIELD
+
+* 
+
+* 7.1) Seed:
+  * Harvest:
+  * Storage
+
+* 7.2) Sweet Potato:
+  * Harvest: 
+  * Storage:
+
++++ 8) DIMENSIONS
+
+* 8.1) Plant:
+  * Vertical:  
+
+* 8.2) Grow Container:
+
+* 8.3) Seed: 
+  *  
+* 8.4) Spacing:
+  *
+* 8.5) Root System:
+
++++ 9) GROWING INSTRUCTIONS
+  * Stratification/Scarification:
+    * 
+  * Seed germination:
+    *
+  * Seedling
+
+  * 
++++ RELATED
+
+HorticulturePlantTemplate
+ProcessHorticultureListOfPlants
+
++++ PARENT
+
+  ProcessHorticulture
+  

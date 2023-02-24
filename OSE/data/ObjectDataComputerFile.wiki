@@ -1,0 +1,23 @@
+﻿++ Object Data Computer File
+
+
++++ SUMMARY
+
+ComputerSystem resource 
+  * for recording data in a computer storage device,
+
+ObjectData
+  * Has a name (FileName)
+
+
++++ OPERATIONS
+* ObjectDataComputerFileOperations 
+
+
++++ RELATED
+
+ComputerResource ProcessComputingComputerResource
+
++++ PARENT
+
+ObjectDataInformationFile

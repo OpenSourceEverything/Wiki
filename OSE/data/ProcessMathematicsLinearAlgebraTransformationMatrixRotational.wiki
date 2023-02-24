@@ -1,0 +1,39 @@
+﻿++ Process Mathematics Linear Algebra Transformation Matrix Rotational
+
+ProcessMathematicsLinearAlgebraTransformationMatrixRotationMatrix
+[RotationMatrix]
+
++++ SUMMARY
+
+Performs a ProcessMathematicsLinearAlgebraLinearMap
+
+ProcessMathematicsLinearAlgebraTransformationMatrix
+  * performs rotation in EuclideanSpace ProcessMathematics
+
+
+can be seen as the trigonometric summation angle formulae in matrix form. 
+
+
++++ EXAMPLE
+* say we were at 35 degrees, we want to rotate 45 more. 
+  * We simply compute vector endpoint at 75 degrees.
+
+counterclockwise in a right-handed coordinate system (y counterclockwise from x) by pre-multiplication (R on the left). 
+
+If any one of these is changed (such as rotating axes instead of vectors, a passive transformation), then the inverse of the example matrix should be used, which coincides with its transpose. 
+  
+
+
+
+
++++ CHILDREN
+
+
+
++++ RELATED
+
+ObjectAlgorithmRotateAPointAroundACircle
+
++++ PARENT
+
+ProcessMathematicsLinearAlgebraTransformationMatrix

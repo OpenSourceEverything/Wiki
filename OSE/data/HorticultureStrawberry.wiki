@@ -1,0 +1,59 @@
+﻿++ Horticulture Strawberry
+
++++ SUMMARY
+
+  * Plant will produce "runners" that turn into new plants
+    * snip these if root container space is a concern. 
+    
+    
++++ PLANT STRUCTURE
+
+  * rel://files/_EFRCU107J5D8QP28B0IU.png
+
++++ LIFE CYCLE
+++++ DESCRIPTION OF LIFE CYCLE
+
+++++ IMAGES OF LIFE CYCLE
++++++ SEED
+[file:///C:/Users/koersg/OneDrive - Hurco Companies Inc/Desktop/Capture2.PNG]
++++++ SEEDLING
+
++++ ACIDITY
+  * pH: (5.5-6.5)
+  *  
+  
++++ TEMPERATURE
+++++ GERMINATION TEMPERATURE
+++++ GROWTH TEMPERATURE
+  * 70-85 F
+
++++ SPECIES
+  
+  * Fragaria x ananassa
+    * most common commercially is some offshoot of 
+
++++ HARVEST
+
++++ DIMENSIONS
+
+++++ SEED SPACING
+
+  * Max 3 seeds per square foot
+
+++++ CONTAINER SIZE
+  * 
+
+++++ ROOTS
+  * Width:, Depth:
+
+++++ VERTICAL HEIGHT
+  * typical 8inch, 12max.
+  
+++++ HORIZONTAL SPACING
+  * 12in. recommended.
+
+
++++ PARENT
+
+  ProcessHorticulture
+  

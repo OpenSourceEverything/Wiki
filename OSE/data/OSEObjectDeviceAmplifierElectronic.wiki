@@ -1,0 +1,10 @@
+﻿++ OSE Object Device Amplifier Electronic
+
+
++++ CHILDREN
+
+OSEObjectDeviceAmplifierElectronicAudio
+
++++ PARENT
+
+OSEObjectDeviceAmplifier

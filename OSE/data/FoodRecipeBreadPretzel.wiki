@@ -1,0 +1,40 @@
+﻿++ Food Recipe Bread Pretzel
+
++++ Tools
+  * Large pot for boiling
+  * Mason Jar (microwave 1.5 cup water to 120 F)
+  * Metal Spoon (Mixing until able to do so by hand)
+  * Tablespoon
+  * Teaspoon
+  * Measuring Cup
+  * Large glass mixing bowl (mixing ingredients, rising dough)
+  * Towel (to cover dough while rising)
+  * Strainer inside of a pot (to strain loaves and catch scalding water) 
+
++++ Ingredients
+  * All purpose flower (4 Cups)
+  * Instant Yeast (1 Tsp)
+  * Salt (1 Tsp)
+  * Butter (2 Tbsp)
+  * Water (1.5 cups) (120 F)
+  
+  * Baking Soda (4 Tbsp)
+  * 6 Cups water
+    * used to boil dough before baking 
+
++++ Directions
+  
+  * Mix everything in bowl with spoon until suitable to handle.
+  * Knead (10 minutes)
+  * Let rise 1 hour in mixing bowl, covered
+  * Remove dough ball, cut into ? loaves
+  * Preheat oven to 425
+  * Boil 6 cups water on stove, then slowly add 4 Tbsp baking soda
+  * Boil Loaves 30 seconds each side (they recommend one at a time, I did three at a time. Intent is to maintain uniform water temperature).
+  * Strain the dough balls for a moment, then cut "X" shapes on top of each.
+  * Bake on baking paper for 20-30 minutes.
+
+
++++ PARENT
+
+  FoodRecipesBread

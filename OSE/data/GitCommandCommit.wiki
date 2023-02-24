@@ -1,0 +1,17 @@
+﻿++ Git Command Commit
+
++++ SUMMARY
+
+  * GitCheckIn is done on 
+  
+  * GitHowToModifyTheMostRecentCommit
+    * git commit --amend
+
++++ RELATED
+
+  GitStaging
+
++++ PARENT
+
+  GitCommands
+  [Git]

@@ -1,0 +1,26 @@
+﻿++ Object Device3D Printer OSE1
+
+
++++ SUMMARY
+https://github.com/Creality3DPrinting/CR-10
+comparison:
+https://www.creality.com/goods-detail/3d-printer-cr-10-v3
+https://certification.oshwa.org/cn000005.html
+ObjectDevice3DPrinter
+ObjectDevice3DPrinterOSE1Specifications
+Based on:
+ObjectDevice3DPrinterInstanceCR10
+  [Attribute]:
+    * FusedDepositionModeling 
+    * AttributePrecision:
+
+Lets go with the CR-10. its git repo has EVERYTHING.
+https://github.com/th3dstudio/UnifiedFirmware.git
+including bill of materials
+  - lets buy one now, figure out how to make it.
+    - some part numbers are obscure
+    
+  
+
++++ PARENT
+ObjectDevice3DPrinterInstanceCR10

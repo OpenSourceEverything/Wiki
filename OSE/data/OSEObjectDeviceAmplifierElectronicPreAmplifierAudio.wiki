@@ -1,0 +1,14 @@
+﻿++ OSE Object Device Amplifier Electronic Pre Amplifier Audio
+
+
++++ SUMMARY
+
+Heres a schematic for one:
+  http://jap.hu/electronic/micamp.html
+
+Would be nice to reverse engineer the circuit made by FireBox.
+
+
+
++++ PARENT
+OSEObjectDeviceAmplifierElectronicPreAmplifier

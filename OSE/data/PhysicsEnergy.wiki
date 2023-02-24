@@ -1,0 +1,3 @@
+﻿++ Physics Energy
+
+  * The amount of PhysicsWork that can be performed by PhysicsForce

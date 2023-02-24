@@ -1,0 +1,34 @@
+﻿++ Recipe Tandoori Whole Wheat No Yeast Vegan Naan
+
++++ Notes
+
+  Yield: 8 pieces of flatbread
+  
++++ Equipment:
+  - large knife ()
+  - bread board
+  - large mixing bowl
+  - measuring cup
+    
++++ Ingredients
+
+  * flour - 2 cups
+  * 1 cup water
+
++++ Instructions
+  - Combine the ingredients in a large bowl. 
+  - To avoid sticky hands, mix with spoon until acceptable to touch. 
+  - add flour as necessary.
+  - Transfer the ball of dough to a floured surface. Divide into x balls.
+  - Heat a frying pan or griddle over 7/10 heat. cook ~30 sec. each side.
+  
+  
++++ NOTES
+  * 3 cups flour, 1 cup flax - taste wasnt bad, but the ratio needs to use less water, or more non-flax, cuz it was too mushy.
+
++++ RELATED
+++++ OpenSourceEverythingFoodRecipeTemplate
+  
++++ PARENT
+
+  FoodRecipesBread

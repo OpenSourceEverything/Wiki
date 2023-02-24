@@ -1,0 +1,14 @@
+﻿++ Ignore All Files Except Certain Types
+
++++ SUMMARY
+
+
++++ EXAMPLES
+++++ IGNORE ALL FILES EXCEPT .PHP, .CSS, .HTML, .js
+
+*
+!*/
+!*.php
+!*.css
+!*.html
+!*.js

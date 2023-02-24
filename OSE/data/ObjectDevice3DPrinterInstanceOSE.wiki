@@ -1,0 +1,14 @@
+﻿++ Object Device3D Printer Instance OSE
+
+
++++ SUMMARY
+
+[instance]/[instances] of ObjectDevice3DPrinter 
+  * [Attribute]
+    * maintained by [OSE] 
+
+ObjectDevice3DPrinterOSE1
+
++++ PARENT
+
+ObjectDevice3DPrinterInstance

@@ -1,0 +1,20 @@
+﻿++ Object System Language Formal Language Computer Language Instance Structured Query Language
+
+
++++ SUMMARY
+* ObjectSystemLanguageFormalLanguageComputerLanguage
+  * Attribute:
+    * designed for:
+      * managing data held in a RelationalDatabaseManagementSystem or for stream processing in a RelationalDataStreamManagementSystem 
+
+* Despite standards, most SQL code requires at least some changes before being ported to different database systems. 
+
+
++++ CHILDREN
+
+
++++ RELATED
+
++++ PARENT
+ObjectSystemLanguageFormalLanguageComputerLanguage
+

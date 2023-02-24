@@ -1,0 +1,25 @@
+﻿++ Process Mathematics
+
+ProcessStudyMathematics
+
++++ SUMMARY
+
+* no universally accepted definition.
+* Used to refer to study of various things such as:
+  * quantity  (number theory)
+  * structure (algebra)
+  * space     (geometry)
+  * change    (analysis)
+
++++ CHILDREN
+ProcessMathematicsLinearAlgebra
+ObjectIdeaMathematicalFunction
+
++++ OSE NOTES
+* Look into changing all math stuff into ObjectIdeaMathematicalObject(s)
+  * who cares what "branch" its in, thats not a relevant parameter 
+
+
++++ PARENT
+
+ProcessStudy

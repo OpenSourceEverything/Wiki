@@ -1,0 +1,15 @@
+﻿++ Std Move
+
+Turns ComputerScienceLValue into ComputerScienceRValue.
+
+  * tells compiler to allow it to bind as an ComputerScienceRValue.
+  
+  * basically just a static_cast<T&&>(t)
+  
+  
++++ Related
+
+  * HurcoCppTrainingNotes
+
++++ Parent
+  * [C++]

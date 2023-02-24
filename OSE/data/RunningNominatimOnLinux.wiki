@@ -1,0 +1,43 @@
+﻿++ Running Nominatim On Linux
+  
+From https://nominatim.org/release-docs/latest/appendix/Install-on-Ubuntu-18/
+
+
+Build directory for Nominatim:
+  * */home/me/Nominatim/build/*
+
+
+Needed to modify the apache2 server configuration on my machine for nominatim:
+  * <Directory "/srv/nominatim/build/website">
+      Options FollowSymLinks MultiViews
+      AddType text/html   .php
+      DirectoryIndex search.php
+      Require all granted
+    </Directory>
+    Alias /nominatim /home/me/Nominatim/build/website
+  
+  *  /etc/apache2/apache2.conf
+  
+  * */home/me/Nominatim/build/website* 
+    * The website/ directory in the build directory contains the configured website. Include the directory into your webbrowser to serve php files from there. 
+
+
++++ Creating Dedicated User Accounts
+
+Nominatim will run as a global service on your machine. It is therefore best to install it under its own separate user account. In the following we assume this user is called nominatim and the installation will be in /srv/nominatim. To create the user and directory run:
+
+sudo useradd -d /srv/nominatim -s /bin/bash -m nominatim
+  * */srv/nominatim*
+You may find a more suitable location if you wish.
+
+
++++ ConfiguringPostgreSQLForNominatim
+
+
+
+
+
+
++++ Related
+
+  ContributingToNominatim

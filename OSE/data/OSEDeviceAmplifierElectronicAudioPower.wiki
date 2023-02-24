@@ -1,0 +1,13 @@
+﻿++ OSE Device Amplifier Electronic Audio Power
+
++++ SUMMARY
+
+
+
++++ RELATED
+
+ObjectDevice
+
++++ PARENT
+
+OSEDeviceAmplifier

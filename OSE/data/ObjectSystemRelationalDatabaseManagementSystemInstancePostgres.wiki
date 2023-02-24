@@ -1,0 +1,8 @@
+﻿++ Object System Relational Database Management System Instance Postgres
+
+* [Instance] of[RDBMS] RelationalDatabaseManagementSystem
+
+
++++ PARENT
+
+* ObjectSystemRelationalDatabaseManagementSystem

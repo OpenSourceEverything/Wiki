@@ -1,0 +1,10 @@
+﻿++ OSE Object Algorithm
+
++++ CHILDREN
+
+AlgorithmFindLargestNumberInUnsortedList
+
+ObjectAlgorithmRotationAboutAPoint
+
++++ PARENT
+OSEObject

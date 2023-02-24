@@ -1,0 +1,45 @@
+﻿++ Git Staging
+
++++ SUMMARY
+
+  * Staging = tracking. 
+    * staged file = tracked.
+
+  Simple:
+  rel://files/_6EBNRA9OERKBRP11RECZ.png
+  Detail:
+  rel://files/_A32X4HB2QQ7ATFH0R2KS.png
+  rel://files/_IEWP5PAGVLAZ7D3WZRP6.png
+  
+  GitWorkspace
+  GitWorkingDirectory
+  GitStagingArea/GitIndex
+  
+
+  * GitCommandAdd    stages files from your hard-drive 
+    * git add <file.ext>
+    * git add . to affect all modified and untracked files.
+  
+  
+  * GitCommandCommit staged files are commited/checked-in
+
+  * All changes are unstaged by default
+  
+  * GitHowToAddFilesToVersionControl
+  
+  * GitCommandAdd
+  * GitCommandCommit
+
+
+
++++ RELATED
+
+
+  GitHowTo
+  GitHEAD
+  GitStagingArea
+  GitWorkingTree
+
++++ PARENT
+
+  GitVocabulary

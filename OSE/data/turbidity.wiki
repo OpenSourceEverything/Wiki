@@ -1,0 +1,3 @@
+﻿++ turbidity
+
+  A measure of the degree to which the water looses its transparency due to the presence of suspended particulates. 

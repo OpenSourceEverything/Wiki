@@ -1,0 +1,13 @@
+﻿++ Open Source Everything Solar Power Generation
+
+
++++ SUMMARY
+
++++ CHILDREN
+
+  OpenSourceEverythingSolarPowerGeneratingSystem
+
+
++++ PARENT
+
+  OpenSourceEverything

@@ -1,0 +1,86 @@
+﻿++ C++ (Cpp)
++++ Redirect
+  * CPlusPlus
+  * ProgrammingLanguageCpp
+ 
+ 
++++ SUMMARY
+
+  * general-purpose programming language 
+  * an extension of the C programming language
+  * object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation
+
+
+  * two main components: 
+    * 1) a direct mapping of hardware features provided primarily by the C subset, 
+    * 2) zero-overhead abstractions based on those mappings
+
+
++++ CHILDREN
+
+  * CppDeclarations // useful for understanding weird function declarations
+  * CppFunction
+    * CppFunctionDefaultArgumentValues 
+  * CppString
+  * CppStruct
+  * CppClass
+  * CppFormatSpecifiers
+  
+  * CppStaticKeyword
+
++++ MISCELLANEOUS
+  * CppEqualOperator
+ 
+  * CppExceptionHandling
+ 
+  * CppPolyMorphism
+
+  * [C++ Standard Library]
+
++++ C++11, C++14, C++17
+  
+  * HurcoCppTrainingNotes
+
++++ Example Tutorial Files For Learning C++
+
+  * [C++ClassHeaderFile]
+ 
+  * [C++ClassCPPFile]
+
++++ C++ Memory
+ 
+  * Memory for Objects can be allocated from three main memory areas:   
+    * the data segment
+    * the stack
+    * the heap.
+
++++ C++ Inheritance
+  
+  * Note you cannot access private members defined in base classes from derived classes. Make it either protected or use getter/setter functions.
+  
++++ Recommended Resources
+  
+  * https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+   
+  * PDF basic introduction: 
+    * [rel://files/C++/tutorial.pdf]
+    * [rel://files/Cpp/cpp_basic_tutorial.pdf]
+
+
++++ Related
+    * [Lzz(Lazy C++)] 
+    
+    * rel://files/C%2B%2BFundamentalDataTypes.png
+    
+    * CPlusPlusHowToCastDoubleToEnum
+    
+    * CppFormatSpecifiers
+
+
++++ Search
+  * C++, C + +, C Plus Plus, CPlusPlus, CPP, Hpp, Programming Language,
+  
++++ Parent 
+
+  * [ProgrammingLanguage]
+  

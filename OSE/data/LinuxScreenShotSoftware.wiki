@@ -1,0 +1,10 @@
+﻿++ Linux Screen Shot Software
+
++++ SUMMARY
+
+  LinuxProgramShutter
+
+
++++ PARENT
+
+  [Linux]

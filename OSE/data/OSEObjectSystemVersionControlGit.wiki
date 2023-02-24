@@ -1,0 +1,10 @@
+﻿++ OSE Object System Version Control Git
+
++++ SUMMARY
+  * How to setup a ObjectSystemVersionControl to track changes to files using [Git]
+  * Show how to setup GitRemoteRepository
+
+
++++ PARENT
+
+OSEObjectSystemVersionControl

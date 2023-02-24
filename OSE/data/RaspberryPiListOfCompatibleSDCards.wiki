@@ -1,0 +1,13 @@
+﻿++ Raspberry Pi List Of Compatible SD Cards
+
+
+
++++ SUMMARY
+
+
++++ EXTERNAL LINK
+  * https://www.elinux.org/RPi_SD_cards
+
+
++++ PARENT
+++++ RaspberryPi

@@ -1,0 +1,13 @@
+﻿++ Process Science Natural
+
++++ SUMMARY
+
+
+* ProcessScience
+  * concerned with
+    * ObjectPhenomena 
+      * description, 
+      * understanding 
+      * prediction
+      
+  * uses empirical evidence from observation and experimentation.

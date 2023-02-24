@@ -1,0 +1,24 @@
+﻿++ Computer ProcessScience L Value
+  
+  
++++ C++ Definition
+
+  * expression that refers to a memory location
+  
+  * You can access the address via the & operator.
+
+
+
+
+
++++ Related
+
+  * ComputerScienceRValue (or location) of a variable
+
+  * CppRuleOfFive
+  
+
++++ Parent
+  
+  * ProcessComputingComputerScience
+

@@ -1,0 +1,51 @@
+﻿++ Automotive Maintenance Tire Balancing
+
++++ SUMMARY
+
+  1. Ensure there are no weights on wheel.
+  
+  2. Ensure the bubble is in the center of the balancer 
+    rel://files/_Y5PDGV1NYQPOPRIST7KQ.png
+  
+  3. 
+
++++ EXTERNAL REFERENCE
+
+  * https://www.youtube.com/watch?v=04diuopdAXc
+
+
+  * For alloy rims dont use hammer on weights, only possibly acceptable on backside
+    * (side under the car) 
+
+  Tire weights should be hammered on with soft mallet, rubber.
+  
+  stickies dont have to worry about chipping away plating of wheel
+
+   ----
+
++++ TYPES OF WEIGHTS
+
+    * Using Stick on weights
+      1/4 or 1/2 oz increments. Goo Gone, or brake parts cleaner on wheel before putting stick weights. scraper 
+      
+    * Deflate by carefully removing valve stem, can fly out
+      
+    * Remove the wheel weights after deflating completely
+
+
++++ EXTERNAL REFERENCES
+
+  * 1) https://www.youtube.com/watch?v=HpkgeulrRJI
+      - Change,balance tires using manual tools (harbor freight)
+      = manual tool changer, 
+      - tire balancer    
+
+
++++ RELATED
+
+  OSEDeviceVehicleWheelBalancerManual
+
+
++++ PARENT
+
+  ProcessVehicleMaintenance

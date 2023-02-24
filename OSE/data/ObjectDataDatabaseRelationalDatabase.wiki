@@ -1,0 +1,41 @@
+﻿++ Computer ProcessScience Relational Database
+012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+
++++ SUMMARY 
+
+* Based on RelationalModel which is based on FirstOrderPredicateLogic, 
+  * 1970 document: 
+    * [rel://files/ComputerScience/Database/Relational/codd.pdf]
+  
+
+* terminology in databases is very convoluted. This wiki will use above document:
+
+  * Relation  =     * Table, Base Relvar, Base Table
+  
+  * Tuple     =     * Row (Physical/Application), Record (Logical/Theoretical)
+  
+  * Attribute   =   * Field (Physical Application), Column (Theoretical)
+  
+  * Value       =   * intersection of Tuple and Attribute
+                      * Field or Field Value will NOT be used.
+  
+  
+    * Relation (Table) using standard 1970 document names (used in Wiki):
+      * rel://files/img/_DRFSXI164SGPRLGD09F9.png
+
+
+    * rel://files/img/_FZAVSX5TUHKY2B7ZKB9K.png
+    
+    
+  * A ObjectDataDatabase where two or more tables have a some relationship(s)
+  
++++ CHILDREN
+* ComputerScienceRelationalDatabaseRowAndRecord
+
++++ RELATED
+
+  * [SQL]
+  
++++ PARENT
+
+  * ComputerScienceDatabase

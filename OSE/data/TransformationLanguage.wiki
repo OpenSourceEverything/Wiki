@@ -1,0 +1,7 @@
+﻿++ Transformation Language
+
++++ SUMMARY
+ObjectSystemLanguageFormalComputer designed to transform some input text in a certain formal language into a modified output text that meets some specific goal
+
++++ PARENT
+ObjectSystemLanguageFormalComputer 

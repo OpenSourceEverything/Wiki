@@ -1,0 +1,25 @@
+﻿++ Object Algorithm Calculate Angle Between2D Vector And X Axis Instance Cpp
+
+#include <tgmath.h> // templated math.h functions
+#include <math.h>   // trigonometric functions
+
+// Takes two points, calculates the angle between X axis and resultant line.
+// 180 degree travel is treated as positive abritrarily
+template <class T>
+T ObjectAlgorithmCalculateAngleBetween2DVectorAndXAxisInstanceCpp(T d_startpoint_x, 
+                                                                  T d_startpoint_y,
+                                                                  T d_endpoint_x,
+                                                                  T d_endpoint_y) 
+
+{
+
+  T dy = d_endpoint_y - d_startpoint_y;
+  T dx = d_endpoint_x - d_startpoint_x;
+  T theta = atan2(dy, dx); // range (-PI, PI]
+  theta *= 180 / M_PI; // rads to degs, range (-180, 180]
+  //if (theta < 0) theta = 360 + theta; // range [0, 360)
+  return theta;
+}
+
++++ PARENT
+ObjectAlgorithm

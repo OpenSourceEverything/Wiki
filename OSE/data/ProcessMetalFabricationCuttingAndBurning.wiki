@@ -1,0 +1,21 @@
+﻿++ Process Metal Fabrication Cutting And Burning
+
++++ SUMMARY
+
+* A Shear can be used to cut a long piece of metal, but an extremely large shearing machine is required for thick metal. 
+  * example of large machine shearing at 8min
+    * https://www.youtube.com/watch?v=kF-EULAbKZQ  
+
+* Saws: 
+  * BandSaw 
+    * is an excellent choice
+      * 4" by 6" band saw harbor freight
+        * rel://files/_4RH4OST2H6G2V1NNSZVG.png
+  * Angle Grinder
+    * not ideal 
+
+
+
++++ PARENT
+
+ProcessMetalFabrication

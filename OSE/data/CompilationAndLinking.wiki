@@ -1,0 +1,40 @@
+﻿++ Compilation And Linking
++++ Redirect
+  ComputerScienceCompilationAndLinking
+  
+  
++++ Summary 
+  
+  * Compiling is the act of turning source code into object code.
+
+  * Linking is the act of combining object code with libraries(bytecode files) into a raw executable.
+
+  * Building is the sequence composed of compiling and linking, with possibly other tasks such as installer creation.
+    * GNUCompilerCollection (via bash commands gcc,g++) is a compiler/linker
+    * GNUMake using [Makefile]s is a method of automating compiling and linking, often with gcc/g++, of software  
+
+
+  1. ComputerScienceCompilationAndCompilers
+  
+  2. ComputerScienceLinking
+  
+  
+TERMS:
+  - image: the file resulting from compilation and linking, for example an exe.
+    - this is distinct from an obj file, which is just a raw conversion of your module
+      to machine code, but it doesnt actually run.
+
+
+
++++ Related
+  
+  * GNUCompilerCollection
+  
+  * ComputerScienceLibrary
+
+  * UnityStyleBuilds      
+  
+  
++++ Search
+  * Compilation, compilers, linking, linker, linkers, ,
+  * [Makefile]

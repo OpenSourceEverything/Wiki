@@ -1,0 +1,12 @@
+﻿++ Linking Files In Wikid Pad
+
+
+
+http://wikidpad.sourceforge.net/help/FilesRelativePathsIp.html
+
+
+
+Example:
+
+[rel://files/CreatingANewCQGuide/Create A New CQ Template Guide.docx]
+

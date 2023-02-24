@@ -1,0 +1,21 @@
+﻿++ IEEE Software Life Cycle
+
+  IEEE software life cycle
+
+    SQA – Software quality assurance IEEE 730
+    SCM – Software configuration management IEEE 828
+    STD – Software test documentation IEEE 829
+    SRS – Software requirements specification IEEE 830
+    V&V – Software verification and validation IEEE 1012
+    SDD – Software design description IEEE 1016
+    SPM – Software project management IEEE 1058
+    SUD – Software user documentation IEEE 1063
+    
+    
++++ Related
+
+  ComputerScienceVersionControl
+  
++++ Parent
+
+  ProcessComputingComputerScience

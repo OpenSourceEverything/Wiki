@@ -1,0 +1,6 @@
+﻿++ Wood Working Joints
+
+TypesOfWoodWorkingJoints 
+
+
+MainTypesOfStressesOnJoints

@@ -1,0 +1,16 @@
+﻿++ Git Command Add
+
+
++++ SUMMARY
+
+  * Part of GitStaging process.
+  
+  * git add . 
+    * to affect all modified and untracked files. 
+
+
++++ PARENT
+
+
+  GitCommands
+  [Git]

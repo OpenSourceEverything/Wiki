@@ -1,0 +1,44 @@
+﻿++ Nominatim System Architecture Overview
+
+
+https://nominatim.org/release-docs/develop/develop/overview/ 
+
++++ 1. Data Import
+    
+    * done by *[osm2pgsql]*, it uses output at *osm2pgsql/output-gazetter.\[ch\]pp*
+    
+    * the result of this output is found in database table *place* (NominatimPlace)
+    
+    * https://nominatim.org/release-docs/develop/develop/Import/ 
+        
++++ 2. Address Computation/Indexing
+    
+    * takes data from *place* in step 1, adds geocoding info.
+    
+        * ranks place importances
+        
+        * links objects
+        
+        * computes addresses
+        
+        * computes search index
+
+
+    * Most of this is done in *Pl/pqSQL* by database triggers
+        
+        * location:  *sql/functions.sql* 
+
++++ 3. Search Frontend
+
+    * implements the API
+  
+    * takes queries, uses backend to return results in desired format.
+  
+    * Written in [PHP]
+  
+    * location: *lib*/ and *website*/ directories
+
+
+
+
+rel://files/_GDIX2QKAKLITE6L0CVAO.png

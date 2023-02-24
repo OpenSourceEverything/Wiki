@@ -1,0 +1,18 @@
+﻿++ Object System Irrigation
+
+
++++ SUMMARY
+
+  
+
++++ CHILDREN
+
+
+
++++ RELATED
+
+OSEObjectSystemIrrigation
+ProcessIrrigation
+
++++ PARENT
+ObjectSystem

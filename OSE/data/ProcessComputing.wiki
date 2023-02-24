@@ -1,0 +1,36 @@
+﻿++ Process Computing
+
++++ SUMMARY
+
+
+  * In OSE, catch-all for 
+    * ComputerScience
+    * ComputerProgramming
+    *  
+
+  * ObjectGroup of [Process]es 
+    * requiring, benefiting from, or creating 
+      * computing machinery.
+  *    
+
++++ CHILDREN
+ProcessComputingComputerLanguage
+ProcessComputingComputerScience
+ProcessComputingAbstractDataType
+ProcessComputingThread
+ProcessComputingTask
+ProcessComputingProgrammingLanguage (ProgrammingLanguage)
+ProcessComputerEngineering
+ProcessComputingDataScience
+ProcessComputingCyberSecurity
+ProcessComputingInformationSystems
+ProcessComputingSoftwareEngineering
+
+
+ProcessComputingGraphicalControlElement
+ProcessComputingGraphicalUserInterface
+
+
++++ PARENT
+
+[Process]

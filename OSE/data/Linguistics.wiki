@@ -1,0 +1,19 @@
+﻿++ Linguistics
+
++++ Summary 
+  * 
+
+
+
+
+  * ComputationalLinguistics
+  
+  * DiscourseAnalysis
+  
+  * TextLinguistics 
+  
+  * LinguisticsObjectPronoun
+  
+  
++++ Related
+  * DifferenceBetweenLanguageAndLinguistics

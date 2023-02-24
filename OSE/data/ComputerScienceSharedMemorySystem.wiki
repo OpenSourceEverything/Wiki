@@ -1,0 +1,17 @@
+﻿++ Computer ProcessScience Shared Memory System
+
+
+  * System in which multiple processes communicate using a shared memory space.
+  
+  * Shared Memory essentially must be allowed by the operating system.
+    * LinuxSharedMemory  
+  
+  
++++ Related
+  
+  * http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/shmat.html
+  
+  
++++ PARENT
+
+  ProcessComputingComputerScience

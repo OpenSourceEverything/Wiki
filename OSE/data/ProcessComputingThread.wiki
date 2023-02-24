@@ -1,0 +1,20 @@
+﻿++ Process Computing Thread
+
++++ SUMMARY
+
+
+* ObjectDataInformation?
+
+* Component of a ProcessComputingProcess
+
+* ThreadOfExecution  
+
+* the smallest sequence of programmed instructions that can be managed independently by a scheduler,
+*  which is typically a part of the operating system.
+
++++ RELATED
+
+ProcessComputingProcess
+
++++ PARENT
+ProcessComputing

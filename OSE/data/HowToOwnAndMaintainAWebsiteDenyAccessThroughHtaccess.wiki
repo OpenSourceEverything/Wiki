@@ -1,0 +1,23 @@
+﻿++ How To Own And Maintain A Website Deny Access Through Htaccess
+
++++ SUMMARY
+
+  * The .htaccess file can be used to help eliminate access to your login page from any IP address other than your own. Although there are ways to circumvent this measure, it’s still a very useful stopgap to prevent those looking for an easy target.
+
+This kind of a method is ideal for websites that use WordPress or other content management system. You can edit the .htaccess file with Notepad or use your online editing system such as that provided by cPanel.
+
+In the .htaccess file located in your admin folder, enter in the following:
+
+order deny, allow
+deny from all
+allow from XXX.XXX.XXX.XXX
+
+In place of the “X”s, use the IP address that is assigned to you by your Internet service provider. In the event you have others working on the site with you, simply add another “allow from” line under the first with their IP addresses as well.
+
+The downside to this method is that you must keep it updated should your IP address change. Not everyone pays for a static IP, and many ISPs will change the number you use once every eight days or so.
+
+One way to get around this problem is to only input the first two series of the IP address. For example, “123.456.” This will allow you to continue accessing those pages from that specific ISP.
+
+
++++ PARENT
+++++ HowToOwnAndMaintainAWebsite
