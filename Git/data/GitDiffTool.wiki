@@ -1,0 +1,18 @@
+﻿++ Git Diff Tool
+
++++ SUMMARY
+
+
++++ ACTION
++++++ LIST AVAILABLE DIFFTOOLS
+git difftool --tool-help
+++++ SET DIFFTOOL
+git config --global diff.tool bc4
+++++ GET DIFFTOOL
+++++ CONFIGURE
++++++ REQUIRE YES/NO PROMPT TO LAUNCH DIFFTOOL
+git config --global diff.prompt false
+
++++ PARENT
+
+GitDiff
