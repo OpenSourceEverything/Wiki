@@ -1,0 +1,38 @@
+﻿++ Copy An Std Map
+
+
+Method 1: Using a range-based for loop with square bracket operator
+
+    _rawMaterial.clear();
+    for (const auto& fraction : fractions) {
+        _rawMaterial[fraction.first] = fraction.second;
+    }
+
+Method 2: Using the std::map::insert method
+
+    _rawMaterial.clear();
+    for (const auto& fraction : fractions) {
+        _rawMaterial.insert(fraction);
+    }
+
+Method 3: Using the std::map::emplace method
+
+    _rawMaterial.clear();
+    for (const auto& fraction : fractions) {
+        _rawMaterial.emplace(fraction.first, fraction.second);
+    }
+
+
+Method 4: Using the constructor with iterators
+
+    _rawMaterial.clear();
+    _rawMaterial.insert(fractions.begin(), fractions.end());
+
+Method 5: Using the std::copy algorithm
+
+    _rawMaterial.clear();
+    std::copy(fractions.begin(), fractions.end(), std::inserter(_rawMaterial, _rawMaterial.end()));
+
++++ PARENT
+StdMap
+[std]

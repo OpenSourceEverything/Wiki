@@ -1,0 +1,25 @@
+﻿++ Yocto Project Usage
+
+
++++ SUMMARY
+
+Download the Poky Source
+  $ git clone git://git.yoctoproject.org/poky
+
+Checkout the latest branch/release (zeus)
+  $ git checkout zeus 
+
+Prepare the build environment with script:
+  $ source poky/oe-init-build-env [ build_directory ]
+        - set up your environment to use Yocto build system,
+        - adding the BitBake utility to your path
+        - build_directory - optional build directory name, default = "build"
+        - move you into a build folder and create two files ( local.conf, bblayers.conf ) inside conf folder
+
+Building Linux Distribution
+  $ bitbake <image_name>
+  $ time bitbake core-image-minimal
+
+
++++ PARENT
+YoctoProjectDetails

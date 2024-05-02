@@ -1,0 +1,3 @@
+﻿++ Root File System
+
+Contains the libraries and programs that are run once the kernel has completed its initialization.

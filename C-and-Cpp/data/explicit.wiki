@@ -1,0 +1,42 @@
+﻿++ explicit
+
+keyword,
+  * prevents implicit conversions from the type of the constructor's parameter to the class type. 
+  * ensures constructor is only called explicitly, and not implicitly by the compiler for type conversions
+
+
++++ EXAMPLE 1
+
+#include <iostream>
+
+class MyExplicitClass {
+public:
+    explicit MyExplicitClass(int x) : data(x) {} // Explicit constructor
+
+    int getData() const { return data; }
+
+private:
+    int data;
+};
+
+void processObject(const MyExplicitClass& obj) {
+    std::cout << "Data: " << obj.getData() << std::endl;
+}
+
+int main() {
+    MyExplicitClass obj1(5); // Direct initialization, allowed
+    processObject(obj1); // Passing obj1, allowed
+
+    // MyExplicitClass obj2 = 10; // Error: implicit conversion not allowed
+    MyExplicitClass obj2 = MyExplicitClass(10); // Explicit conversion, allowed
+    processObject(obj2); // Passing obj2, allowed
+
+    // processObject(15); // Error: implicit conversion not allowed
+    processObject(MyExplicitClass(15)); // Explicit conversion, allowed
+
+    return 0;
+}
+
+
++++ PARENT
+[C++]

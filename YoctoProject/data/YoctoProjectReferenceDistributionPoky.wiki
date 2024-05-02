@@ -1,0 +1,37 @@
+﻿++ Yocto Project Reference Distribution Poky
+
+
+
+
++++ DETAILS
+
+ReferenceDistribution (example distribution) of YoctoProject
+
+YoctoProject uses Poky to build images for target hardware
+  - (kernel, system, and application software).
+
+a combined repository of the components
+	• YoctoProjectBitbake
+	• some OpenEmbeddedCore components
+	• [meta-yocto-bsp]
+	* demo BoardSupportPackage(s)
+	• YoctoDocumentation
+	* Helper scripts to setup environment
+	* [QEMU]
+
+does not contain binary files,
+  - it is a working example of how to build your own custom Linux distribution from source.
+
+
+Difference between poky and Yocto
+  - Yocto refers to the organization ( like one would refer to 'canonical', the company behind Ubuntu ),
+  - Poky refers to the actual bits downloaded ( analogous to 'Ubuntu' )
+
+
++++ RELATED
+
+YoctoProjectMetaPoky
+ 
++++ PARENT
+YoctoProjectReferenceDistribution
+YoctoProject

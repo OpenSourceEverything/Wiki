@@ -1,0 +1,19 @@
+﻿++ Unnamed Namespace
+
+
+* namespace { /* anything defined here is only visible within this TranslationUnit.*/}
+
+
+
+namespace {
+struct __attribute__((__packed__, __may_alias__)) RawGrainQualityComponentsPayload {
+    uint8_t componentID;
+    uint8_t sampleCount;
+    uint8_t fractionPercent[3];
+    uint8_t reserved;
+};
+
+
++++ PARENT
+[Namespace]
+[C++]

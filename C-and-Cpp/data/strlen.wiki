@@ -6,3 +6,7 @@ string s = "12345"
 [sizeof](s) returns 6
 strlen(s) returns 5
 
+
++++ PARENT
+[C++]
+

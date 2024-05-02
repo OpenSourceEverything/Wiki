@@ -1,0 +1,18 @@
+﻿++ Yocto Project Bitbake
+
+
+TaskScheduler/BuildAutomationTool used by Yocto
+  - Analogous to the Make/CMake type build automation tool(s)
+  - executes tasks based on YoctoProjectMetadata
+  - parses python and shell script mixed code
+  - code parsed generates and runs tasks, a set of steps ordered according to code's dependencies.
+
+reads YoctoProjectRecipe(s) and follows them by: 
+  - fetching packages, 
+  - building them 
+  - incorporating the results into bootable images.
+
+
++++ PARENT
+YoctoProject
+ 

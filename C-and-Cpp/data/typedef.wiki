@@ -1,0 +1,15 @@
+﻿++ typedef
+
+
+
+
+* create alias.
+  
+  * typedef <existing type> <alias>; // without angle brackets
+  
+  * Example: ComponentID will be alias for uint32_t
+    * typdef uint32_t ComponentID;
+
++++ PARENT
+
+[C]

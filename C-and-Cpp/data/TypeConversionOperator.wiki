@@ -1,0 +1,28 @@
+﻿++ Type Conversion Operator
+
+
++++ SUMMARY
+
+Special type of MemberFunction in C++
+  * allows class to define how a class converts to another class.
+  * [operator] keyword is used to define them.
+
+
++++ EXAMPLE 1
+
+class MyClass {
+public:
+    operator int() const {
+        return someValue;
+    }
+};
+
+
+operator int() is a type conversion operator
+  * allows objects of MyClass to be implicitly converted to int. 
+  * When an object of MyClass is used in a context where an int is expected, 
+    * this operator function will be invoked to perform the conversion.
+
+
++++ PARENT
+[C++]

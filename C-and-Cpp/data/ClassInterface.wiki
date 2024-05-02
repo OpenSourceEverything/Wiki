@@ -1,7 +1,24 @@
 ﻿++ Class Interface
 
-is a class comprised of all virtual functions.
+InterfaceClass
 
+
+All functions should be pure virtual.
+No member variables.
+Used to define a contract for derived classes.
+
+class IShape {
+public:
+    virtual double getArea() const = 0;    // Pure virtual function
+    virtual void draw() const = 0;         // Pure virtual function
+};
+
+
+
++++ CHILDREN
+
+
+[C++Interface]
 
 +++ PARENT
 [C++]

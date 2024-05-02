@@ -1,0 +1,5 @@
+﻿++ Yocto Project Input
+
+  - Kernel Configuration
+  - Hardware Name/Details
+  - Packages/Binaries needed on system

@@ -1,0 +1,32 @@
+﻿++ const Member Function
+
+
++++ SUMMARY
+
+member function
+  * can not modify the object that called it 
+  * cannot change any non-static member variables of the class, 
+    * unless member(s) marked mutable.
+  * can be called on const instances of the class, 
+  * compiler enforces the constness 
+
+
++++ Example 1 :
+class Example {
+    int value;
+
+public:
+    Example(int v) : value(v) {}
+
+    // Const member function
+    int getValue() const {
+        return value;  // This function promises not to modify any member variables
+    }
+};
+
+
+
+
++++ RELATED
+[const]
+MemberFunction

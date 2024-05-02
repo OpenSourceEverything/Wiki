@@ -1,0 +1,3 @@
+﻿++ Open Embedded Core
+
+set of YoctoProjectMetadata shared between Yocto and OpenEmbeddedProject

@@ -1,0 +1,10 @@
+﻿++ Yocto Project Example Applications
+
+1. Embedded Systems: Develop a lightweight Linux distribution for IoT devices, such as smart thermostats. Customize the kernel, select necessary drivers, and include only essential user-space components to optimize performance and resource usage.
+
+2. Industrial Automation: Construct a Linux-based system tailored for industrial control applications. Integrate real-time capabilities, such as PREEMPT-RT patches, to ensure precise timing for critical tasks. Include industrial communication protocols like Modbus or EtherCAT for seamless integration with automation equipment.
+
+3. Home Entertainment: Create a custom Linux distribution for multimedia centers, similar to Kodi or Plex. Customize the interface for TV screens, incorporate media codecs, and include features like streaming services, local media playback, and support for various input devices like remote controls and game controllers.
+
++++ PARENT
+YoctoProject

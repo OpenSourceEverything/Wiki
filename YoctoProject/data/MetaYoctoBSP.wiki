@@ -1,0 +1,12 @@
+﻿++ Meta Yocto BSP
+
+
++++ SUMMARY
+
+Collection of BoardSupportPackage(s) for multiple 32/64 architetures.
+
++++ DETAILS
+
+
++++ PARENT
+YoctoProject

@@ -1,0 +1,9 @@
+﻿++ Translation Unit
+
+In C++, a translation unit consists of a single source file (either a .cpp file or a .c file) along with all the header files it directly or indirectly includes. This includes not only the content of the source file itself but also the content of all included header files after preprocessing.
+
+So, if you have a .cpp file that includes 10 header files, the translation unit comprises the content of the .cpp file and the content of all 10 header files, after preprocessing. This aggregated text constitutes the translation unit for that particular source file.
+
+
++++ PARENT 
+[C++]

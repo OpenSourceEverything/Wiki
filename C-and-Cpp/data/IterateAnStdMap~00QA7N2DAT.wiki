@@ -1,0 +1,39 @@
+﻿++ Iterate An Std Map
+
+
+
+
+Method 1: Using a range-based for loop
+
+    for (const auto& pair : myMap) {
+        // pair.first is the key, pair.second is the value
+        // Do something with pair
+    }
+
+
+Method 2: Using iterators
+
+    for (auto it = myMap.begin(); it != myMap.end(); ++it) {
+        // it->first is the key, it->second is the value
+        // Do something with *it
+    }
+
+Method 3: Using C++11 auto and range-based for loop (const iterator)
+
+    for (auto it = myMap.cbegin(); it != myMap.cend(); ++it) {
+        // it->first is the key, it->second is the value
+        // Do something with *it
+    }
+
+Method 4: Using C++17 structured bindings and range-based for loop
+
+    for (const auto& [key, value] : myMap) {
+        // key is the key, value is the value
+        // Do something with key and value
+    }
+
+
++++ PARENT
+
+StdMap
+[C++]

@@ -1,0 +1,15 @@
+﻿++ Controller Area Network
+
+
+[J1939]
+
+
+CAN ID: This is a fundamental component of the CAN protocol and is used to address messages on the CAN bus.
+
+Priority: This indicates the priority of the message relative to other messages on the bus. It is common in CAN communication but may have different interpretations in various CAN-based protocols.
+
+DLC (Data Length Code): This specifies the length of the data payload in the message and is a standard component of CAN messages.
+
+
+
+	* WikiSettings

@@ -1,0 +1,18 @@
+﻿++ Std Map
+STDMap
++++ SUMMARY
+
+here is example text and stuff.
+  * hey more text.
+
+
++++ CHILDREN
+
+IterateAnStdMap
+InitializeAnStdMap
+CopyAnStdMap
+
+
++++ PARENT
+
+[std]

@@ -3,7 +3,23 @@
 
 
 
+
+In C and C++, when you use [varargs] (example: [printf])
+  * float values are automatically promoted to double. This behavior is due to the 
+  * default argument promotion rules in VariadicFunctions, which specify that float arguments are promoted to double. Therefore, when you pass a float to printf using %f, the float is automatically converted to double before it is passed to the function.
+
 +++ CHILDREN
+
+[htole32]
+[std]
+[std]::[lock_guard]
+TypeConversionOperator
+[operator]
+UnnamedNamespace
+
+[constMemberFunction]
+[C++Interface][Interface]
+[typedef]
 [string]
 [strlen]
 [sizeof]
@@ -14,12 +30,15 @@ ConstantsAndLiterals
 [Endianness]
 [Iterators]
 BitFields
-
 FormatSpecifiers
 [Pointers]
 PassingParametersToFunctions
 TwoDimensionalArray,[2DArray]
 
+[explicit]
+
+StdMap
+STDMap
 
 TableOfMultipleDataTypes
 

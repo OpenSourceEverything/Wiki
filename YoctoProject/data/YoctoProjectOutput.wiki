@@ -1,0 +1,8 @@
+﻿++ Yocto Project Output
+
+  - LinuxKernel
+  - RootFileSystem
+  - [Bootloader]
+  - DeviceTree
+  - [Toolchain]
+  - Programs/Binaries/Files specific to your application

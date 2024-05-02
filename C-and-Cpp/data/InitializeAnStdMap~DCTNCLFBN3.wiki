@@ -1,0 +1,16 @@
+﻿++ Initialize An STD Map
+
+
+
+std::map<KeyType, ValueType> originalMap;
+// Populate originalMap...
+
+// Method 1: Using the range constructor
+std::map<KeyType, ValueType> newMap(originalMap.begin(), originalMap.end());
+
+// Method 2: Using the assignment operator
+std::map<KeyType, ValueType> newMap = originalMap;
+
++++ PARENT
+StdMap
+[std]

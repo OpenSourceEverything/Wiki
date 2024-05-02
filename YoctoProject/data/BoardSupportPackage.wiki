@@ -1,0 +1,9 @@
+﻿++ Board Support Package
+
+hardware-specific software
+  - boot firmware
+  - device drivers
+  - other routines 
+
+integrated with the embedded operating system
+  

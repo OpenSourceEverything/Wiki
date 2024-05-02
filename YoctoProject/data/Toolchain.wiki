@@ -1,0 +1,7 @@
+﻿++ Toolchain
+
+The compiler and other tools needed to create code for your target device. Everything else depends on the toolchain.
+
+
++++ PARENT
+YoctoProject

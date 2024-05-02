@@ -1,6 +1,11 @@
 ﻿++ std
-
 StandardTemplateLibrary
 
 
++++ CHILDREN
+
 [stdlist]
+[std::map]
+STDMap
+StdMap
+[lock_guard]

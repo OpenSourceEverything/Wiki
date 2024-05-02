@@ -1,0 +1,180 @@
+﻿++ operator
+
+
+
++++ Example 1: Overloading the addition operator +
+#include <iostream>
+#include <string>
+
+class StringConcatenator {
+public:
+    StringConcatenator(const std::string& str) : _str(str) {}
+
+    // Overloading the addition operator +
+    StringConcatenator operator+(const StringConcatenator& other) const {
+        return _str + other._str;
+    }
+
+    void print() const {
+        std::cout << _str << std::endl;
+    }
+
+private:
+    std::string _str;
+};
+
+int main() {
+    StringConcatenator str1("Hello, ");
+    StringConcatenator str2("world!");
+
+    StringConcatenator result = str1 + str2; // Operator + is overloaded
+
+    result.print(); // Output: Hello, world!
+
+    return 0;
+}
+
+
++++ Example 2: Overloading the assignment operator =
+#include <iostream>
+
+class DeepCopy {
+public:
+    DeepCopy(int value) : _value(new int(value)) {}
+
+    // Overloading the assignment operator =
+    DeepCopy& operator=(const DeepCopy& other) {
+        if (this != &other) {
+            *_value = *other._value; // Deep copy
+        }
+        return *this;
+    }
+
+    void printValue() const {
+        std::cout << "Value: " << *_value << std::endl;
+    }
+
+private:
+    int* _value;
+};
+
+int main() {
+    DeepCopy obj1(5);
+    DeepCopy obj2(10);
+
+    obj1 = obj2; // Operator = is overloaded for deep copy
+
+    obj1.printValue(); // Output: Value: 10
+
+    return 0;
+}
+
+
++++ Example 3: Overloading the comparison operators == and !=
+#include <iostream>
+
+class CustomComparison {
+public:
+    CustomComparison(int value) : _value(value) {}
+
+    // Overloading the equality operator ==
+    bool operator==(const CustomComparison& other) const {
+        return _value == other._value;
+    }
+
+    // Overloading the inequality operator !=
+    bool operator!=(const CustomComparison& other) const {
+        return !(*this == other); // Reusing ==
+    }
+
+private:
+    int _value;
+};
+
+int main() {
+    CustomComparison obj1(5);
+    CustomComparison obj2(5);
+    CustomComparison obj3(10);
+
+    std::cout << std::boolalpha;
+    std::cout << "obj1 == obj2: " << (obj1 == obj2) << std::endl; // Output: true
+    std::cout << "obj1 != obj3: " << (obj1 != obj3) << std::endl; // Output: true
+
+    return 0;
+}
+
+
+
++++ Example 4: Overloading the stream insertion operator <<
+#include <iostream>
+
+class CustomOutput {
+public:
+    CustomOutput(int value) : _value(value) {}
+
+    // Overloading the stream insertion operator <<
+    friend std::ostream& operator<<(std::ostream& os, const CustomOutput& obj) {
+        return os << "Value: " << obj._value;
+    }
+
+private:
+    int _value;
+};
+
+int main() {
+    CustomOutput obj(42);
+
+    std::cout << obj << std::endl; // Output: Value: 42
+
+    return 0;
+}
+
+
++++ Example 5: Overloading the function call operator ()
+#include <iostream>
+
+class Callable {
+public:
+    void operator()() const {
+        std::cout << "Object called like a function!" << std::endl;
+    }
+};
+
+int main() {
+    Callable obj;
+
+    obj(); // Object is called like a function
+
+    return 0;
+}
+
++++ Example 6: Overloading the TypeConversionOperator for a class or type.
+#include <iostream>
+
+class IntWrapper {
+private:
+    int value;
+
+public:
+    IntWrapper(int val) : value(val) {}
+
+    // Overloading the type conversion operator
+    operator int() const {
+        return value;
+    }
+};
+
+int main() {
+    IntWrapper wrapper(42);
+    
+    int intValue = wrapper; // Implicit conversion using the type conversion operator
+
+    std::cout << "Wrapped integer value: " << intValue << std::endl; // Output: Wrapped integer value: 42
+
+    return 0;
+}
+
+
+
++++ PARENT
+

@@ -1,0 +1,25 @@
+﻿++ Git Rebase And Merge As A Single Commit
+
+
+
+- git rebase -i HEAD~<number of commits that you need to rebase> (so you would put 3 after it in your case)
+  - use git log to determine number of commits.
+  - or use 
+    - git rev-list --count HEAD 
+  
+Change all commits to fixups besides the first one (placing an f in the notepad)
+  - optional:change first commit to reword (place r in front of first commit)
+  
+Then git push -f
+
+git rebase master
+
+then on github rebase and merge, we already did it, but just to be sure.
+
+Count commits ahead of master branch: git rev-list --count master..HEAD.
+
+
++++ PARENT
+GitRebase
+GitMerge
+[Git]

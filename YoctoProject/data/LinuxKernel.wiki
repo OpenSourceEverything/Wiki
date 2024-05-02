@@ -1,0 +1,4 @@
+﻿++ Linux Kernel
+
+This is the heart of the system, managing system resources and interfacing with hardware.
+

@@ -1,0 +1,12 @@
+﻿++ Yocto Project Details
+
+
+
++++ CHILDREN
+
+YoctoProjectAttributes 
+YoctoProjectUsage
+
+
++++ PARENT 
+YoctoProjectDetails

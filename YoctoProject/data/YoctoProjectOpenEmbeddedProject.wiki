@@ -1,0 +1,28 @@
+﻿++ Yocto Project Open Embedded Project
+
+OpenEmbeddedProject
+
+
+http://www.openembedded.org/wiki/Main_Page
+
+cross-compile environment. 
+  - It allows developers to create a complete Linux Distribution for embedded systems.
+
+
+difference between OpenEmbedded and the Yocto Project?
+  - two separate organizations working together, sharing OpenEmbeddedCore/[oe-core]
+  - The Yocto Project and OpenEmbedded share a core collection of metadata called [openembedded-core]/OpenEmbeddedCore/OECore. 
+
+
+OpenEmbedded provides a comprehensive set of metadata for various hardware/intent
+	Not a reference distribution
+	Designed to be the foundation for others
+
+YoctoProject focus: 
+  providing powerful, easy-to-use, interoperable, tools, metadata, BoardSupportPackages/ ([BSP]s) 
+    - for a core set of architectures and specific boards.
+
+
++++ PARENT
+YoctoProject
+
