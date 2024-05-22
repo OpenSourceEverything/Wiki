@@ -14,11 +14,15 @@ For details related to BeagleBoneBlack:
 +++ DETAILS
 
 
-+++ Step 0: Download the Poky Source code
++++ Step 0: Download the Poky Source code, install dependencies
 
 $ git clone git://git.yoctoproject.org/poky
 
-+++ Step 1: Checkout the latest branch/release 
+
+I had to install a few dependencies per error message:
+sudo apt-get install -y chrpath diffstat gawk
+
++++ Step 1: Checkout the latest branch/release,
 
 You may need to 
 
@@ -26,11 +30,23 @@ $ git checkout dunfell
 
 Ensure you have the correct branch
 
-+++ STEP 2:  SETUP BUILD ENVIRONMENT
++++ STEP 2:  SETUP BUILD ENVIRONMENT, SELECT HARDWARE TARGET
 source oe-init-build-env build_bbb
  
 modify default local.conf 
   - MACHINE ?= "beaglebone-yocto"
+
+good practice after local.conf updates:
+  
+1. **Clean previous build**:
+   - `bitbake -c cleanall <target>`
+2. **Reconfigure environment**:
+   - `source oe-init-build-env`
+3. **Update dependencies**:
+   - `bitbake -k <target>`
+4. **Check and resolve any conflicts**:
+   - `bitbake -c cleanall <target>`
+
 
 
 +++ STEP 3: BUILD IMAGE
@@ -53,9 +69,6 @@ I ran into a compile failure with binutils, and ran this to resolve:
 +++ STEP 4: Creating partitions and formatting the SD card
 
 0. Connect an SD card, run lsblk
-  
-  
-  
 
 1. Unmount any mounted partition, using the umount command:
 $  umount /dev/sdb1
