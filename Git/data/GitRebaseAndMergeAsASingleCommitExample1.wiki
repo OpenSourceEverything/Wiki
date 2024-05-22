@@ -1,0 +1,2 @@
+﻿++ Git Rebase And Merge As A Single Commit Example1
+

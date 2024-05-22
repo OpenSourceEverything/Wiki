@@ -1,0 +1,8 @@
+﻿++ bblayers.conf
+
+1. bblayers.conf: Lists the paths to BitBake layers that you want to include in your build. It configures the layers BitBake should use to gather recipes, classes, and other files needed for the build.
+
+
+
++++ PARENT
+YoctoProjectConfiguration

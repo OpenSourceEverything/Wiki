@@ -5,6 +5,8 @@ GitRemote
 IgnoreCertainFileTypes
 GitIgnore
 GitMerge
+GitPull
+GitRebase
 
 GitRemoteBranchDeletion
 GitPullAllRemoteBranches

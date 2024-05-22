@@ -1,5 +1,12 @@
 ﻿++ J1939
 
+
++++ SUMMARY
+
+
++++ DETAILS
+
+
 CAN ID: This is the identifier used to address the message on the CAN bus. It typically consists of an 11-bit or 29-bit identifier, depending on the CAN protocol version.
 PGN (Parameter Group Number): This is a key concept in the J1939 protocol. It represents a group of related parameters or data fields within a J1939 message. The PGN is usually encoded within the CAN ID.
 
@@ -10,3 +17,23 @@ DP (Data Page): This field is also specific to the J1939 protocol and is used to
 PF (Parameter Format): This field is part of the CAN ID and specifies the format of the parameter group within the message.
 PS (Parameter Specific): This field is also part of the CAN ID and provides additional information specific to the parameter group.
 DLC (Data Length Code): This is the length of the data payload in the message, indicating how many bytes of data are included in the message.
+
+
+if you see value of PF decide if PS is a destination address or PDU 1
+  - rel://files/_5JTDX9IPC5PWG4MY6ZDA.png
+
+with EF00, its destination address, so its always between 2 nodes.
+   - https://www.simmasoftware.com/wp-content/uploads/j1939-presentation.pdf
+
+=============================================================================
+- PDU1 (Peer-to-Peer): Used for sending messages to a specific device. The PS (PDU Specific) field contains the destination address.
+- PDU2 (Broadcast): Used for sending messages to all devices. The PS field is used as a group extension to identify different groups of data or messages.
+
+The group extension helps in categorizing messages into different types for easier data management and interpretation in a network of multiple devices.```
+
+=============================================================================
+
+
+
++++ PARENT
+ControllerAreaNetwork

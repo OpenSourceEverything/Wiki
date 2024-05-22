@@ -1,0 +1,13 @@
+﻿++ Yocto Project Image
+
++++ SUMMARY
+
+Bootable binary software system
+
+Defined by YoctoProjectRecipe(s)
+
+
+
+
++++ PARENT
+YoctoProject

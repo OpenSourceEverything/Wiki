@@ -2,14 +2,20 @@
 
 
 
-- git rebase -i HEAD~<number of commits that you need to rebase> (so you would put 3 after it in your case)
-  - use git log to determine number of commits.
-  - or use 
-    - git rev-list --count HEAD 
++++ METHOD 1
+- git rebase -i HEAD~<number of commits that you need to rebase> 
+  - to determine number of commits.
+    - git log
+    - `git fetch origin`
+    - git rev-list --count origin/master..HEAD (commits ahead)
+    - git rev-list --count HEAD..origin/master (commits behind)
   
-Change all commits to fixups besides the first one (placing an f in the notepad)
+Change all commits to fixups or squash except the first commit (placing an fo or s in the notepad)
+  - `squash` (s): Combines commits, allows editing commit message.
+  - `fixup` (f):  Combines commits, discards commit message.
+  - `reword` (r): Allows
   - optional:change first commit to reword (place r in front of first commit)
-  
+
 Then git push -f
 
 git rebase master
@@ -17,6 +23,38 @@ git rebase master
 then on github rebase and merge, we already did it, but just to be sure.
 
 Count commits ahead of master branch: git rev-list --count master..HEAD.
+
+
+
+
++++ METHOD 2
+
+To squash all commits into a single commit:
+
+1. `git reset --soft $(git merge-base HEAD master)`
+    - Resets current branch to the common ancestor of HEAD and master.
+    - Keeps changes in the working directory and index.
+    - Prepares for a single commit with all changes.
+2. `git commit -m "Single commit message"`
+3. `git push -f`
+
+
+
++++ DETAILS
+
+The editor shows the "rebase instruction" file.
+- Lists commits to rebase.
+- Allows modifying rebase operations (pick, squash, fixup, etc.).
+- Controls how commits are applied.
+
+
+both `squash` (s) and `fixup` (f) merge commits into one.
+- `squash` (s): Combines commits, allows editing commit message.
+- `fixup` (f): Combines commits, discards commit message.
+
+
++++ EXAMPLE
+GitRebaseAndMergeAsASingleCommitExample1
 
 
 +++ PARENT

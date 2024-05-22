@@ -6,6 +6,7 @@
 
 YoctoProjectAttributes 
 YoctoProjectUsage
+YoctoProjectConfiguration
 
 
 +++ PARENT 

@@ -1,0 +1,90 @@
+﻿++ Yocto Project Build And Run Image In QEMU
+
+An example demonstrating the YoctoProjectWorkflow
+  - get an OS running in an emulated environment, not real hardware
+  
++++ DETAILS
+
+
++++ SUMMARY
+creating and run a linux image:
+  - YoctoProjectImage used: [core-image-minimal]
+  - configuration: default, for [MACHINE] qemux86-64
+  - image hardware support, features, and optimizations determined by configurations in local.conf and bblayers.conf\
+    - 
+
+
+YoctoProjectReferenceDistributionPoky is used here to build an image
+
++++ DETAILS
+
++++ Step 1: Download the Poky Source code
+
+$ git clone git://git.yoctoproject.org/poky
+
++++ Step 2: Checkout the latest branch/release 
+
+You may need to 
+
+$ git checkout dunfell 
+
++++ Step 3: Prepare build environment, create default configurations etc.
+
+$ source poky/oe-init-build-env [ build_directory ]
+  
+  - command's effect only last the duration of current terminal section.
+  - sets up Yocto Build system on your machine, including adding BitBake utility to your path
+    - build_directory: defaults to "build"
+  
+  - moves you in a build folder and create two files ( [local.conf], [bblayers.conf] ) inside build/conf folder
+
++++ Step 4: Building Linux Distribution
+$ time bitbake core-image-minimal
+  - here as an example we will build [core-image-minimal]
+  - time prefix shows elapsed time.
+  - if any missing packages are reported you will need to install them with a package manager
+    - I had to run the following:
+      - sudo apt-get install chrpath diffstat gawk texinfo
+
+example terminal output from command:
+rel://files/_PQCE1P35ICG43LCPO7DL.png
+
+
+
++++ Step 5: Run the generated image in QEMU
+==========================================
+
+Quick Emulator ( QEMU ) is a free and open source software package that performs hardware virtualization.
+
+The QEMU based machines allow test and development without real hardware.
+
+Currently emulations are supported for:
+        • ARM
+        • MIPS
+        • MIPS64
+        • PowerPC
+        • X86
+        • X86_64
+
+
+Poky provides a script 'runqemu' which will allow you to start the QEMU using yocto generated images.
+
+The runqemu script is run as:
+
+   runqemu <machine> <zimage> <filesystem>
+
+where:
+
+   <machine> is the machine/architecture to use (qemuarm/qemumips/qemuppc/qemux86/qemux86-64)
+   <zimage> is the path to a kernel (e.g. zimage-qemuarm.bin)
+   <filesystem> is the path to an ext2 image (e.g. filesystem-qemuarm.ext2) or an nfs directory
+
+Full usage instructions can be seen by running the command with no options specified.
+
+Exit QEMU
+-----------
+
+Exit QEMU by either clicking on the shutdown icon or by typing Ctrl-C in the QEMU transcript window from which you evoked QEMU.
+
+
+

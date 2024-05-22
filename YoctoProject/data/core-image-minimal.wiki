@@ -1,0 +1,8 @@
+﻿++ core-image-minimal
+
+This is a small image allowing a device to boot, and it is very useful for kernel and boot loader tests and development
+
+
+
++++ PARENT
+YoctoProject

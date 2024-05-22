@@ -1,0 +1,13 @@
+﻿++ Git Pull Forcing Overwrite Of Local Branch With Remotes Version
+
+To forcefully overwrite your local branch with remote changes:
+
+1. `git fetch origin`. 
+  - Fetch latest changes from remote.
+2. `git reset --hard origin/<branch_name>`
+  - Overwrite local branch with remote.
+3. `git clean -fd`
+  - Remove untracked files/directories.
+  
++++ PARENT
+GitPull

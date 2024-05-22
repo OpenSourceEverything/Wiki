@@ -1,0 +1,11 @@
+﻿++ local.conf
+
+
+detailed settings that define 
+  - the machine (hardware target), 
+  - image features, 
+  - package formats, 
+  - many more
+
++++ PARENT
+YoctoProjectConfiguration
